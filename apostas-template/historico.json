@@ -32,16 +32,16 @@
       "o": "1,11"
      },
      {
-      "h": "19:30",
-      "j": "Spezia vence o VIS Pesaro",
-      "m": "Resultado final",
-      "o": "1,15"
-     },
-     {
       "h": "19:00",
       "j": "Petrolul Ploiesti vence o Csikszereda",
       "m": "Resultado final",
       "o": "1,69"
+     },
+     {
+      "h": "19:30",
+      "j": "Spezia vence o VIS Pesaro",
+      "m": "Resultado final",
+      "o": "1,15"
      }
     ]
    },
@@ -163,7 +163,7 @@
     "c": "t3",
     "total": "4,32",
     "e": "perdido",
-    "d": "Falhou: Leeds vence o Crystal Palace (0-0); Como vence o Frosinone (Frosinone 2-0) · 0 certas, 2 por jogar",
+    "d": "Falhou: Leeds vence o Crystal Palace (0-0); Como vence o Frosinone (Frosinone venceu 2-0); Villarreal vence o Levante (1-1) · 1 certa",
     "legs": [
      {
       "h": "14:00",
@@ -179,7 +179,7 @@
       "m": "Resultado final",
       "o": "1,43",
       "r": "no",
-      "x": "Frosinone 2-0"
+      "x": "Frosinone venceu 2-0"
      },
      {
       "h": "17:30",

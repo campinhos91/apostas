@@ -138,12 +138,13 @@ def resolver(h):
     """Fecha o estado de um boletim assim que as pernas o permitem: uma perna falhada perde já, todas certas ganha."""
     for e in h:
         for b in e["boletins"]:
-            if b["e"] not in ("pendente", "nao verificado", "adiado"): continue
+            auto = b["e"] == "perdido" and b.get("d", "").startswith("Falhou: ")  # perdido pelo resolver: a frase acompanha as pernas que vão fechando
+            if b["e"] not in ("pendente", "nao verificado", "adiado") and not auto: continue
             legs = b["legs"]; rs = [l.get("r") for l in legs]
             if not any(rs): continue
             ok = rs.count("ok")
             falhou = [f'{l["j"]}{" (" + l["x"] + ")" if l.get("x") else ""}' for l in legs if l.get("r") == "no"]
-            if falhou: b["e"] = "perdido"; b["d"] = "Falhou: " + "; ".join(falhou) + f" · {ok} certas" + (f", {rs.count(None)} por jogar" if rs.count(None) else "")
+            if falhou: b["e"] = "perdido"; b["d"] = "Falhou: " + "; ".join(falhou) + f" · {ok} {'certa' if ok == 1 else 'certas'}" + (f", {rs.count(None)} por jogar" if rs.count(None) else "")
             elif all(r == "ok" for r in rs): b["e"] = "ganho"; b["d"] = "Todas as pernas certas: " + "; ".join(f'{l["j"]}{" (" + l["x"] + ")" if l.get("x") else ""}' for l in legs)
             elif "adiado" in rs: b["e"] = "adiado"; b["d"] = "Há um jogo adiado; boletim por decidir"
             else: b["d"] = f"{ok} de {len(legs)} pernas certas até agora"
