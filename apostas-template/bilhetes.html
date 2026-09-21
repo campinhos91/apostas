@@ -24,7 +24,8 @@ h2{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:26px;margin:0}
 .src{font-size:13px;color:var(--soft)}
 .src a{color:var(--soft)}
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;align-items:start}
-.tk{position:relative;background:var(--card);border-radius:14px;box-shadow:var(--shadow);border:1px solid var(--hair);overflow:hidden}
+.tk{position:relative;background:var(--card);border-radius:14px;box-shadow:var(--shadow);border:1px solid var(--hair);overflow:hidden;transition:transform .15s ease,box-shadow .15s ease}
+@media(hover:hover){.tk:hover{transform:translateY(-3px);box-shadow:0 1px 0 rgba(19,35,27,.04),0 20px 40px -18px rgba(19,35,27,.38)}}
 .tk header{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:18px 20px 12px}
 .tk h3{font-size:15px;font-weight:600;margin:0}
 .risk{display:inline-flex;align-items:center;gap:4px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:var(--soft);white-space:nowrap}
@@ -74,9 +75,10 @@ h2{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:26px;margin:0}
 .tm u{color:var(--soft);font-size:9.5px;margin-bottom:1px}
 .od{background:var(--pitch-soft);color:var(--pitch);border-radius:999px;padding:4px 12px;font-size:16px}
 .t3 .od{background:var(--glow);color:var(--warn)}
-.risk{background:var(--pitch-soft);color:var(--pitch);border-radius:999px;padding:4px 10px}
+.risk{background:var(--pitch-soft);color:var(--pitch);border-radius:999px;padding:4px 10px 4px 8px;display:inline-flex;align-items:center;gap:5px}
 .t3 .risk{background:var(--glow);color:var(--warn)}
 .risk i{display:none}
+.risk::before{content:"";width:6px;height:6px;border-radius:50%;background:currentColor;flex:0 0 auto}
 .foot{margin:0 10px 10px;border-radius:14px;padding:14px 16px}
 .perf{display:none}
 .tk header{padding-top:20px}
@@ -90,7 +92,8 @@ h2{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:26px;margin:0}
 .st.n{background:var(--wash);color:var(--soft)}
 .wide{max-width:640px;margin:0 0 40px}
 .wide .tk ul{padding-bottom:12px}
-.sum a{text-decoration:none;color:inherit}
+.sum a{text-decoration:none;color:inherit;transition:transform .12s ease,box-shadow .12s ease}
+@media(hover:hover){.sum a:hover{transform:translateY(-2px);box-shadow:0 10px 20px -12px rgba(19,35,27,.3)}}
 .sum a:focus-visible,.src a:focus-visible{outline:2px solid var(--pitch);outline-offset:2px}
 .tk{scroll-margin-top:16px}
 .prev .od{background:var(--wash);color:var(--ink)}

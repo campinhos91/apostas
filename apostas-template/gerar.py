@@ -205,9 +205,13 @@ def pag_hist(h):
     return out + '<p class="note">Só ganho ou perdido, sem valores. Cada dia é acrescentado automaticamente pela rotina.</p>'
 HIST_CSS = """
 <style>
-.tabs{border-bottom:1px solid var(--hair);background:var(--bg)}
+.tabs{position:sticky;top:0;z-index:5;border-bottom:1px solid var(--hair);background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
 .tabs .in{padding-top:14px;padding-bottom:0;display:flex;gap:6px}
-.tab{appearance:none;background:none;border:0;border-bottom:3px solid transparent;font:inherit;font-weight:600;font-size:15px;color:var(--soft);padding:10px 16px 11px;cursor:pointer;border-radius:10px 10px 0 0}
+.tab{appearance:none;background:none;border:0;border-bottom:3px solid transparent;font:inherit;font-weight:600;font-size:15px;color:var(--soft);padding:10px 16px 11px;cursor:pointer;border-radius:10px 10px 0 0;display:inline-flex;align-items:center;gap:7px;transition:color .12s ease}
+.tab:before{content:"";width:16px;height:16px;flex:0 0 auto;background:currentColor;-webkit-mask:var(--ico) center/contain no-repeat;mask:var(--ico) center/contain no-repeat;opacity:.85}
+.tab[data-p="hoje"]{--ico:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Crect x="3" y="4" width="18" height="17" rx="3"/%3E%3Cpath d="M3 9h18M8 2v4M16 2v4"/%3E%3C/svg%3E')}
+.tab[data-p="hist"]{--ico:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Ccircle cx="12" cy="12" r="9"/%3E%3Cpath d="M12 7v5l3.5 2"/%3E%3C/svg%3E')}
+.tab[data-p="est"]{--ico:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M4 20V10M12 20V4M20 20v-7"/%3E%3C/svg%3E')}
 .tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--pitch)}
 .tab:focus-visible{outline:2px solid var(--pitch);outline-offset:-2px}
 .hs{max-width:640px;margin:0 0 32px}
@@ -246,7 +250,8 @@ def _linha(rotulo, ok, dec, extra="", perna=False):
     larg = round(100 * ok / dec) if dec else 0
     base = f"{ok} certas em {dec}" if perna else f"{ok} {'ganho' if ok == 1 else 'ganhos'} em {dec} decididos"
     sub = base + (f" · {extra}" if extra else "") if dec else (extra or "sem dados ainda")
-    return f'<div class="sr"><div class="sl"><b>{rotulo}</b><small>{sub}</small></div><div class="sb" aria-hidden="true"><i style="width:{larg}%"></i></div><span class="sp">{_pct(ok, dec)}</span></div>'
+    cor = " lo" if dec and larg < 50 else ""
+    return f'<div class="sr"><div class="sl"><b>{rotulo}</b><small>{sub}</small></div><div class="sb" aria-hidden="true"><i class="{cor.strip()}" style="width:{larg}%"></i></div><span class="sp{cor}">{_pct(ok, dec)}</span></div>'
 def _bloco(titulo, linhas, nota=""):
     n = f'<p class="pn">{nota}</p>' if nota else ""
     return f'<section class="hday"><div class="head"><h2>{titulo}</h2></div><article class="tk">{"".join(linhas)}{n}</article></section>'
@@ -294,8 +299,10 @@ EST_CSS = """
 .sl b{display:block;font-weight:600}
 .sl small{display:block;color:var(--soft);font-size:12.5px}
 .sb{height:8px;border-radius:999px;background:var(--wash);border:1px solid var(--hair);overflow:hidden}
-.sb i{display:block;height:100%;background:var(--pitch);border-radius:999px}
-.sp{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:16px;font-weight:600;text-align:right;font-variant-numeric:tabular-nums}
+.sb i{display:block;height:100%;background:var(--pitch);border-radius:999px;transition:width .3s ease}
+.sb i.lo{background:var(--warn)}
+.sp{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:16px;font-weight:600;text-align:right;font-variant-numeric:tabular-nums;color:var(--pitch)}
+.sp.lo{color:var(--warn)}
 @media(max-width:640px){.sr{grid-template-columns:minmax(0,1fr) 48px;padding:12px 16px}.sb{grid-column:1 / -1;grid-row:2}.sp{grid-row:1;grid-column:2}}
 </style>
 """

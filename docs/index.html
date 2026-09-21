@@ -14,7 +14,7 @@
 @media(prefers-color-scheme:dark){:root{--bg:#0B1310;--wash:#0F1915;--card:#14211B;--ink:#E9F1EB;--soft:#95A69C;--grey:#5E6E65;--hair:#22332A;--pitch:#4CC38A;--pitch-soft:#173325;--warn:#E8875F;--glow:rgba(232,135,95,.2);--shadow:0 12px 32px -16px rgba(0,0,0,.7)}}
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 html{background:var(--bg)}
-body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding-bottom:calc(72px + env(safe-area-inset-bottom,0px))}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding-bottom:calc(80px + env(safe-area-inset-bottom,0px))}
 main{max-width:680px;margin:0 auto;padding:0 16px}
 .top{background:var(--wash);border-bottom:1px solid var(--hair);padding:calc(18px + env(safe-area-inset-top,0px)) 0 18px}
 .top .in{max-width:680px;margin:0 auto;padding:0 16px}
@@ -36,10 +36,12 @@ h1{font-family:var(--serif);font-weight:700;font-size:34px;line-height:1.1;margi
 .head{display:flex;flex-direction:column;gap:2px;margin:28px 0 14px}
 h2{font-family:var(--serif);font-weight:700;font-size:22px;margin:0}
 .src{font-size:12.5px;color:var(--soft)}
-.tk{background:var(--card);border-radius:22px;box-shadow:var(--shadow);border:1px solid var(--hair);overflow:hidden;margin:0 0 14px;scroll-margin-top:12px}
+.tk{background:var(--card);border-radius:22px;box-shadow:var(--shadow);border:1px solid var(--hair);overflow:hidden;margin:0 0 14px;scroll-margin-top:12px;transition:transform .12s ease,box-shadow .12s ease}
+.tk:active{transform:scale(.99)}
 .tk header{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:18px 18px 10px}
 .tk h3{font-size:15px;font-weight:600;margin:0}
-.risk{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.08em;background:var(--pitch-soft);color:var(--pitch);border-radius:999px;padding:4px 10px;white-space:nowrap}
+.risk{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.08em;background:var(--pitch-soft);color:var(--pitch);border-radius:999px;padding:4px 10px 4px 8px;white-space:nowrap;display:inline-flex;align-items:center;gap:5px}
+.risk:before{content:"";width:6px;height:6px;border-radius:50%;background:currentColor;flex:0 0 auto}
 .t3 .risk{background:var(--glow);color:var(--warn)}
 .tk ul{list-style:none;margin:0;padding:0 18px 12px}
 .tk li.l{display:grid;grid-template-columns:52px 1fr auto;gap:10px;align-items:center;padding:10px 0;border-top:1px dashed var(--hair)}
@@ -77,16 +79,28 @@ h2{font-family:var(--serif);font-weight:700;font-size:22px;margin:0}
 .sr:first-child{border-top:0}
 .sl b{display:block;font-weight:600}.sl small{display:block;color:var(--soft);font-size:12.5px}
 .sb{grid-column:1/-1;grid-row:2;height:8px;border-radius:999px;background:var(--wash);border:1px solid var(--hair);overflow:hidden}
-.sb i{display:block;height:100%;background:var(--pitch);border-radius:999px}
-.sp{font-family:var(--mono);font-size:16px;font-weight:600;text-align:right;font-variant-numeric:tabular-nums}
+.sb i{display:block;height:100%;background:var(--pitch);border-radius:999px;transition:width .3s ease}
+.sb i.lo{background:var(--warn)}
+.sp{font-family:var(--mono);font-size:16px;font-weight:600;text-align:right;font-variant-numeric:tabular-nums;color:var(--pitch)}
+.sp.lo{color:var(--warn)}
 .pn{margin:0;padding:6px 18px 14px;font-size:12.5px;color:var(--soft)}
-nav{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--hair);display:flex;justify-content:center;padding-bottom:env(safe-area-inset-bottom,0px);z-index:5}
+nav{position:fixed;left:0;right:0;bottom:0;background:color-mix(in srgb,var(--card) 92%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-top:1px solid var(--hair);display:flex;justify-content:center;padding-bottom:env(safe-area-inset-bottom,0px);z-index:5}
 nav .in{display:flex;width:100%;max-width:680px}
-nav button{flex:1;appearance:none;background:none;border:0;border-top:3px solid transparent;font:600 13px system-ui,sans-serif;color:var(--soft);padding:14px 4px 13px;cursor:pointer}
+nav button{flex:1;display:flex;flex-direction:column;align-items:center;gap:3px;appearance:none;background:none;border:0;border-top:3px solid transparent;font:600 12px system-ui,sans-serif;color:var(--soft);padding:10px 4px 11px;cursor:pointer;transition:color .12s ease}
+nav button:before{content:"";width:20px;height:20px;background:currentColor;-webkit-mask:var(--ico) center/contain no-repeat;mask:var(--ico) center/contain no-repeat;opacity:.85}
+nav button[data-p="hoje"]{--ico:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Crect x="3" y="4" width="18" height="17" rx="3"/%3E%3Cpath d="M3 9h18M8 2v4M16 2v4"/%3E%3C/svg%3E')}
+nav button[data-p="hist"]{--ico:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Ccircle cx="12" cy="12" r="9"/%3E%3Cpath d="M12 7v5l3.5 2"/%3E%3C/svg%3E')}
+nav button[data-p="est"]{--ico:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M4 20V10M12 20V4M20 20v-7"/%3E%3C/svg%3E')}
 nav button[aria-selected="true"]{color:var(--ink);border-top-color:var(--pitch)}
 nav button:focus-visible,.ref:focus-visible{outline:2px solid var(--pitch);outline-offset:-2px}
 .err{margin:26px 0;padding:16px;border-radius:16px;background:var(--card);border:1px solid var(--hair);color:var(--soft)}
 [hidden]{display:none!important}
+.skel{border-radius:22px;background:var(--card);border:1px solid var(--hair);margin:0 0 14px;padding:18px;overflow:hidden;position:relative}
+.skel:before{content:"";position:absolute;inset:0;transform:translateX(-100%);background:linear-gradient(90deg,transparent,color-mix(in srgb,var(--ink) 6%,transparent),transparent);animation:shimmer 1.4s infinite}
+.skel i{display:block;height:12px;border-radius:6px;background:var(--wash)}
+.skel i.w1{width:45%;margin-bottom:14px}.skel i.w2{width:85%;margin-bottom:8px}.skel i.w3{width:60%}
+@keyframes shimmer{100%{transform:translateX(100%)}}
+@media(prefers-reduced-motion:reduce){.skel:before{animation:none}}
 </style>
 </head>
 <body>
@@ -96,7 +110,7 @@ nav button:focus-visible,.ref:focus-visible{outline:2px solid var(--pitch);outli
   <p class="upd" id="upd"></p>
   <div id="sum"></div>
 </div></div>
-<main id="app"><p class="calm">A carregar as apostas…</p></main>
+<main id="app"><div class="skel"><i class="w1"></i><i class="w2"></i><i class="w3"></i></div><div class="skel"><i class="w1"></i><i class="w2"></i><i class="w3"></i></div></main>
 <nav><div class="in" role="tablist" aria-label="Secções">
   <button role="tab" data-p="hoje" aria-selected="true">Hoje</button>
   <button role="tab" data-p="hist" aria-selected="false">Histórico</button>
@@ -164,7 +178,8 @@ function vHist(){
 function linha(x,perna){
   var sub=x.dec?(perna?x.ok+" certas em "+x.dec:x.ok+" "+(x.ok===1?"ganho":"ganhos")+" em "+x.dec+" decididos"):"sem dados ainda";
   if(x.pend)sub+=(x.dec?" · ":"")+x.pend+" por decidir";
-  return '<div class="sr"><div class="sl"><b>'+esc(x.nome)+'</b><small>'+esc(sub)+'</small></div><span class="sp">'+(x.pct==null?"–":x.pct+"%")+'</span><div class="sb" aria-hidden="true"><i style="width:'+(x.pct||0)+'%"></i></div></div>'
+  var lo=x.dec&&x.pct!=null&&x.pct<50?" lo":"";
+  return '<div class="sr"><div class="sl"><b>'+esc(x.nome)+'</b><small>'+esc(sub)+'</small></div><span class="sp'+lo+'">'+(x.pct==null?"–":x.pct+"%")+'</span><div class="sb" aria-hidden="true"><i class="'+lo.trim()+'" style="width:'+(x.pct||0)+'%"></i></div></div>'
 }
 function bloco(t,ls,perna,nota){return head(t,"")+'<article class="tk">'+ls.map(function(x){return linha(x,perna)}).join("")+(nota?'<p class="pn">'+esc(nota)+'</p>':"")+'</article>'}
 function vEst(){
