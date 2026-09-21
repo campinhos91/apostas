@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
-"""Gera a página (pagina.html) e o email (email.html + email.txt) do "Apostas do dia" a partir de UM só ficheiro de dados.
+"""Gera a página (pagina.html) do "Apostas do dia" a partir de UM só ficheiro de dados.
 
 Uso:  python3 gerar.py dados.json [pasta_de_saida]
 - Lê bilhetes.html (na mesma pasta do script) só para aproveitar o <head> e o CSS da página.
 - Calcula as odds totais (produto das pernas, 2 casas, vírgula), os resumos e os rodapés: nunca escrever totais à mão.
 - Avisa (linhas "AVISO") se alguma regra dos boletins não se cumpre.
-- Página e email saem sempre com a mesma informação.
 - A página tem 3 separadores (Hoje, Histórico, Estatísticas). O histórico vive em historico.json (atualizado a cada execução,
   sem duplicar); dados_atual.json guarda o dados.json do dia; cada execução copia a página para PASTA_COPIA.
 Modos auxiliares:
@@ -359,97 +358,6 @@ def pagina(d, hist=None):
     body += f'<div class="in" id="p-hist" role="tabpanel" aria-labelledby="tab-hist" hidden>\n{pag_hist(hist if hist is not None else [])}\n</div>\n<div class="in" id="p-est" role="tabpanel" aria-labelledby="tab-est" hidden>\n{pag_est(hist if hist is not None else [])}\n</div>\n' + TAB_JS + "\n"
     return head + body
 
-# ---------------- email ----------------
-BG, WASH, CARD, INK, SOFT, HAIR = "#EEF1EC", "#F6F8F4", "#FFFFFF", "#13231B", "#5C6B62", "#DCE3DC"
-PITCH, PSOFT, WARN, GLOW = "#1E7B4F", "#E1F0E7", "#B4552F", "#F6E3DB"
-SANS = "font-family:Arial,Helvetica,sans-serif;"; MONO = "font-family:'Courier New',Courier,monospace;"; SERIF = "font-family:Georgia,'Times New Roman',serif;"
-def T(inner, w="100%", extra=""):
-    st = f' style="{extra}"' if extra else ""
-    wa = f' width="{w}"' if w else ""
-    return f'<table role="presentation"{wa} cellpadding="0" cellspacing="0" border="0"{st}>{inner}</table>'
-def em_pill(txt, bg, fg, size=11, pad="4px 10px"):
-    return T(f'<tr><td style="background:{bg};border-radius:999px;padding:{pad};{MONO}font-size:{size}px;letter-spacing:1px;text-transform:uppercase;color:{fg};">{txt}</td></tr>', None)
-def em_leg(l, warn):
-    col, tint = (WARN, GLOW) if warn is True else ((INK, WASH) if warn == 'n' else (PITCH, PSOFT))
-    dia = f'<span style="font-size:9.5px;letter-spacing:1px;color:{SOFT};text-transform:uppercase;">{l["d"]}</span><br>' if l.get("d") else ""
-    chip = T(f'<tr><td align="center" style="background:{WASH};border-radius:8px;padding:5px 7px;{MONO}font-size:12px;font-weight:bold;color:{INK};">{dia}{l["h"]}</td></tr>', None)
-    pill = T(f'<tr><td align="center" style="background:{tint};border-radius:999px;padding:5px 12px;{MONO}font-size:16px;font-weight:bold;color:{col};">{l["o"]}</td></tr>', None)
-    return (f'<tr><td style="padding:11px 0;border-top:1px dashed {HAIR};">' + T(f'<tr><td width="56" valign="middle">{chip}</td><td valign="middle" style="padding:0 10px;{SANS}font-size:15px;line-height:1.3;color:{INK};"><b>{l["j"]}</b><br><span style="font-size:12.5px;color:{SOFT};">{l["m"]}</span></td><td width="66" align="right" valign="middle">{pill}</td></tr>') + "</td></tr>")
-def em_card(b):
-    warn = b["c"] == "t3"; col, tint = (WARN, GLOW) if warn else (PITCH, PSOFT)
-    head = f'<tr><td style="padding:18px 20px 8px;">' + T(f'<tr><td style="{SANS}font-size:15px;font-weight:bold;color:{INK};">{b["t"]}</td><td align="right">{em_pill(b["risco"], tint, col)}</td></tr>') + "</td></tr>"
-    rows = '<tr><td style="padding:0 20px 8px;">' + T("".join(em_leg(l, warn) for l in b["legs"])) + "</td></tr>"
-    bar = T(f'<tr><td style="padding:14px 16px;{SANS}font-size:12.5px;color:{SOFT};">{rodape(b)}</td><td align="right" style="padding:10px 16px;{MONO}font-size:10.5px;letter-spacing:1.5px;text-transform:uppercase;color:{SOFT};">Odd total<br><span style="font-size:30px;font-weight:bold;letter-spacing:0;color:{col};">{total(b)}</span></td></tr>', "100%", f"background:{tint};border-radius:14px;border-collapse:separate;")
-    return '<tr><td style="padding-bottom:16px;">' + T(head + rows + f'<tr><td style="padding:0 10px 10px;">{bar}</td></tr>', "100%", f"background:{CARD};border:1px solid {HAIR};border-radius:22px;border-collapse:separate;") + "</td></tr>"
-def em_wrap_card(inner):
-    return '<tr><td style="padding-bottom:16px;">' + T(f'<tr><td style="padding:18px 20px 12px;">{inner}</td></tr>', "100%", f"background:{CARD};border:1px solid {HAIR};border-radius:22px;border-collapse:separate;") + "</td></tr>"
-def em_ontem(d):
-    if not d.get("ontem"):
-        return f'<tr><td style="padding:0 4px 16px;{SANS}font-size:13px;color:{SOFT};">Sem apostas de ontem para verificar.</td></tr>'
-    cor = {"g": (PSOFT, PITCH), "p": (GLOW, WARN), "n": (WASH, SOFT)}
-    n = sum(1 for r in d["ontem"] if r["e"] == "ganho"); linhas = ""
-    for r in d["ontem"]:
-        k, lb = ESTADOS[r["e"]]
-        linhas += f'<tr><td style="padding:10px 0;border-top:1px dashed {HAIR};">' + T(f'<tr><td style="{SANS}font-size:13px;line-height:1.4;color:{SOFT};"><b style="color:{INK};font-size:14px;">{r["t"]}</b><br>{r["d"]}</td><td width="110" align="right" valign="top">{em_pill(lb, *cor[k])}</td></tr>') + "</td></tr>"
-    return em_wrap_card(f'<span style="{SANS}font-size:15px;font-weight:bold;color:{INK};">Como correram as apostas de ontem</span> <span style="{MONO}font-size:12px;color:{SOFT};">· {n} de {len(d["ontem"])} ganhos</span>' + T(linhas, "100%", "margin-top:8px;"))
-def em_amanha(d):
-    if not d.get("amanha"): return ""
-    rows = "".join(em_leg(dict(l, m=f'{l["m"]} · {l["n"]}'), "n") for l in d["amanha"])
-    head = '<tr><td style="padding:18px 20px 8px;">' + T(f'<tr><td style="{SANS}font-size:15px;font-weight:bold;color:{INK};">Previsão para amanhã</td><td align="right">{em_pill("Provisório", WASH, SOFT)}</td></tr>') + "</td></tr>"
-    nota = f'<tr><td style="padding:0 20px 16px;{SANS}font-size:12.5px;color:{SOFT};">Odds, lesões e equipas podem mudar. A rotina de amanhã confirma tudo.</td></tr>'
-    return '<tr><td style="padding-bottom:16px;">' + T(head + '<tr><td style="padding:0 20px 8px;">' + T(rows) + "</td></tr>" + nota, "100%", f"background:{CARD};border:1px solid {HAIR};border-radius:22px;border-collapse:separate;") + "</td></tr>"
-def em_head(h, extra=""):
-    ex = f'<br><span style="{SANS}font-size:13px;color:{SOFT};">{extra}</span>' if extra else ""
-    return f'<tr><td style="padding:8px 4px 12px;"><span style="{SERIF}font-size:26px;font-weight:bold;color:{INK};">{h}</span>{ex}</td></tr>'
-def email(d):
-    todos = d.get("hoje", []) + d.get("proximos", [])
-    cells = "".join(f'<td width="{100 // max(1, len(todos))}%" style="padding:0 4px;">' + T(f'<tr><td style="background:{CARD};border:1px solid {HAIR};border-radius:16px;padding:11px 12px;"><span style="{SANS}font-size:11.5px;color:{SOFT};">{resumo_label(b["c"])}</span><br><span style="{MONO}font-size:22px;font-weight:bold;color:{WARN if b["c"] == "t3" else PITCH};">{total(b)}</span></td></tr>', "100%", "border-collapse:separate;") + "</td>" for b in todos)
-    pre = " · ".join(f"{resumo_label(b['c'])} {total(b)}" for b in todos)
-    topo = (f'<tr><td style="background:{WASH};border:1px solid {HAIR};border-radius:22px;border-collapse:separate;padding:26px 20px 22px;"><span style="{MONO}font-size:12px;letter-spacing:2px;text-transform:uppercase;color:{SOFT};">{d["data"]}</span><br>'
-            f'<span style="{SERIF}font-size:40px;line-height:1.15;font-weight:bold;color:{INK};">{d["titulo"]}</span>' + (T(f"<tr>{cells}</tr>", "100%", "margin-top:20px;") if cells else "") + '</td></tr><tr><td style="height:18px;font-size:0;line-height:0;">&nbsp;</td></tr>')
-    corpo = em_ontem(d) + em_head("Apostas de hoje", "Odds da Betclic, a confirmar")
-    corpo += "".join(em_card(b) for b in d["hoje"]) if d.get("hoje") else f'<tr><td style="padding:0 4px 16px;{SANS}font-size:14px;color:{SOFT};">Hoje não há jogos com dados suficientes.</td></tr>'
-    if d.get("proximos"): corpo += em_head("Próximos dias", d.get("pausa", "")) + "".join(em_card(b) for b in d["proximos"])
-    cta = '<tr><td style="padding:2px 0 18px;">' + T(f'<tr><td align="center" style="background:{PITCH};border-radius:14px;"><a href="{d["link"]}" style="display:block;padding:15px 20px;{SANS}font-size:15px;font-weight:bold;color:#FFFFFF;text-decoration:none;">Abrir a página completa</a></td></tr>', "100%", "border-collapse:separate;") + "</td></tr>"
-    fora = ""
-    if d.get("fora"):
-        li = "".join(f'<tr><td style="padding:8px 0;border-top:1px dashed {HAIR};{SANS}font-size:13px;line-height:1.45;color:{SOFT};"><b style="color:{INK};">{a}</b><br>{b}</td></tr>' for a, b in d["fora"])
-        fora = '<tr><td style="padding-bottom:6px;">' + T(f'<tr><td style="padding:16px 20px;"><span style="{SANS}font-size:15px;font-weight:bold;color:{INK};">Ficaram de fora</span>' + T(li, "100%", "margin-top:8px;") + "</td></tr>", "100%", f"background:{CARD};border:1px solid {HAIR};border-radius:22px;border-collapse:separate;") + "</td></tr>"
-    nota = f'<tr><td style="padding:16px 6px 0;{SANS}font-size:13px;line-height:1.5;color:{SOFT};">Odds da <a href="{BETCLIC}" style="color:{SOFT};">Betclic</a>, a confirmar. {NOTA}</td></tr>'
-    preheader = f'<div style="display:none;max-height:0;overflow:hidden;opacity:0;font-size:1px;line-height:1px;color:{BG};">{pre}</div>'
-    return preheader + T('<tr><td align="center" style="padding:20px 10px;">' + T(topo + corpo + em_amanha(d) + cta + fora + nota, "100%", "max-width:600px;") + "</td></tr>", "100%", f"background:{BG};")
-
-def texto(d):
-    L = [f'Apostas do dia · {d["data"]}', ""]
-    todos = d.get("hoje", []) + d.get("proximos", [])
-    L += [" · ".join(f"{resumo_label(b['c'])} {total(b)}" for b in todos), ""]
-    L.append("COMO CORRERAM AS APOSTAS DE ONTEM")
-    if d.get("ontem"):
-        for r in d["ontem"]: L.append(f'- {r["t"]}: {ESTADOS[r["e"]][1].upper()} · {r["d"]}')
-    else: L.append("- Sem apostas de ontem para verificar")
-    L += ["", "APOSTAS DE HOJE (odds da Betclic, a confirmar)", ""]
-    def bloco(b):
-        out = [f'{b["t"].upper()} (risco {b["risco"]})']
-        for l in b["legs"]:
-            dia = (l["d"].capitalize() + " ") if l.get("d") else ""
-            out.append(f'- {dia}{l["h"]} · {l["j"]} · {l["m"]} · {l["o"]}')
-        out += [f"Odd total: {total(b)}", ""]; return out
-    if d.get("hoje"):
-        for b in d["hoje"]: L += bloco(b)
-    else: L += ["Hoje não há jogos com dados suficientes.", ""]
-    if d.get("proximos"):
-        L += ["PRÓXIMOS DIAS"] + ([d["pausa"]] if d.get("pausa") else [])
-        for b in d["proximos"]: L += bloco(b)
-    if d.get("amanha"):
-        L += ["PREVISÃO PARA AMANHÃ (provisório: odds, lesões e equipas podem mudar)"]
-        for l in d["amanha"]: L.append(f'- {l["d"].capitalize()} {l["h"]} · {l["j"]} · {l["m"]} · {l["o"]} · {l["n"]}')
-        L.append("")
-    L += [f'Página: {d["link"]}', ""]
-    if d.get("fora"):
-        L.append("FICARAM DE FORA"); L += [f"- {a}: {b}" for a, b in d["fora"]]; L.append("")
-    L.append(f"Odds da Betclic, a confirmar. {NOTA}")
-    return "\n".join(L)
-
 # ---------------- app (PWA): dados em JSON ----------------
 APP_DATA = os.environ.get("APOSTAS_APP_DATA", os.path.join(os.path.dirname(BASE), "docs", "data", "apostas.json"))
 def _grp(ok, dec, **extra): return {"ok": ok, "dec": dec, "pct": round(100 * ok / dec) if dec else None, **extra}
@@ -521,10 +429,8 @@ elif __name__ == "__main__":
     else:
         with bloqueio():
             hist = atualizar_hist(d); gravar_hist(hist)
-    files = {"pagina.html": pagina(d, hist), "email.html": email(d), "email.txt": texto(d)}
-    for n, c in files.items():
-        if "@" in c and n != "pagina.html": print(f"AVISO: '@' encontrado em {n} (não pode haver endereços de email)")
-        open(os.path.join(out, n), "w", encoding="utf-8").write(c); print(n, len(c), "bytes")
+    c = pagina(d, hist)
+    open(os.path.join(out, "pagina.html"), "w", encoding="utf-8").write(c); print("pagina.html", len(c), "bytes")
     if not TESTE and os.path.isdir(PASTA_COPIA):
         try:
             shutil.copy(os.path.join(out, "pagina.html"), os.path.join(PASTA_COPIA, ".apostas-do-dia.tmp")); os.replace(os.path.join(PASTA_COPIA, ".apostas-do-dia.tmp"), os.path.join(PASTA_COPIA, "apostas-do-dia.html")); print("cópia atualizada em", PASTA_COPIA)
