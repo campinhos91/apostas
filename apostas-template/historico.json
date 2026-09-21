@@ -1,5 +1,104 @@
 [
  {
+  "dia": "2026-09-22",
+  "rotulo": "Terça-feira · 22 de setembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,44",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:30",
+      "j": "Scolar Resita vence o ACS Dumbravita",
+      "m": "Resultado final",
+      "o": "1,44"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,51",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:30",
+      "j": "Scolar Resita vence o ACS Dumbravita",
+      "m": "Resultado final",
+      "o": "1,44"
+     },
+     {
+      "h": "18:00",
+      "j": "ASA Targu Mures vence o CS Dinamo Bucuresti",
+      "m": "Resultado final",
+      "o": "1,05"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "5,99",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "RBC Roosendaal vence o VV Eemdijk",
+      "m": "Resultado final",
+      "o": "1,96"
+     },
+     {
+      "h": "19:45",
+      "j": "Gainsborough Trinity vence o Leamington",
+      "m": "Resultado final",
+      "o": "1,67"
+     },
+     {
+      "h": "19:45",
+      "j": "Worksop Town vence o AFC Telford United",
+      "m": "Resultado final",
+      "o": "1,83"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,13",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Portugal vence o País de Gales",
+      "m": "Resultado final",
+      "o": "1,20"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Lituânia vence o Liechtenstein",
+      "m": "Resultado final",
+      "o": "1,26"
+     },
+     {
+      "h": "19:30",
+      "d": "SEX",
+      "j": "Girona vence o Albacete",
+      "m": "Resultado final",
+      "o": "1,41"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-09-21",
   "rotulo": "Segunda-feira · 21 de setembro de 2026",
   "boletins": [
@@ -90,8 +189,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,32",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "19:45",

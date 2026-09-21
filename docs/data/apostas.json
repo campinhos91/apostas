@@ -1,26 +1,31 @@
 {
- "atualizado": "2026-09-21T21:55:32+01:00",
- "dia": "2026-09-21",
- "rotulo": "Segunda-feira · 21 de setembro de 2026",
+ "atualizado": "2026-09-22T00:20:23+01:00",
+ "dia": "2026-09-22",
+ "rotulo": "Terça-feira · 22 de setembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As ligas principais pararam para as seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga, Ligue 1 e Eredivisie a 9; Premier League, Serie A e Escócia a 10). Até lá há amigáveis de seleções e a Liga das Nações a partir de 24 de setembro.",
+ "pausa": "As ligas principais continuam paradas para as seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga, Ligue 1 e Eredivisie a 9; Premier League, Serie A e Escócia a 10). Até lá há amigáveis de seleções, taças nacionais e a Liga das Nações a partir de 24 de setembro.",
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Feyenoord vence o Utrecht (3-0)"
+   "e": "perdido",
+   "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 0 certas"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Feyenoord vence o Utrecht (3-0); AZ vence o Telstar (vitória do AZ); Manchester City vence o Sunderland (5-3)"
+   "e": "perdido",
+   "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Leeds vence o Crystal Palace (0-0); Como vence o Frosinone (Frosinone venceu 2-0); Villarreal vence o Levante (1-1) · 1 certa"
+   "d": "Falhou: Spartak Subotica vence o Vozdovac (0-2); Tristan Suarez vence o Atletico Atlanta (0-0) · 1 certa"
+  },
+  {
+   "t": "Múltipla dos próximos dias",
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -30,13 +35,13 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "15:00",
-     "j": "TSC Backa Topola vence o GFK Dubocica",
+     "h": "15:30",
+     "j": "Scolar Resita vence o ACS Dumbravita",
      "m": "Resultado final",
-     "o": "1,11"
+     "o": "1,44"
     }
    ],
-   "total": "1,11",
+   "total": "1,44",
    "rodape": "Uma seleção"
   },
   {
@@ -45,26 +50,20 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "15:00",
-     "j": "TSC Backa Topola vence o GFK Dubocica",
+     "h": "15:30",
+     "j": "Scolar Resita vence o ACS Dumbravita",
      "m": "Resultado final",
-     "o": "1,11"
+     "o": "1,44"
     },
     {
-     "h": "19:00",
-     "j": "Petrolul Ploiesti vence o Csikszereda",
+     "h": "18:00",
+     "j": "ASA Targu Mures vence o CS Dinamo Bucuresti",
      "m": "Resultado final",
-     "o": "1,69"
-    },
-    {
-     "h": "19:30",
-     "j": "Spezia vence o VIS Pesaro",
-     "m": "Resultado final",
-     "o": "1,15"
+     "o": "1,05"
     }
    ],
-   "total": "2,16",
-   "rodape": "3 seleções"
+   "total": "1,51",
+   "rodape": "2 seleções"
   },
   {
    "c": "t3",
@@ -73,24 +72,24 @@
    "legs": [
     {
      "h": "19:00",
-     "j": "Spartak Subotica vence o Vozdovac",
+     "j": "RBC Roosendaal vence o VV Eemdijk",
      "m": "Resultado final",
-     "o": "1,65"
+     "o": "1,96"
     },
     {
-     "h": "19:00",
-     "j": "Tristan Suarez vence o Atletico Atlanta",
+     "h": "19:45",
+     "j": "Gainsborough Trinity vence o Leamington",
      "m": "Resultado final",
-     "o": "1,73"
+     "o": "1,67"
     },
     {
-     "h": "19:00",
-     "j": "Petrolul Ploiesti vence o Csikszereda",
+     "h": "19:45",
+     "j": "Worksop Town vence o AFC Telford United",
      "m": "Resultado final",
-     "o": "1,69"
+     "o": "1,83"
     }
    ],
-   "total": "4,82",
+   "total": "5,99",
    "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
@@ -102,66 +101,186 @@
    "legs": [
     {
      "h": "19:45",
+     "d": "QUI",
      "j": "Portugal vence o País de Gales",
      "m": "Resultado final",
-     "o": "1,22",
-     "d": "QUI"
+     "o": "1,20"
     },
     {
      "h": "19:45",
-     "j": "Áustria vence o Israel",
+     "d": "QUI",
+     "j": "Lituânia vence o Liechtenstein",
      "m": "Resultado final",
-     "o": "1,32",
-     "d": "QUI"
+     "o": "1,26"
     },
     {
      "h": "19:30",
+     "d": "SEX",
      "j": "Girona vence o Albacete",
      "m": "Resultado final",
-     "o": "1,44",
-     "d": "SEX"
+     "o": "1,41"
     }
    ],
-   "total": "2,32",
+   "total": "2,13",
    "rodape": "3 seleções · qui e sex"
   }
  ],
- "amanha": [],
+ "amanha": [
+  {
+   "h": "02:00",
+   "d": "QUA",
+   "j": "Independiente Santa Fe vence o Deportivo Cali",
+   "m": "Resultado final",
+   "o": "1,97",
+   "n": "12.º vs 10.º classificado, histórico muito equilibrado (18 vitórias Santa Fe, 18 Cali, 21 empates); modelos apontam o 1-1 como resultado mais provável — favoritismo do Santa Fe é ligeiro, não uma certeza."
+  },
+  {
+   "h": "17:00",
+   "d": "QUA",
+   "j": "Gibraltar vence o São Tomé e Príncipe",
+   "m": "Resultado final",
+   "o": "1,24",
+   "n": "primeiro confronto direto de sempre entre as duas seleções; Gibraltar vem de vitórias consecutivas e está mais bem classificado no ranking FIFA (202.º vs 195.º, diferença pequena)."
+  },
+  {
+   "h": "21:00",
+   "d": "QUA",
+   "j": "Real Madrid Castilla vence o Sant Andreu",
+   "m": "Resultado final",
+   "o": "1,71",
+   "n": "atenção: o Castilla não vence fora desde 25 de abril e o Sant Andreu só perdeu um jogo em casa em 2026 (0-1 com o Barbastro) — o favoritismo da odd contraria a forma recente do visitante."
+  }
+ ],
  "fora": [
   [
-   "Javor–Naftagas Elemir (1,12)",
-   "o Naftagas mudou de nome para Proleter 023 em julho de 2026; a Betclic ainda usa o nome antigo, o que gera confusão sobre a equipa em causa."
+   "US Biskra–JS Saoura (2,22)",
+   "odds muito equilibradas (2,22/2,53/2,65) na 1.ª Divisão argelina, sem favorito claro nem dados de forma fiáveis encontrados."
   ],
   [
-   "Metalac GM–Graficar Beograd (1,76)",
-   "o Graficar venceu 4 dos últimos 6 confrontos diretos e o Metalac nenhum, mas a odd da Betclic favorece o Metalac como mandante — dados contraditórios."
+   "ACV Assen–Hoogeveen (1,22)",
+   "o ACV só venceu 1 dos últimos 5 jogos, o que contraria o favoritismo de 1,22 num dérbi da Drenthe (Taça neerlandesa) muito equilibrado."
   ],
   [
-   "Oțelul Galați–Corvinul Hunedoara (2,18)",
-   "Oțelul é 13.º classificado e o Corvinul só venceu 1 dos últimos 5 jogos; sem vantagem clara para nenhum dos lados."
+   "GVVV–DVS'33 Ermelo (1,38)",
+   "GVVV perdeu os 4 jogos oficiais desta época e o DVS'33 ainda não venceu na Taça — dados fracos dos dois lados, sem vantagem clara."
   ],
   [
-   "Bournemouth U21–Stoke City U21 (1,52)",
-   "competição sub-21 (Premier League 2), sem dados fiáveis de forma encontrados."
+   "Dagenham and Redbridge–Waltham Abbey (1,13)",
+   "Dagenham vem de 3 derrotas em 5 jogos e o Waltham Abbey (5 divisões abaixo) chega com 3 vitórias nos últimos 5, incluindo uma goleada de 7-0 na Taça — o favoritismo de 1,13 é contrariado pela forma recente."
   ],
   [
-   "FC Porto F.–SC Braga F. (2,28)",
-   "campeonato feminino português, odds equilibradas e sem dados suficientes de forma."
+   "América de Cali–Rionegro Águilas (1,53)",
+   "América de Cali só venceu 2 dos últimos 5 jogos (40%) e o Rionegro Águilas empatou 4 dos últimos 5 — favoritismo pouco sólido dado o registo do adversário."
   ],
   [
-   "Vizela Sub-23–Farense Sub-23 e Leiria Sub-23–Gil Vicente Sub-23",
-   "Liga Next Gen (sub-23), sem dados fiáveis de forma disponíveis."
-  ],
-  [
-   "Bundesliga, LaLiga, Ligue 1, Premier League, Serie A, Eredivisie",
-   "sem jogos até 9 a 11 de outubro (pausa de seleções); a Liga dos Campeões volta a 13 de outubro e a Liga Conferência a 15."
+   "Azerbaijão–Tajiquistão (1,63)",
+   "sem histórico de confrontos diretos entre as seleções e sem dados de forma fiáveis encontrados para o Tajiquistão."
   ],
   [
    "Cobertura da Betclic",
-   "consultadas as competições da lista (exceto 3 competições femininas: Liga dos Campeões Feminina, Bundesliga Feminina e Super League Feminina inglesa); Liga Portugal Betclic sem jogos disponíveis na página (pausa de seleções)."
+   "consultadas cerca de 45 competições da lista via WebFetch (sem browser disponível nesta execução); em Uruguai, Peru, Arábia Saudita, Uzbequistão, Costa Rica, Itália Série C (grupos A e B), Geórgia, Angola, França Ligue 2, Dinamarca 1.ª Divisão, Suécia, Finlândia, Liga Portugal Betclic e Taça de Portugal a página não mostrou a grelha de jogos (só menu ou mercado de vencedor da competição, provável carregamento via JavaScript); em Argentina (Primera e Nacional), Chile, Equador, Escócia Premiership, Alemanha 3.Liga, Inglaterra Championship e outras, os jogos devolvidos caíam fora da janela de 4 dias. Mercados de 'Mais de 2,5 golos' e 'Ambas marcam' não apareceram nas páginas de competição consultadas por WebFetch, por isso todos os boletins de hoje usam apenas 'Resultado final'."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-09-22",
+   "rotulo": "Terça-feira · 22 de setembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,44",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "15:30",
+       "j": "Scolar Resita vence o ACS Dumbravita",
+       "m": "Resultado final",
+       "o": "1,44"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,51",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "15:30",
+       "j": "Scolar Resita vence o ACS Dumbravita",
+       "m": "Resultado final",
+       "o": "1,44"
+      },
+      {
+       "h": "18:00",
+       "j": "ASA Targu Mures vence o CS Dinamo Bucuresti",
+       "m": "Resultado final",
+       "o": "1,05"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "5,99",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:00",
+       "j": "RBC Roosendaal vence o VV Eemdijk",
+       "m": "Resultado final",
+       "o": "1,96"
+      },
+      {
+       "h": "19:45",
+       "j": "Gainsborough Trinity vence o Leamington",
+       "m": "Resultado final",
+       "o": "1,67"
+      },
+      {
+       "h": "19:45",
+       "j": "Worksop Town vence o AFC Telford United",
+       "m": "Resultado final",
+       "o": "1,83"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "2,13",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Portugal vence o País de Gales",
+       "m": "Resultado final",
+       "o": "1,20"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Lituânia vence o Liechtenstein",
+       "m": "Resultado final",
+       "o": "1,26"
+      },
+      {
+       "h": "19:30",
+       "d": "SEX",
+       "j": "Girona vence o Albacete",
+       "m": "Resultado final",
+       "o": "1,41"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-09-21",
    "rotulo": "Segunda-feira · 21 de setembro de 2026",
@@ -253,8 +372,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,32",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "19:45",
@@ -518,7 +637,7 @@
   "ganhos": 3,
   "pernas": 17,
   "pernas_ok": 8,
-  "dias": 3,
+  "dias": 4,
   "odd_media": "1,41",
   "tipos": [
    {
@@ -526,28 +645,28 @@
     "dec": 3,
     "pct": 33,
     "nome": "Aposta simples segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 1,
     "dec": 3,
     "pct": 33,
     "nome": "Múltipla segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 0,
     "dec": 3,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 1,
     "dec": 1,
     "pct": 100,
     "nome": "Múltipla dos próximos dias",
-    "pend": 1
+    "pend": 2
    }
   ],
   "mercados": [
@@ -591,6 +710,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Terça-feira, 22 de setembro",
+    "pend": 4
+   },
    {
     "ok": 0,
     "dec": 3,
