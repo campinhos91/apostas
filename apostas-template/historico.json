@@ -1,5 +1,104 @@
 [
  {
+  "dia": "2026-09-21",
+  "rotulo": "Segunda-feira · 21 de setembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,11",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "TSC Backa Topola vence o GFK Dubocica",
+      "m": "Resultado final",
+      "o": "1,11"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,88",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "TSC Backa Topola vence o GFK Dubocica",
+      "m": "Resultado final",
+      "o": "1,11"
+     },
+     {
+      "h": "19:00",
+      "j": "Petrolul Ploiesti vence o Csikszereda",
+      "m": "Resultado final",
+      "o": "1,69"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "4,82",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Spartak Subotica vence o Vozdovac",
+      "m": "Resultado final",
+      "o": "1,65"
+     },
+     {
+      "h": "19:00",
+      "j": "Tristan Suarez vence o Atletico Atlanta",
+      "m": "Resultado final",
+      "o": "1,73"
+     },
+     {
+      "h": "19:00",
+      "j": "Petrolul Ploiesti vence o Csikszereda",
+      "m": "Resultado final",
+      "o": "1,69"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,32",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Portugal vence o País de Gales",
+      "m": "Resultado final",
+      "o": "1,22"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Áustria vence o Israel",
+      "m": "Resultado final",
+      "o": "1,32"
+     },
+     {
+      "h": "19:30",
+      "d": "SEX",
+      "j": "Girona vence o Albacete",
+      "m": "Resultado final",
+      "o": "1,44"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-09-20",
   "rotulo": "Domingo · 20 de setembro de 2026",
   "boletins": [

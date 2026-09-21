@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-09-21T01:58:19+01:00",
+ "atualizado": "2026-09-21T02:43:11+01:00",
  "dia": "2026-09-21",
  "rotulo": "Segunda-feira · 21 de setembro de 2026",
  "titulo": "Apostas de hoje",
- "provisorio": true,
- "aviso": "Geradas à meia-noite: hoje não há jogos nas competições seguidas, por isso não há odds para mostrar. Ao início da manhã a rotina verifica de novo, com as odds da Betclic caso surjam jogos.",
- "pausa": "As principais ligas e taças (Liga Portugal, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie, Liga dos Campeões, Liga Europa, Liga Conferência, Taça de Portugal, Carabao Cup) pararam depois de 20 de setembro por causa dos jogos das seleções e só voltam entre 10 e 11 de outubro.",
+ "provisorio": false,
+ "aviso": "",
+ "pausa": "As ligas principais pararam para as seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga, Ligue 1 e Eredivisie a 9; Premier League, Serie A e Escócia a 10). Até lá há amigáveis de seleções (hoje começam) e a Liga das Nações a partir de 24 de setembro.",
  "ontem": [
   {
    "t": "Aposta simples segura",
@@ -23,16 +23,238 @@
    "d": "Falhou: Leeds vence o Crystal Palace (0-0); Como vence o Frosinone (Frosinone 2-0) · 0 certas, 2 por jogar"
   }
  ],
- "hoje": [],
- "proximos": [],
+ "hoje": [
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "15:00",
+     "j": "TSC Backa Topola vence o GFK Dubocica",
+     "m": "Resultado final",
+     "o": "1,11"
+    }
+   ],
+   "total": "1,11",
+   "rodape": "Uma seleção"
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "15:00",
+     "j": "TSC Backa Topola vence o GFK Dubocica",
+     "m": "Resultado final",
+     "o": "1,11"
+    },
+    {
+     "h": "19:00",
+     "j": "Petrolul Ploiesti vence o Csikszereda",
+     "m": "Resultado final",
+     "o": "1,69"
+    }
+   ],
+   "total": "1,88",
+   "rodape": "2 seleções"
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "legs": [
+    {
+     "h": "19:00",
+     "j": "Spartak Subotica vence o Vozdovac",
+     "m": "Resultado final",
+     "o": "1,65"
+    },
+    {
+     "h": "19:00",
+     "j": "Tristan Suarez vence o Atletico Atlanta",
+     "m": "Resultado final",
+     "o": "1,73"
+    },
+    {
+     "h": "19:00",
+     "j": "Petrolul Ploiesti vence o Csikszereda",
+     "m": "Resultado final",
+     "o": "1,69"
+    }
+   ],
+   "total": "4,82",
+   "rodape": "3 seleções · falhar uma perde tudo"
+  }
+ ],
+ "proximos": [
+  {
+   "c": "t4",
+   "t": "Múltipla dos próximos dias",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "19:45",
+     "j": "Portugal vence o País de Gales",
+     "m": "Resultado final",
+     "o": "1,22",
+     "d": "QUI"
+    },
+    {
+     "h": "19:45",
+     "j": "Áustria vence o Israel",
+     "m": "Resultado final",
+     "o": "1,32",
+     "d": "QUI"
+    },
+    {
+     "h": "19:30",
+     "j": "Girona vence o Albacete",
+     "m": "Resultado final",
+     "o": "1,44",
+     "d": "SEX"
+    }
+   ],
+   "total": "2,32",
+   "rodape": "3 seleções · qui e sex"
+  }
+ ],
  "amanha": [],
  "fora": [
   [
-   "Sem jogos relevantes hoje nem nos próximos dias",
-   "Confirmado por pesquisa: Premier League, Primeira Liga, La Liga, Serie A, Bundesliga, Ligue 1 e Eredivisie sem jornada; Liga dos Campeões, Liga Europa e Liga Conferência só voltam em outubro (jornada 2); Taça de Portugal só na 3.ª eliminatória a 18-19 de outubro; Carabao Cup já disputou a 3.ª ronda a 7 e 14 de setembro, sem jogos agora."
+   "Javor–Naftagas Elemir (1,12)",
+   "o Naftagas mudou de nome para Proleter 023 e não há dados desta época; entra só o TSC Backa Topola, com dados mais sólidos."
+  ],
+  [
+   "Metalac–Graficar Beograd (1,76)",
+   "o Graficar venceu 4 dos 5 confrontos diretos e o Metalac não ganhou nenhum."
+  ],
+  [
+   "Liechtenstein–Lituânia (1,23 na Lituânia)",
+   "só há confrontos diretos antigos (2011 a 2013), sem forma recente fiável."
+  ],
+  [
+   "Noruega–Dinamarca (1,69)",
+   "sem dados fiáveis de forma e lesões encontrados nesta execução."
+  ],
+  [
+   "Independiente Medellín–Jaguares (1,26)",
+   "sem dados fiáveis de forma e lesões: as pesquisas devolveram a jornada anterior."
+  ],
+  [
+   "Liga dos Campeões feminina (Arsenal F. 1,05, Chelsea F. 1,03, Barcelona F. 1,01)",
+   "competição feminina, fora das seguidas, e com odds mínimas."
+  ],
+  [
+   "Bundesliga, LaLiga, Ligue 1, Premier League, Serie A, Eredivisie",
+   "sem jogos até 9 a 11 de outubro; a Liga dos Campeões volta a 13 de outubro e a Liga Conferência a 15."
+  ],
+  [
+   "Cobertura da Betclic",
+   "consultados 41 países e cerca de 100 competições; os amigáveis de seleções começam hoje e a Liga das Nações só a 24 de setembro."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-09-21",
+   "rotulo": "Segunda-feira · 21 de setembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,11",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "15:00",
+       "j": "TSC Backa Topola vence o GFK Dubocica",
+       "m": "Resultado final",
+       "o": "1,11"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,88",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "15:00",
+       "j": "TSC Backa Topola vence o GFK Dubocica",
+       "m": "Resultado final",
+       "o": "1,11"
+      },
+      {
+       "h": "19:00",
+       "j": "Petrolul Ploiesti vence o Csikszereda",
+       "m": "Resultado final",
+       "o": "1,69"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "4,82",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:00",
+       "j": "Spartak Subotica vence o Vozdovac",
+       "m": "Resultado final",
+       "o": "1,65"
+      },
+      {
+       "h": "19:00",
+       "j": "Tristan Suarez vence o Atletico Atlanta",
+       "m": "Resultado final",
+       "o": "1,73"
+      },
+      {
+       "h": "19:00",
+       "j": "Petrolul Ploiesti vence o Csikszereda",
+       "m": "Resultado final",
+       "o": "1,69"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "2,32",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Portugal vence o País de Gales",
+       "m": "Resultado final",
+       "o": "1,22"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Áustria vence o Israel",
+       "m": "Resultado final",
+       "o": "1,32"
+      },
+      {
+       "h": "19:30",
+       "d": "SEX",
+       "j": "Girona vence o Albacete",
+       "m": "Resultado final",
+       "o": "1,44"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-09-20",
    "rotulo": "Domingo · 20 de setembro de 2026",
@@ -270,7 +492,7 @@
   "ganhos": 3,
   "pernas": 12,
   "pernas_ok": 6,
-  "dias": 2,
+  "dias": 3,
   "odd_media": "1,39",
   "tipos": [
    {
@@ -278,28 +500,28 @@
     "dec": 2,
     "pct": 50,
     "nome": "Aposta simples segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 1,
     "dec": 2,
     "pct": 50,
     "nome": "Múltipla segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 0,
     "dec": 2,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 1,
     "dec": 1,
     "pct": 100,
     "nome": "Múltipla dos próximos dias",
-    "pend": 0
+    "pend": 1
    }
   ],
   "mercados": [
@@ -343,6 +565,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Segunda-feira, 21 de setembro",
+    "pend": 4
+   },
    {
     "ok": 2,
     "dec": 3,
