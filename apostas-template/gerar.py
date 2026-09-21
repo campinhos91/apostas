@@ -74,6 +74,10 @@ def avisos(d):
         if not 2 <= len(hoje["t2"]["legs"]) <= 3: out.append("t2 deve ter 2 ou 3 seleções")
         if num(total(hoje["t2"])) > 2.5: out.append("t2 passa de 2,5 de odd total")
     if "t3" in hoje and len(hoje["t3"]["legs"]) < 3: out.append("t3 deve ter 3 ou mais seleções")
+    if not d.get("sem_boletins_motivo"):
+        for c, nome in (("t1", "Aposta simples segura"), ("t2", "Múltipla segura"), ("t3", "Múltipla arriscada")):
+            if c not in hoje: out.append(f"falta o boletim '{nome}': faz sempre um de cada por dia (alarga a outras ligas e seleções); só se não houver mesmo jogos com odd disponível é que se preenche 'sem_boletins_motivo'")
+        if not any(b["c"] == "t4" for b in d.get("proximos", [])): out.append("falta a 'Múltipla dos próximos dias': faz sempre um de cada por dia (alarga a outras ligas e seleções)")
     for b in d.get("hoje", []) + d.get("proximos", []):
         jogos = [l["j"].split(" vence ")[0].split("–")[0] for l in b["legs"]]
         if len(set(jogos)) != len(jogos): out.append(f"{b['c']}: jogos repetidos dentro do boletim")
