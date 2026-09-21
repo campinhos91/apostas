@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-21T06:47:24+01:00",
+ "atualizado": "2026-09-21T17:56:37+01:00",
  "dia": "2026-09-21",
  "rotulo": "Segunda-feira · 21 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -170,14 +170,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,11",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 0 certas",
      "legs": [
       {
        "h": "15:00",
        "j": "TSC Backa Topola vence o GFK Dubocica",
        "m": "Resultado final",
-       "o": "1,11"
+       "o": "1,11",
+       "r": "no",
+       "x": "0-0"
       }
      ]
     },
@@ -185,14 +187,16 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,16",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "15:00",
        "j": "TSC Backa Topola vence o GFK Dubocica",
        "m": "Resultado final",
-       "o": "1,11"
+       "o": "1,11",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "19:00",
@@ -500,26 +504,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 7,
+  "decididos": 9,
   "ganhos": 3,
-  "pernas": 12,
+  "pernas": 13,
   "pernas_ok": 6,
   "dias": 3,
-  "odd_media": "1,39",
+  "odd_media": "1,37",
   "tipos": [
    {
     "ok": 1,
-    "dec": 2,
-    "pct": 50,
+    "dec": 3,
+    "pct": 33,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
-    "dec": 2,
-    "pct": 50,
+    "dec": 3,
+    "pct": 33,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
@@ -539,8 +543,8 @@
   "mercados": [
    {
     "ok": 4,
-    "dec": 9,
-    "pct": 44,
+    "dec": 10,
+    "pct": 40,
     "nome": "Resultado final"
    },
    {
@@ -559,8 +563,8 @@
   "faixas": [
    {
     "ok": 3,
-    "dec": 4,
-    "pct": 75,
+    "dec": 5,
+    "pct": 60,
     "nome": "Odd até 1,25"
    },
    {
@@ -579,10 +583,10 @@
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 2,
+    "pct": 0,
     "nome": "Segunda-feira, 21 de setembro",
-    "pend": 4
+    "pend": 2
    },
    {
     "ok": 2,

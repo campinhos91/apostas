@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,11",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 0 certas",
     "legs": [
      {
       "h": "15:00",
       "j": "TSC Backa Topola vence o GFK Dubocica",
       "m": "Resultado final",
-      "o": "1,11"
+      "o": "1,11",
+      "r": "no",
+      "x": "0-0"
      }
     ]
    },
@@ -22,14 +24,16 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,16",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "15:00",
       "j": "TSC Backa Topola vence o GFK Dubocica",
       "m": "Resultado final",
-      "o": "1,11"
+      "o": "1,11",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "19:00",
