@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-09-21T02:43:11+01:00",
+ "atualizado": "2026-09-21T02:57:41+01:00",
  "dia": "2026-09-21",
  "rotulo": "Segunda-feira · 21 de setembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As ligas principais pararam para as seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga, Ligue 1 e Eredivisie a 9; Premier League, Serie A e Escócia a 10). Até lá há amigáveis de seleções (hoje começam) e a Liga das Nações a partir de 24 de setembro.",
+ "pausa": "As ligas principais pararam para as seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga, Ligue 1 e Eredivisie a 9; Premier League, Serie A e Escócia a 10). Até lá há amigáveis de seleções e a Liga das Nações a partir de 24 de setembro.",
  "ontem": [
   {
    "t": "Aposta simples segura",
@@ -51,14 +51,20 @@
      "o": "1,11"
     },
     {
+     "h": "19:30",
+     "j": "Spezia vence o VIS Pesaro",
+     "m": "Resultado final",
+     "o": "1,15"
+    },
+    {
      "h": "19:00",
      "j": "Petrolul Ploiesti vence o Csikszereda",
      "m": "Resultado final",
      "o": "1,69"
     }
    ],
-   "total": "1,88",
-   "rodape": "2 seleções"
+   "total": "2,16",
+   "rodape": "3 seleções"
   },
   {
    "c": "t3",
@@ -124,35 +130,35 @@
  "fora": [
   [
    "Javor–Naftagas Elemir (1,12)",
-   "o Naftagas mudou de nome para Proleter 023 e não há dados desta época; entra só o TSC Backa Topola, com dados mais sólidos."
+   "o Naftagas mudou de nome para Proleter 023 em julho de 2026; a Betclic ainda usa o nome antigo, o que gera confusão sobre a equipa em causa."
   ],
   [
-   "Metalac–Graficar Beograd (1,76)",
-   "o Graficar venceu 4 dos 5 confrontos diretos e o Metalac não ganhou nenhum."
+   "Metalac GM–Graficar Beograd (1,76)",
+   "o Graficar venceu 4 dos últimos 6 confrontos diretos e o Metalac nenhum, mas a odd da Betclic favorece o Metalac como mandante — dados contraditórios."
   ],
   [
-   "Liechtenstein–Lituânia (1,23 na Lituânia)",
-   "só há confrontos diretos antigos (2011 a 2013), sem forma recente fiável."
+   "Oțelul Galați–Corvinul Hunedoara (2,18)",
+   "Oțelul é 13.º classificado e o Corvinul só venceu 1 dos últimos 5 jogos; sem vantagem clara para nenhum dos lados."
   ],
   [
-   "Noruega–Dinamarca (1,69)",
-   "sem dados fiáveis de forma e lesões encontrados nesta execução."
+   "Bournemouth U21–Stoke City U21 (1,52)",
+   "competição sub-21 (Premier League 2), sem dados fiáveis de forma encontrados."
   ],
   [
-   "Independiente Medellín–Jaguares (1,26)",
-   "sem dados fiáveis de forma e lesões: as pesquisas devolveram a jornada anterior."
+   "FC Porto F.–SC Braga F. (2,28)",
+   "campeonato feminino português, odds equilibradas e sem dados suficientes de forma."
   ],
   [
-   "Liga dos Campeões feminina (Arsenal F. 1,05, Chelsea F. 1,03, Barcelona F. 1,01)",
-   "competição feminina, fora das seguidas, e com odds mínimas."
+   "Vizela Sub-23–Farense Sub-23 e Leiria Sub-23–Gil Vicente Sub-23",
+   "Liga Next Gen (sub-23), sem dados fiáveis de forma disponíveis."
   ],
   [
    "Bundesliga, LaLiga, Ligue 1, Premier League, Serie A, Eredivisie",
-   "sem jogos até 9 a 11 de outubro; a Liga dos Campeões volta a 13 de outubro e a Liga Conferência a 15."
+   "sem jogos até 9 a 11 de outubro (pausa de seleções); a Liga dos Campeões volta a 13 de outubro e a Liga Conferência a 15."
   ],
   [
    "Cobertura da Betclic",
-   "consultados 41 países e cerca de 100 competições; os amigáveis de seleções começam hoje e a Liga das Nações só a 24 de setembro."
+   "consultadas as competições da lista (exceto 3 competições femininas: Liga dos Campeões Feminina, Bundesliga Feminina e Super League Feminina inglesa); Liga Portugal Betclic sem jogos disponíveis na página (pausa de seleções)."
   ]
  ],
  "historico": [
@@ -178,7 +184,7 @@
     {
      "t": "Múltipla segura",
      "c": "t2",
-     "total": "1,88",
+     "total": "2,16",
      "e": "pendente",
      "d": "",
      "legs": [
@@ -187,6 +193,12 @@
        "j": "TSC Backa Topola vence o GFK Dubocica",
        "m": "Resultado final",
        "o": "1,11"
+      },
+      {
+       "h": "19:30",
+       "j": "Spezia vence o VIS Pesaro",
+       "m": "Resultado final",
+       "o": "1,15"
       },
       {
        "h": "19:00",
