@@ -1,136 +1,35 @@
 {
- "atualizado": "2026-09-21T01:52:22+01:00",
- "dia": "2026-09-20",
- "rotulo": "Domingo · 20 de setembro de 2026",
+ "atualizado": "2026-09-21T01:58:19+01:00",
+ "dia": "2026-09-21",
+ "rotulo": "Segunda-feira · 21 de setembro de 2026",
  "titulo": "Apostas de hoje",
- "provisorio": false,
- "aviso": "",
- "pausa": "Hoje é o último dia de jogos: as principais ligas só voltam entre 9 e 10 de outubro.",
+ "provisorio": true,
+ "aviso": "Geradas à meia-noite: hoje não há jogos nas competições seguidas, por isso não há odds para mostrar. Ao início da manhã a rotina verifica de novo, com as odds da Betclic caso surjam jogos.",
+ "pausa": "As principais ligas e taças (Liga Portugal, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie, Liga dos Campeões, Liga Europa, Liga Conferência, Taça de Portugal, Carabao Cup) pararam depois de 20 de setembro por causa dos jogos das seleções e só voltam entre 10 e 11 de outubro.",
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Sporting 2-2 Arouca: a vitória do Sporting falhou"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Feyenoord vence o Utrecht (3-0)"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Nottingham Forest 0-1 Coventry e Sporting 2-2 Arouca: falharam as duas pernas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Feyenoord vence o Utrecht (3-0); AZ vence o Telstar (vitória do AZ); Manchester City vence o Sunderland (5-3)"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Everton 1-0 Ipswich (ambas marcam falhou) e Forest 0-1 Coventry falharam; Newcastle 2-1 Hull e Sporting–Arouca 2-2 (mais de 2,5) saíram certas"
-  },
-  {
-   "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Os quatro jogos são hoje e ainda não foram disputados"
+   "d": "Falhou: Leeds vence o Crystal Palace (0-0); Como vence o Frosinone (Frosinone 2-0) · 0 certas, 2 por jogar"
   }
  ],
- "hoje": [
-  {
-   "c": "t1",
-   "t": "Aposta simples segura",
-   "risco": "baixo",
-   "legs": [
-    {
-     "h": "11:15",
-     "j": "Feyenoord vence o Utrecht",
-     "m": "Resultado final",
-     "o": "1,23"
-    }
-   ],
-   "total": "1,23",
-   "rodape": "Uma seleção"
-  },
-  {
-   "c": "t2",
-   "t": "Múltipla segura",
-   "risco": "médio",
-   "legs": [
-    {
-     "h": "11:15",
-     "j": "Feyenoord vence o Utrecht",
-     "m": "Resultado final",
-     "o": "1,23"
-    },
-    {
-     "h": "13:30",
-     "j": "AZ vence o Telstar",
-     "m": "Resultado final",
-     "o": "1,20"
-    },
-    {
-     "h": "14:00",
-     "j": "Manchester City vence o Sunderland",
-     "m": "Resultado final",
-     "o": "1,31"
-    }
-   ],
-   "total": "1,93",
-   "rodape": "3 seleções"
-  },
-  {
-   "c": "t3",
-   "t": "Múltipla arriscada",
-   "risco": "alto",
-   "legs": [
-    {
-     "h": "14:00",
-     "j": "Leeds vence o Crystal Palace",
-     "m": "Resultado final",
-     "o": "1,66"
-    },
-    {
-     "h": "14:00",
-     "j": "Como vence o Frosinone",
-     "m": "Resultado final",
-     "o": "1,43"
-    },
-    {
-     "h": "17:30",
-     "j": "Villarreal vence o Levante",
-     "m": "Resultado final",
-     "o": "1,48"
-    },
-    {
-     "h": "19:45",
-     "j": "Milan vence o Lecce",
-     "m": "Resultado final",
-     "o": "1,23"
-    }
-   ],
-   "total": "4,32",
-   "rodape": "4 seleções · falhar uma perde tudo"
-  }
- ],
+ "hoje": [],
  "proximos": [],
  "amanha": [],
  "fora": [
   [
-   "Vitória SC–Moreirense (1,49)",
-   "o Vitória perdeu quatro dos primeiros seis jogos da Liga e o Moreirense vem de uma vitória por 3-1."
-  ],
-  [
-   "Juventus–Atalanta (1,65)",
-   "a Juventus tem várias baixas (Yildiz, Thuram, Locatelli) e vem de uma derrota com o Sassuolo."
-  ],
-  [
-   "Porto–Benfica (2,70 / 2,60)",
-   "clássico sem favorito claro."
-  ],
-  [
-   "Bournemouth–Liverpool (2,93 / 2,10) e Atlético–Real Madrid (3,18 / 1,95)",
-   "sem favorito claro nas odds."
-  ],
-  [
-   "Bundesliga e Ligue 1",
-   "sem jogos hoje: as duas voltam a 9 de outubro."
-  ],
-  [
-   "Competições não consultadas",
-   "Liga dos Campeões, Liga Europa, Liga Conferência e Liga das Nações não têm jogos na Betclic; Taças, Championship e ligas secundárias não foram consultadas."
+   "Sem jogos relevantes hoje nem nos próximos dias",
+   "Confirmado por pesquisa: Premier League, Primeira Liga, La Liga, Serie A, Bundesliga, Ligue 1 e Eredivisie sem jornada; Liga dos Campeões, Liga Europa e Liga Conferência só voltam em outubro (jornada 2); Taça de Portugal só na 3.ª eliminatória a 18-19 de outubro; Carabao Cup já disputou a 3.ª ronda a 7 e 14 de setembro, sem jogos agora."
   ]
  ],
  "historico": [
