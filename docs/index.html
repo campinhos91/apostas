@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="pt-PT">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1E7B4F">
+<meta name="color-scheme" content="light dark">
+<title>Apostas do dia</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<style>
+:root{--bg:#EEF1EC;--wash:#F6F8F4;--card:#FFFFFF;--ink:#13231B;--soft:#5C6B62;--grey:#9AA79F;--hair:#DCE3DC;--pitch:#1E7B4F;--pitch-soft:#E1F0E7;--warn:#B4552F;--glow:rgba(198,97,63,.16);--shadow:0 1px 0 rgba(19,35,27,.04),0 12px 32px -16px rgba(19,35,27,.28);--serif:Georgia,"Times New Roman",serif;--mono:ui-monospace,"SF Mono","Roboto Mono",Menlo,Consolas,monospace}
+@media(prefers-color-scheme:dark){:root{--bg:#0B1310;--wash:#0F1915;--card:#14211B;--ink:#E9F1EB;--soft:#95A69C;--grey:#5E6E65;--hair:#22332A;--pitch:#4CC38A;--pitch-soft:#173325;--warn:#E8875F;--glow:rgba(232,135,95,.2);--shadow:0 12px 32px -16px rgba(0,0,0,.7)}}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{background:var(--bg)}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding-bottom:calc(72px + env(safe-area-inset-bottom,0px))}
+main{max-width:680px;margin:0 auto;padding:0 16px}
+.top{background:var(--wash);border-bottom:1px solid var(--hair);padding:calc(18px + env(safe-area-inset-top,0px)) 0 18px}
+.top .in{max-width:680px;margin:0 auto;padding:0 16px}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 0 12px}
+.date{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);margin:0}
+.ref{appearance:none;border:1px solid var(--hair);background:var(--card);color:var(--ink);border-radius:999px;padding:6px 12px;font:600 12px var(--mono);cursor:pointer}
+.ref:active{transform:scale(.97)}
+.ref[disabled]{opacity:.55}
+h1{font-family:var(--serif);font-weight:700;font-size:34px;line-height:1.1;margin:0 0 4px;text-wrap:balance}
+.upd{font-family:var(--mono);font-size:11px;color:var(--soft);margin:0}
+.sum{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:16px}
+.sum.c3{grid-template-columns:repeat(3,1fr)}
+.sum a,.sum div{background:var(--card);border:1px solid var(--hair);border-radius:16px;padding:10px 12px;display:flex;flex-direction:column;gap:2px;text-decoration:none;color:inherit}
+.sum small{font-size:11.5px;color:var(--soft)}
+.sum b{font-family:var(--mono);font-size:19px;line-height:1.2;font-weight:600;color:var(--pitch);font-variant-numeric:tabular-nums}
+.sum .w b,.sum .p b{color:var(--warn)}.sum .n b{color:var(--soft)}
+.aviso{margin:16px 0 0;padding:12px 14px;border-radius:16px;background:var(--glow);color:var(--ink);font-size:13.5px;border:1px solid var(--hair)}
+.aviso b{color:var(--warn)}
+.head{display:flex;flex-direction:column;gap:2px;margin:28px 0 14px}
+h2{font-family:var(--serif);font-weight:700;font-size:22px;margin:0}
+.src{font-size:12.5px;color:var(--soft)}
+.tk{background:var(--card);border-radius:22px;box-shadow:var(--shadow);border:1px solid var(--hair);overflow:hidden;margin:0 0 14px;scroll-margin-top:12px}
+.tk header{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:18px 18px 10px}
+.tk h3{font-size:15px;font-weight:600;margin:0}
+.risk{font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.08em;background:var(--pitch-soft);color:var(--pitch);border-radius:999px;padding:4px 10px;white-space:nowrap}
+.t3 .risk{background:var(--glow);color:var(--warn)}
+.tk ul{list-style:none;margin:0;padding:0 18px 12px}
+.tk li.l{display:grid;grid-template-columns:52px 1fr auto;gap:10px;align-items:center;padding:10px 0;border-top:1px dashed var(--hair)}
+.tk li.l:first-child{border-top:0}
+.tm{font-family:var(--mono);font-size:12px;background:var(--wash);border-radius:8px;padding:4px 6px;text-align:center;font-weight:500}
+.tm u{display:block;text-decoration:none;text-transform:uppercase;letter-spacing:.06em;font-size:9.5px;color:var(--soft)}
+.lg b{display:block;font-weight:500;line-height:1.3}
+.lg small{display:block;color:var(--soft);font-size:12.5px;line-height:1.4}
+.od{font-family:var(--mono);font-size:16px;font-weight:600;background:var(--pitch-soft);color:var(--pitch);border-radius:999px;padding:4px 12px;font-variant-numeric:tabular-nums}
+.t3 .od{background:var(--glow);color:var(--warn)}
+.foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:0 10px 10px;padding:14px 16px;border-radius:14px;background:var(--pitch-soft)}
+.t3 .foot{background:var(--glow)}
+.foot>span{font-size:12.5px;color:var(--soft);max-width:11em}
+.tt{text-align:right}
+.tt small{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--soft)}
+.tt b{font-family:var(--mono);font-size:28px;line-height:1.1;font-weight:600;color:var(--pitch);font-variant-numeric:tabular-nums}
+.t3 .tt b{color:var(--warn)}
+.tk li.r{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;padding:12px 0;border-top:1px dashed var(--hair)}
+.tk li.r:first-child{border-top:0}
+.cnt{font-family:var(--mono);font-size:12px;color:var(--soft);white-space:nowrap}
+.st{font-family:var(--mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;border-radius:999px;padding:4px 10px;white-space:nowrap}
+.st.g{background:var(--pitch-soft);color:var(--pitch)}.st.p{background:var(--glow);color:var(--warn)}.st.n{background:var(--wash);color:var(--soft)}
+.prev .od{background:var(--wash);color:var(--ink)}
+.calm{color:var(--soft);margin:22px 0}
+.note{margin:26px 0 0;color:var(--soft);font-size:12.5px}
+.hh{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.hh b{font-weight:600;margin-right:auto}
+.hi{padding:16px 18px;border-top:1px dashed var(--hair)}.hi:first-child{border-top:0}
+.hl{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-direction:column;gap:2px;font-size:13px;color:var(--soft)}
+.hl li{display:block;padding:0;border:0}.hl li:before{content:"\00b7\00a0\00a0"}
+.hl li.ok{color:var(--pitch)}.hl li.no{color:var(--warn)}
+.hl em{font-style:normal;font-family:var(--mono);font-size:12px}
+.hi .od{font-size:14px;padding:3px 10px}
+.hi small.dd{display:block;color:var(--soft);font-size:12.5px;margin-top:6px}
+.sr{display:grid;grid-template-columns:minmax(0,1fr) 44px;gap:6px 14px;align-items:center;padding:12px 18px;border-top:1px dashed var(--hair)}
+.sr:first-child{border-top:0}
+.sl b{display:block;font-weight:600}.sl small{display:block;color:var(--soft);font-size:12.5px}
+.sb{grid-column:1/-1;grid-row:2;height:8px;border-radius:999px;background:var(--wash);border:1px solid var(--hair);overflow:hidden}
+.sb i{display:block;height:100%;background:var(--pitch);border-radius:999px}
+.sp{font-family:var(--mono);font-size:16px;font-weight:600;text-align:right;font-variant-numeric:tabular-nums}
+.pn{margin:0;padding:6px 18px 14px;font-size:12.5px;color:var(--soft)}
+nav{position:fixed;left:0;right:0;bottom:0;background:var(--card);border-top:1px solid var(--hair);display:flex;justify-content:center;padding-bottom:env(safe-area-inset-bottom,0px);z-index:5}
+nav .in{display:flex;width:100%;max-width:680px}
+nav button{flex:1;appearance:none;background:none;border:0;border-top:3px solid transparent;font:600 13px system-ui,sans-serif;color:var(--soft);padding:14px 4px 13px;cursor:pointer}
+nav button[aria-selected="true"]{color:var(--ink);border-top-color:var(--pitch)}
+nav button:focus-visible,.ref:focus-visible{outline:2px solid var(--pitch);outline-offset:-2px}
+.err{margin:26px 0;padding:16px;border-radius:16px;background:var(--card);border:1px solid var(--hair);color:var(--soft)}
+[hidden]{display:none!important}
+</style>
+</head>
+<body>
+<div class="top"><div class="in">
+  <div class="bar"><p class="date" id="date">A carregar…</p><button class="ref" id="ref" type="button">Atualizar</button></div>
+  <h1 id="h1">Apostas do dia</h1>
+  <p class="upd" id="upd"></p>
+  <div id="sum"></div>
+</div></div>
+<main id="app"><p class="calm">A carregar as apostas…</p></main>
+<nav><div class="in" role="tablist" aria-label="Secções">
+  <button role="tab" data-p="hoje" aria-selected="true">Hoje</button>
+  <button role="tab" data-p="hist" aria-selected="false">Histórico</button>
+  <button role="tab" data-p="est" aria-selected="false">Estatísticas</button>
+</div></nav>
+<script>
+(function(){
+"use strict";
+var DATA_URL="data/apostas.json", D=null, aba="hoje", ultimo=0, temDados=false;
+var $=function(id){return document.getElementById(id)};
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
+function hojeISO(){var d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")}
+var MESES=["janeiro","fevereiro","março","abril","maio","junho","julho","agosto","setembro","outubro","novembro","dezembro"],SEM=["Domingo","Segunda-feira","Terça-feira","Quarta-feira","Quinta-feira","Sexta-feira","Sábado"];
+function rotuloHoje(){var d=new Date();return SEM[d.getDay()]+" · "+d.getDate()+" de "+MESES[d.getMonth()]+" de "+d.getFullYear()}
+var EST={ganho:["g","Ganho"],perdido:["p","Perdido"],adiado:["n","Adiado"],"nao verificado":["n","Não verificado"],"não verificado":["n","Não verificado"],pendente:["n","Pendente"]};
+function pill(e){var x=EST[e]||["n",e||"—"];return '<span class="st '+x[0]+'">'+x[1]+'</span>'}
+function risco(r){return r?'<span class="risk">'+esc(r)+'</span>':""}
+function leg(l){return '<li class="l"><span class="tm">'+(l.d?'<u>'+esc(l.d)+'</u>':"")+esc(l.h)+'</span><span class="lg"><b>'+esc(l.j)+'</b><small>'+esc(l.m)+'</small></span><span class="od">'+esc(l.o)+'</span></li>'}
+function card(b){return '<article class="tk '+esc(b.c)+'" id="'+esc(b.c)+'"><header><h3>'+esc(b.t)+'</h3>'+risco(b.risco)+'</header><ul>'+b.legs.map(leg).join("")+'</ul><div class="foot"><span>'+esc(b.rodape)+'</span><div class="tt"><small>Odd total</small><b>'+esc(b.total)+'</b></div></div></article>'}
+function head(t,s){return '<div class="head"><h2>'+esc(t)+'</h2>'+(s?'<span class="src">'+esc(s)+'</span>':"")+'</div>'}
+function resumo(D){
+  var l=D.hoje.concat(D.proximos.filter(function(b){return b.c==="t4"}));
+  var nomes={t1:"Simples",t2:"Segura",t3:"Arriscada",t4:"Próximos dias"};
+  if(!l.length)return "";
+  return '<div class="sum'+(l.length===3?" c3":"")+'">'+l.map(function(b){return '<a href="#'+esc(b.c)+'" data-go="'+esc(b.c)+'" class="'+(b.c==="t3"?"w":"")+'"><small>'+nomes[b.c]+'</small><b>'+esc(b.total)+'</b></a>'}).join("")+'</div>'
+}
+function ontem(D){
+  if(!D.ontem||!D.ontem.length)return '<article class="tk"><header><h3>Como correram as apostas de ontem</h3></header><ul><li class="r"><span class="lg"><b>Sem apostas de ontem para verificar</b></span></li></ul></article>';
+  var g=D.ontem.filter(function(r){return r.e==="ganho"}).length;
+  return '<article class="tk"><header><h3>Como correram as apostas de ontem</h3><span class="cnt">'+g+' de '+D.ontem.length+' ganhos</span></header><ul>'+D.ontem.map(function(r){return '<li class="r"><span class="lg"><b>'+esc(r.t)+'</b><small>'+esc(r.d)+'</small></span>'+pill(r.e)+'</li>'}).join("")+'</ul></article>'
+}
+function amanha(D){
+  if(!D.amanha||!D.amanha.length)return "";
+  return '<article class="tk prev"><header><h3>Previsão para amanhã</h3><span class="risk">provisório</span></header><ul>'+D.amanha.map(function(l){return '<li class="l"><span class="tm">'+(l.d?'<u>'+esc(l.d)+'</u>':"")+esc(l.h)+'</span><span class="lg"><b>'+esc(l.j)+'</b><small>'+esc(l.m)+(l.n?' · '+esc(l.n):"")+'</small></span><span class="od">'+esc(l.o)+'</span></li>'}).join("")+'</ul><p class="pn">Provisório: odds, lesões e equipas podem mudar. A rotina de amanhã confirma tudo. Não é um boletim.</p></article>'
+}
+function fora(D){
+  if(!D.fora||!D.fora.length)return "";
+  return '<article class="tk"><header><h3>Ficaram de fora</h3></header><ul>'+D.fora.map(function(f){return '<li class="r"><span class="lg"><b>'+esc(f[0])+'</b><small>'+esc(f[1])+'</small></span></li>'}).join("")+'</ul></article>'
+}
+function vHoje(){
+  var h="",hoje=hojeISO();
+  if(D.dia!==hoje){h+='<div class="aviso"><b>Ainda sem apostas de hoje.</b> As apostas novas aparecem aqui logo que forem geradas, a partir da meia-noite. A mostrar as de '+esc(D.rotulo)+'.</div>'}
+  else if(D.provisorio){h+='<div class="aviso"><b>Provisório.</b> '+esc(D.aviso||"Estas apostas foram geradas à meia-noite com odds ainda por confirmar. A rotina das 08:00 confirma tudo com as odds da Betclic.")+'</div>'}
+  h+=ontem(D);
+  if(D.hoje.length){
+    h+=head(D.dia===hoje?"Apostas de hoje":"Apostas de "+D.rotulo,"Odds da Betclic, a confirmar")+D.hoje.map(card).join("")
+  }else{h+=head("Apostas de hoje","")+'<p class="calm">Hoje não há jogos com dados suficientes.</p>'}
+  if(D.proximos.length||D.pausa){h+=head("Próximos dias",D.pausa||"")+D.proximos.map(card).join("")}
+  h+=amanha(D)+fora(D);
+  h+='<p class="note">Análise informativa, não é garantia de resultado. Aposta com responsabilidade.</p>';
+  return h
+}
+function vHist(){
+  var h=D.historico||[];
+  if(!h.length)return '<p class="calm">Ainda não há apostas no histórico.</p>';
+  var bs=[];h.forEach(function(e){e.boletins.forEach(function(b){bs.push(b)})});
+  var g=bs.filter(function(b){return b.e==="ganho"}).length,p=bs.filter(function(b){return b.e==="perdido"}).length;
+  var s='<div class="sum" style="margin:18px 0 6px"><div><small>Boletins</small><b>'+bs.length+'</b></div><div><small>Ganhos</small><b>'+g+'</b></div><div class="p"><small>Perdidos</small><b>'+p+'</b></div><div class="n"><small>Por verificar</small><b>'+(bs.length-g-p)+'</b></div></div>';
+  s+=h.map(function(e){
+    return head(e.rotulo.replace(" · ",", "),"")+'<article class="tk">'+e.boletins.map(function(b){
+      return '<div class="hi"><div class="hh"><b>'+esc(b.t)+'</b><span class="od">'+esc(b.total)+'</span>'+pill(b.e)+'</div><ul class="hl">'+b.legs.map(function(l){
+        return '<li class="'+esc(l.r||"")+'">'+(l.d?esc(l.d)+" ":"")+esc(l.h)+' · '+esc(l.j)+' · '+esc(l.m)+' · '+esc(l.o)+(l.x?' <em>'+esc(l.x)+'</em>':"")+'</li>'}).join("")+'</ul>'+(b.d?'<small class="dd">'+esc(b.d)+'</small>':"")+'</div>'}).join("")+'</article>'}).join("");
+  return s+'<p class="note">Só ganho ou perdido, sem valores. Cada dia é acrescentado automaticamente pela rotina.</p>'
+}
+function linha(x,perna){
+  var sub=x.dec?(perna?x.ok+" certas em "+x.dec:x.ok+" "+(x.ok===1?"ganho":"ganhos")+" em "+x.dec+" decididos"):"sem dados ainda";
+  if(x.pend)sub+=(x.dec?" · ":"")+x.pend+" por decidir";
+  return '<div class="sr"><div class="sl"><b>'+esc(x.nome)+'</b><small>'+esc(sub)+'</small></div><span class="sp">'+(x.pct==null?"–":x.pct+"%")+'</span><div class="sb" aria-hidden="true"><i style="width:'+(x.pct||0)+'%"></i></div></div>'
+}
+function bloco(t,ls,perna,nota){return head(t,"")+'<article class="tk">'+ls.map(function(x){return linha(x,perna)}).join("")+(nota?'<p class="pn">'+esc(nota)+'</p>':"")+'</article>'}
+function vEst(){
+  var e=D.estatisticas;
+  if(!e)return '<p class="calm">Ainda não há apostas para estatísticas.</p>';
+  var pc=function(a,b){return b?Math.round(100*a/b)+"%":"–"};
+  var s='<div class="sum" style="margin:18px 0 6px"><div><small>Decididos</small><b>'+e.decididos+'</b></div><div><small>Ganhos</small><b>'+pc(e.ganhos,e.decididos)+'</b></div><div><small>Pernas certas</small><b>'+pc(e.pernas_ok,e.pernas)+'</b></div><div class="n"><small>Dias</small><b>'+e.dias+'</b></div></div>';
+  s+=bloco("Por tipo de boletim",e.tipos,false,"Um boletim só conta como decidido quando ganha ou perde; os pendentes ficam de fora.");
+  s+=bloco("Por mercado",e.mercados,true,"Conta cada jogo e mercado uma só vez, mesmo que apareça em vários boletins.");
+  s+=bloco("Por faixa de odd",e.faixas,true,"");
+  s+=bloco("Por dia",e.por_dia,false,"");
+  s+='<p class="note">Amostra pequena: '+e.pernas+' pernas decididas em '+e.dias+' dias'+(e.odd_media?' (odd média das pernas '+esc(e.odd_media)+')':"")+'. As percentagens só descrevem o que já aconteceu e não garantem nada sobre os próximos jogos. Sem valores nem contas de dinheiro.</p>';
+  return s
+}
+function render(){
+  if(!D){return}
+  var hoje=hojeISO();
+  $("date").textContent=D.dia===hoje?D.rotulo:rotuloHoje();
+  $("h1").textContent=D.dia===hoje?D.titulo:"Apostas do dia";
+  $("sum").innerHTML=D.dia===hoje?resumo(D):"";
+  var t=new Date(D.atualizado);
+  $("upd").textContent=isNaN(t)?"":"Atualizado às "+String(t.getHours()).padStart(2,"0")+":"+String(t.getMinutes()).padStart(2,"0")+(D.provisorio&&D.dia===hoje?" · provisório":"");
+  $("app").innerHTML=aba==="hoje"?vHoje():aba==="hist"?vHist():vEst();
+  document.querySelectorAll("nav button").forEach(function(b){b.setAttribute("aria-selected",b.dataset.p===aba?"true":"false")});
+}
+function carregar(manual){
+  var b=$("ref");b.disabled=true;
+  return fetch(DATA_URL+"?t="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json()}).then(function(j){D=j;temDados=true;ultimo=Date.now();render()})
+   .catch(function(){if(!temDados)$("app").innerHTML='<div class="err">Não consegui carregar as apostas. Confirma a ligação e toca em Atualizar.</div>'})
+   .then(function(){b.disabled=false})
+}
+$("ref").addEventListener("click",function(){carregar(true)});
+document.querySelectorAll("nav button").forEach(function(b){b.addEventListener("click",function(){aba=b.dataset.p;render();window.scrollTo(0,0)})});
+$("sum").addEventListener("click",function(ev){var a=ev.target.closest("a[data-go]");if(!a)return;ev.preventDefault();aba="hoje";render();var el=document.getElementById(a.dataset.go);if(el)el.scrollIntoView({behavior:"smooth",block:"start"})});
+document.addEventListener("visibilitychange",function(){if(!document.hidden&&Date.now()-ultimo>120000)carregar()});
+/* à meia-noite passa para o dia novo e, enquanto os dados forem de outro dia, volta a tentar de 5 em 5 minutos */
+function agendar(){var n=new Date(),m=new Date(n.getFullYear(),n.getMonth(),n.getDate()+1,0,0,20);setTimeout(function(){carregar();agendar()},m-n)}
+setInterval(function(){if(!document.hidden&&D&&D.dia!==hojeISO())carregar()},300000);
+agendar();carregar();
+if("serviceWorker" in navigator)window.addEventListener("load",function(){navigator.serviceWorker.register("sw.js").catch(function(){})});
+})();
+</script>
+</body>
+</html>

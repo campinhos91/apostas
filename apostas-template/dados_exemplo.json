@@ -1,0 +1,170 @@
+{
+ "data": "Sábado · 19 de setembro de 2026",
+ "titulo": "Apostas de hoje",
+ "link": "https://claude.ai/artifact/RXD8vt1vLqh6C9uDuGt7w8",
+ "pausa": "Depois de domingo, as principais ligas só voltam entre 9 e 10 de outubro.",
+ "ontem": [],
+ "hoje": [
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "20:30",
+     "j": "Sporting vence o Arouca",
+     "m": "Resultado final",
+     "o": "1,18"
+    }
+   ]
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "17:30",
+     "j": "Nottingham Forest vence o Coventry",
+     "m": "Resultado final",
+     "o": "1,59"
+    },
+    {
+     "h": "20:30",
+     "j": "Sporting vence o Arouca",
+     "m": "Resultado final",
+     "o": "1,18"
+    }
+   ]
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "extra": "falhar uma perde tudo",
+   "legs": [
+    {
+     "h": "15:00",
+     "j": "Everton–Ipswich",
+     "m": "Ambas marcam",
+     "o": "1,59"
+    },
+    {
+     "h": "15:00",
+     "j": "Newcastle–Hull",
+     "m": "Ambas marcam",
+     "o": "1,56"
+    },
+    {
+     "h": "17:30",
+     "j": "Nottingham Forest vence o Coventry",
+     "m": "Resultado final",
+     "o": "1,59"
+    },
+    {
+     "h": "20:30",
+     "j": "Sporting–Arouca",
+     "m": "Mais de 2,5 golos",
+     "o": "1,30"
+    }
+   ]
+  }
+ ],
+ "proximos": [
+  {
+   "c": "t4",
+   "t": "Múltipla dos próximos dias",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "11:15",
+     "j": "Feyenoord vence o Utrecht",
+     "m": "Resultado final",
+     "o": "1,23",
+     "d": "DOM"
+    },
+    {
+     "h": "13:30",
+     "j": "AZ vence o Telstar",
+     "m": "Resultado final",
+     "o": "1,20",
+     "d": "DOM"
+    },
+    {
+     "h": "14:00",
+     "j": "Manchester City vence o Sunderland",
+     "m": "Resultado final",
+     "o": "1,26",
+     "d": "DOM"
+    },
+    {
+     "h": "19:45",
+     "j": "Milan vence o Lecce",
+     "m": "Resultado final",
+     "o": "1,23",
+     "d": "DOM"
+    }
+   ]
+  }
+ ],
+ "fora": [
+  [
+   "Barcelona em Sevilha (1,22)",
+   "guarda-redes Joan García é dúvida e o Sevilla ganhou 4-1 nesse campo na época passada."
+  ],
+  [
+   "Ajax–Excelsior (1,18)",
+   "o Excelsior ganhou 2-1 na última visita a Amesterdão e o Ajax joga sem Blind e Bouwman."
+  ],
+  [
+   "PSG em Marselha (1,34)",
+   "joga sem Hakimi, no Vélodrome, e está em 8.º lugar."
+  ],
+  [
+   "Como em Frosinone (1,46)",
+   "o Frosinone ganhou quatro dos últimos cinco confrontos diretos."
+  ],
+  [
+   "Porto–Benfica, domingo (2,73 / 2,63)",
+   "sem favorito claro."
+  ],
+  [
+   "Competições não consultadas",
+   "Liga dos Campeões, Liga Europa, Liga Conferência, Taça de Portugal e Liga das Nações."
+  ]
+ ],
+ "amanha": [
+  {
+   "h": "11:15",
+   "d": "DOM",
+   "j": "Feyenoord vence o Utrecht",
+   "m": "Resultado final",
+   "o": "1,23",
+   "n": "Utrecht sem vitórias desde dezembro e com vários jogadores em dúvida"
+  },
+  {
+   "h": "13:30",
+   "d": "DOM",
+   "j": "AZ vence o Telstar",
+   "m": "Resultado final",
+   "o": "1,20",
+   "n": "Telstar é 13.º; AZ sem Kasius e Resink e vem de um empate e de uma derrota"
+  },
+  {
+   "h": "14:00",
+   "d": "DOM",
+   "j": "Manchester City vence o Sunderland",
+   "m": "Resultado final",
+   "o": "1,26",
+   "n": "City ganhou os últimos cinco jogos; Sunderland sem três jogadores e com um suspenso"
+  },
+  {
+   "h": "19:45",
+   "d": "DOM",
+   "j": "Milan vence o Lecce",
+   "m": "Resultado final",
+   "o": "1,23",
+   "n": "Milan ganhou os últimos quatro em casa contra o Lecce (9-0); Lecce sem dois defesas por castigo"
+  }
+ ]
+}

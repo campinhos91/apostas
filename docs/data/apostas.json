@@ -1,0 +1,463 @@
+{
+ "atualizado": "2026-09-21T01:52:22+01:00",
+ "dia": "2026-09-20",
+ "rotulo": "Domingo · 20 de setembro de 2026",
+ "titulo": "Apostas de hoje",
+ "provisorio": false,
+ "aviso": "",
+ "pausa": "Hoje é o último dia de jogos: as principais ligas só voltam entre 9 e 10 de outubro.",
+ "ontem": [
+  {
+   "t": "Aposta simples segura",
+   "e": "perdido",
+   "d": "Sporting 2-2 Arouca: a vitória do Sporting falhou"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "perdido",
+   "d": "Nottingham Forest 0-1 Coventry e Sporting 2-2 Arouca: falharam as duas pernas"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "perdido",
+   "d": "Everton 1-0 Ipswich (ambas marcam falhou) e Forest 0-1 Coventry falharam; Newcastle 2-1 Hull e Sporting–Arouca 2-2 (mais de 2,5) saíram certas"
+  },
+  {
+   "t": "Múltipla dos próximos dias",
+   "e": "nao verificado",
+   "d": "Os quatro jogos são hoje e ainda não foram disputados"
+  }
+ ],
+ "hoje": [
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "11:15",
+     "j": "Feyenoord vence o Utrecht",
+     "m": "Resultado final",
+     "o": "1,23"
+    }
+   ],
+   "total": "1,23",
+   "rodape": "Uma seleção"
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "11:15",
+     "j": "Feyenoord vence o Utrecht",
+     "m": "Resultado final",
+     "o": "1,23"
+    },
+    {
+     "h": "13:30",
+     "j": "AZ vence o Telstar",
+     "m": "Resultado final",
+     "o": "1,20"
+    },
+    {
+     "h": "14:00",
+     "j": "Manchester City vence o Sunderland",
+     "m": "Resultado final",
+     "o": "1,31"
+    }
+   ],
+   "total": "1,93",
+   "rodape": "3 seleções"
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "legs": [
+    {
+     "h": "14:00",
+     "j": "Leeds vence o Crystal Palace",
+     "m": "Resultado final",
+     "o": "1,66"
+    },
+    {
+     "h": "14:00",
+     "j": "Como vence o Frosinone",
+     "m": "Resultado final",
+     "o": "1,43"
+    },
+    {
+     "h": "17:30",
+     "j": "Villarreal vence o Levante",
+     "m": "Resultado final",
+     "o": "1,48"
+    },
+    {
+     "h": "19:45",
+     "j": "Milan vence o Lecce",
+     "m": "Resultado final",
+     "o": "1,23"
+    }
+   ],
+   "total": "4,32",
+   "rodape": "4 seleções · falhar uma perde tudo"
+  }
+ ],
+ "proximos": [],
+ "amanha": [],
+ "fora": [
+  [
+   "Vitória SC–Moreirense (1,49)",
+   "o Vitória perdeu quatro dos primeiros seis jogos da Liga e o Moreirense vem de uma vitória por 3-1."
+  ],
+  [
+   "Juventus–Atalanta (1,65)",
+   "a Juventus tem várias baixas (Yildiz, Thuram, Locatelli) e vem de uma derrota com o Sassuolo."
+  ],
+  [
+   "Porto–Benfica (2,70 / 2,60)",
+   "clássico sem favorito claro."
+  ],
+  [
+   "Bournemouth–Liverpool (2,93 / 2,10) e Atlético–Real Madrid (3,18 / 1,95)",
+   "sem favorito claro nas odds."
+  ],
+  [
+   "Bundesliga e Ligue 1",
+   "sem jogos hoje: as duas voltam a 9 de outubro."
+  ],
+  [
+   "Competições não consultadas",
+   "Liga dos Campeões, Liga Europa, Liga Conferência e Liga das Nações não têm jogos na Betclic; Taças, Championship e ligas secundárias não foram consultadas."
+  ]
+ ],
+ "historico": [
+  {
+   "dia": "2026-09-20",
+   "rotulo": "Domingo · 20 de setembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,23",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Feyenoord vence o Utrecht (3-0)",
+     "legs": [
+      {
+       "h": "11:15",
+       "j": "Feyenoord vence o Utrecht",
+       "m": "Resultado final",
+       "o": "1,23",
+       "r": "ok",
+       "x": "3-0"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,93",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Feyenoord vence o Utrecht (3-0); AZ vence o Telstar (vitória do AZ); Manchester City vence o Sunderland (5-3)",
+     "legs": [
+      {
+       "h": "11:15",
+       "j": "Feyenoord vence o Utrecht",
+       "m": "Resultado final",
+       "o": "1,23",
+       "r": "ok",
+       "x": "3-0"
+      },
+      {
+       "h": "13:30",
+       "j": "AZ vence o Telstar",
+       "m": "Resultado final",
+       "o": "1,20",
+       "r": "ok",
+       "x": "vitória do AZ"
+      },
+      {
+       "h": "14:00",
+       "j": "Manchester City vence o Sunderland",
+       "m": "Resultado final",
+       "o": "1,31",
+       "r": "ok",
+       "x": "5-3"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "4,32",
+     "e": "perdido",
+     "d": "Falhou: Leeds vence o Crystal Palace (0-0); Como vence o Frosinone (Frosinone 2-0) · 0 certas, 2 por jogar",
+     "legs": [
+      {
+       "h": "14:00",
+       "j": "Leeds vence o Crystal Palace",
+       "m": "Resultado final",
+       "o": "1,66",
+       "r": "no",
+       "x": "0-0"
+      },
+      {
+       "h": "14:00",
+       "j": "Como vence o Frosinone",
+       "m": "Resultado final",
+       "o": "1,43",
+       "r": "no",
+       "x": "Frosinone 2-0"
+      },
+      {
+       "h": "17:30",
+       "j": "Villarreal vence o Levante",
+       "m": "Resultado final",
+       "o": "1,48",
+       "r": "no",
+       "x": "1-1"
+      },
+      {
+       "h": "19:45",
+       "j": "Milan vence o Lecce",
+       "m": "Resultado final",
+       "o": "1,23",
+       "r": "ok",
+       "x": "3-0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "dia": "2026-09-19",
+   "rotulo": "Sábado · 19 de setembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,18",
+     "e": "perdido",
+     "d": "Sporting 2-2 Arouca: a vitória do Sporting falhou",
+     "legs": [
+      {
+       "h": "20:30",
+       "j": "Sporting vence o Arouca",
+       "m": "Resultado final",
+       "o": "1,18",
+       "r": "no",
+       "x": "2-2"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,88",
+     "e": "perdido",
+     "d": "Nottingham Forest 0-1 Coventry e Sporting 2-2 Arouca: falharam as duas pernas",
+     "legs": [
+      {
+       "h": "17:30",
+       "j": "Nottingham Forest vence o Coventry",
+       "m": "Resultado final",
+       "o": "1,59",
+       "r": "no",
+       "x": "0-1"
+      },
+      {
+       "h": "20:30",
+       "j": "Sporting vence o Arouca",
+       "m": "Resultado final",
+       "o": "1,18",
+       "r": "no",
+       "x": "2-2"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "5,13",
+     "e": "perdido",
+     "d": "Everton 1-0 Ipswich (ambas marcam falhou) e Forest 0-1 Coventry falharam; Newcastle 2-1 Hull e Sporting–Arouca 2-2 (mais de 2,5) saíram certas",
+     "legs": [
+      {
+       "h": "15:00",
+       "j": "Everton–Ipswich",
+       "m": "Ambas marcam",
+       "o": "1,59",
+       "r": "no",
+       "x": "1-0"
+      },
+      {
+       "h": "15:00",
+       "j": "Newcastle–Hull",
+       "m": "Ambas marcam",
+       "o": "1,56",
+       "r": "ok",
+       "x": "2-1"
+      },
+      {
+       "h": "17:30",
+       "j": "Nottingham Forest vence o Coventry",
+       "m": "Resultado final",
+       "o": "1,59",
+       "r": "no",
+       "x": "0-1"
+      },
+      {
+       "h": "20:30",
+       "j": "Sporting–Arouca",
+       "m": "Mais de 2,5 golos",
+       "o": "1,30",
+       "r": "ok",
+       "x": "2-2"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "2,29",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Feyenoord vence o Utrecht (3-0); AZ vence o Telstar (vitória do AZ); Manchester City vence o Sunderland (5-3); Milan vence o Lecce (3-0)",
+     "legs": [
+      {
+       "h": "11:15",
+       "d": "DOM",
+       "j": "Feyenoord vence o Utrecht",
+       "m": "Resultado final",
+       "o": "1,23",
+       "r": "ok",
+       "x": "3-0"
+      },
+      {
+       "h": "13:30",
+       "d": "DOM",
+       "j": "AZ vence o Telstar",
+       "m": "Resultado final",
+       "o": "1,20",
+       "r": "ok",
+       "x": "vitória do AZ"
+      },
+      {
+       "h": "14:00",
+       "d": "DOM",
+       "j": "Manchester City vence o Sunderland",
+       "m": "Resultado final",
+       "o": "1,26",
+       "r": "ok",
+       "x": "5-3"
+      },
+      {
+       "h": "19:45",
+       "d": "DOM",
+       "j": "Milan vence o Lecce",
+       "m": "Resultado final",
+       "o": "1,23",
+       "r": "ok",
+       "x": "3-0"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "estatisticas": {
+  "decididos": 7,
+  "ganhos": 3,
+  "pernas": 12,
+  "pernas_ok": 6,
+  "dias": 2,
+  "odd_media": "1,39",
+  "tipos": [
+   {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Aposta simples segura",
+    "pend": 0
+   },
+   {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Múltipla segura",
+    "pend": 0
+   },
+   {
+    "ok": 0,
+    "dec": 2,
+    "pct": 0,
+    "nome": "Múltipla arriscada",
+    "pend": 0
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Múltipla dos próximos dias",
+    "pend": 0
+   }
+  ],
+  "mercados": [
+   {
+    "ok": 4,
+    "dec": 9,
+    "pct": 44,
+    "nome": "Resultado final"
+   },
+   {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Ambas marcam"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Mais de 2,5 golos"
+   }
+  ],
+  "faixas": [
+   {
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
+    "nome": "Odd até 1,25"
+   },
+   {
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
+    "nome": "Odd de 1,26 a 1,45"
+   },
+   {
+    "ok": 1,
+    "dec": 5,
+    "pct": 20,
+    "nome": "Odd acima de 1,45"
+   }
+  ],
+  "por_dia": [
+   {
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
+    "nome": "Domingo, 20 de setembro",
+    "pend": 0
+   },
+   {
+    "ok": 1,
+    "dec": 4,
+    "pct": 25,
+    "nome": "Sábado, 19 de setembro",
+    "pend": 0
+   }
+  ]
+ }
+}

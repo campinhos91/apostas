@@ -1,0 +1,6 @@
+.claude/
+.DS_Store
+*.bak
+.lock
+*.tmp
+__pycache__/

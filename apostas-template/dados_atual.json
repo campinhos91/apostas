@@ -1,0 +1,128 @@
+{
+ "data": "Domingo · 20 de setembro de 2026",
+ "titulo": "Apostas de hoje",
+ "link": "https://claude.ai/artifact/RXD8vt1vLqh6C9uDuGt7w8",
+ "pausa": "Hoje é o último dia de jogos: as principais ligas só voltam entre 9 e 10 de outubro.",
+ "ontem": [
+  {
+   "t": "Aposta simples segura",
+   "e": "perdido",
+   "d": "Sporting 2-2 Arouca: a vitória do Sporting falhou"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "perdido",
+   "d": "Nottingham Forest 0-1 Coventry e Sporting 2-2 Arouca: falharam as duas pernas"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "perdido",
+   "d": "Everton 1-0 Ipswich (ambas marcam falhou) e Forest 0-1 Coventry falharam; Newcastle 2-1 Hull e Sporting–Arouca 2-2 (mais de 2,5) saíram certas"
+  },
+  {
+   "t": "Múltipla dos próximos dias",
+   "e": "nao verificado",
+   "d": "Os quatro jogos são hoje e ainda não foram disputados"
+  }
+ ],
+ "hoje": [
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "11:15",
+     "j": "Feyenoord vence o Utrecht",
+     "m": "Resultado final",
+     "o": "1,23"
+    }
+   ]
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "11:15",
+     "j": "Feyenoord vence o Utrecht",
+     "m": "Resultado final",
+     "o": "1,23"
+    },
+    {
+     "h": "13:30",
+     "j": "AZ vence o Telstar",
+     "m": "Resultado final",
+     "o": "1,20"
+    },
+    {
+     "h": "14:00",
+     "j": "Manchester City vence o Sunderland",
+     "m": "Resultado final",
+     "o": "1,31"
+    }
+   ]
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "legs": [
+    {
+     "h": "14:00",
+     "j": "Leeds vence o Crystal Palace",
+     "m": "Resultado final",
+     "o": "1,66"
+    },
+    {
+     "h": "14:00",
+     "j": "Como vence o Frosinone",
+     "m": "Resultado final",
+     "o": "1,43"
+    },
+    {
+     "h": "17:30",
+     "j": "Villarreal vence o Levante",
+     "m": "Resultado final",
+     "o": "1,48"
+    },
+    {
+     "h": "19:45",
+     "j": "Milan vence o Lecce",
+     "m": "Resultado final",
+     "o": "1,23"
+    }
+   ],
+   "extra": "falhar uma perde tudo"
+  }
+ ],
+ "proximos": [],
+ "amanha": [],
+ "fora": [
+  [
+   "Vitória SC–Moreirense (1,49)",
+   "o Vitória perdeu quatro dos primeiros seis jogos da Liga e o Moreirense vem de uma vitória por 3-1."
+  ],
+  [
+   "Juventus–Atalanta (1,65)",
+   "a Juventus tem várias baixas (Yildiz, Thuram, Locatelli) e vem de uma derrota com o Sassuolo."
+  ],
+  [
+   "Porto–Benfica (2,70 / 2,60)",
+   "clássico sem favorito claro."
+  ],
+  [
+   "Bournemouth–Liverpool (2,93 / 2,10) e Atlético–Real Madrid (3,18 / 1,95)",
+   "sem favorito claro nas odds."
+  ],
+  [
+   "Bundesliga e Ligue 1",
+   "sem jogos hoje: as duas voltam a 9 de outubro."
+  ],
+  [
+   "Competições não consultadas",
+   "Liga dos Campeões, Liga Europa, Liga Conferência e Liga das Nações não têm jogos na Betclic; Taças, Championship e ligas secundárias não foram consultadas."
+  ]
+ ]
+}
