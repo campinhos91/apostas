@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-21T20:57:26+01:00",
+ "atualizado": "2026-09-21T21:55:32+01:00",
  "dia": "2026-09-21",
  "rotulo": "Segunda-feira · 21 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -188,7 +188,7 @@
      "c": "t2",
      "total": "2,16",
      "e": "perdido",
-     "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 1 certa, 1 por jogar",
+     "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 2 certas",
      "legs": [
       {
        "h": "15:00",
@@ -210,7 +210,9 @@
        "h": "19:30",
        "j": "Spezia vence o VIS Pesaro",
        "m": "Resultado final",
-       "o": "1,15"
+       "o": "1,15",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     },
@@ -514,10 +516,10 @@
  "estatisticas": {
   "decididos": 10,
   "ganhos": 3,
-  "pernas": 16,
-  "pernas_ok": 7,
+  "pernas": 17,
+  "pernas_ok": 8,
   "dias": 3,
-  "odd_media": "1,43",
+  "odd_media": "1,41",
   "tipos": [
    {
     "ok": 1,
@@ -550,9 +552,9 @@
   ],
   "mercados": [
    {
-    "ok": 5,
-    "dec": 13,
-    "pct": 38,
+    "ok": 6,
+    "dec": 14,
+    "pct": 43,
     "nome": "Resultado final"
    },
    {
@@ -570,9 +572,9 @@
   ],
   "faixas": [
    {
-    "ok": 3,
-    "dec": 5,
-    "pct": 60,
+    "ok": 4,
+    "dec": 6,
+    "pct": 67,
     "nome": "Odd até 1,25"
    },
    {

@@ -25,7 +25,7 @@
     "c": "t2",
     "total": "2,16",
     "e": "perdido",
-    "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 1 certa, 1 por jogar",
+    "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 2 certas",
     "legs": [
      {
       "h": "15:00",
@@ -47,7 +47,9 @@
       "h": "19:30",
       "j": "Spezia vence o VIS Pesaro",
       "m": "Resultado final",
-      "o": "1,15"
+      "o": "1,15",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    },
