@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-21T17:56:37+01:00",
+ "atualizado": "2026-09-21T20:57:26+01:00",
  "dia": "2026-09-21",
  "rotulo": "Segunda-feira · 21 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -188,7 +188,7 @@
      "c": "t2",
      "total": "2,16",
      "e": "perdido",
-     "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 0 certas, 2 por jogar",
+     "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "15:00",
@@ -202,7 +202,9 @@
        "h": "19:00",
        "j": "Petrolul Ploiesti vence o Csikszereda",
        "m": "Resultado final",
-       "o": "1,69"
+       "o": "1,69",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "19:30",
@@ -216,26 +218,32 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "4,82",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Spartak Subotica vence o Vozdovac (0-2); Tristan Suarez vence o Atletico Atlanta (0-0) · 1 certa",
      "legs": [
       {
        "h": "19:00",
        "j": "Spartak Subotica vence o Vozdovac",
        "m": "Resultado final",
-       "o": "1,65"
+       "o": "1,65",
+       "r": "no",
+       "x": "0-2"
       },
       {
        "h": "19:00",
        "j": "Tristan Suarez vence o Atletico Atlanta",
        "m": "Resultado final",
-       "o": "1,73"
+       "o": "1,73",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "19:00",
        "j": "Petrolul Ploiesti vence o Csikszereda",
        "m": "Resultado final",
-       "o": "1,69"
+       "o": "1,69",
+       "r": "ok",
+       "x": "2-0"
       }
      ]
     },
@@ -504,12 +512,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 9,
+  "decididos": 10,
   "ganhos": 3,
-  "pernas": 13,
-  "pernas_ok": 6,
+  "pernas": 16,
+  "pernas_ok": 7,
   "dias": 3,
-  "odd_media": "1,37",
+  "odd_media": "1,43",
   "tipos": [
    {
     "ok": 1,
@@ -527,10 +535,10 @@
    },
    {
     "ok": 0,
-    "dec": 2,
+    "dec": 3,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
@@ -542,9 +550,9 @@
   ],
   "mercados": [
    {
-    "ok": 4,
-    "dec": 10,
-    "pct": 40,
+    "ok": 5,
+    "dec": 13,
+    "pct": 38,
     "nome": "Resultado final"
    },
    {
@@ -574,19 +582,19 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 1,
-    "dec": 5,
-    "pct": 20,
+    "ok": 2,
+    "dec": 8,
+    "pct": 25,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 2,
+    "dec": 3,
     "pct": 0,
     "nome": "Segunda-feira, 21 de setembro",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 2,

@@ -25,7 +25,7 @@
     "c": "t2",
     "total": "2,16",
     "e": "perdido",
-    "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 0 certas, 2 por jogar",
+    "d": "Falhou: TSC Backa Topola vence o GFK Dubocica (0-0) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "15:00",
@@ -39,7 +39,9 @@
       "h": "19:00",
       "j": "Petrolul Ploiesti vence o Csikszereda",
       "m": "Resultado final",
-      "o": "1,69"
+      "o": "1,69",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:30",
@@ -53,26 +55,32 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "4,82",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Spartak Subotica vence o Vozdovac (0-2); Tristan Suarez vence o Atletico Atlanta (0-0) · 1 certa",
     "legs": [
      {
       "h": "19:00",
       "j": "Spartak Subotica vence o Vozdovac",
       "m": "Resultado final",
-      "o": "1,65"
+      "o": "1,65",
+      "r": "no",
+      "x": "0-2"
      },
      {
       "h": "19:00",
       "j": "Tristan Suarez vence o Atletico Atlanta",
       "m": "Resultado final",
-      "o": "1,73"
+      "o": "1,73",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "19:00",
       "j": "Petrolul Ploiesti vence o Csikszereda",
       "m": "Resultado final",
-      "o": "1,69"
+      "o": "1,69",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
