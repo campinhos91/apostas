@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-09-22T03:11:03+01:00",
+ "atualizado": "2026-09-22T03:17:58+01:00",
  "dia": "2026-09-22",
  "rotulo": "Terça-feira · 22 de setembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As ligas principais continuam paradas para as seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga, Ligue 1 e Eredivisie a 9; Premier League, Serie A e Escócia a 10). Até lá há amigáveis de seleções, taças nacionais e a Liga das Nações a partir de 24 de setembro.",
+ "pausa": "As ligas principais continuam paradas para as seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga e Ligue 1 a 9; Premier League, Serie A e Escócia a 10). Até lá há taças nacionais e a Liga das Nações a partir de 24 de setembro.",
  "ontem": [
   {
    "t": "Aposta simples segura",
@@ -105,60 +105,7 @@
   }
  ],
  "amanha": [],
- "fora": [
-  [
-   "Independiente Santa Fe–Deportivo Cali (1,97)",
-   "Colômbia não consta da lista de competições autorizadas."
-  ],
-  [
-   "Gibraltar–São Tomé e Príncipe (1,24)",
-   "particular de seleções fora das competições autorizadas."
-  ],
-  [
-   "Real Madrid Castilla–Sant Andreu (1,71)",
-   "2.ª divisão espanhola (Primera RFEF), não é La Liga nem consta da lista autorizada."
-  ],
-  [
-   "RBC Roosendaal–VV Eemdijk (1,96)",
-   "futebol neerlandês fora da lista de competições autorizadas."
-  ],
-  [
-   "Gainsborough Trinity–Leamington (1,67)",
-   "liga não-profissional inglesa, fora da lista de competições autorizadas."
-  ],
-  [
-   "Worksop Town–AFC Telford United (1,83)",
-   "liga não-profissional inglesa, fora da lista de competições autorizadas."
-  ],
-  [
-   "US Biskra–JS Saoura (2,22)",
-   "odds muito equilibradas (2,22/2,53/2,65) na 1.ª Divisão argelina, sem favorito claro nem dados de forma fiáveis encontrados."
-  ],
-  [
-   "ACV Assen–Hoogeveen (1,22)",
-   "o ACV só venceu 1 dos últimos 5 jogos, o que contraria o favoritismo de 1,22 num dérbi da Drenthe (Taça neerlandesa) muito equilibrado."
-  ],
-  [
-   "GVVV–DVS'33 Ermelo (1,38)",
-   "GVVV perdeu os 4 jogos oficiais desta época e o DVS'33 ainda não venceu na Taça — dados fracos dos dois lados, sem vantagem clara."
-  ],
-  [
-   "Dagenham and Redbridge–Waltham Abbey (1,13)",
-   "Dagenham vem de 3 derrotas em 5 jogos e o Waltham Abbey (5 divisões abaixo) chega com 3 vitórias nos últimos 5, incluindo uma goleada de 7-0 na Taça — o favoritismo de 1,13 é contrariado pela forma recente."
-  ],
-  [
-   "América de Cali–Rionegro Águilas (1,53)",
-   "América de Cali só venceu 2 dos últimos 5 jogos (40%) e o Rionegro Águilas empatou 4 dos últimos 5 — favoritismo pouco sólido dado o registo do adversário."
-  ],
-  [
-   "Azerbaijão–Tajiquistão (1,63)",
-   "sem histórico de confrontos diretos entre as seleções e sem dados de forma fiáveis encontrados para o Tajiquistão."
-  ],
-  [
-   "Cobertura da Betclic",
-   "consultadas cerca de 45 competições da lista via WebFetch (sem browser disponível nesta execução); em Uruguai, Peru, Arábia Saudita, Uzbequistão, Costa Rica, Itália Série C (grupos A e B), Geórgia, Angola, França Ligue 2, Dinamarca 1.ª Divisão, Suécia, Finlândia, Liga Portugal Betclic e Taça de Portugal a página não mostrou a grelha de jogos (só menu ou mercado de vencedor da competição, provável carregamento via JavaScript); em Argentina (Primera e Nacional), Chile, Equador, Escócia Premiership, Alemanha 3.Liga, Inglaterra Championship e outras, os jogos devolvidos caíam fora da janela de 4 dias. Mercados de 'Mais de 2,5 golos' e 'Ambas marcam' não apareceram nas páginas de competição consultadas por WebFetch, por isso todos os boletins de hoje usam apenas 'Resultado final'."
-  ]
- ],
+ "fora": [],
  "historico": [
   {
    "dia": "2026-09-22",
