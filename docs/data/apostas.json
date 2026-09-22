@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-22T19:57:15+01:00",
+ "atualizado": "2026-09-22T21:57:43+01:00",
  "dia": "2026-09-22",
  "rotulo": "Terça-feira · 22 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -155,14 +155,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,04",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Arsenal vence o HB Køge (1-0)",
      "legs": [
       {
        "h": "20:00",
        "j": "Arsenal vence o HB Køge",
        "m": "Resultado final",
-       "o": "1,04"
+       "o": "1,04",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -170,20 +172,24 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,75",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Arsenal vence o HB Køge (1-0); Real Madrid vence o PSG (1-0)",
      "legs": [
       {
        "h": "20:00",
        "j": "Arsenal vence o HB Køge",
        "m": "Resultado final",
-       "o": "1,04"
+       "o": "1,04",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "20:00",
        "j": "Real Madrid vence o PSG",
        "m": "Resultado final",
-       "o": "1,68"
+       "o": "1,68",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -192,7 +198,7 @@
      "c": "t3",
      "total": "6,25",
      "e": "perdido",
-     "d": "Falhou: Bayern Munique vence o Manchester City (2-2) · 1 certa, 1 por jogar",
+     "d": "Falhou: Bayern Munique vence o Manchester City (2-2); Juventus vence o Benfica (1-2) · 1 certa",
      "legs": [
       {
        "h": "17:45",
@@ -214,7 +220,9 @@
        "h": "20:00",
        "j": "Juventus vence o Benfica",
        "m": "Resultado final",
-       "o": "1,59"
+       "o": "1,59",
+       "r": "no",
+       "x": "1-2"
       }
      ]
     },
@@ -602,26 +610,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 11,
-  "ganhos": 3,
-  "pernas": 19,
-  "pernas_ok": 9,
+  "decididos": 13,
+  "ganhos": 5,
+  "pernas": 22,
+  "pernas_ok": 11,
   "dias": 4,
   "odd_media": "1,47",
   "tipos": [
    {
-    "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
@@ -640,9 +648,9 @@
   ],
   "mercados": [
    {
-    "ok": 7,
-    "dec": 16,
-    "pct": 44,
+    "ok": 9,
+    "dec": 19,
+    "pct": 47,
     "nome": "Resultado final"
    },
    {
@@ -660,9 +668,9 @@
   ],
   "faixas": [
    {
-    "ok": 4,
-    "dec": 6,
-    "pct": 67,
+    "ok": 5,
+    "dec": 7,
+    "pct": 71,
     "nome": "Odd até 1,25"
    },
    {
@@ -672,19 +680,19 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 3,
-    "dec": 10,
-    "pct": 30,
+    "ok": 4,
+    "dec": 12,
+    "pct": 33,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Terça-feira, 22 de setembro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 0,
