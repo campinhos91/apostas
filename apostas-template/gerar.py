@@ -125,10 +125,11 @@ def avisos(d):
             if not ODD_REGEX.fullmatch(l["o"]):
                 out.append(f"odd mal formatada: {l['o']}")
 
-            # Validar competição autorizada
-            if comp_auth and "comp" in l:
-                comp_lower = l["comp"].lower()
-                if comp_lower not in comp_auth:
+            # Validar competição autorizada (toda perna tem de indicar 'comp' para ser aceite)
+            if comp_auth:
+                if "comp" not in l:
+                    out.append(f"{b['c']}: perna sem 'comp' indicado, não pode ser validada (jogo: {l['j']})")
+                elif l["comp"].lower() not in comp_auth:
                     out.append(f"{b['c']}: competição não autorizada '{l['comp']}' (jogo: {l['j']})")
 
     return out
