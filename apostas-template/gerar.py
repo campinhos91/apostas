@@ -132,6 +132,14 @@ def avisos(d):
                 elif l["comp"].lower() not in comp_auth:
                     out.append(f"{b['c']}: competição não autorizada '{l['comp']}' (jogo: {l['j']})")
 
+    # Validar competição autorizada também na previsão de amanhã (fora dos boletins t1-t4)
+    if comp_auth:
+        for l in d.get("amanha", []):
+            if "comp" not in l:
+                out.append(f"amanha: perna sem 'comp' indicado, não pode ser validada (jogo: {l['j']})")
+            elif l["comp"].lower() not in comp_auth:
+                out.append(f"amanha: competição não autorizada '{l['comp']}' (jogo: {l['j']})")
+
     return out
 
 # ---------------- histórico (separador da página) ----------------
