@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-22T02:33:07+01:00",
+ "atualizado": "2026-09-22T02:35:37+01:00",
  "dia": "2026-09-22",
  "rotulo": "Terça-feira · 22 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -29,6 +29,45 @@
   }
  ],
  "hoje": [
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "20:00",
+     "j": "Manchester City vence o Brighton",
+     "m": "Resultado final",
+     "o": "1,35",
+     "comp": "Premier League"
+    }
+   ],
+   "total": "1,35",
+   "rodape": "Uma seleção"
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "20:00",
+     "j": "Manchester City vence o Brighton",
+     "m": "Resultado final",
+     "o": "1,30",
+     "comp": "Premier League"
+    },
+    {
+     "h": "20:00",
+     "j": "Barcelona vence o Getafe",
+     "m": "Resultado final",
+     "o": "1,55",
+     "comp": "La Liga"
+    }
+   ],
+   "total": "2,02",
+   "rodape": "2 seleções"
+  },
   {
    "c": "t3",
    "t": "Múltipla arriscada",
@@ -150,6 +189,42 @@
    "dia": "2026-09-22",
    "rotulo": "Terça-feira · 22 de setembro de 2026",
    "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,35",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "20:00",
+       "j": "Manchester City vence o Brighton",
+       "m": "Resultado final",
+       "o": "1,35"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "2,02",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "20:00",
+       "j": "Manchester City vence o Brighton",
+       "m": "Resultado final",
+       "o": "1,30"
+      },
+      {
+       "h": "20:00",
+       "j": "Barcelona vence o Getafe",
+       "m": "Resultado final",
+       "o": "1,55"
+      }
+     ]
+    },
     {
      "t": "Múltipla arriscada",
      "c": "t3",
@@ -573,14 +648,14 @@
     "dec": 3,
     "pct": 33,
     "nome": "Aposta simples segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 1,
     "dec": 3,
     "pct": 33,
     "nome": "Múltipla segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 0,
@@ -643,7 +718,7 @@
     "dec": 0,
     "pct": null,
     "nome": "Terça-feira, 22 de setembro",
-    "pend": 2
+    "pend": 4
    },
    {
     "ok": 0,

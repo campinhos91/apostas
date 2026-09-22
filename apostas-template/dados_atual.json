@@ -28,6 +28,41 @@
  ],
  "hoje": [
   {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "20:00",
+     "j": "Manchester City vence o Brighton",
+     "m": "Resultado final",
+     "o": "1,35",
+     "comp": "Premier League"
+    }
+   ]
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "20:00",
+     "j": "Manchester City vence o Brighton",
+     "m": "Resultado final",
+     "o": "1,30",
+     "comp": "Premier League"
+    },
+    {
+     "h": "20:00",
+     "j": "Barcelona vence o Getafe",
+     "m": "Resultado final",
+     "o": "1,55",
+     "comp": "La Liga"
+    }
+   ]
+  },
+  {
    "c": "t3",
    "t": "Múltipla arriscada",
    "risco": "alto",
@@ -54,7 +89,6 @@
    ]
   }
  ],
- "sem_boletins_motivo": "Apostas de Roménia removidas por não estarem na lista de competições autorizadas",
  "proximos": [
   {
    "c": "t4",
