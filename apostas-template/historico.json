@@ -43,20 +43,24 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "6,25",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Bayern Munique vence o Manchester City (2-2) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "17:45",
       "j": "Bayern Munique vence o Manchester City",
       "m": "Resultado final",
-      "o": "1,89"
+      "o": "1,89",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "17:45",
       "j": "Inter Milão vence o Hacken",
       "m": "Resultado final",
-      "o": "2,08"
+      "o": "2,08",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "20:00",

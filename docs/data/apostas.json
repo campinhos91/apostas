@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-22T03:30:07+01:00",
+ "atualizado": "2026-09-22T19:57:15+01:00",
  "dia": "2026-09-22",
  "rotulo": "Terça-feira · 22 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -191,20 +191,24 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "6,25",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Bayern Munique vence o Manchester City (2-2) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "17:45",
        "j": "Bayern Munique vence o Manchester City",
        "m": "Resultado final",
-       "o": "1,89"
+       "o": "1,89",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "17:45",
        "j": "Inter Milão vence o Hacken",
        "m": "Resultado final",
-       "o": "2,08"
+       "o": "2,08",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "20:00",
@@ -598,12 +602,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 10,
+  "decididos": 11,
   "ganhos": 3,
-  "pernas": 17,
-  "pernas_ok": 8,
+  "pernas": 19,
+  "pernas_ok": 9,
   "dias": 4,
-  "odd_media": "1,41",
+  "odd_media": "1,47",
   "tipos": [
    {
     "ok": 1,
@@ -621,10 +625,10 @@
    },
    {
     "ok": 0,
-    "dec": 3,
+    "dec": 4,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
@@ -636,9 +640,9 @@
   ],
   "mercados": [
    {
-    "ok": 6,
-    "dec": 14,
-    "pct": 43,
+    "ok": 7,
+    "dec": 16,
+    "pct": 44,
     "nome": "Resultado final"
    },
    {
@@ -668,19 +672,19 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 2,
-    "dec": 8,
-    "pct": 25,
+    "ok": 3,
+    "dec": 10,
+    "pct": 30,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Terça-feira, 22 de setembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 0,
