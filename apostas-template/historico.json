@@ -6,43 +6,70 @@
    {
     "t": "Aposta simples segura",
     "c": "t1",
-    "total": "1,35",
+    "total": "1,04",
     "e": "pendente",
     "d": "",
     "legs": [
      {
       "h": "20:00",
-      "j": "Manchester City vence o Brighton",
+      "j": "Arsenal vence o HB Køge",
       "m": "Resultado final",
-      "o": "1,35"
+      "o": "1,04"
      }
     ]
    },
    {
     "t": "Múltipla segura",
     "c": "t2",
-    "total": "2,02",
+    "total": "1,75",
     "e": "pendente",
     "d": "",
     "legs": [
      {
       "h": "20:00",
-      "j": "Manchester City vence o Brighton",
+      "j": "Arsenal vence o HB Køge",
       "m": "Resultado final",
-      "o": "1,30"
+      "o": "1,04"
      },
      {
       "h": "20:00",
-      "j": "Barcelona vence o Getafe",
+      "j": "Real Madrid vence o PSG",
       "m": "Resultado final",
-      "o": "1,55"
+      "o": "1,68"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "6,25",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Bayern Munique vence o Manchester City",
+      "m": "Resultado final",
+      "o": "1,89"
+     },
+     {
+      "h": "17:45",
+      "j": "Inter Milão vence o Hacken",
+      "m": "Resultado final",
+      "o": "2,08"
+     },
+     {
+      "h": "20:00",
+      "j": "Juventus vence o Benfica",
+      "m": "Resultado final",
+      "o": "1,59"
      }
     ]
    },
    {
     "t": "Múltipla dos próximos dias",
     "c": "t4",
-    "total": "2,13",
+    "total": "2,09",
     "e": "pendente",
     "d": "",
     "legs": [
@@ -61,11 +88,11 @@
       "o": "1,26"
      },
      {
-      "h": "19:30",
-      "d": "SEX",
-      "j": "Girona vence o Albacete",
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Áustria vence o Israel",
       "m": "Resultado final",
-      "o": "1,41"
+      "o": "1,38"
      }
     ]
    }

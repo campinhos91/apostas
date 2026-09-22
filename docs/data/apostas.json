@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-22T03:24:19+01:00",
+ "atualizado": "2026-09-22T03:30:07+01:00",
  "dia": "2026-09-22",
  "rotulo": "Terça-feira · 22 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -36,13 +36,13 @@
    "legs": [
     {
      "h": "20:00",
-     "j": "Manchester City vence o Brighton",
+     "j": "Arsenal vence o HB Køge",
      "m": "Resultado final",
-     "o": "1,35",
-     "comp": "Premier League"
+     "o": "1,04",
+     "comp": "UEFA Champions League Women"
     }
    ],
-   "total": "1,35",
+   "total": "1,04",
    "rodape": "Uma seleção"
   },
   {
@@ -52,21 +52,51 @@
    "legs": [
     {
      "h": "20:00",
-     "j": "Manchester City vence o Brighton",
+     "j": "Arsenal vence o HB Køge",
      "m": "Resultado final",
-     "o": "1,30",
-     "comp": "Premier League"
+     "o": "1,04",
+     "comp": "UEFA Champions League Women"
     },
     {
      "h": "20:00",
-     "j": "Barcelona vence o Getafe",
+     "j": "Real Madrid vence o PSG",
      "m": "Resultado final",
-     "o": "1,55",
-     "comp": "La Liga"
+     "o": "1,68",
+     "comp": "UEFA Champions League Women"
     }
    ],
-   "total": "2,02",
+   "total": "1,75",
    "rodape": "2 seleções"
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "legs": [
+    {
+     "h": "17:45",
+     "j": "Bayern Munique vence o Manchester City",
+     "m": "Resultado final",
+     "o": "1,89",
+     "comp": "UEFA Champions League Women"
+    },
+    {
+     "h": "17:45",
+     "j": "Inter Milão vence o Hacken",
+     "m": "Resultado final",
+     "o": "2,08",
+     "comp": "UEFA Champions League Women"
+    },
+    {
+     "h": "20:00",
+     "j": "Juventus vence o Benfica",
+     "m": "Resultado final",
+     "o": "1,59",
+     "comp": "UEFA Champions League Women"
+    }
+   ],
+   "total": "6,25",
+   "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
  "proximos": [
@@ -92,16 +122,16 @@
      "comp": "Liga das Nações"
     },
     {
-     "h": "19:30",
-     "d": "SEX",
-     "j": "Girona vence o Albacete",
+     "h": "19:45",
+     "d": "QUI",
+     "j": "Áustria vence o Israel",
      "m": "Resultado final",
-     "o": "1,41",
-     "comp": "La Liga"
+     "o": "1,38",
+     "comp": "Liga das Nações"
     }
    ],
-   "total": "2,13",
-   "rodape": "3 seleções · quinta e sexta"
+   "total": "2,09",
+   "rodape": "3 seleções · todas no quinta"
   }
  ],
  "amanha": [
@@ -124,43 +154,70 @@
     {
      "t": "Aposta simples segura",
      "c": "t1",
-     "total": "1,35",
+     "total": "1,04",
      "e": "pendente",
      "d": "",
      "legs": [
       {
        "h": "20:00",
-       "j": "Manchester City vence o Brighton",
+       "j": "Arsenal vence o HB Køge",
        "m": "Resultado final",
-       "o": "1,35"
+       "o": "1,04"
       }
      ]
     },
     {
      "t": "Múltipla segura",
      "c": "t2",
-     "total": "2,02",
+     "total": "1,75",
      "e": "pendente",
      "d": "",
      "legs": [
       {
        "h": "20:00",
-       "j": "Manchester City vence o Brighton",
+       "j": "Arsenal vence o HB Køge",
        "m": "Resultado final",
-       "o": "1,30"
+       "o": "1,04"
       },
       {
        "h": "20:00",
-       "j": "Barcelona vence o Getafe",
+       "j": "Real Madrid vence o PSG",
        "m": "Resultado final",
-       "o": "1,55"
+       "o": "1,68"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "6,25",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:45",
+       "j": "Bayern Munique vence o Manchester City",
+       "m": "Resultado final",
+       "o": "1,89"
+      },
+      {
+       "h": "17:45",
+       "j": "Inter Milão vence o Hacken",
+       "m": "Resultado final",
+       "o": "2,08"
+      },
+      {
+       "h": "20:00",
+       "j": "Juventus vence o Benfica",
+       "m": "Resultado final",
+       "o": "1,59"
       }
      ]
     },
     {
      "t": "Múltipla dos próximos dias",
      "c": "t4",
-     "total": "2,13",
+     "total": "2,09",
      "e": "pendente",
      "d": "",
      "legs": [
@@ -179,11 +236,11 @@
        "o": "1,26"
       },
       {
-       "h": "19:30",
-       "d": "SEX",
-       "j": "Girona vence o Albacete",
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Áustria vence o Israel",
        "m": "Resultado final",
-       "o": "1,41"
+       "o": "1,38"
       }
      ]
     }
@@ -567,7 +624,7 @@
     "dec": 3,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 1,
@@ -623,7 +680,7 @@
     "dec": 0,
     "pct": null,
     "nome": "Terça-feira, 22 de setembro",
-    "pend": 3
+    "pend": 4
    },
    {
     "ok": 0,
