@@ -29,7 +29,7 @@ import json, sys, re, os, shutil, fcntl, tempfile
 from contextlib import contextmanager
 from decimal import Decimal, ROUND_HALF_UP
 from datetime import datetime, date, timedelta
-from functools import reduce
+from functools import reduce, lru_cache
 
 BASE = os.environ.get("APOSTAS_BASE", os.path.dirname(os.path.abspath(__file__)))  # APOSTAS_BASE e APOSTAS_COPIA só servem para testes
 TPL = os.path.join(BASE, "bilhetes.html")
@@ -44,6 +44,20 @@ DUR_MIN = 105  # minutos até um jogo se dar por terminado
 DIA_IDX = {"SEG": 0, "TER": 1, "QUA": 2, "QUI": 3, "SEX": 4, "SÁB": 5, "SAB": 5, "DOM": 6}
 MESES = {"janeiro": 1, "fevereiro": 2, "março": 3, "marco": 3, "abril": 4, "maio": 5, "junho": 6, "julho": 7, "agosto": 8, "setembro": 9, "outubro": 10, "novembro": 11, "dezembro": 12}
 ESTADOS = {"pendente": ("n", "Pendente"), "ganho": ("g", "Ganho"), "perdido": ("p", "Perdido"), "adiado": ("n", "Adiado"), "nao verificado": ("n", "Não verificado"), "não verificado": ("n", "Não verificado")}
+COMP_AUTORIZADAS = os.path.join(BASE, "competicoes_autorizadas.json")
+ODD_REGEX = re.compile(r"\d+,\d{2}")
+
+@lru_cache(maxsize=1)
+def carregar_competicoes():
+    """Carrega a lista de competições autorizadas (em cache)."""
+    if not os.path.exists(COMP_AUTORIZADAS):
+        return frozenset()
+    try:
+        with open(COMP_AUTORIZADAS, encoding="utf-8") as f:
+            data = json.load(f)
+        return frozenset(c.lower() for c in data.get("competicoes", []))
+    except (json.JSONDecodeError, IOError):
+        return frozenset()
 
 def num(s): return float(s.replace(",", "."))
 def fmt(x): return f"{x:.2f}".replace(".", ",")
@@ -53,35 +67,70 @@ def total(b):  # Decimal: sem erros de arredondamento de vírgula flutuante
 def rodape(b):
     n = len(b["legs"])
     base = "Uma seleção" if n == 1 else f"{n} seleções"
-    dias = []
+
+    # Extrair dias únicos mantendo ordem
+    dias_unicos = []
+    visto = set()
     for l in b["legs"]:
-        if l.get("d") and l["d"] not in dias: dias.append(l["d"])
-    if dias:
-        if len(dias) == 1: base += f" · todas no {DIAS.get(dias[0].upper(), dias[0].lower())}"
+        d = l.get("d")
+        if d and d not in visto:
+            dias_unicos.append(d)
+            visto.add(d)
+
+    if dias_unicos:
+        if len(dias_unicos) == 1:
+            base += f" · todas no {DIAS.get(dias_unicos[0].upper(), dias_unicos[0].lower())}"
         else:
-            nomes = [d.lower() for d in dias]
+            nomes = [DIAS.get(d.upper(), d.lower()) for d in dias_unicos]
             base += " · " + ", ".join(nomes[:-1]) + " e " + nomes[-1]
-    if b.get("extra"): base += " · " + b["extra"]
+
+    if b.get("extra"):
+        base += " · " + b["extra"]
+
     return base
 def resumo_label(c): return {"t1": "Simples", "t2": "Segura", "t3": "Arriscada", "t4": "Próximos dias"}.get(c, c)
 
 def avisos(d):
     out = []
+    comp_auth = carregar_competicoes()
     hoje = {b["c"]: b for b in d.get("hoje", [])}
+
+    # Validações de estrutura dos boletins
     if "t1" in hoje and len(hoje["t1"]["legs"]) != 1: out.append("t1 deve ter 1 seleção")
     if "t2" in hoje:
-        if not 2 <= len(hoje["t2"]["legs"]) <= 3: out.append("t2 deve ter 2 ou 3 seleções")
+        t2_legs = len(hoje["t2"]["legs"])
+        if not 2 <= t2_legs <= 3: out.append("t2 deve ter 2 ou 3 seleções")
         if num(total(hoje["t2"])) > 2.5: out.append("t2 passa de 2,5 de odd total")
     if "t3" in hoje and len(hoje["t3"]["legs"]) < 3: out.append("t3 deve ter 3 ou mais seleções")
+
+    # Validações de boletins obrigatórios
     if not d.get("sem_boletins_motivo"):
         for c, nome in (("t1", "Aposta simples segura"), ("t2", "Múltipla segura"), ("t3", "Múltipla arriscada")):
             if c not in hoje: out.append(f"falta o boletim '{nome}': faz sempre um de cada por dia (alarga a outras ligas e seleções); só se não houver mesmo jogos com odd disponível é que se preenche 'sem_boletins_motivo'")
-        if not any(b["c"] == "t4" for b in d.get("proximos", [])): out.append("falta a 'Múltipla dos próximos dias': faz sempre um de cada por dia (alarga a outras ligas e seleções)")
+        proximos = d.get("proximos", [])
+        if not any(b["c"] == "t4" for b in proximos): out.append("falta a 'Múltipla dos próximos dias': faz sempre um de cada por dia (alarga a outras ligas e seleções)")
+
+    # Validações de pernas
     for b in d.get("hoje", []) + d.get("proximos", []):
-        jogos = [l["j"].split(" vence ")[0].split("–")[0] for l in b["legs"]]
-        if len(set(jogos)) != len(jogos): out.append(f"{b['c']}: jogos repetidos dentro do boletim")
+        jogos_set = set()
         for l in b["legs"]:
-            if not re.fullmatch(r"\d+,\d{2}", l["o"]): out.append(f"odd mal formatada: {l['o']}")
+            # Extrair jogo para validação de duplicação
+            jogo = l["j"].split(" vence ")[0].split("–")[0]
+            if jogo in jogos_set:
+                out.append(f"{b['c']}: jogos repetidos dentro do boletim")
+                break
+            jogos_set.add(jogo)
+
+            # Validar odd
+            if not ODD_REGEX.fullmatch(l["o"]):
+                out.append(f"odd mal formatada: {l['o']}")
+
+            # Validar competição autorizada
+            if comp_auth and "comp" in l:
+                comp_lower = l["comp"].lower()
+                if comp_lower not in comp_auth:
+                    out.append(f"{b['c']}: competição não autorizada '{l['comp']}' (jogo: {l['j']})")
+
     return out
 
 # ---------------- histórico (separador da página) ----------------
