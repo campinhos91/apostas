@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-22T00:20:23+01:00",
+ "atualizado": "2026-09-22T02:33:07+01:00",
  "dia": "2026-09-22",
  "rotulo": "Terça-feira · 22 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -29,42 +29,6 @@
   }
  ],
  "hoje": [
-  {
-   "c": "t1",
-   "t": "Aposta simples segura",
-   "risco": "baixo",
-   "legs": [
-    {
-     "h": "15:30",
-     "j": "Scolar Resita vence o ACS Dumbravita",
-     "m": "Resultado final",
-     "o": "1,44"
-    }
-   ],
-   "total": "1,44",
-   "rodape": "Uma seleção"
-  },
-  {
-   "c": "t2",
-   "t": "Múltipla segura",
-   "risco": "médio",
-   "legs": [
-    {
-     "h": "15:30",
-     "j": "Scolar Resita vence o ACS Dumbravita",
-     "m": "Resultado final",
-     "o": "1,44"
-    },
-    {
-     "h": "18:00",
-     "j": "ASA Targu Mures vence o CS Dinamo Bucuresti",
-     "m": "Resultado final",
-     "o": "1,05"
-    }
-   ],
-   "total": "1,51",
-   "rodape": "2 seleções"
-  },
   {
    "c": "t3",
    "t": "Múltipla arriscada",
@@ -122,7 +86,7 @@
     }
    ],
    "total": "2,13",
-   "rodape": "3 seleções · qui e sex"
+   "rodape": "3 seleções · quinta e sexta"
   }
  ],
  "amanha": [
@@ -186,42 +150,6 @@
    "dia": "2026-09-22",
    "rotulo": "Terça-feira · 22 de setembro de 2026",
    "boletins": [
-    {
-     "t": "Aposta simples segura",
-     "c": "t1",
-     "total": "1,44",
-     "e": "pendente",
-     "d": "",
-     "legs": [
-      {
-       "h": "15:30",
-       "j": "Scolar Resita vence o ACS Dumbravita",
-       "m": "Resultado final",
-       "o": "1,44"
-      }
-     ]
-    },
-    {
-     "t": "Múltipla segura",
-     "c": "t2",
-     "total": "1,51",
-     "e": "pendente",
-     "d": "",
-     "legs": [
-      {
-       "h": "15:30",
-       "j": "Scolar Resita vence o ACS Dumbravita",
-       "m": "Resultado final",
-       "o": "1,44"
-      },
-      {
-       "h": "18:00",
-       "j": "ASA Targu Mures vence o CS Dinamo Bucuresti",
-       "m": "Resultado final",
-       "o": "1,05"
-      }
-     ]
-    },
     {
      "t": "Múltipla arriscada",
      "c": "t3",
@@ -645,14 +573,14 @@
     "dec": 3,
     "pct": 33,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
     "dec": 3,
     "pct": 33,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
@@ -715,7 +643,7 @@
     "dec": 0,
     "pct": null,
     "nome": "Terça-feira, 22 de setembro",
-    "pend": 4
+    "pend": 2
    },
    {
     "ok": 0,

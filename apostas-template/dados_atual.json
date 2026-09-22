@@ -28,38 +28,6 @@
  ],
  "hoje": [
   {
-   "c": "t1",
-   "t": "Aposta simples segura",
-   "risco": "baixo",
-   "legs": [
-    {
-     "h": "15:30",
-     "j": "Scolar Resita vence o ACS Dumbravita",
-     "m": "Resultado final",
-     "o": "1,44"
-    }
-   ]
-  },
-  {
-   "c": "t2",
-   "t": "Múltipla segura",
-   "risco": "médio",
-   "legs": [
-    {
-     "h": "15:30",
-     "j": "Scolar Resita vence o ACS Dumbravita",
-     "m": "Resultado final",
-     "o": "1,44"
-    },
-    {
-     "h": "18:00",
-     "j": "ASA Targu Mures vence o CS Dinamo Bucuresti",
-     "m": "Resultado final",
-     "o": "1,05"
-    }
-   ]
-  },
-  {
    "c": "t3",
    "t": "Múltipla arriscada",
    "risco": "alto",
@@ -86,6 +54,7 @@
    ]
   }
  ],
+ "sem_boletins_motivo": "Apostas de Roménia removidas por não estarem na lista de competições autorizadas",
  "proximos": [
   {
    "c": "t4",
