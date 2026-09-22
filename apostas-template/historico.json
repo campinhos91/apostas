@@ -6,36 +6,36 @@
    {
     "t": "Aposta simples segura",
     "c": "t1",
-    "total": "1,44",
+    "total": "1,35",
     "e": "pendente",
     "d": "",
     "legs": [
      {
-      "h": "15:30",
-      "j": "Scolar Resita vence o ACS Dumbravita",
+      "h": "20:00",
+      "j": "Manchester City vence o Brighton",
       "m": "Resultado final",
-      "o": "1,44"
+      "o": "1,35"
      }
     ]
    },
    {
     "t": "Múltipla segura",
     "c": "t2",
-    "total": "1,51",
+    "total": "2,02",
     "e": "pendente",
     "d": "",
     "legs": [
      {
-      "h": "15:30",
-      "j": "Scolar Resita vence o ACS Dumbravita",
+      "h": "20:00",
+      "j": "Manchester City vence o Brighton",
       "m": "Resultado final",
-      "o": "1,44"
+      "o": "1,30"
      },
      {
-      "h": "18:00",
-      "j": "ASA Targu Mures vence o CS Dinamo Bucuresti",
+      "h": "20:00",
+      "j": "Barcelona vence o Getafe",
       "m": "Resultado final",
-      "o": "1,05"
+      "o": "1,55"
      }
     ]
    },
