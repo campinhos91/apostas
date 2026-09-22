@@ -61,34 +61,9 @@
      "comp": "La Liga"
     }
    ]
-  },
-  {
-   "c": "t3",
-   "t": "Múltipla arriscada",
-   "risco": "alto",
-   "extra": "falhar uma perde tudo",
-   "legs": [
-    {
-     "h": "19:00",
-     "j": "RBC Roosendaal vence o VV Eemdijk",
-     "m": "Resultado final",
-     "o": "1,96"
-    },
-    {
-     "h": "19:45",
-     "j": "Gainsborough Trinity vence o Leamington",
-     "m": "Resultado final",
-     "o": "1,67"
-    },
-    {
-     "h": "19:45",
-     "j": "Worksop Town vence o AFC Telford United",
-     "m": "Resultado final",
-     "o": "1,83"
-    }
-   ]
   }
  ],
+ "sem_boletins_motivo": "t3 removido: as 3 pernas (Holanda não-Eredivisie e não-liga inglesa autorizada) não constam da lista de competições autorizadas",
  "proximos": [
   {
    "c": "t4",
@@ -100,52 +75,54 @@
      "d": "QUI",
      "j": "Portugal vence o País de Gales",
      "m": "Resultado final",
-     "o": "1,20"
+     "o": "1,20",
+     "comp": "Liga das Nações"
     },
     {
      "h": "19:45",
      "d": "QUI",
      "j": "Lituânia vence o Liechtenstein",
      "m": "Resultado final",
-     "o": "1,26"
+     "o": "1,26",
+     "comp": "Liga das Nações"
     },
     {
      "h": "19:30",
      "d": "SEX",
      "j": "Girona vence o Albacete",
      "m": "Resultado final",
-     "o": "1,41"
+     "o": "1,41",
+     "comp": "La Liga"
     }
    ]
   }
  ],
- "amanha": [
-  {
-   "h": "02:00",
-   "d": "QUA",
-   "j": "Independiente Santa Fe vence o Deportivo Cali",
-   "m": "Resultado final",
-   "o": "1,97",
-   "n": "12.º vs 10.º classificado, histórico muito equilibrado (18 vitórias Santa Fe, 18 Cali, 21 empates); modelos apontam o 1-1 como resultado mais provável — favoritismo do Santa Fe é ligeiro, não uma certeza."
-  },
-  {
-   "h": "17:00",
-   "d": "QUA",
-   "j": "Gibraltar vence o São Tomé e Príncipe",
-   "m": "Resultado final",
-   "o": "1,24",
-   "n": "primeiro confronto direto de sempre entre as duas seleções; Gibraltar vem de vitórias consecutivas e está mais bem classificado no ranking FIFA (202.º vs 195.º, diferença pequena)."
-  },
-  {
-   "h": "21:00",
-   "d": "QUA",
-   "j": "Real Madrid Castilla vence o Sant Andreu",
-   "m": "Resultado final",
-   "o": "1,71",
-   "n": "atenção: o Castilla não vence fora desde 25 de abril e o Sant Andreu só perdeu um jogo em casa em 2026 (0-1 com o Barbastro) — o favoritismo da odd contraria a forma recente do visitante."
-  }
- ],
+ "amanha": [],
  "fora": [
+  [
+   "Independiente Santa Fe–Deportivo Cali (1,97)",
+   "Colômbia não consta da lista de competições autorizadas."
+  ],
+  [
+   "Gibraltar–São Tomé e Príncipe (1,24)",
+   "particular de seleções fora das competições autorizadas."
+  ],
+  [
+   "Real Madrid Castilla–Sant Andreu (1,71)",
+   "2.ª divisão espanhola (Primera RFEF), não é La Liga nem consta da lista autorizada."
+  ],
+  [
+   "RBC Roosendaal–VV Eemdijk (1,96)",
+   "futebol neerlandês fora da lista de competições autorizadas."
+  ],
+  [
+   "Gainsborough Trinity–Leamington (1,67)",
+   "liga não-profissional inglesa, fora da lista de competições autorizadas."
+  ],
+  [
+   "Worksop Town–AFC Telford United (1,83)",
+   "liga não-profissional inglesa, fora da lista de competições autorizadas."
+  ],
   [
    "US Biskra–JS Saoura (2,22)",
    "odds muito equilibradas (2,22/2,53/2,65) na 1.ª Divisão argelina, sem favorito claro nem dados de forma fiáveis encontrados."
