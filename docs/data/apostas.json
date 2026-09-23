@@ -1,34 +1,103 @@
 {
- "atualizado": "2026-09-23T00:25:44+01:00",
- "dia": "2026-09-23",
- "rotulo": "Quarta-feira · 23 de setembro de 2026",
+ "atualizado": "2026-09-24T00:25:45+01:00",
+ "dia": "2026-09-24",
+ "rotulo": "Quinta-feira · 24 de setembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As ligas principais de clubes continuam paradas para as seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga e Ligue 1 a 9; Liga Portugal, Premier League, Serie A e Escócia a 10). Hoje, 23 de setembro, não há um único jogo agendado com odd na Betclic em nenhuma das competições cobertas: é o dia de intervalo total antes de a Liga das Nações arrancar amanhã, dia 24, com particulares de seleções e taças nacionais também a partir de amanhã.",
+ "pausa": "As principais ligas de clubes (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga, Ligue 1) continuam paradas para a janela de seleções e só voltam entre 7 e 11 de outubro (Brasileirão a 7; Bundesliga, LaLiga e Ligue 1 a 9; Liga Portugal, Premier League, Serie A e Escócia a 10). A janela atual, com a Liga das Nações e vários particulares de seleções, decorre até 27 de setembro.",
  "ontem": [
-  {
-   "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Arsenal vence o HB Køge (1-0)"
-  },
-  {
-   "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Arsenal vence o HB Køge (1-0); Real Madrid vence o PSG (1-0)"
-  },
-  {
-   "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Bayern Munique vence o Manchester City (2-2); Juventus vence o Benfica (1-2) · 1 certa"
-  },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
    "d": "Ainda sem resultados dos jogos"
   }
  ],
- "hoje": [],
+ "hoje": [
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "19:45",
+     "j": "Portugal vence o País de Gales",
+     "m": "Resultado final",
+     "o": "1,19",
+     "comp": "Liga das Nações"
+    }
+   ],
+   "total": "1,19",
+   "rodape": "Uma seleção"
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "19:45",
+     "j": "Portugal vence o País de Gales",
+     "m": "Resultado final",
+     "o": "1,19",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "19:45",
+     "j": "Lituânia vence o Liechtenstein",
+     "m": "Resultado final",
+     "o": "1,26",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "19:45",
+     "j": "Noruega vence a Dinamarca",
+     "m": "Resultado final",
+     "o": "1,65",
+     "comp": "Liga das Nações"
+    }
+   ],
+   "total": "2,47",
+   "rodape": "3 seleções"
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "legs": [
+    {
+     "h": "11:05",
+     "j": "Japão vence o Uruguai",
+     "m": "Resultado final",
+     "o": "1,78",
+     "comp": "Particular de Seleções"
+    },
+    {
+     "h": "17:00",
+     "j": "Malta vence a Andorra",
+     "m": "Resultado final",
+     "o": "2,23",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "19:45",
+     "j": "Países Baixos vence a Alemanha",
+     "m": "Resultado final",
+     "o": "2,25",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "19:45",
+     "j": "Kosovo vence a Irlanda",
+     "m": "Resultado final",
+     "o": "2,33",
+     "comp": "Liga das Nações"
+    }
+   ],
+   "total": "20,81",
+   "rodape": "4 seleções · falhar uma perde tudo"
+  }
+ ],
  "proximos": [
   {
    "c": "t4",
@@ -36,27 +105,19 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "19:45",
-     "d": "QUI",
-     "j": "Portugal vence o País de Gales",
+     "h": "11:00",
+     "d": "SEX",
+     "j": "Brasil vence a Austrália",
      "m": "Resultado final",
-     "o": "1,20",
-     "comp": "Liga das Nações"
-    },
-    {
-     "h": "19:45",
-     "d": "QUI",
-     "j": "Lituânia vence o Liechtenstein",
-     "m": "Resultado final",
-     "o": "1,27",
-     "comp": "Liga das Nações"
+     "o": "1,29",
+     "comp": "Particular de Seleções"
     },
     {
      "h": "17:00",
      "d": "SEX",
      "j": "Geórgia vence a Irlanda do Norte",
      "m": "Resultado final",
-     "o": "1,76",
+     "o": "1,79",
      "comp": "Liga das Nações"
     },
     {
@@ -64,91 +125,191 @@
      "d": "DOM",
      "j": "Canadá vence o Chile",
      "m": "Resultado final",
-     "o": "1,64",
+     "o": "1,58",
      "comp": "Particular de Seleções"
+    },
+    {
+     "h": "00:30",
+     "d": "DOM",
+     "j": "Philadelphia Union vence o Orlando City",
+     "m": "Resultado final",
+     "o": "1,37",
+     "comp": "MLS"
     }
    ],
-   "total": "4,40",
-   "rodape": "4 seleções · quinta, sexta e domingo"
+   "total": "5,00",
+   "rodape": "4 seleções · sexta e domingo"
   }
  ],
  "amanha": [
   {
-   "h": "19:45",
-   "d": "QUI",
-   "j": "Portugal vence o País de Gales",
+   "h": "11:00",
+   "d": "SEX",
+   "j": "Brasil vence a Austrália",
    "m": "Resultado final",
-   "o": "1,20",
-   "n": "Gales está sem vencer há 4 jogos seguidos; Portugal joga em casa no arranque da defesa do título, com Jorge Jesus a convocar um plantel forte (Ronaldo, Bruno Fernandes, Bernardo Silva, Rúben Dias).",
-   "comp": "Liga das Nações"
+   "o": "1,29",
+   "n": "Brasil leva um onze de gala (Vinícius Júnior, Raphinha, Marquinhos, João Pedro, Bruno Guimarães) mesmo em particular; a Austrália fez 10 alterações ao plantel do Mundial e só venceu 1 dos últimos 11 jogos diretos com o Brasil.",
+   "comp": "Particular de Seleções"
   },
   {
-   "h": "19:45",
-   "d": "QUI",
-   "j": "Lituânia vence o Liechtenstein",
+   "h": "17:00",
+   "d": "SEX",
+   "j": "Geórgia vence a Irlanda do Norte",
    "m": "Resultado final",
-   "o": "1,27",
-   "n": "Liechtenstein não vence uma partida da Liga das Nações desde 2020 (2 vitórias em 20 jogos na prova); a Lituânia venceu 4 dos últimos 6 confrontos diretos entre as duas seleções.",
+   "o": "1,79",
+   "n": "Geórgia está invicta em 2026 (incluindo vitória sobre a Lituânia) e joga em casa com a dupla Kvaratskhelia-Mikautadze; a Irlanda do Norte vem de resultados irregulares (empate, vitória, derrota por 3-1 frente à França).",
    "comp": "Liga das Nações"
-  },
-  {
-   "h": "19:45",
-   "d": "QUI",
-   "j": "Países Baixos vence a Alemanha",
-   "m": "Resultado final",
-   "o": "2,25",
-   "n": "Jogo equilibrado entre duas seleções com selecionador novo (Xavi na Holanda, Klopp na Alemanha); no último confronto direto empataram 2-2, com a Alemanha a vencer o encontro seguinte por 1-0.",
-   "comp": "Liga das Nações"
-  },
-  {
-   "h": "02:30",
-   "d": "QUI",
-   "j": "Seattle Sounders vence o Real Salt Lake",
-   "m": "Resultado final",
-   "o": "1,80",
-   "n": "Seattle está invicto mas empatou os últimos 5 jogos seguidos (forma DDDDD); Real Salt Lake não vence há 12 jogos na MLS, por isso a odd reflete mais a fragilidade visitante do que confiança ofensiva da casa.",
-   "comp": "MLS"
   }
  ],
  "fora": [
   [
-   "Países Baixos vence a Alemanha (2,25)",
-   "jogo muito equilibrado, sem favorito claro para uma seleção segura — reservado para a previsão de amanhã, não para um boletim"
+   "Áustria vence Israel (1,39)",
+   "plantel de Rangnick desfalcado (sem Alaba, Laimer, Baumgartner, Ljubičić, Grillitsch e Svoboda) e H2H equilibrado nas últimas 4 vezes (2-2, média de 5,75 golos por jogo): risco maior do que a odd sugere"
   ],
   [
-   "Chelsea F. vence o Áustria Viena F. (1,01)",
-   "odd demasiado extrema para ter valor informativo"
+   "Sérvia vence a Grécia (2,58)",
+   "Sérvia venceu só 1 dos últimos 4 particulares (perdeu 3) e a Grécia está sem ganhar há 5 jogos: sem favorito credível para dar valor à seleção"
   ],
   [
-   "Barcelona F. vence o Paris FC F. (1,01)",
-   "odd demasiado extrema para ter valor informativo"
+   "Arménia vence a Letónia (1,64)",
+   "forma contraditória: Arménia sem vencer há mais de um ano e sem o capitão da defesa Mkrtchyan (lesionado para toda a fase), enquanto a Letónia vem de duas vitórias seguidas na prova"
   ],
   [
-   "EUA vence o Peru (1,35)",
-   "plantel dos EUA muito jovem e experimental para este particular (13 jogadores MLS, 8 sem internacionalizações, média etária de 22 anos), risco maior do que a odd sugere"
-  ],
-  [
-   "Sérvia vence a Grécia",
-   "jogo equilibrado (2,55/3,18/2,53) e sem dados fiáveis recolhidos nesta execução"
-  ],
-  [
-   "Kosovo vence a Irlanda",
-   "jogo equilibrado (2,33/2,97/2,98) e sem dados fiáveis recolhidos nesta execução"
+   "EUA vence o Peru (1,41)",
+   "convocatória de Pochettino muito jovem e experimental (13 chamados do MLS, 8 estreantes, incluindo um jogador de 16 anos): risco maior do que a odd sugere"
   ],
   [
    "México vence a Colômbia",
-   "jogo equilibrado sem favorito claro (2,62/3,27/2,22)"
+   "jogo equilibrado sem favorito claro (2,32/3,25/2,62)"
   ],
   [
-   "Austrália vence o Brasil",
-   "particular sem grande exigência competitiva de ambos os lados; preferidas as seleções europeias com mais dados de forma recente"
+   "Tigres UANL vence o Puebla (1,46)",
+   "sem dados fiáveis de forma recente recolhidos nesta execução, apenas histórico de confrontos diretos"
   ],
   [
    "Cobertura da Betclic",
-   "Consultadas as páginas de Liga das Nações, Champions/Europa/Conferência League, particulares de seleções, MLS, Liga MX, Brasil (Série A e Copa), Argentina, LaLiga, Ligue 1, Bundesliga, Serie A, Eredivisie, ligas nórdicas, Grécia, Sérvia, Japão, Coreia do Sul, Arábia Saudita e divisões secundárias (LaLiga 2, Ligue 2, Serie C, 3. Liga alemã, League One inglesa). Taças de Portugal, Espanha e Inglaterra, Copa do Brasil, Taça dos Libertadores e Taça Sul-Americana só mostravam o mercado de vencedor da competição, sem jogos agendados a curto prazo. Liga MX, K-League, USL, J-League 2 e as divisões secundárias europeias não constam da lista de competições autorizadas para os boletins."
+   "Consultadas Liga das Nações, Particular de Seleções, MLS, Liga MX, Brasil Série A, Argentina Primera, Dinamarca, Noruega, Suécia, Sérvia, Roménia, Grécia Superliga, Arábia Saudita, Angola e J-League 2 (esta última fora da lista de competições autorizadas para os boletins). As principais ligas de clubes europeias continuam paradas para a janela de seleções e só voltam entre 7 e 11 de outubro; Brasil, Argentina, Liga MX, nórdicos, Sérvia e Grécia só têm jornadas marcadas a partir de sábado ou mais tarde, fora da janela de 'amanhã'."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-09-24",
+   "rotulo": "Quinta-feira · 24 de setembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,19",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "j": "Portugal vence o País de Gales",
+       "m": "Resultado final",
+       "o": "1,19"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "2,47",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "j": "Portugal vence o País de Gales",
+       "m": "Resultado final",
+       "o": "1,19"
+      },
+      {
+       "h": "19:45",
+       "j": "Lituânia vence o Liechtenstein",
+       "m": "Resultado final",
+       "o": "1,26"
+      },
+      {
+       "h": "19:45",
+       "j": "Noruega vence a Dinamarca",
+       "m": "Resultado final",
+       "o": "1,65"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "20,81",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "11:05",
+       "j": "Japão vence o Uruguai",
+       "m": "Resultado final",
+       "o": "1,78"
+      },
+      {
+       "h": "17:00",
+       "j": "Malta vence a Andorra",
+       "m": "Resultado final",
+       "o": "2,23"
+      },
+      {
+       "h": "19:45",
+       "j": "Países Baixos vence a Alemanha",
+       "m": "Resultado final",
+       "o": "2,25"
+      },
+      {
+       "h": "19:45",
+       "j": "Kosovo vence a Irlanda",
+       "m": "Resultado final",
+       "o": "2,33"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "5,00",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "11:00",
+       "d": "SEX",
+       "j": "Brasil vence a Austrália",
+       "m": "Resultado final",
+       "o": "1,29"
+      },
+      {
+       "h": "17:00",
+       "d": "SEX",
+       "j": "Geórgia vence a Irlanda do Norte",
+       "m": "Resultado final",
+       "o": "1,79"
+      },
+      {
+       "h": "00:00",
+       "d": "DOM",
+       "j": "Canadá vence o Chile",
+       "m": "Resultado final",
+       "o": "1,58"
+      },
+      {
+       "h": "00:30",
+       "d": "DOM",
+       "j": "Philadelphia Union vence o Orlando City",
+       "m": "Resultado final",
+       "o": "1,37"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-09-23",
    "rotulo": "Quarta-feira · 23 de setembro de 2026",
@@ -157,8 +318,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "4,40",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "19:45",
@@ -659,7 +820,7 @@
   "ganhos": 5,
   "pernas": 22,
   "pernas_ok": 11,
-  "dias": 5,
+  "dias": 6,
   "odd_media": "1,47",
   "tipos": [
    {
@@ -667,28 +828,28 @@
     "dec": 4,
     "pct": 50,
     "nome": "Aposta simples segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 2,
     "dec": 4,
     "pct": 50,
     "nome": "Múltipla segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 0,
     "dec": 4,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 1,
     "dec": 1,
     "pct": 100,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 4
    }
   ],
   "mercados": [
@@ -732,6 +893,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Quinta-feira, 24 de setembro",
+    "pend": 4
+   },
    {
     "ok": 0,
     "dec": 0,
