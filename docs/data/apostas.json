@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-24T00:25:45+01:00",
+ "atualizado": "2026-09-24T12:55:40+01:00",
  "dia": "2026-09-24",
  "rotulo": "Quinta-feira · 24 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -242,14 +242,16 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "20,81",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Japão vence o Uruguai (1-1) · 0 certas, 3 por jogar",
      "legs": [
       {
        "h": "11:05",
        "j": "Japão vence o Uruguai",
        "m": "Resultado final",
-       "o": "1,78"
+       "o": "1,78",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "17:00",
@@ -816,12 +818,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 13,
+  "decididos": 14,
   "ganhos": 5,
-  "pernas": 22,
+  "pernas": 23,
   "pernas_ok": 11,
   "dias": 6,
-  "odd_media": "1,47",
+  "odd_media": "1,48",
   "tipos": [
    {
     "ok": 2,
@@ -839,10 +841,10 @@
    },
    {
     "ok": 0,
-    "dec": 4,
+    "dec": 5,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
@@ -855,8 +857,8 @@
   "mercados": [
    {
     "ok": 9,
-    "dec": 19,
-    "pct": 47,
+    "dec": 20,
+    "pct": 45,
     "nome": "Resultado final"
    },
    {
@@ -887,18 +889,18 @@
    },
    {
     "ok": 4,
-    "dec": 12,
-    "pct": 33,
+    "dec": 13,
+    "pct": 31,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Quinta-feira, 24 de setembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 0,

@@ -49,14 +49,16 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "20,81",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Japão vence o Uruguai (1-1) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "11:05",
       "j": "Japão vence o Uruguai",
       "m": "Resultado final",
-      "o": "1,78"
+      "o": "1,78",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "17:00",
