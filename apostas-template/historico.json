@@ -1,5 +1,110 @@
 [
  {
+  "dia": "2026-09-25",
+  "rotulo": "Sexta-feira · 25 de setembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,35",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "França vence a Turquia",
+      "m": "Resultado final",
+      "o": "1,35"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,24",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "França vence a Turquia",
+      "m": "Resultado final",
+      "o": "1,35"
+     },
+     {
+      "h": "19:45",
+      "j": "Montenegro vence o Chipre",
+      "m": "Resultado final",
+      "o": "1,66"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "12,26",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:00",
+      "j": "Geórgia vence a Irlanda do Norte",
+      "m": "Resultado final",
+      "o": "1,77"
+     },
+     {
+      "h": "19:45",
+      "j": "Suécia vence a Roménia",
+      "m": "Resultado final",
+      "o": "1,42"
+     },
+     {
+      "h": "19:45",
+      "j": "Itália vence a Bélgica",
+      "m": "Resultado final",
+      "o": "2,12"
+     },
+     {
+      "h": "19:45",
+      "j": "Hungria vence a Ucrânia",
+      "m": "Resultado final",
+      "o": "2,30"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "3,06",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:00",
+      "d": "SÁB",
+      "j": "Finlândia vence a São Marino",
+      "m": "Resultado final",
+      "o": "1,07"
+     },
+     {
+      "h": "19:45",
+      "d": "SÁB",
+      "j": "Suíça vence a Macedónia do Norte",
+      "m": "Resultado final",
+      "o": "2,17"
+     },
+     {
+      "h": "15:00",
+      "d": "DOM",
+      "j": "Panamá vence a Índia",
+      "m": "Resultado final",
+      "o": "1,32"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-09-24",
   "rotulo": "Quinta-feira · 24 de setembro de 2026",
   "boletins": [
@@ -98,8 +203,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "5,00",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "11:00",
