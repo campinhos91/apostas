@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-24T18:56:29+01:00",
+ "atualizado": "2026-09-24T21:56:42+01:00",
  "dia": "2026-09-24",
  "rotulo": "Quinta-feira · 24 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -10,7 +10,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -200,14 +200,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,19",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Portugal vence o País de Gales (1-0)",
      "legs": [
       {
        "h": "19:45",
        "j": "Portugal vence o País de Gales",
        "m": "Resultado final",
-       "o": "1,19"
+       "o": "1,19",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -215,26 +217,32 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,47",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Portugal vence o País de Gales (1-0); Lituânia vence o Liechtenstein (2-0); Noruega vence a Dinamarca (3-2)",
      "legs": [
       {
        "h": "19:45",
        "j": "Portugal vence o País de Gales",
        "m": "Resultado final",
-       "o": "1,19"
+       "o": "1,19",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "19:45",
        "j": "Lituânia vence o Liechtenstein",
        "m": "Resultado final",
-       "o": "1,26"
+       "o": "1,26",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "19:45",
        "j": "Noruega vence a Dinamarca",
        "m": "Resultado final",
-       "o": "1,65"
+       "o": "1,65",
+       "r": "ok",
+       "x": "3-2"
       }
      ]
     },
@@ -243,7 +251,7 @@
      "c": "t3",
      "total": "20,81",
      "e": "perdido",
-     "d": "Falhou: Japão vence o Uruguai (1-1) · 1 certa, 2 por jogar",
+     "d": "Falhou: Japão vence o Uruguai (1-1); Países Baixos vence a Alemanha (1-1) · 2 certas",
      "legs": [
       {
        "h": "11:05",
@@ -265,13 +273,17 @@
        "h": "19:45",
        "j": "Países Baixos vence a Alemanha",
        "m": "Resultado final",
-       "o": "2,25"
+       "o": "2,25",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "19:45",
        "j": "Kosovo vence a Irlanda",
        "m": "Resultado final",
-       "o": "2,33"
+       "o": "2,33",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -323,21 +335,25 @@
      "c": "t4",
      "total": "4,40",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
        "d": "QUI",
        "j": "Portugal vence o País de Gales",
        "m": "Resultado final",
-       "o": "1,20"
+       "o": "1,20",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "19:45",
        "d": "QUI",
        "j": "Lituânia vence o Liechtenstein",
        "m": "Resultado final",
-       "o": "1,27"
+       "o": "1,27",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "17:00",
@@ -440,29 +456,35 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,09",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Portugal vence o País de Gales (1-0); Lituânia vence o Liechtenstein (2-0); Áustria vence o Israel (3-1)",
      "legs": [
       {
        "h": "19:45",
        "d": "QUI",
        "j": "Portugal vence o País de Gales",
        "m": "Resultado final",
-       "o": "1,20"
+       "o": "1,20",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "19:45",
        "d": "QUI",
        "j": "Lituânia vence o Liechtenstein",
        "m": "Resultado final",
-       "o": "1,26"
+       "o": "1,26",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "19:45",
        "d": "QUI",
        "j": "Áustria vence o Israel",
        "m": "Resultado final",
-       "o": "1,38"
+       "o": "1,38",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     }
@@ -560,21 +582,25 @@
      "c": "t4",
      "total": "2,32",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
        "d": "QUI",
        "j": "Portugal vence o País de Gales",
        "m": "Resultado final",
-       "o": "1,22"
+       "o": "1,22",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "19:45",
        "d": "QUI",
        "j": "Áustria vence o Israel",
        "m": "Resultado final",
-       "o": "1,32"
+       "o": "1,32",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "19:30",
@@ -820,26 +846,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 14,
-  "ganhos": 5,
-  "pernas": 24,
-  "pernas_ok": 12,
+  "decididos": 17,
+  "ganhos": 8,
+  "pernas": 30,
+  "pernas_ok": 17,
   "dias": 6,
-  "odd_media": "1,51",
+  "odd_media": "1,55",
   "tipos": [
    {
-    "ok": 2,
-    "dec": 4,
-    "pct": 50,
+    "ok": 3,
+    "dec": 5,
+    "pct": 60,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 2,
-    "dec": 4,
-    "pct": 50,
+    "ok": 3,
+    "dec": 5,
+    "pct": 60,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
@@ -849,18 +875,18 @@
     "pend": 0
    },
    {
-    "ok": 1,
-    "dec": 1,
+    "ok": 2,
+    "dec": 2,
     "pct": 100,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
    {
-    "ok": 10,
-    "dec": 21,
-    "pct": 48,
+    "ok": 15,
+    "dec": 27,
+    "pct": 56,
     "nome": "Resultado final"
    },
    {
@@ -878,31 +904,31 @@
   ],
   "faixas": [
    {
-    "ok": 5,
-    "dec": 7,
-    "pct": 71,
+    "ok": 6,
+    "dec": 8,
+    "pct": 75,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "ok": 4,
+    "dec": 5,
+    "pct": 80,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 5,
-    "dec": 14,
-    "pct": 36,
+    "ok": 7,
+    "dec": 17,
+    "pct": 41,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Quinta-feira, 24 de setembro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 0,
@@ -912,11 +938,11 @@
     "pend": 1
    },
    {
-    "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Terça-feira, 22 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,

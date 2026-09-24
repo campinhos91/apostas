@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,19",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Portugal vence o País de Gales (1-0)",
     "legs": [
      {
       "h": "19:45",
       "j": "Portugal vence o País de Gales",
       "m": "Resultado final",
-      "o": "1,19"
+      "o": "1,19",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -22,26 +24,32 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,47",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Portugal vence o País de Gales (1-0); Lituânia vence o Liechtenstein (2-0); Noruega vence a Dinamarca (3-2)",
     "legs": [
      {
       "h": "19:45",
       "j": "Portugal vence o País de Gales",
       "m": "Resultado final",
-      "o": "1,19"
+      "o": "1,19",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "19:45",
       "j": "Lituânia vence o Liechtenstein",
       "m": "Resultado final",
-      "o": "1,26"
+      "o": "1,26",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:45",
       "j": "Noruega vence a Dinamarca",
       "m": "Resultado final",
-      "o": "1,65"
+      "o": "1,65",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    },
@@ -50,7 +58,7 @@
     "c": "t3",
     "total": "20,81",
     "e": "perdido",
-    "d": "Falhou: Japão vence o Uruguai (1-1) · 1 certa, 2 por jogar",
+    "d": "Falhou: Japão vence o Uruguai (1-1); Países Baixos vence a Alemanha (1-1) · 2 certas",
     "legs": [
      {
       "h": "11:05",
@@ -72,13 +80,17 @@
       "h": "19:45",
       "j": "Países Baixos vence a Alemanha",
       "m": "Resultado final",
-      "o": "2,25"
+      "o": "2,25",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "19:45",
       "j": "Kosovo vence a Irlanda",
       "m": "Resultado final",
-      "o": "2,33"
+      "o": "2,33",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -130,21 +142,25 @@
     "c": "t4",
     "total": "4,40",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
       "d": "QUI",
       "j": "Portugal vence o País de Gales",
       "m": "Resultado final",
-      "o": "1,20"
+      "o": "1,20",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "19:45",
       "d": "QUI",
       "j": "Lituânia vence o Liechtenstein",
       "m": "Resultado final",
-      "o": "1,27"
+      "o": "1,27",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "17:00",
@@ -247,29 +263,35 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,09",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Portugal vence o País de Gales (1-0); Lituânia vence o Liechtenstein (2-0); Áustria vence o Israel (3-1)",
     "legs": [
      {
       "h": "19:45",
       "d": "QUI",
       "j": "Portugal vence o País de Gales",
       "m": "Resultado final",
-      "o": "1,20"
+      "o": "1,20",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "19:45",
       "d": "QUI",
       "j": "Lituânia vence o Liechtenstein",
       "m": "Resultado final",
-      "o": "1,26"
+      "o": "1,26",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:45",
       "d": "QUI",
       "j": "Áustria vence o Israel",
       "m": "Resultado final",
-      "o": "1,38"
+      "o": "1,38",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    }
@@ -367,21 +389,25 @@
     "c": "t4",
     "total": "2,32",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
       "d": "QUI",
       "j": "Portugal vence o País de Gales",
       "m": "Resultado final",
-      "o": "1,22"
+      "o": "1,22",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "19:45",
       "d": "QUI",
       "j": "Áustria vence o Israel",
       "m": "Resultado final",
-      "o": "1,32"
+      "o": "1,32",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "19:30",
