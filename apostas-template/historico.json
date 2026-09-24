@@ -50,7 +50,7 @@
     "c": "t3",
     "total": "20,81",
     "e": "perdido",
-    "d": "Falhou: Japão vence o Uruguai (1-1) · 0 certas, 3 por jogar",
+    "d": "Falhou: Japão vence o Uruguai (1-1) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "11:05",
@@ -64,7 +64,9 @@
       "h": "17:00",
       "j": "Malta vence a Andorra",
       "m": "Resultado final",
-      "o": "2,23"
+      "o": "2,23",
+      "r": "ok",
+      "x": "1-2"
      },
      {
       "h": "19:45",

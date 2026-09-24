@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-24T12:55:40+01:00",
+ "atualizado": "2026-09-24T18:56:29+01:00",
  "dia": "2026-09-24",
  "rotulo": "Quinta-feira · 24 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -243,7 +243,7 @@
      "c": "t3",
      "total": "20,81",
      "e": "perdido",
-     "d": "Falhou: Japão vence o Uruguai (1-1) · 0 certas, 3 por jogar",
+     "d": "Falhou: Japão vence o Uruguai (1-1) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "11:05",
@@ -257,7 +257,9 @@
        "h": "17:00",
        "j": "Malta vence a Andorra",
        "m": "Resultado final",
-       "o": "2,23"
+       "o": "2,23",
+       "r": "ok",
+       "x": "1-2"
       },
       {
        "h": "19:45",
@@ -820,10 +822,10 @@
  "estatisticas": {
   "decididos": 14,
   "ganhos": 5,
-  "pernas": 23,
-  "pernas_ok": 11,
+  "pernas": 24,
+  "pernas_ok": 12,
   "dias": 6,
-  "odd_media": "1,48",
+  "odd_media": "1,51",
   "tipos": [
    {
     "ok": 2,
@@ -856,9 +858,9 @@
   ],
   "mercados": [
    {
-    "ok": 9,
-    "dec": 20,
-    "pct": 45,
+    "ok": 10,
+    "dec": 21,
+    "pct": 48,
     "nome": "Resultado final"
    },
    {
@@ -888,9 +890,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 4,
-    "dec": 13,
-    "pct": 31,
+    "ok": 5,
+    "dec": 14,
+    "pct": 36,
     "nome": "Odd acima de 1,45"
    }
   ],
