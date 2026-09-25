@@ -1,5 +1,123 @@
 [
  {
+  "dia": "2026-09-26",
+  "rotulo": "Sábado · 26 de setembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,12",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Eslováquia vence a Moldávia",
+      "m": "Resultado final",
+      "o": "1,12"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,61",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:00",
+      "j": "Finlândia vence o São Marino",
+      "m": "Resultado final",
+      "o": "1,06"
+     },
+     {
+      "h": "19:45",
+      "j": "Eslováquia vence a Moldávia",
+      "m": "Resultado final",
+      "o": "1,12"
+     },
+     {
+      "h": "19:45",
+      "j": "Suíça vence a Macedónia do Norte",
+      "m": "Resultado final",
+      "o": "1,36"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "20,54",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:00",
+      "j": "Bulgária vence o Luxemburgo",
+      "m": "Resultado final",
+      "o": "2,13"
+     },
+     {
+      "h": "17:00",
+      "j": "Ilhas Faroé vence o Cazaquistão",
+      "m": "Resultado final",
+      "o": "2,20"
+     },
+     {
+      "h": "19:45",
+      "j": "Croácia vence a Chéquia",
+      "m": "Resultado final",
+      "o": "2,02"
+     },
+     {
+      "h": "19:45",
+      "j": "Espanha vence a Inglaterra",
+      "m": "Resultado final",
+      "o": "2,17"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "4,98",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "d": "DOM",
+      "j": "Malta vence o Liechtenstein",
+      "m": "Resultado final",
+      "o": "1,33"
+     },
+     {
+      "h": "11:25",
+      "d": "SEG",
+      "j": "Japão vence a Venezuela",
+      "m": "Resultado final",
+      "o": "1,27"
+     },
+     {
+      "h": "12:00",
+      "d": "SEG",
+      "j": "Coreia do Sul vence o Uruguai",
+      "m": "Resultado final",
+      "o": "2,20"
+     },
+     {
+      "h": "11:00",
+      "d": "TER",
+      "j": "Brasil vence a Austrália",
+      "m": "Resultado final",
+      "o": "1,34"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-09-25",
   "rotulo": "Sexta-feira · 25 de setembro de 2026",
   "boletins": [
@@ -90,8 +208,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,06",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "17:00",
