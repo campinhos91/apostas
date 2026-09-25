@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-25T19:55:08+01:00",
+ "atualizado": "2026-09-25T21:55:34+01:00",
  "dia": "2026-09-25",
  "rotulo": "Sexta-feira · 25 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -214,14 +214,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,35",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: França vence a Turquia (1-0)",
      "legs": [
       {
        "h": "19:45",
        "j": "França vence a Turquia",
        "m": "Resultado final",
-       "o": "1,35"
+       "o": "1,35",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -229,20 +231,24 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,24",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: França vence a Turquia (1-0); Montenegro vence o Chipre (2-1)",
      "legs": [
       {
        "h": "19:45",
        "j": "França vence a Turquia",
        "m": "Resultado final",
-       "o": "1,35"
+       "o": "1,35",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "19:45",
        "j": "Montenegro vence o Chipre",
        "m": "Resultado final",
-       "o": "1,66"
+       "o": "1,66",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -251,7 +257,7 @@
      "c": "t3",
      "total": "12,26",
      "e": "perdido",
-     "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 0 certas, 3 por jogar",
+     "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1); Itália vence a Bélgica (0-2) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "17:00",
@@ -265,13 +271,17 @@
        "h": "19:45",
        "j": "Suécia vence a Roménia",
        "m": "Resultado final",
-       "o": "1,42"
+       "o": "1,42",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "19:45",
        "j": "Itália vence a Bélgica",
        "m": "Resultado final",
-       "o": "2,12"
+       "o": "2,12",
+       "r": "no",
+       "x": "0-2"
       },
       {
        "h": "19:45",
@@ -708,8 +718,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,32",
-     "e": "nao verificado",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Portugal vence o País de Gales (1-0); Áustria vence o Israel (3-1); Girona vence o Albacete (2-0)",
      "legs": [
       {
        "h": "19:45",
@@ -734,7 +744,9 @@
        "d": "SEX",
        "j": "Girona vence o Albacete",
        "m": "Resultado final",
-       "o": "1,44"
+       "o": "1,44",
+       "r": "ok",
+       "x": "2-0"
       }
      ]
     }
@@ -973,26 +985,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 20,
-  "ganhos": 8,
-  "pernas": 32,
-  "pernas_ok": 17,
+  "decididos": 23,
+  "ganhos": 11,
+  "pernas": 37,
+  "pernas_ok": 21,
   "dias": 7,
-  "odd_media": "1,54",
+  "odd_media": "1,55",
   "tipos": [
    {
-    "ok": 3,
-    "dec": 5,
-    "pct": 60,
+    "ok": 4,
+    "dec": 6,
+    "pct": 67,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 3,
-    "dec": 5,
-    "pct": 60,
+    "ok": 4,
+    "dec": 6,
+    "pct": 67,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
@@ -1002,18 +1014,18 @@
     "pend": 0
    },
    {
-    "ok": 2,
-    "dec": 4,
-    "pct": 50,
+    "ok": 3,
+    "dec": 5,
+    "pct": 60,
     "nome": "Múltipla dos próximos dias",
-    "pend": 2
+    "pend": 1
    }
   ],
   "mercados": [
    {
-    "ok": 15,
-    "dec": 29,
-    "pct": 52,
+    "ok": 19,
+    "dec": 34,
+    "pct": 56,
     "nome": "Resultado final"
    },
    {
@@ -1037,25 +1049,25 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 4,
-    "dec": 6,
-    "pct": 67,
+    "ok": 7,
+    "dec": 9,
+    "pct": 78,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 7,
-    "dec": 18,
-    "pct": 39,
+    "ok": 8,
+    "dec": 20,
+    "pct": 40,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Sexta-feira, 25 de setembro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 2,
@@ -1079,11 +1091,11 @@
     "pend": 0
    },
    {
-    "ok": 0,
-    "dec": 3,
-    "pct": 0,
+    "ok": 1,
+    "dec": 4,
+    "pct": 25,
     "nome": "Segunda-feira, 21 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
