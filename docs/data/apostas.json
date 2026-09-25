@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-25T00:09:57+01:00",
+ "atualizado": "2026-09-25T13:54:39+01:00",
  "dia": "2026-09-25",
  "rotulo": "Sexta-feira · 25 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -24,8 +24,8 @@
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Brasil vence a Austrália (1-1) · 0 certas, 3 por jogar"
   }
  ],
  "hoje": [
@@ -410,15 +410,17 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "5,00",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Brasil vence a Austrália (1-1) · 0 certas, 3 por jogar",
      "legs": [
       {
        "h": "11:00",
        "d": "SEX",
        "j": "Brasil vence a Austrália",
        "m": "Resultado final",
-       "o": "1,29"
+       "o": "1,29",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "17:00",
@@ -965,12 +967,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 17,
+  "decididos": 18,
   "ganhos": 8,
-  "pernas": 30,
+  "pernas": 31,
   "pernas_ok": 17,
   "dias": 7,
-  "odd_media": "1,55",
+  "odd_media": "1,54",
   "tipos": [
    {
     "ok": 3,
@@ -995,17 +997,17 @@
    },
    {
     "ok": 2,
-    "dec": 2,
-    "pct": 100,
+    "dec": 3,
+    "pct": 67,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
    {
     "ok": 15,
-    "dec": 27,
-    "pct": 56,
+    "dec": 28,
+    "pct": 54,
     "nome": "Resultado final"
    },
    {
@@ -1030,8 +1032,8 @@
    },
    {
     "ok": 4,
-    "dec": 5,
-    "pct": 80,
+    "dec": 6,
+    "pct": 67,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
@@ -1051,10 +1053,10 @@
    },
    {
     "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "dec": 4,
+    "pct": 50,
     "nome": "Quinta-feira, 24 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
