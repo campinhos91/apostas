@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-25T21:55:34+01:00",
+ "atualizado": "2026-09-25T22:55:21+01:00",
  "dia": "2026-09-25",
  "rotulo": "Sexta-feira · 25 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -257,7 +257,7 @@
      "c": "t3",
      "total": "12,26",
      "e": "perdido",
-     "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1); Itália vence a Bélgica (0-2) · 1 certa, 1 por jogar",
+     "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1); Itália vence a Bélgica (0-2); Hungria vence a Ucrânia (0-1) · 1 certa",
      "legs": [
       {
        "h": "17:00",
@@ -287,7 +287,9 @@
        "h": "19:45",
        "j": "Hungria vence a Ucrânia",
        "m": "Resultado final",
-       "o": "2,30"
+       "o": "2,30",
+       "r": "no",
+       "x": "0-1"
       }
      ]
     },
@@ -987,10 +989,10 @@
  "estatisticas": {
   "decididos": 23,
   "ganhos": 11,
-  "pernas": 37,
+  "pernas": 38,
   "pernas_ok": 21,
   "dias": 7,
-  "odd_media": "1,55",
+  "odd_media": "1,57",
   "tipos": [
    {
     "ok": 4,
@@ -1024,8 +1026,8 @@
   "mercados": [
    {
     "ok": 19,
-    "dec": 34,
-    "pct": 56,
+    "dec": 35,
+    "pct": 54,
     "nome": "Resultado final"
    },
    {
@@ -1056,8 +1058,8 @@
    },
    {
     "ok": 8,
-    "dec": 20,
-    "pct": 40,
+    "dec": 21,
+    "pct": 38,
     "nome": "Odd acima de 1,45"
    }
   ],

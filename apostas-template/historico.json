@@ -50,7 +50,7 @@
     "c": "t3",
     "total": "12,26",
     "e": "perdido",
-    "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1); Itália vence a Bélgica (0-2) · 1 certa, 1 por jogar",
+    "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1); Itália vence a Bélgica (0-2); Hungria vence a Ucrânia (0-1) · 1 certa",
     "legs": [
      {
       "h": "17:00",
@@ -80,7 +80,9 @@
       "h": "19:45",
       "j": "Hungria vence a Ucrânia",
       "m": "Resultado final",
-      "o": "2,30"
+      "o": "2,30",
+      "r": "no",
+      "x": "0-1"
      }
     ]
    },
