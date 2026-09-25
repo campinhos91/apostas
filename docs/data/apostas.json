@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-25T13:54:39+01:00",
+ "atualizado": "2026-09-25T19:55:08+01:00",
  "dia": "2026-09-25",
  "rotulo": "Sexta-feira · 25 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "perdido",
-   "d": "Falhou: Brasil vence a Austrália (1-1) · 0 certas, 3 por jogar"
+   "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 0 certas, 2 por jogar"
   }
  ],
  "hoje": [
@@ -250,14 +250,16 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "12,26",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 0 certas, 3 por jogar",
      "legs": [
       {
        "h": "17:00",
        "j": "Geórgia vence a Irlanda do Norte",
        "m": "Resultado final",
-       "o": "1,77"
+       "o": "1,77",
+       "r": "no",
+       "x": "0-1"
       },
       {
        "h": "19:45",
@@ -411,7 +413,7 @@
      "c": "t4",
      "total": "5,00",
      "e": "perdido",
-     "d": "Falhou: Brasil vence a Austrália (1-1) · 0 certas, 3 por jogar",
+     "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "11:00",
@@ -427,7 +429,9 @@
        "d": "SEX",
        "j": "Geórgia vence a Irlanda do Norte",
        "m": "Resultado final",
-       "o": "1,79"
+       "o": "1,79",
+       "r": "no",
+       "x": "0-1"
       },
       {
        "h": "00:00",
@@ -455,8 +459,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "4,40",
-     "e": "nao verificado",
-     "d": "2 de 4 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 2 certas, 1 por jogar",
      "legs": [
       {
        "h": "19:45",
@@ -481,7 +485,9 @@
        "d": "SEX",
        "j": "Geórgia vence a Irlanda do Norte",
        "m": "Resultado final",
-       "o": "1,76"
+       "o": "1,76",
+       "r": "no",
+       "x": "0-1"
       },
       {
        "h": "00:00",
@@ -967,9 +973,9 @@
   }
  ],
  "estatisticas": {
-  "decididos": 18,
+  "decididos": 20,
   "ganhos": 8,
-  "pernas": 31,
+  "pernas": 32,
   "pernas_ok": 17,
   "dias": 7,
   "odd_media": "1,54",
@@ -990,24 +996,24 @@
    },
    {
     "ok": 0,
-    "dec": 5,
+    "dec": 6,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "dec": 4,
+    "pct": 50,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 2
    }
   ],
   "mercados": [
    {
     "ok": 15,
-    "dec": 28,
-    "pct": 54,
+    "dec": 29,
+    "pct": 52,
     "nome": "Resultado final"
    },
    {
@@ -1038,18 +1044,18 @@
    },
    {
     "ok": 7,
-    "dec": 17,
-    "pct": 41,
+    "dec": 18,
+    "pct": 39,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Sexta-feira, 25 de setembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 2,
@@ -1060,10 +1066,10 @@
    },
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Quarta-feira, 23 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,

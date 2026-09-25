@@ -43,14 +43,16 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "12,26",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "17:00",
       "j": "Geórgia vence a Irlanda do Norte",
       "m": "Resultado final",
-      "o": "1,77"
+      "o": "1,77",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "19:45",
@@ -204,7 +206,7 @@
     "c": "t4",
     "total": "5,00",
     "e": "perdido",
-    "d": "Falhou: Brasil vence a Austrália (1-1) · 0 certas, 3 por jogar",
+    "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "11:00",
@@ -220,7 +222,9 @@
       "d": "SEX",
       "j": "Geórgia vence a Irlanda do Norte",
       "m": "Resultado final",
-      "o": "1,79"
+      "o": "1,79",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "00:00",
@@ -248,8 +252,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "4,40",
-    "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -274,7 +278,9 @@
       "d": "SEX",
       "j": "Geórgia vence a Irlanda do Norte",
       "m": "Resultado final",
-      "o": "1,76"
+      "o": "1,76",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "00:00",
