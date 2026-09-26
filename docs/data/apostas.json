@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-26T18:57:53+01:00",
+ "atualizado": "2026-09-26T19:56:00+01:00",
  "dia": "2026-09-26",
  "rotulo": "Sábado · 26 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -264,20 +264,24 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "20,54",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Bulgária vence o Luxemburgo (1-2); Ilhas Faroé vence o Cazaquistão (1-1) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "17:00",
        "j": "Bulgária vence o Luxemburgo",
        "m": "Resultado final",
-       "o": "2,13"
+       "o": "2,13",
+       "r": "no",
+       "x": "1-2"
       },
       {
        "h": "17:00",
        "j": "Ilhas Faroé vence o Cazaquistão",
        "m": "Resultado final",
-       "o": "2,20"
+       "o": "2,20",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "19:45",
@@ -1115,12 +1119,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 23,
+  "decididos": 24,
   "ganhos": 11,
-  "pernas": 40,
+  "pernas": 42,
   "pernas_ok": 23,
   "dias": 8,
-  "odd_media": "1,55",
+  "odd_media": "1,58",
   "tipos": [
    {
     "ok": 4,
@@ -1138,10 +1142,10 @@
    },
    {
     "ok": 0,
-    "dec": 6,
+    "dec": 7,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
@@ -1154,8 +1158,8 @@
   "mercados": [
    {
     "ok": 21,
-    "dec": 37,
-    "pct": 57,
+    "dec": 39,
+    "pct": 54,
     "nome": "Resultado final"
    },
    {
@@ -1186,18 +1190,18 @@
    },
    {
     "ok": 8,
-    "dec": 21,
-    "pct": 38,
+    "dec": 23,
+    "pct": 35,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Sábado, 26 de setembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 2,

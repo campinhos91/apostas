@@ -51,20 +51,24 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "20,54",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Bulgária vence o Luxemburgo (1-2); Ilhas Faroé vence o Cazaquistão (1-1) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "17:00",
       "j": "Bulgária vence o Luxemburgo",
       "m": "Resultado final",
-      "o": "2,13"
+      "o": "2,13",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "17:00",
       "j": "Ilhas Faroé vence o Cazaquistão",
       "m": "Resultado final",
-      "o": "2,20"
+      "o": "2,20",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "19:45",
