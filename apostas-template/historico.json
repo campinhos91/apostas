@@ -1,5 +1,110 @@
 [
  {
+  "dia": "2026-09-27",
+  "rotulo": "Domingo · 27 de setembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,26",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "j": "Malta vence o Liechtenstein",
+      "m": "Resultado final",
+      "o": "1,26"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:00",
+      "j": "Dinamarca vence o País de Gales",
+      "m": "Resultado final",
+      "o": "1,42"
+     },
+     {
+      "h": "17:30",
+      "j": "Malta vence o Liechtenstein",
+      "m": "Resultado final",
+      "o": "1,26"
+     },
+     {
+      "h": "19:45",
+      "j": "Alemanha vence a Grécia",
+      "m": "Resultado final",
+      "o": "1,35"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "5,47",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:00",
+      "j": "Áustria vence o Kosovo",
+      "m": "Resultado final",
+      "o": "1,50"
+     },
+     {
+      "h": "19:45",
+      "j": "Noruega vence Portugal",
+      "m": "Resultado final",
+      "o": "2,55"
+     },
+     {
+      "h": "21:30",
+      "j": "Paraguai vence a Bolívia",
+      "m": "Resultado final",
+      "o": "1,43"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "6,82",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "11:25",
+      "d": "SEG",
+      "j": "Japão vence a Venezuela",
+      "m": "Resultado final",
+      "o": "1,29"
+     },
+     {
+      "h": "12:00",
+      "d": "SEG",
+      "j": "Coreia do Sul vence o Uruguai",
+      "m": "Resultado final",
+      "o": "2,23"
+     },
+     {
+      "h": "17:00",
+      "d": "SEG",
+      "j": "Montenegro vence a Arménia",
+      "m": "Resultado final",
+      "o": "2,37"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-09-26",
   "rotulo": "Sábado · 26 de setembro de 2026",
   "boletins": [
@@ -98,8 +203,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "4,98",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "17:30",
