@@ -23,13 +23,15 @@
     "c": "t2",
     "total": "1,61",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:00",
       "j": "Finlândia vence o São Marino",
       "m": "Resultado final",
-      "o": "1,06"
+      "o": "1,06",
+      "r": "ok",
+      "x": "0-6"
      },
      {
       "h": "19:45",
@@ -209,14 +211,16 @@
     "c": "t4",
     "total": "3,06",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:00",
       "d": "SÁB",
       "j": "Finlândia vence a São Marino",
       "m": "Resultado final",
-      "o": "1,07"
+      "o": "1,07",
+      "r": "ok",
+      "x": "0-6"
      },
      {
       "h": "19:45",

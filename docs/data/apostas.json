@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-26T00:07:20+01:00",
+ "atualizado": "2026-09-26T18:57:53+01:00",
  "dia": "2026-09-26",
  "rotulo": "Sábado · 26 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "1 de 3 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -236,13 +236,15 @@
      "c": "t2",
      "total": "1,61",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "17:00",
        "j": "Finlândia vence o São Marino",
        "m": "Resultado final",
-       "o": "1,06"
+       "o": "1,06",
+       "r": "ok",
+       "x": "0-6"
       },
       {
        "h": "19:45",
@@ -422,14 +424,16 @@
      "c": "t4",
      "total": "3,06",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "17:00",
        "d": "SÁB",
        "j": "Finlândia vence a São Marino",
        "m": "Resultado final",
-       "o": "1,07"
+       "o": "1,07",
+       "r": "ok",
+       "x": "0-6"
       },
       {
        "h": "19:45",
@@ -1113,10 +1117,10 @@
  "estatisticas": {
   "decididos": 23,
   "ganhos": 11,
-  "pernas": 38,
-  "pernas_ok": 21,
+  "pernas": 40,
+  "pernas_ok": 23,
   "dias": 8,
-  "odd_media": "1,57",
+  "odd_media": "1,55",
   "tipos": [
    {
     "ok": 4,
@@ -1149,9 +1153,9 @@
   ],
   "mercados": [
    {
-    "ok": 19,
-    "dec": 35,
-    "pct": 54,
+    "ok": 21,
+    "dec": 37,
+    "pct": 57,
     "nome": "Resultado final"
    },
    {
@@ -1169,9 +1173,9 @@
   ],
   "faixas": [
    {
-    "ok": 6,
-    "dec": 8,
-    "pct": 75,
+    "ok": 8,
+    "dec": 10,
+    "pct": 80,
     "nome": "Odd até 1,25"
    },
    {
