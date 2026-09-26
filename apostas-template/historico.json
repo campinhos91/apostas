@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,12",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Eslováquia vence a Moldávia (2-0)",
     "legs": [
      {
       "h": "19:45",
       "j": "Eslováquia vence a Moldávia",
       "m": "Resultado final",
-      "o": "1,12"
+      "o": "1,12",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -22,8 +24,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,61",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Finlândia vence o São Marino (0-6); Eslováquia vence a Moldávia (2-0); Suíça vence a Macedónia do Norte (3-0)",
     "legs": [
      {
       "h": "17:00",
@@ -37,13 +39,17 @@
       "h": "19:45",
       "j": "Eslováquia vence a Moldávia",
       "m": "Resultado final",
-      "o": "1,12"
+      "o": "1,12",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:45",
       "j": "Suíça vence a Macedónia do Norte",
       "m": "Resultado final",
-      "o": "1,36"
+      "o": "1,36",
+      "r": "ok",
+      "x": "3-0"
      }
     ]
    },
@@ -52,7 +58,7 @@
     "c": "t3",
     "total": "20,54",
     "e": "perdido",
-    "d": "Falhou: Bulgária vence o Luxemburgo (1-2); Ilhas Faroé vence o Cazaquistão (1-1) · 0 certas, 2 por jogar",
+    "d": "Falhou: Bulgária vence o Luxemburgo (1-2); Ilhas Faroé vence o Cazaquistão (1-1) · 2 certas",
     "legs": [
      {
       "h": "17:00",
@@ -74,13 +80,17 @@
       "h": "19:45",
       "j": "Croácia vence a Chéquia",
       "m": "Resultado final",
-      "o": "2,02"
+      "o": "2,02",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "19:45",
       "j": "Espanha vence a Inglaterra",
       "m": "Resultado final",
-      "o": "2,17"
+      "o": "2,17",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    },
@@ -215,7 +225,7 @@
     "c": "t4",
     "total": "3,06",
     "e": "nao verificado",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:00",
@@ -231,7 +241,9 @@
       "d": "SÁB",
       "j": "Suíça vence a Macedónia do Norte",
       "m": "Resultado final",
-      "o": "2,17"
+      "o": "2,17",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "15:00",
