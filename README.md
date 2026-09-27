@@ -81,8 +81,8 @@ e fazem commit e push para `main`; a app (GitHub Pages) lê o resultado:
 
 - **Geração 00:00** (Lisboa): verifica o dia anterior, lê as odds da Betclic,
   gera os 4 boletins, a previsão de amanhã e o "Ficaram de fora".
-- **Resultados de 6 em 6 horas**: regista os resultados dos jogos que já
-  terminaram (`--pendentes` / `--resultado`) e regenera a página e a app.
+- **Resultados** (às 00:54 e de 2 em 2 horas das 14:54 às 22:54, hora de
+  Lisboa): regista os resultados dos jogos que já terminaram (`--pendentes` / `--resultado`) e regenera a página e a app.
 
 Os horários das rotinas são em UTC e não acompanham a mudança de hora.
 
