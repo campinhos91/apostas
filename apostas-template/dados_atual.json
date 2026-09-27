@@ -1,28 +1,28 @@
 {
- "data": "Domingo · 27 de setembro de 2026",
+ "data": "Segunda-feira · 28 de setembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
- "pausa": "As principais ligas de clubes (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga, Ligue 1) continuam paradas para a janela de seleções e só voltam entre 9 e 12 de outubro (LaLiga e Liga Portugal a 9; Premier League e Bundesliga a 10 ou 11; Ligue 1 a 12). A janela atual, com a Liga das Nações e vários particulares de seleções, termina hoje, domingo, 27 de setembro.",
+ "pausa": "As principais ligas de clubes europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga, Ligue 1) continuam paradas para a janela de seleções. Esta semana ainda há Liga das Nações (2ª jornada, terça e quarta-feira, 29 e 30 de setembro) e vários amigáveis até essa quarta-feira; as ligas de clubes só recomeçam entre 9 e 12 de outubro (Liga Portugal a 9, Premier League a 10).",
  "ontem": [
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Eslováquia vence a Moldávia (2-0)"
+   "d": "Todas as pernas certas: Malta vence o Liechtenstein (2-0)"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Finlândia vence o São Marino (0-6); Eslováquia vence a Moldávia (2-0); Suíça vence a Macedónia do Norte (3-0)"
+   "e": "perdido",
+   "d": "Falhou: Dinamarca vence o País de Gales (0-0); Alemanha vence a Grécia (0-1) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Bulgária vence o Luxemburgo (1-2); Ilhas Faroé vence o Cazaquistão (1-1) · 2 certas"
+   "d": "Falhou: Noruega vence Portugal (1-2) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "1 de 4 pernas certas até agora"
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -31,7 +31,7 @@
    "t": "Aposta simples segura",
    "risco": "baixo",
    "legs": [
-    {"h": "17:30", "j": "Malta vence o Liechtenstein", "m": "Resultado final", "o": "1,26", "comp": "Particular de Seleções"}
+    {"h": "11:25", "j": "Japão vence a Venezuela", "m": "Resultado final", "o": "1,24", "comp": "Particular de Seleções"}
    ]
   },
   {
@@ -39,9 +39,8 @@
    "t": "Múltipla segura",
    "risco": "médio",
    "legs": [
-    {"h": "17:00", "j": "Dinamarca vence o País de Gales", "m": "Resultado final", "o": "1,42", "comp": "Liga das Nações"},
-    {"h": "17:30", "j": "Malta vence o Liechtenstein", "m": "Resultado final", "o": "1,26", "comp": "Particular de Seleções"},
-    {"h": "19:45", "j": "Alemanha vence a Grécia", "m": "Resultado final", "o": "1,35", "comp": "Liga das Nações"}
+    {"h": "02:00", "j": "León vence o Juárez", "m": "Resultado final", "o": "1,51", "comp": "Liga MX"},
+    {"h": "11:25", "j": "Japão vence a Venezuela", "m": "Resultado final", "o": "1,24", "comp": "Particular de Seleções"}
    ]
   },
   {
@@ -50,9 +49,9 @@
    "risco": "alto",
    "extra": "falhar uma perde tudo",
    "legs": [
-    {"h": "17:00", "j": "Áustria vence o Kosovo", "m": "Resultado final", "o": "1,50", "comp": "Liga das Nações"},
-    {"h": "19:45", "j": "Noruega vence Portugal", "m": "Resultado final", "o": "2,55", "comp": "Liga das Nações"},
-    {"h": "21:30", "j": "Paraguai vence a Bolívia", "m": "Resultado final", "o": "1,43", "comp": "Particular de Seleções"}
+    {"h": "02:00", "j": "León vence o Juárez", "m": "Resultado final", "o": "1,51", "comp": "Liga MX"},
+    {"h": "04:10", "j": "América vence o Necaxa", "m": "Resultado final", "o": "1,98", "comp": "Liga MX"},
+    {"h": "11:25", "j": "Japão vence a Venezuela", "m": "Resultado final", "o": "1,24", "comp": "Particular de Seleções"}
    ]
   }
  ],
@@ -62,37 +61,37 @@
    "t": "Múltipla dos próximos dias",
    "risco": "médio",
    "legs": [
-    {"h": "11:25", "d": "SEG", "j": "Japão vence a Venezuela", "m": "Resultado final", "o": "1,29", "comp": "Particular de Seleções"},
-    {"h": "12:00", "d": "SEG", "j": "Coreia do Sul vence o Uruguai", "m": "Resultado final", "o": "2,23", "comp": "Particular de Seleções"},
-    {"h": "17:00", "d": "SEG", "j": "Montenegro vence a Arménia", "m": "Resultado final", "o": "2,37", "comp": "Liga das Nações"}
+    {"h": "11:00", "d": "TER", "j": "Brasil vence a Austrália", "m": "Resultado final", "o": "1,27", "comp": "Particular de Seleções"},
+    {"h": "17:00", "d": "TER", "j": "Finlândia vence a Bielorrússia", "m": "Resultado final", "o": "1,67", "comp": "Liga das Nações"},
+    {"h": "02:00", "d": "QUA", "j": "México vence o Peru", "m": "Resultado final", "o": "1,39", "comp": "Particular de Seleções"},
+    {"h": "00:30", "d": "QUI", "j": "St. Louis City vence o New York Red Bulls", "m": "Resultado final", "o": "1,75", "comp": "MLS"}
    ]
   }
  ],
  "amanha": [
   {
-   "h": "11:25", "d": "SEG", "j": "Japão vence a Venezuela", "m": "Resultado final", "o": "1,29",
-   "n": "Japão vem de vitória por 3-1 sobre o Uruguai a meio da semana; falha apenas Tomiyasu (lesão na barriga da perna), sem substituto chamado; Venezuela em reconstrução pós-Mundial.",
+   "h": "11:00", "d": "TER", "j": "Brasil vence a Austrália", "m": "Resultado final", "o": "1,27",
+   "n": "Ancelotti convocou lista de 26 para os amigáveis pós-Mundial e a Austrália, apesar de 16 ex-jogadores do Mundial-2026 convocados, ainda reconstrói o plantel com 7 estreantes.",
    "comp": "Particular de Seleções"
   },
   {
-   "h": "12:00", "d": "SEG", "j": "Coreia do Sul vence o Uruguai", "m": "Resultado final", "o": "2,23",
-   "n": "Coreia do Sul venceu 7 dos últimos 8 jogos em casa e goleou o Equador 3-0 na estreia de Robert Moreno; Uruguai não vence há 8 jogos seguidos e perdeu 3-1 com o Japão a meio da semana, ainda à procura de treinador efetivo.",
-   "comp": "Particular de Seleções"
+   "h": "17:00", "d": "TER", "j": "Finlândia vence a Bielorrússia", "m": "Resultado final", "o": "1,67",
+   "n": "Finlândia vem de goleada 7-0 ao San Marino na estreia da Liga das Nações; Bielorrússia perdeu 2-0 com a Albânia e fica sem os médios Kavalyow e Morozov, a enfraquecer o meio-campo criativo.",
+   "comp": "Liga das Nações"
   },
   {
-   "h": "17:00", "d": "SEG", "j": "Montenegro vence a Arménia", "m": "Resultado final", "o": "2,37",
-   "n": "Arménia tem 8 jogadores fora por lesão (incl. 3 defesas centrais titulares) e mais 5 sem ritmo de jogo; Montenegro venceu Chipre na estreia e procura regresso rápido à Liga B.",
+   "h": "18:45", "d": "TER", "j": "Ilhas Faroé vence a Moldávia", "m": "Resultado final", "o": "2,65",
+   "n": "Ilhas Faroé em bom momento (4 vitórias e só 2 derrotas nos últimos 6) contra uma Moldávia sem vencer há 6 jogos (2 empates, 4 derrotas); odd ainda alta para a diferença de forma atual.",
    "comp": "Liga das Nações"
   }
  ],
  "fora": [
-  ["Países Baixos vencem a Sérvia (1,34)", "Países Baixos favoritos mas com 7 desfalques importantes (de Jong, Xavi Simons, de Ligt, Schouten, Maatsen, Wieffer, de Roon); Sérvia em má fase (2 vitórias em 7 jogos, goleadas sofridas para Cabo Verde e México) — dados contraditórios"],
-  ["Jordânia vence a Síria (1,52)", "venceu 4 dos últimos 5 confrontos diretos mas chega de 5 derrotas seguidas: forma atual não sustenta a odd baixa"],
-  ["Brasil vence a Austrália (1,24)", "Ancelotti convocou uma lista maioritariamente jovem e experimental para este particular, sem várias referências habituais: odd muito baixa para o nível do plantel anunciado"],
-  ["Lituânia vence o Azerbaijão (2,28)", "sem dados fiáveis de forma recente ou lesões encontrados nesta execução"],
-  ["Israel vence a Irlanda (2,55)", "sem dados fiáveis de forma recente encontrados; jogo disputado em campo neutro sob forte tensão política em torno do conflito em Gaza"],
-  ["Geórgia vence a Ucrânia (2,58)", "sem dados fiáveis encontrados nesta execução"],
-  ["Gibraltar vence a Andorra (3,42)", "sem dados fiáveis encontrados nesta execução"],
-  ["Cobertura da Betclic", "Consultadas Liga das Nações, Particular de Seleções, Liga MX, Brasil Série A, Argentina Primera, Uruguai Primera, Colômbia Primera A, Peru Liga1, EUA MLS, Coreia do Sul K-League, Liga Portugal Betclic, Premier League. As principais ligas de clubes europeias continuam paradas para a janela de seleções, só recomeçando entre 9 e 12 de outubro. Os jogos de hoje/amanhã da Liga MX, Uruguai, Colômbia e MLS são de madrugada (00h-04h de Lisboa) e ficaram de fora por falta de dados de forma/lesões recolhidos nesta execução."]
+  ["Coreia do Sul vence o Uruguai (2,33)", "sem favorito claro: odds muito próximas (2,33/2,95) e reforços de peso dos dois lados (Son Heung-min vs Núñez, Bentancur, Araújo, Torreira)"],
+  ["Palestina vence o Tajiquistão (2,03)", "histórico direto de 5 confrontos, todos empates (0-0, 0-0, 3-3, 1-1): dados contrariam a odd de vitória"],
+  ["Argentina vence a Bolívia (1,04)", "odd demasiado baixa para ter valor real, sem margem de segurança"],
+  ["Inglaterra vence a República Checa", "odd 1X2 não disponível na Betclic nesta execução (só apareceram odds de marcadores individuais)"],
+  ["Espanha vence a Croácia", "odd 1X2 não disponível na Betclic nesta execução (só apareceram odds de marcadores individuais)"],
+  ["Ucrânia vence a Geórgia (2,57)", "jogo muito equilibrado (2,58/3,10/2,57) e sem dados de forma ou lesões recolhidos nesta execução"],
+  ["Cobertura da Betclic", "Consultadas Liga das Nações, Amigáveis de Seleções, Liga MX, EUA MLS, Brasil Série A, Argentina Primera, Uruguai Primera, Japão J-League 2, Sérvia 1ª Divisão, Noruega Eliteserien, Suécia Allsvenskan, Dinamarca Superliga, Escócia Premiership, Liga Portugal Betclic, Premier League. As principais ligas de clubes europeias e a maioria das ligas nórdicas/escocesa/dinamarquesa estão paradas até 9-12 de outubro. Coreia do Sul K-League não mostrou jogos na página consultada. Jogos da 2ª divisão sérvia ficaram de fora por serem de escalão baixo sem dados fiáveis."]
  ]
 }

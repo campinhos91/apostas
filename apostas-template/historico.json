@@ -1,5 +1,111 @@
 [
  {
+  "dia": "2026-09-28",
+  "rotulo": "Segunda-feira · 28 de setembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,24",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "11:25",
+      "j": "Japão vence a Venezuela",
+      "m": "Resultado final",
+      "o": "1,24"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,87",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "02:00",
+      "j": "León vence o Juárez",
+      "m": "Resultado final",
+      "o": "1,51"
+     },
+     {
+      "h": "11:25",
+      "j": "Japão vence a Venezuela",
+      "m": "Resultado final",
+      "o": "1,24"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,71",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "02:00",
+      "j": "León vence o Juárez",
+      "m": "Resultado final",
+      "o": "1,51"
+     },
+     {
+      "h": "04:10",
+      "j": "América vence o Necaxa",
+      "m": "Resultado final",
+      "o": "1,98"
+     },
+     {
+      "h": "11:25",
+      "j": "Japão vence a Venezuela",
+      "m": "Resultado final",
+      "o": "1,24"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "5,16",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "11:00",
+      "d": "TER",
+      "j": "Brasil vence a Austrália",
+      "m": "Resultado final",
+      "o": "1,27"
+     },
+     {
+      "h": "17:00",
+      "d": "TER",
+      "j": "Finlândia vence a Bielorrússia",
+      "m": "Resultado final",
+      "o": "1,67"
+     },
+     {
+      "h": "02:00",
+      "d": "QUA",
+      "j": "México vence o Peru",
+      "m": "Resultado final",
+      "o": "1,39"
+     },
+     {
+      "h": "00:30",
+      "d": "QUI",
+      "j": "St. Louis City vence o New York Red Bulls",
+      "m": "Resultado final",
+      "o": "1,75"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-09-27",
   "rotulo": "Domingo · 27 de setembro de 2026",
   "boletins": [
@@ -58,7 +164,7 @@
     "c": "t3",
     "total": "5,47",
     "e": "perdido",
-    "d": "Falhou: Noruega vence Portugal (1-2) · 1 certa, 1 por jogar",
+    "d": "Falhou: Noruega vence Portugal (1-2) · 2 certas",
     "legs": [
      {
       "h": "17:00",
@@ -80,7 +186,9 @@
       "h": "21:30",
       "j": "Paraguai vence a Bolívia",
       "m": "Resultado final",
-      "o": "1,43"
+      "o": "1,43",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -88,8 +196,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "6,82",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "11:25",
