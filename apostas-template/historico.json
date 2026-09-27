@@ -25,7 +25,7 @@
     "c": "t2",
     "total": "2,42",
     "e": "perdido",
-    "d": "Falhou: Dinamarca vence o País de Gales (0-0) · 1 certa, 1 por jogar",
+    "d": "Falhou: Dinamarca vence o País de Gales (0-0); Alemanha vence a Grécia (0-1) · 1 certa",
     "legs": [
      {
       "h": "17:00",
@@ -47,7 +47,9 @@
       "h": "19:45",
       "j": "Alemanha vence a Grécia",
       "m": "Resultado final",
-      "o": "1,35"
+      "o": "1,35",
+      "r": "no",
+      "x": "0-1"
      }
     ]
    },
@@ -55,8 +57,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "5,47",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Noruega vence Portugal (1-2) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "17:00",
@@ -70,7 +72,9 @@
       "h": "19:45",
       "j": "Noruega vence Portugal",
       "m": "Resultado final",
-      "o": "2,55"
+      "o": "2,55",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "21:30",

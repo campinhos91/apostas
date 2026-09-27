@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-27T20:56:14+01:00",
+ "atualizado": "2026-09-27T22:55:31+01:00",
  "dia": "2026-09-27",
  "rotulo": "Domingo · 27 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -231,7 +231,7 @@
      "c": "t2",
      "total": "2,42",
      "e": "perdido",
-     "d": "Falhou: Dinamarca vence o País de Gales (0-0) · 1 certa, 1 por jogar",
+     "d": "Falhou: Dinamarca vence o País de Gales (0-0); Alemanha vence a Grécia (0-1) · 1 certa",
      "legs": [
       {
        "h": "17:00",
@@ -253,7 +253,9 @@
        "h": "19:45",
        "j": "Alemanha vence a Grécia",
        "m": "Resultado final",
-       "o": "1,35"
+       "o": "1,35",
+       "r": "no",
+       "x": "0-1"
       }
      ]
     },
@@ -261,8 +263,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "5,47",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Noruega vence Portugal (1-2) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "17:00",
@@ -276,7 +278,9 @@
        "h": "19:45",
        "j": "Noruega vence Portugal",
        "m": "Resultado final",
-       "o": "2,55"
+       "o": "2,55",
+       "r": "no",
+       "x": "1-2"
       },
       {
        "h": "21:30",
@@ -1247,12 +1251,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 29,
+  "decididos": 30,
   "ganhos": 14,
-  "pernas": 52,
+  "pernas": 54,
   "pernas_ok": 31,
   "dias": 9,
-  "odd_media": "1,58",
+  "odd_media": "1,59",
   "tipos": [
    {
     "ok": 6,
@@ -1270,10 +1274,10 @@
    },
    {
     "ok": 0,
-    "dec": 7,
+    "dec": 8,
     "pct": 0,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
@@ -1286,8 +1290,8 @@
   "mercados": [
    {
     "ok": 29,
-    "dec": 49,
-    "pct": 59,
+    "dec": 51,
+    "pct": 57,
     "nome": "Resultado final"
    },
    {
@@ -1312,24 +1316,24 @@
    },
    {
     "ok": 9,
-    "dec": 13,
-    "pct": 69,
+    "dec": 14,
+    "pct": 64,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 13,
-    "dec": 28,
-    "pct": 46,
+    "dec": 29,
+    "pct": 45,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 1,
-    "dec": 2,
-    "pct": 50,
+    "dec": 3,
+    "pct": 33,
     "nome": "Domingo, 27 de setembro",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 2,
