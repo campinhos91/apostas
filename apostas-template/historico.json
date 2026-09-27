@@ -22,14 +22,16 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,42",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Dinamarca vence o País de Gales (0-0) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "17:00",
       "j": "Dinamarca vence o País de Gales",
       "m": "Resultado final",
-      "o": "1,42"
+      "o": "1,42",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "17:30",
@@ -50,13 +52,15 @@
     "c": "t3",
     "total": "5,47",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:00",
       "j": "Áustria vence o Kosovo",
       "m": "Resultado final",
-      "o": "1,50"
+      "o": "1,50",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "19:45",

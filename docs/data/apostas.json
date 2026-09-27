@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-27T16:55:00+01:00",
+ "atualizado": "2026-09-27T18:55:35+01:00",
  "dia": "2026-09-27",
  "rotulo": "Domingo · 27 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -228,14 +228,16 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,42",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Dinamarca vence o País de Gales (0-0) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "17:00",
        "j": "Dinamarca vence o País de Gales",
        "m": "Resultado final",
-       "o": "1,42"
+       "o": "1,42",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "17:30",
@@ -256,13 +258,15 @@
      "c": "t3",
      "total": "5,47",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "17:00",
        "j": "Áustria vence o Kosovo",
        "m": "Resultado final",
-       "o": "1,50"
+       "o": "1,50",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "19:45",
@@ -1237,10 +1241,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 27,
+  "decididos": 28,
   "ganhos": 13,
-  "pernas": 49,
-  "pernas_ok": 29,
+  "pernas": 51,
+  "pernas_ok": 30,
   "dias": 9,
   "odd_media": "1,59",
   "tipos": [
@@ -1253,10 +1257,10 @@
    },
    {
     "ok": 5,
-    "dec": 7,
-    "pct": 71,
+    "dec": 8,
+    "pct": 62,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
@@ -1275,9 +1279,9 @@
   ],
   "mercados": [
    {
-    "ok": 27,
-    "dec": 46,
-    "pct": 59,
+    "ok": 28,
+    "dec": 48,
+    "pct": 58,
     "nome": "Resultado final"
    },
    {
@@ -1302,24 +1306,24 @@
    },
    {
     "ok": 8,
-    "dec": 11,
-    "pct": 73,
+    "dec": 12,
+    "pct": 67,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 12,
-    "dec": 27,
-    "pct": 44,
+    "ok": 13,
+    "dec": 28,
+    "pct": 46,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Domingo, 27 de setembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 2,
