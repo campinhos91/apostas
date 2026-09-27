@@ -461,7 +461,7 @@
     "c": "t4",
     "total": "5,00",
     "e": "perdido",
-    "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 1 certa, 1 por jogar",
+    "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 2 certas",
     "legs": [
      {
       "h": "11:00",
@@ -495,7 +495,9 @@
       "d": "DOM",
       "j": "Philadelphia Union vence o Orlando City",
       "m": "Resultado final",
-      "o": "1,37"
+      "o": "1,37",
+      "r": "ok",
+      "x": "4-2"
      }
     ]
    }
