@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,26",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Malta vence o Liechtenstein (2-0)",
     "legs": [
      {
       "h": "17:30",
       "j": "Malta vence o Liechtenstein",
       "m": "Resultado final",
-      "o": "1,26"
+      "o": "1,26",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -23,7 +25,7 @@
     "c": "t2",
     "total": "2,42",
     "e": "perdido",
-    "d": "Falhou: Dinamarca vence o País de Gales (0-0) · 0 certas, 2 por jogar",
+    "d": "Falhou: Dinamarca vence o País de Gales (0-0) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "17:00",
@@ -37,7 +39,9 @@
       "h": "17:30",
       "j": "Malta vence o Liechtenstein",
       "m": "Resultado final",
-      "o": "1,26"
+      "o": "1,26",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:45",
@@ -208,14 +212,16 @@
     "c": "t4",
     "total": "4,98",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "17:30",
       "d": "DOM",
       "j": "Malta vence o Liechtenstein",
       "m": "Resultado final",
-      "o": "1,33"
+      "o": "1,33",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "11:25",
