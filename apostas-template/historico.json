@@ -329,8 +329,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,06",
-    "e": "nao verificado",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Panamá vence a Índia (1-1) · 2 certas",
     "legs": [
      {
       "h": "17:00",
@@ -355,7 +355,9 @@
       "d": "DOM",
       "j": "Panamá vence a Índia",
       "m": "Resultado final",
-      "o": "1,32"
+      "o": "1,32",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    }
