@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-27T00:08:23+01:00",
+ "atualizado": "2026-09-27T01:56:59+01:00",
  "dia": "2026-09-27",
  "rotulo": "Domingo · 27 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -667,7 +667,7 @@
      "c": "t4",
      "total": "5,00",
      "e": "perdido",
-     "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 0 certas, 2 por jogar",
+     "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "11:00",
@@ -692,7 +692,9 @@
        "d": "DOM",
        "j": "Canadá vence o Chile",
        "m": "Resultado final",
-       "o": "1,58"
+       "o": "1,58",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "00:30",
@@ -714,7 +716,7 @@
      "c": "t4",
      "total": "4,40",
      "e": "perdido",
-     "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 2 certas, 1 por jogar",
+     "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 3 certas",
      "legs": [
       {
        "h": "19:45",
@@ -748,7 +750,9 @@
        "d": "DOM",
        "j": "Canadá vence o Chile",
        "m": "Resultado final",
-       "o": "1,64"
+       "o": "1,64",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     }
@@ -1231,8 +1235,8 @@
  "estatisticas": {
   "decididos": 26,
   "ganhos": 13,
-  "pernas": 46,
-  "pernas_ok": 27,
+  "pernas": 47,
+  "pernas_ok": 28,
   "dias": 9,
   "odd_media": "1,60",
   "tipos": [
@@ -1267,9 +1271,9 @@
   ],
   "mercados": [
    {
-    "ok": 25,
-    "dec": 43,
-    "pct": 58,
+    "ok": 26,
+    "dec": 44,
+    "pct": 59,
     "nome": "Resultado final"
    },
    {
@@ -1299,9 +1303,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 11,
-    "dec": 26,
-    "pct": 42,
+    "ok": 12,
+    "dec": 27,
+    "pct": 44,
     "nome": "Odd acima de 1,45"
    }
   ],

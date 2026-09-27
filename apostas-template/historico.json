@@ -461,7 +461,7 @@
     "c": "t4",
     "total": "5,00",
     "e": "perdido",
-    "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 0 certas, 2 por jogar",
+    "d": "Falhou: Brasil vence a Austrália (1-1); Geórgia vence a Irlanda do Norte (0-1) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "11:00",
@@ -486,7 +486,9 @@
       "d": "DOM",
       "j": "Canadá vence o Chile",
       "m": "Resultado final",
-      "o": "1,58"
+      "o": "1,58",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "00:30",
@@ -508,7 +510,7 @@
     "c": "t4",
     "total": "4,40",
     "e": "perdido",
-    "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 2 certas, 1 por jogar",
+    "d": "Falhou: Geórgia vence a Irlanda do Norte (0-1) · 3 certas",
     "legs": [
      {
       "h": "19:45",
@@ -542,7 +544,9 @@
       "d": "DOM",
       "j": "Canadá vence o Chile",
       "m": "Resultado final",
-      "o": "1,64"
+      "o": "1,64",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    }
