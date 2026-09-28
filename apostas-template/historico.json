@@ -209,7 +209,7 @@
     "c": "t4",
     "total": "6,82",
     "e": "perdido",
-    "d": "Falhou: Coreia do Sul vence o Uruguai (1-4) · 1 certa, 1 por jogar",
+    "d": "Falhou: Coreia do Sul vence o Uruguai (1-4) · 2 certas",
     "legs": [
      {
       "h": "11:25",
@@ -234,7 +234,9 @@
       "d": "SEG",
       "j": "Montenegro vence a Arménia",
       "m": "Resultado final",
-      "o": "2,37"
+      "o": "2,37",
+      "r": "ok",
+      "x": "2-3"
      }
     ]
    }
