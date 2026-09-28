@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,24",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Japão vence a Venezuela (2-1)",
     "legs": [
      {
       "h": "11:25",
       "j": "Japão vence a Venezuela",
       "m": "Resultado final",
-      "o": "1,24"
+      "o": "1,24",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -22,20 +24,24 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,87",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: León vence o Juárez (2-1); Japão vence a Venezuela (2-1)",
     "legs": [
      {
       "h": "02:00",
       "j": "León vence o Juárez",
       "m": "Resultado final",
-      "o": "1,51"
+      "o": "1,51",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "11:25",
       "j": "Japão vence a Venezuela",
       "m": "Resultado final",
-      "o": "1,24"
+      "o": "1,24",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -43,26 +49,32 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,71",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: León vence o Juárez (2-1); América vence o Necaxa (4-2); Japão vence a Venezuela (2-1)",
     "legs": [
      {
       "h": "02:00",
       "j": "León vence o Juárez",
       "m": "Resultado final",
-      "o": "1,51"
+      "o": "1,51",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "04:10",
       "j": "América vence o Necaxa",
       "m": "Resultado final",
-      "o": "1,98"
+      "o": "1,98",
+      "r": "ok",
+      "x": "4-2"
      },
      {
       "h": "11:25",
       "j": "Japão vence a Venezuela",
       "m": "Resultado final",
-      "o": "1,24"
+      "o": "1,24",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -196,22 +208,26 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "6,82",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Coreia do Sul vence o Uruguai (1-4) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "11:25",
       "d": "SEG",
       "j": "Japão vence a Venezuela",
       "m": "Resultado final",
-      "o": "1,29"
+      "o": "1,29",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "12:00",
       "d": "SEG",
       "j": "Coreia do Sul vence o Uruguai",
       "m": "Resultado final",
-      "o": "2,23"
+      "o": "2,23",
+      "r": "no",
+      "x": "1-4"
      },
      {
       "h": "17:00",
@@ -323,8 +339,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "4,98",
-    "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Coreia do Sul vence o Uruguai (1-4) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "17:30",
@@ -340,14 +356,18 @@
       "d": "SEG",
       "j": "Japão vence a Venezuela",
       "m": "Resultado final",
-      "o": "1,27"
+      "o": "1,27",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "12:00",
       "d": "SEG",
       "j": "Coreia do Sul vence o Uruguai",
       "m": "Resultado final",
-      "o": "2,20"
+      "o": "2,20",
+      "r": "no",
+      "x": "1-4"
      },
      {
       "h": "11:00",

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-28T00:18:48+01:00",
+ "atualizado": "2026-09-28T14:56:57+01:00",
  "dia": "2026-09-28",
  "rotulo": "Segunda-feira · 28 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -24,8 +24,8 @@
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Coreia do Sul vence o Uruguai (1-4) · 1 certa, 1 por jogar"
   }
  ],
  "hoje": [
@@ -210,14 +210,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,24",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Japão vence a Venezuela (2-1)",
      "legs": [
       {
        "h": "11:25",
        "j": "Japão vence a Venezuela",
        "m": "Resultado final",
-       "o": "1,24"
+       "o": "1,24",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -225,20 +227,24 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,87",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: León vence o Juárez (2-1); Japão vence a Venezuela (2-1)",
      "legs": [
       {
        "h": "02:00",
        "j": "León vence o Juárez",
        "m": "Resultado final",
-       "o": "1,51"
+       "o": "1,51",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "11:25",
        "j": "Japão vence a Venezuela",
        "m": "Resultado final",
-       "o": "1,24"
+       "o": "1,24",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -246,26 +252,32 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,71",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: León vence o Juárez (2-1); América vence o Necaxa (4-2); Japão vence a Venezuela (2-1)",
      "legs": [
       {
        "h": "02:00",
        "j": "León vence o Juárez",
        "m": "Resultado final",
-       "o": "1,51"
+       "o": "1,51",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "04:10",
        "j": "América vence o Necaxa",
        "m": "Resultado final",
-       "o": "1,98"
+       "o": "1,98",
+       "r": "ok",
+       "x": "4-2"
       },
       {
        "h": "11:25",
        "j": "Japão vence a Venezuela",
        "m": "Resultado final",
-       "o": "1,24"
+       "o": "1,24",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -399,22 +411,26 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "6,82",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Coreia do Sul vence o Uruguai (1-4) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "11:25",
        "d": "SEG",
        "j": "Japão vence a Venezuela",
        "m": "Resultado final",
-       "o": "1,29"
+       "o": "1,29",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "12:00",
        "d": "SEG",
        "j": "Coreia do Sul vence o Uruguai",
        "m": "Resultado final",
-       "o": "2,23"
+       "o": "2,23",
+       "r": "no",
+       "x": "1-4"
       },
       {
        "h": "17:00",
@@ -526,8 +542,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "4,98",
-     "e": "nao verificado",
-     "d": "1 de 4 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Coreia do Sul vence o Uruguai (1-4) · 2 certas, 1 por jogar",
      "legs": [
       {
        "h": "17:30",
@@ -543,14 +559,18 @@
        "d": "SEG",
        "j": "Japão vence a Venezuela",
        "m": "Resultado final",
-       "o": "1,27"
+       "o": "1,27",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "12:00",
        "d": "SEG",
        "j": "Coreia do Sul vence o Uruguai",
        "m": "Resultado final",
-       "o": "2,20"
+       "o": "2,20",
+       "r": "no",
+       "x": "1-4"
       },
       {
        "h": "11:00",
@@ -1356,47 +1376,47 @@
   }
  ],
  "estatisticas": {
-  "decididos": 30,
-  "ganhos": 14,
-  "pernas": 55,
-  "pernas_ok": 32,
+  "decididos": 35,
+  "ganhos": 17,
+  "pernas": 59,
+  "pernas_ok": 35,
   "dias": 10,
-  "odd_media": "1,59",
+  "odd_media": "1,60",
   "tipos": [
    {
-    "ok": 6,
-    "dec": 8,
-    "pct": 75,
+    "ok": 7,
+    "dec": 9,
+    "pct": 78,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 5,
-    "dec": 8,
-    "pct": 62,
+    "ok": 6,
+    "dec": 9,
+    "pct": 67,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 0,
-    "dec": 8,
-    "pct": 0,
+    "ok": 1,
+    "dec": 9,
+    "pct": 11,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
-    "dec": 6,
-    "pct": 50,
+    "dec": 8,
+    "pct": 38,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 1
    }
   ],
   "mercados": [
    {
-    "ok": 30,
-    "dec": 52,
-    "pct": 58,
+    "ok": 33,
+    "dec": 56,
+    "pct": 59,
     "nome": "Resultado final"
    },
    {
@@ -1420,39 +1440,39 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 10,
-    "dec": 15,
-    "pct": 67,
+    "ok": 11,
+    "dec": 16,
+    "pct": 69,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 13,
-    "dec": 29,
-    "pct": 45,
+    "ok": 15,
+    "dec": 32,
+    "pct": 47,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 3,
+    "dec": 3,
+    "pct": 100,
     "nome": "Segunda-feira, 28 de setembro",
-    "pend": 4
+    "pend": 1
    },
    {
     "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "dec": 4,
+    "pct": 25,
     "nome": "Domingo, 27 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "dec": 4,
+    "pct": 50,
     "nome": "Sábado, 26 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
