@@ -1,5 +1,117 @@
 [
  {
+  "dia": "2026-09-29",
+  "rotulo": "Terça-feira · 29 de setembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,17",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Espanha vence a Croácia",
+      "m": "Resultado final",
+      "o": "1,17"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,11",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "11:00",
+      "j": "Brasil vence a Austrália",
+      "m": "Resultado final",
+      "o": "1,33"
+     },
+     {
+      "h": "19:45",
+      "j": "Eslováquia vence o Cazaquistão",
+      "m": "Resultado final",
+      "o": "1,23"
+     },
+     {
+      "h": "19:45",
+      "j": "Inglaterra vence a Chéquia",
+      "m": "Resultado final",
+      "o": "1,29"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "6,23",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Islândia vence o Luxemburgo",
+      "m": "Resultado final",
+      "o": "2,10"
+     },
+     {
+      "h": "19:45",
+      "j": "Suíça vence a Escócia",
+      "m": "Resultado final",
+      "o": "1,81"
+     },
+     {
+      "h": "19:45",
+      "j": "Bulgária vence a Estónia",
+      "m": "Resultado final",
+      "o": "1,64"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "6,84",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "02:00",
+      "d": "QUA",
+      "j": "México vence o Peru",
+      "m": "Resultado final",
+      "o": "1,44"
+     },
+     {
+      "h": "11:10",
+      "d": "QUI",
+      "j": "Japão vence o Equador",
+      "m": "Resultado final",
+      "o": "1,78"
+     },
+     {
+      "h": "02:30",
+      "d": "SEX",
+      "j": "Seattle Sounders vence o Sporting Kansas City",
+      "m": "Resultado final",
+      "o": "1,39"
+     },
+     {
+      "h": "00:00",
+      "d": "SÁB",
+      "j": "São Paulo vence o Santos",
+      "m": "Resultado final",
+      "o": "1,92"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-09-28",
   "rotulo": "Segunda-feira · 28 de setembro de 2026",
   "boletins": [
@@ -82,8 +194,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "5,16",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "11:00",
