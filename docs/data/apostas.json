@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-29T20:56:07+01:00",
+ "atualizado": "2026-09-29T22:56:10+01:00",
  "dia": "2026-09-29",
  "rotulo": "Terça-feira · 29 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -221,14 +221,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,17",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Espanha vence a Croácia (4-1)",
      "legs": [
       {
        "h": "19:45",
        "j": "Espanha vence a Croácia",
        "m": "Resultado final",
-       "o": "1,17"
+       "o": "1,17",
+       "r": "ok",
+       "x": "4-1"
       }
      ]
     },
@@ -236,8 +238,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,11",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Brasil vence a Austrália (4-2); Eslováquia vence o Cazaquistão (2-1); Inglaterra vence a Chéquia (2-0)",
      "legs": [
       {
        "h": "11:00",
@@ -251,13 +253,17 @@
        "h": "19:45",
        "j": "Eslováquia vence o Cazaquistão",
        "m": "Resultado final",
-       "o": "1,23"
+       "o": "1,23",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "19:45",
        "j": "Inglaterra vence a Chéquia",
        "m": "Resultado final",
-       "o": "1,29"
+       "o": "1,29",
+       "r": "ok",
+       "x": "2-0"
       }
      ]
     },
@@ -265,26 +271,32 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "6,23",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Bulgária vence a Estónia (0-0) · 2 certas",
      "legs": [
       {
        "h": "19:45",
        "j": "Islândia vence o Luxemburgo",
        "m": "Resultado final",
-       "o": "2,10"
+       "o": "2,10",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "19:45",
        "j": "Suíça vence a Escócia",
        "m": "Resultado final",
-       "o": "1,81"
+       "o": "1,81",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "19:45",
        "j": "Bulgária vence a Estónia",
        "m": "Resultado final",
-       "o": "1,64"
+       "o": "1,64",
+       "r": "no",
+       "x": "0-0"
       }
      ]
     },
@@ -1509,33 +1521,33 @@
   }
  ],
  "estatisticas": {
-  "decididos": 36,
-  "ganhos": 17,
-  "pernas": 61,
-  "pernas_ok": 36,
+  "decididos": 39,
+  "ganhos": 19,
+  "pernas": 67,
+  "pernas_ok": 41,
   "dias": 11,
-  "odd_media": "1,62",
+  "odd_media": "1,61",
   "tipos": [
    {
-    "ok": 7,
-    "dec": 9,
-    "pct": 78,
+    "ok": 8,
+    "dec": 10,
+    "pct": 80,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 6,
-    "dec": 9,
-    "pct": 67,
+    "ok": 7,
+    "dec": 10,
+    "pct": 70,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
-    "dec": 9,
-    "pct": 11,
+    "dec": 10,
+    "pct": 10,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
@@ -1547,9 +1559,9 @@
   ],
   "mercados": [
    {
-    "ok": 34,
-    "dec": 58,
-    "pct": 59,
+    "ok": 39,
+    "dec": 64,
+    "pct": 61,
     "nome": "Resultado final"
    },
    {
@@ -1567,31 +1579,31 @@
   ],
   "faixas": [
    {
-    "ok": 9,
-    "dec": 11,
-    "pct": 82,
+    "ok": 11,
+    "dec": 13,
+    "pct": 85,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 11,
-    "dec": 16,
-    "pct": 69,
+    "ok": 12,
+    "dec": 17,
+    "pct": 71,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 16,
-    "dec": 34,
-    "pct": 47,
+    "ok": 18,
+    "dec": 37,
+    "pct": 49,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Terça-feira, 29 de setembro",
-    "pend": 4
+    "pend": 1
    },
    {
     "ok": 3,

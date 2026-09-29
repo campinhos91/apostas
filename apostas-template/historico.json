@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,17",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Espanha vence a Croácia (4-1)",
     "legs": [
      {
       "h": "19:45",
       "j": "Espanha vence a Croácia",
       "m": "Resultado final",
-      "o": "1,17"
+      "o": "1,17",
+      "r": "ok",
+      "x": "4-1"
      }
     ]
    },
@@ -22,8 +24,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,11",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Brasil vence a Austrália (4-2); Eslováquia vence o Cazaquistão (2-1); Inglaterra vence a Chéquia (2-0)",
     "legs": [
      {
       "h": "11:00",
@@ -37,13 +39,17 @@
       "h": "19:45",
       "j": "Eslováquia vence o Cazaquistão",
       "m": "Resultado final",
-      "o": "1,23"
+      "o": "1,23",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "19:45",
       "j": "Inglaterra vence a Chéquia",
       "m": "Resultado final",
-      "o": "1,29"
+      "o": "1,29",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -51,26 +57,32 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "6,23",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Bulgária vence a Estónia (0-0) · 2 certas",
     "legs": [
      {
       "h": "19:45",
       "j": "Islândia vence o Luxemburgo",
       "m": "Resultado final",
-      "o": "2,10"
+      "o": "2,10",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "19:45",
       "j": "Suíça vence a Escócia",
       "m": "Resultado final",
-      "o": "1,81"
+      "o": "1,81",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:45",
       "j": "Bulgária vence a Estónia",
       "m": "Resultado final",
-      "o": "1,64"
+      "o": "1,64",
+      "r": "no",
+      "x": "0-0"
      }
     ]
    },
