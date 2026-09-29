@@ -1,5 +1,104 @@
 [
  {
+  "dia": "2026-09-30",
+  "rotulo": "Quarta-feira · 30 de setembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,34",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "02:00",
+      "j": "México vence o Peru",
+      "m": "Resultado final",
+      "o": "1,34"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,88",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:00",
+      "j": "Estados Unidos vence o Chile",
+      "m": "Resultado final",
+      "o": "1,40"
+     },
+     {
+      "h": "02:00",
+      "j": "México vence o Peru",
+      "m": "Resultado final",
+      "o": "1,34"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "4,41",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:00",
+      "j": "Estados Unidos vence o Chile",
+      "m": "Resultado final",
+      "o": "1,40"
+     },
+     {
+      "h": "02:00",
+      "j": "México vence o Peru",
+      "m": "Resultado final",
+      "o": "1,34"
+     },
+     {
+      "h": "05:00",
+      "j": "Ilhas Salomão vence a Papua Nova Guiné",
+      "m": "Resultado final",
+      "o": "2,35"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "4,17",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Alemanha vence a Sérvia",
+      "m": "Resultado final",
+      "o": "1,22"
+     },
+     {
+      "h": "17:00",
+      "d": "SEX",
+      "j": "Montenegro vence a Letónia",
+      "m": "Resultado final",
+      "o": "1,78"
+     },
+     {
+      "h": "00:00",
+      "d": "SÁB",
+      "j": "São Paulo vence o Santos",
+      "m": "Resultado final",
+      "o": "1,92"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-09-29",
   "rotulo": "Terça-feira · 29 de setembro de 2026",
   "boletins": [
@@ -90,8 +189,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "6,84",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "02:00",
