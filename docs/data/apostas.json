@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-29T14:56:56+01:00",
+ "atualizado": "2026-09-29T20:56:07+01:00",
  "dia": "2026-09-29",
  "rotulo": "Terça-feira · 29 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -24,8 +24,8 @@
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "1 de 4 pernas certas até agora"
+   "e": "perdido",
+   "d": "Falhou: Finlândia vence a Bielorrússia (0-0) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [
@@ -410,8 +410,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "5,16",
-     "e": "nao verificado",
-     "d": "1 de 4 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Finlândia vence a Bielorrússia (0-0) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "11:00",
@@ -427,7 +427,9 @@
        "d": "TER",
        "j": "Finlândia vence a Bielorrússia",
        "m": "Resultado final",
-       "o": "1,67"
+       "o": "1,67",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "02:00",
@@ -1507,12 +1509,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 35,
+  "decididos": 36,
   "ganhos": 17,
-  "pernas": 60,
+  "pernas": 61,
   "pernas_ok": 36,
   "dias": 11,
-  "odd_media": "1,61",
+  "odd_media": "1,62",
   "tipos": [
    {
     "ok": 7,
@@ -1537,17 +1539,17 @@
    },
    {
     "ok": 3,
-    "dec": 8,
-    "pct": 38,
+    "dec": 9,
+    "pct": 33,
     "nome": "Múltipla dos próximos dias",
-    "pend": 2
+    "pend": 1
    }
   ],
   "mercados": [
    {
     "ok": 34,
-    "dec": 57,
-    "pct": 60,
+    "dec": 58,
+    "pct": 59,
     "nome": "Resultado final"
    },
    {
@@ -1578,8 +1580,8 @@
    },
    {
     "ok": 16,
-    "dec": 33,
-    "pct": 48,
+    "dec": 34,
+    "pct": 47,
     "nome": "Odd acima de 1,45"
    }
   ],
@@ -1593,10 +1595,10 @@
    },
    {
     "ok": 3,
-    "dec": 3,
-    "pct": 100,
+    "dec": 4,
+    "pct": 75,
     "nome": "Segunda-feira, 28 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,

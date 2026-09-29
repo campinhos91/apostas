@@ -196,8 +196,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "5,16",
-    "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Finlândia vence a Bielorrússia (0-0) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "11:00",
@@ -213,7 +213,9 @@
       "d": "TER",
       "j": "Finlândia vence a Bielorrússia",
       "m": "Resultado final",
-      "o": "1,67"
+      "o": "1,67",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "02:00",
