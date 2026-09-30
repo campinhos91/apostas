@@ -56,6 +56,11 @@ completo e comentado — data, título, boletins de hoje/próximos dias, o que
 ficou de fora, a previsão de amanhã e o resumo de "ontem". `dados_exemplo.json`
 é um exemplo completo e válido.
 
+Na múltipla arriscada (t3), como uma perna falhada perde o boletim todo,
+preferir variar o mercado em vez de encadear só "Resultado final": "Dupla
+hipótese", "Empate anula a aposta", "Ambas marcam" ou "Mais/Menos de X,5
+golos" reduzem o risco de uma perna sem baixar muito a odd total.
+
 ### Histórico (`historico.json`)
 
 Uma lista de dias (`dia`, `rotulo`, `boletins`). Cada boletim guarda o texto,

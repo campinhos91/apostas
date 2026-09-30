@@ -20,6 +20,9 @@ dados.json:
  "ontem": [{"t": "Aposta simples segura", "e": "ganho|perdido|adiado|nao verificado", "d": "Sporting 3-0 Arouca"}],  ([] se não houver)
  "hoje": [ {"c":"t1","t":"Aposta simples segura","risco":"baixo","legs":[{"h":"20:30","j":"Sporting vence o Arouca","m":"Resultado final","o":"1,18"}]},
            {"c":"t2",...}, {"c":"t3",...,"extra":"falhar uma perde tudo"} ],
+ t3 (múltipla arriscada): como uma perna falhada perde o boletim todo, preferir variar o mercado ("m") em vez de empilhar só
+ "Resultado final" — usar "Dupla hipótese", "Empate anula a aposta", "Ambas marcam", "Mais/Menos de X,5 golos" ou "Handicap asiático"
+ quando reduzem o risco de uma perna sem baixar demasiado a odd total (ver dados_exemplo.json para exemplos já usados).
  "proximos": [ {"c":"t4","t":"Múltipla dos próximos dias","risco":"médio","legs":[{"h":"11:15","d":"DOM","j":"...","m":"...","o":"1,23"}]} ],
  "amanha": [{"h":"14:00","d":"DOM","j":"Manchester City vence o Sunderland","m":"Resultado final","o":"1,26","n":"nota curta com dados desta execução"}],  (previsão do dia seguinte, provisória; [] se não houver)
  "fora": [["Jogo (odd)","motivo"]]
