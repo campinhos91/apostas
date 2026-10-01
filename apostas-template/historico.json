@@ -202,7 +202,7 @@
     "c": "t4",
     "total": "6,84",
     "e": "perdido",
-    "d": "Falhou: México vence o Peru (1-1) · 0 certas, 3 por jogar",
+    "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "02:00",
@@ -218,7 +218,9 @@
       "d": "QUI",
       "j": "Japão vence o Equador",
       "m": "Resultado final",
-      "o": "1,78"
+      "o": "1,78",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "02:30",

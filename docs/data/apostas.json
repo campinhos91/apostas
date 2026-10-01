@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-01T14:57:26+01:00",
+ "atualizado": "2026-10-01T16:57:05+01:00",
  "dia": "2026-09-30",
  "rotulo": "Quarta-feira · 30 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -410,7 +410,7 @@
      "c": "t4",
      "total": "6,84",
      "e": "perdido",
-     "d": "Falhou: México vence o Peru (1-1) · 0 certas, 3 por jogar",
+     "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "02:00",
@@ -426,7 +426,9 @@
        "d": "QUI",
        "j": "Japão vence o Equador",
        "m": "Resultado final",
-       "o": "1,78"
+       "o": "1,78",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "02:30",
@@ -1634,7 +1636,7 @@
  "estatisticas": {
   "decididos": 43,
   "ganhos": 19,
-  "pernas": 71,
+  "pernas": 72,
   "pernas_ok": 43,
   "dias": 12,
   "odd_media": "1,62",
@@ -1671,8 +1673,8 @@
   "mercados": [
    {
     "ok": 41,
-    "dec": 68,
-    "pct": 60,
+    "dec": 69,
+    "pct": 59,
     "nome": "Resultado final"
    },
    {
@@ -1703,8 +1705,8 @@
    },
    {
     "ok": 19,
-    "dec": 39,
-    "pct": 49,
+    "dec": 40,
+    "pct": 48,
     "nome": "Odd acima de 1,45"
    }
   ],
