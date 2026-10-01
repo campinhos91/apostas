@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,34",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: México vence o Peru (1-1) · 0 certas",
     "legs": [
      {
       "h": "02:00",
       "j": "México vence o Peru",
       "m": "Resultado final",
-      "o": "1,34"
+      "o": "1,34",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    },
@@ -22,20 +24,24 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,88",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: México vence o Peru (1-1) · 1 certa",
     "legs": [
      {
       "h": "01:00",
       "j": "Estados Unidos vence o Chile",
       "m": "Resultado final",
-      "o": "1,40"
+      "o": "1,40",
+      "r": "ok",
+      "x": "4-2"
      },
      {
       "h": "02:00",
       "j": "México vence o Peru",
       "m": "Resultado final",
-      "o": "1,34"
+      "o": "1,34",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    },
@@ -43,26 +49,32 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "4,41",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: México vence o Peru (1-1); Ilhas Salomão vence a Papua Nova Guiné (1-1) · 1 certa",
     "legs": [
      {
       "h": "01:00",
       "j": "Estados Unidos vence o Chile",
       "m": "Resultado final",
-      "o": "1,40"
+      "o": "1,40",
+      "r": "ok",
+      "x": "4-2"
      },
      {
       "h": "02:00",
       "j": "México vence o Peru",
       "m": "Resultado final",
-      "o": "1,34"
+      "o": "1,34",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "05:00",
       "j": "Ilhas Salomão vence a Papua Nova Guiné",
       "m": "Resultado final",
-      "o": "2,35"
+      "o": "2,35",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    },
@@ -189,15 +201,17 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "6,84",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: México vence o Peru (1-1) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "02:00",
       "d": "QUA",
       "j": "México vence o Peru",
       "m": "Resultado final",
-      "o": "1,44"
+      "o": "1,44",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "11:10",
@@ -308,7 +322,7 @@
     "c": "t4",
     "total": "5,16",
     "e": "perdido",
-    "d": "Falhou: Finlândia vence a Bielorrússia (0-0) · 1 certa, 2 por jogar",
+    "d": "Falhou: Finlândia vence a Bielorrússia (0-0); México vence o Peru (1-1) · 2 certas",
     "legs": [
      {
       "h": "11:00",
@@ -333,14 +347,18 @@
       "d": "QUA",
       "j": "México vence o Peru",
       "m": "Resultado final",
-      "o": "1,39"
+      "o": "1,39",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "00:30",
       "d": "QUI",
       "j": "St. Louis City vence o New York Red Bulls",
       "m": "Resultado final",
-      "o": "1,75"
+      "o": "1,75",
+      "r": "ok",
+      "x": "0-3"
      }
     ]
    }

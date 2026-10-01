@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-09-30T00:12:26+01:00",
+ "atualizado": "2026-10-01T14:57:26+01:00",
  "dia": "2026-09-30",
  "rotulo": "Quarta-feira · 30 de setembro de 2026",
  "titulo": "Apostas de hoje",
@@ -9,18 +9,18 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Espanha vence a Croácia (4-1)"
+   "e": "perdido",
+   "d": "Falhou: México vence o Peru (1-1) · 0 certas"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Brasil vence a Austrália (4-2); Eslováquia vence o Cazaquistão (2-1); Inglaterra vence a Chéquia (2-0)"
+   "e": "perdido",
+   "d": "Falhou: México vence o Peru (1-1) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Bulgária vence a Estónia (0-0) · 2 certas"
+   "d": "Falhou: México vence o Peru (1-1); Ilhas Salomão vence a Papua Nova Guiné (1-1) · 1 certa"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -215,14 +215,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,34",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: México vence o Peru (1-1) · 0 certas",
      "legs": [
       {
        "h": "02:00",
        "j": "México vence o Peru",
        "m": "Resultado final",
-       "o": "1,34"
+       "o": "1,34",
+       "r": "no",
+       "x": "1-1"
       }
      ]
     },
@@ -230,20 +232,24 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,88",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: México vence o Peru (1-1) · 1 certa",
      "legs": [
       {
        "h": "01:00",
        "j": "Estados Unidos vence o Chile",
        "m": "Resultado final",
-       "o": "1,40"
+       "o": "1,40",
+       "r": "ok",
+       "x": "4-2"
       },
       {
        "h": "02:00",
        "j": "México vence o Peru",
        "m": "Resultado final",
-       "o": "1,34"
+       "o": "1,34",
+       "r": "no",
+       "x": "1-1"
       }
      ]
     },
@@ -251,26 +257,32 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "4,41",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: México vence o Peru (1-1); Ilhas Salomão vence a Papua Nova Guiné (1-1) · 1 certa",
      "legs": [
       {
        "h": "01:00",
        "j": "Estados Unidos vence o Chile",
        "m": "Resultado final",
-       "o": "1,40"
+       "o": "1,40",
+       "r": "ok",
+       "x": "4-2"
       },
       {
        "h": "02:00",
        "j": "México vence o Peru",
        "m": "Resultado final",
-       "o": "1,34"
+       "o": "1,34",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "05:00",
        "j": "Ilhas Salomão vence a Papua Nova Guiné",
        "m": "Resultado final",
-       "o": "2,35"
+       "o": "2,35",
+       "r": "no",
+       "x": "1-1"
       }
      ]
     },
@@ -397,15 +409,17 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "6,84",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: México vence o Peru (1-1) · 0 certas, 3 por jogar",
      "legs": [
       {
        "h": "02:00",
        "d": "QUA",
        "j": "México vence o Peru",
        "m": "Resultado final",
-       "o": "1,44"
+       "o": "1,44",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "11:10",
@@ -516,7 +530,7 @@
      "c": "t4",
      "total": "5,16",
      "e": "perdido",
-     "d": "Falhou: Finlândia vence a Bielorrússia (0-0) · 1 certa, 2 por jogar",
+     "d": "Falhou: Finlândia vence a Bielorrússia (0-0); México vence o Peru (1-1) · 2 certas",
      "legs": [
       {
        "h": "11:00",
@@ -541,14 +555,18 @@
        "d": "QUA",
        "j": "México vence o Peru",
        "m": "Resultado final",
-       "o": "1,39"
+       "o": "1,39",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "00:30",
        "d": "QUI",
        "j": "St. Louis City vence o New York Red Bulls",
        "m": "Resultado final",
-       "o": "1,75"
+       "o": "1,75",
+       "r": "ok",
+       "x": "0-3"
       }
      ]
     }
@@ -1614,47 +1632,47 @@
   }
  ],
  "estatisticas": {
-  "decididos": 39,
+  "decididos": 43,
   "ganhos": 19,
-  "pernas": 67,
-  "pernas_ok": 41,
+  "pernas": 71,
+  "pernas_ok": 43,
   "dias": 12,
-  "odd_media": "1,61",
+  "odd_media": "1,62",
   "tipos": [
    {
     "ok": 8,
-    "dec": 10,
-    "pct": 80,
+    "dec": 11,
+    "pct": 73,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 7,
-    "dec": 10,
-    "pct": 70,
+    "dec": 11,
+    "pct": 64,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
-    "dec": 10,
-    "pct": 10,
+    "dec": 11,
+    "pct": 9,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
-    "dec": 9,
-    "pct": 33,
+    "dec": 10,
+    "pct": 30,
     "nome": "Múltipla dos próximos dias",
-    "pend": 2
+    "pend": 1
    }
   ],
   "mercados": [
    {
-    "ok": 39,
-    "dec": 64,
-    "pct": 61,
+    "ok": 41,
+    "dec": 68,
+    "pct": 60,
     "nome": "Resultado final"
    },
    {
@@ -1678,14 +1696,14 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 12,
-    "dec": 17,
-    "pct": 71,
+    "ok": 13,
+    "dec": 19,
+    "pct": 68,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 18,
-    "dec": 37,
+    "ok": 19,
+    "dec": 39,
     "pct": 49,
     "nome": "Odd acima de 1,45"
    }
@@ -1693,17 +1711,17 @@
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 3,
+    "pct": 0,
     "nome": "Quarta-feira, 30 de setembro",
-    "pend": 4
+    "pend": 1
    },
    {
     "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "dec": 4,
+    "pct": 50,
     "nome": "Terça-feira, 29 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,

@@ -6,18 +6,18 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Espanha vence a Croácia (4-1)"
+   "e": "perdido",
+   "d": "Falhou: México vence o Peru (1-1) · 0 certas"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Brasil vence a Austrália (4-2); Eslováquia vence o Cazaquistão (2-1); Inglaterra vence a Chéquia (2-0)"
+   "e": "perdido",
+   "d": "Falhou: México vence o Peru (1-1) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Bulgária vence a Estónia (0-0) · 2 certas"
+   "d": "Falhou: México vence o Peru (1-1); Ilhas Salomão vence a Papua Nova Guiné (1-1) · 1 certa"
   },
   {
    "t": "Múltipla dos próximos dias",
