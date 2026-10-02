@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-02T00:13:48+01:00",
+ "atualizado": "2026-10-02T16:58:40+01:00",
  "dia": "2026-10-02",
  "rotulo": "Sexta-feira · 2 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -157,14 +157,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,52",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Seattle Sounders vence o Sporting Kansas City (2-1)",
      "legs": [
       {
        "h": "02:30",
        "j": "Seattle Sounders vence o Sporting Kansas City",
        "m": "Resultado final",
-       "o": "1,52"
+       "o": "1,52",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -412,7 +414,7 @@
      "c": "t4",
      "total": "6,84",
      "e": "perdido",
-     "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0) · 0 certas, 2 por jogar",
+     "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "02:00",
@@ -437,7 +439,9 @@
        "d": "SEX",
        "j": "Seattle Sounders vence o Sporting Kansas City",
        "m": "Resultado final",
-       "o": "1,39"
+       "o": "1,39",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "00:00",
@@ -1636,19 +1640,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 43,
-  "ganhos": 19,
-  "pernas": 73,
-  "pernas_ok": 44,
+  "decididos": 44,
+  "ganhos": 20,
+  "pernas": 74,
+  "pernas_ok": 45,
   "dias": 13,
   "odd_media": "1,61",
   "tipos": [
    {
-    "ok": 8,
-    "dec": 11,
-    "pct": 73,
+    "ok": 9,
+    "dec": 12,
+    "pct": 75,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 7,
@@ -1674,9 +1678,9 @@
   ],
   "mercados": [
    {
-    "ok": 42,
-    "dec": 70,
-    "pct": 60,
+    "ok": 43,
+    "dec": 71,
+    "pct": 61,
     "nome": "Resultado final"
    },
    {
@@ -1700,9 +1704,9 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 13,
-    "dec": 19,
-    "pct": 68,
+    "ok": 14,
+    "dec": 20,
+    "pct": 70,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
@@ -1714,11 +1718,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Sexta-feira, 2 de outubro",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 0,

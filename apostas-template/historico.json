@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,52",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Seattle Sounders vence o Sporting Kansas City (2-1)",
     "legs": [
      {
       "h": "02:30",
       "j": "Seattle Sounders vence o Sporting Kansas City",
       "m": "Resultado final",
-      "o": "1,52"
+      "o": "1,52",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -262,7 +264,7 @@
     "c": "t4",
     "total": "6,84",
     "e": "perdido",
-    "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0) · 0 certas, 2 por jogar",
+    "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "02:00",
@@ -287,7 +289,9 @@
       "d": "SEX",
       "j": "Seattle Sounders vence o Sporting Kansas City",
       "m": "Resultado final",
-      "o": "1,39"
+      "o": "1,39",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "00:00",
