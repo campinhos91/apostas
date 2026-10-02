@@ -1,5 +1,117 @@
 [
  {
+  "dia": "2026-10-03",
+  "rotulo": "Sábado · 3 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,05",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Espanha vence a República Checa",
+      "m": "Resultado final",
+      "o": "1,05"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,06",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "Liverpool Montevideo vence o CA Progreso",
+      "m": "Resultado final",
+      "o": "1,52"
+     },
+     {
+      "h": "17:00",
+      "j": "Bielorrússia vence a San Marino",
+      "m": "Resultado final",
+      "o": "1,06"
+     },
+     {
+      "h": "19:45",
+      "j": "Suíça vence a Eslovénia",
+      "m": "Resultado final",
+      "o": "1,28"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "4,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:00",
+      "j": "Inglaterra vence a Croácia",
+      "m": "Resultado final",
+      "o": "1,75"
+     },
+     {
+      "h": "19:45",
+      "j": "Escócia vence a Macedónia do Norte",
+      "m": "Resultado final",
+      "o": "1,72"
+     },
+     {
+      "h": "22:00",
+      "j": "Deportivo Maldonado vence o Central Español",
+      "m": "Resultado final",
+      "o": "1,47"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "6,14",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:00",
+      "d": "DOM",
+      "j": "Argentina vence a Burquina Faso",
+      "m": "Resultado final",
+      "o": "1,10"
+     },
+     {
+      "h": "17:00",
+      "d": "DOM",
+      "j": "Áustria vence o Kosovo",
+      "m": "Resultado final",
+      "o": "2,05"
+     },
+     {
+      "h": "18:45",
+      "d": "DOM",
+      "j": "CA Huracán vence o CA Aldosivi",
+      "m": "Resultado final",
+      "o": "1,63"
+     },
+     {
+      "h": "19:00",
+      "d": "DOM",
+      "j": "Egito vence a África do Sul",
+      "m": "Resultado final",
+      "o": "1,67"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-02",
   "rotulo": "Sexta-feira · 2 de outubro de 2026",
   "boletins": [
@@ -24,8 +136,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "5,66",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "19:45",

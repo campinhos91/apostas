@@ -1,28 +1,18 @@
 {
- "data": "Sexta-feira · 2 de outubro de 2026",
+ "data": "Sábado · 3 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
- "pausa": "Janela FIFA de seleções: a generalidade das ligas domésticas europeias e sul-americanas continua parada até 8-17 de outubro (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1 só regressam a partir de 9-12 de outubro). A Liga das Nações entra na 3ª jornada já a partir de amanhã, 3 de outubro.",
+ "pausa": "As principais ligas domésticas europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) continuam paradas pela janela FIFA e só regressam entre 9 e 12 de outubro; a Liga das Nações está a decorrer esta jornada (3 e 4 de outubro).",
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: México vence o Peru (1-1) · 0 certas"
-  },
-  {
-   "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: México vence o Peru (1-1) · 1 certa"
-  },
-  {
-   "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: México vence o Peru (1-1); Ilhas Salomão vence a Papua Nova Guiné (1-1) · 1 certa"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Seattle Sounders vence o Sporting Kansas City (2-1)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -31,48 +21,74 @@
    "t": "Aposta simples segura",
    "risco": "baixo",
    "legs": [
-    {"h": "02:30", "j": "Seattle Sounders vence o Sporting Kansas City", "m": "Resultado final", "o": "1,52", "comp": "MLS"}
+    {"h": "19:45", "j": "Espanha vence a República Checa", "m": "Resultado final", "o": "1,05", "comp": "Liga das Nações"}
+   ]
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {"h": "15:00", "j": "Liverpool Montevideo vence o CA Progreso", "m": "Resultado final", "o": "1,52", "comp": "Primeira Liga (Uruguai)"},
+    {"h": "17:00", "j": "Bielorrússia vence a San Marino", "m": "Resultado final", "o": "1,06", "comp": "Liga das Nações"},
+    {"h": "19:45", "j": "Suíça vence a Eslovénia", "m": "Resultado final", "o": "1,28", "comp": "Liga das Nações"}
+   ]
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "extra": "falhar uma perde tudo",
+   "legs": [
+    {"h": "17:00", "j": "Inglaterra vence a Croácia", "m": "Resultado final", "o": "1,75", "comp": "Liga das Nações"},
+    {"h": "19:45", "j": "Escócia vence a Macedónia do Norte", "m": "Resultado final", "o": "1,72", "comp": "Liga das Nações"},
+    {"h": "22:00", "j": "Deportivo Maldonado vence o Central Español", "m": "Resultado final", "o": "1,47", "comp": "Primeira Liga (Uruguai)"}
    ]
   }
  ],
- "sem_boletins_motivo": "Janela FIFA: a Betclic só tinha hoje 1 jogo com odds fiáveis (Seattle Sounders-Sporting KC, de madrugada) e outro sem odds disponíveis (Internacional de Bogotá-Once Caldas); chega para a aposta simples, mas não há jogos distintos suficientes para montar a múltipla segura nem a arriscada.",
  "proximos": [
   {
    "c": "t4",
    "t": "Múltipla dos próximos dias",
    "risco": "médio",
    "legs": [
-    {"h": "19:45", "d": "SÁB", "j": "Espanha vence a República Checa", "m": "Resultado final", "o": "1,36", "comp": "Liga das Nações"},
-    {"h": "01:30", "d": "SÁB", "j": "Boca Juniors vence o Union Santa Fe", "m": "Resultado final", "o": "1,48", "comp": "Primeira Liga (Argentina)"},
-    {"h": "18:45", "d": "DOM", "j": "CA Huracán vence o CA Aldosivi", "m": "Resultado final", "o": "1,57", "comp": "Primeira Liga (Argentina)"},
-    {"h": "00:10", "d": "SEG", "j": "Atlético Bucaramanga vence o Junior", "m": "Resultado final", "o": "1,79", "comp": "Primeira Liga (Colômbia)"}
+    {"h": "01:00", "d": "DOM", "j": "Argentina vence a Burquina Faso", "m": "Resultado final", "o": "1,10", "comp": "Particular de Seleções"},
+    {"h": "17:00", "d": "DOM", "j": "Áustria vence o Kosovo", "m": "Resultado final", "o": "2,05", "comp": "Liga das Nações"},
+    {"h": "18:45", "d": "DOM", "j": "CA Huracán vence o CA Aldosivi", "m": "Resultado final", "o": "1,63", "comp": "Primeira Liga (Argentina)"},
+    {"h": "19:00", "d": "DOM", "j": "Egito vence a África do Sul", "m": "Resultado final", "o": "1,67", "comp": "Particular de Seleções"}
    ]
   }
  ],
  "amanha": [
   {
-   "h": "19:45", "d": "SÁB", "j": "Espanha vence a República Checa", "m": "Resultado final", "o": "1,36",
-   "n": "Espanha estreia-se pós-Mundial2026 em casa, em Oviedo; invicta há 7 jogos frente à Rep. Checa (5 vitórias, 2 empates).",
+   "h": "01:00", "d": "DOM", "j": "Argentina vence a Burquina Faso", "m": "Resultado final", "o": "1,10",
+   "n": "Primeiro jogo da Argentina após o Mundial2026 (vice-campeã, perdeu a final para a Espanha) e após a retirada de Messi; estreia histórica frente à Burquina Faso, sem qualquer tradição no confronto.",
+   "comp": "Particular de Seleções"
+  },
+  {
+   "h": "17:00", "d": "DOM", "j": "Áustria vence o Kosovo", "m": "Resultado final", "o": "2,05",
+   "n": "Áustria, orientada por Ralf Rangnick, vem de vencer o grupo do Euro2024 com França, Países Baixos e Polónia; é apontada como o adversário mais forte do grupo do Kosovo na Liga das Nações.",
    "comp": "Liga das Nações"
   },
   {
-   "h": "01:30", "d": "SÁB", "j": "Boca Juniors vence o Union Santa Fe", "m": "Resultado final", "o": "1,48",
-   "n": "Boca em 2º lugar (30 pts/16 jogos) recebe o Union Santa Fe, 8º (21 pts); Union joga mais retraído e sofre para penetrar a defesa do Boca.",
+   "h": "18:45", "d": "DOM", "j": "CA Huracán vence o CA Aldosivi", "m": "Resultado final", "o": "1,63",
+   "n": "Huracán em 7º lugar (22 pts/16 jogos) recebe o Aldosivi, 14º com apenas 8 pontos; nos últimos 6 confrontos directos o Huracán venceu 3 e perdeu só 1.",
    "comp": "Primeira Liga (Argentina)"
   },
   {
-   "h": "15:00", "d": "SÁB", "j": "Liverpool Montevideo vence o CA Progreso", "m": "Resultado final", "o": "1,54",
-   "n": "Liverpool com 3V-3E-2D e +2 de saldo de golos; Progreso muito mais fraco, 1V-3E-4D e -6 de saldo.",
-   "comp": "Primeira Liga (Uruguai)"
+   "h": "19:00", "d": "DOM", "j": "Egito vence a África do Sul", "m": "Resultado final", "o": "1,67",
+   "n": "Egipto chegou aos oitavos-de-final do Mundial2026 (perdeu com a Argentina); África do Sul foi eliminada mais cedo (derrota por 1-0 com o Canadá) e troca agora de selecionador para Pitso Mosimane.",
+   "comp": "Particular de Seleções"
   }
  ],
  "fora": [
-  ["Internacional de Bogotá vence o Once Caldas", "jogo de hoje sem odds disponíveis na página da Betclic (só botão \"Aposta já\", sem valores)"],
-  ["Deportivo Cali vence a Alianza FC Valledupar (1,46)", "dados de forma encontrados nesta execução eram contraditórios/desatualizados, sem confirmação fiável do contexto atual"],
-  ["Rionegro Águilas vence o Jaguares de Córdoba (1,48)", "posições (12º vs 16º) e forma recente muito equilibradas (ambas com só 2 vitórias nos últimos 6 jogos), sem vantagem clara"],
-  ["Deportes Tolima vence o Boyacá Chicó (1,27)", "odd demasiado baixa para ter valor real e dados de forma recolhidos eram de fase anterior da época"],
-  ["Nacional Montevideo vence o Torque (1,79)", "dados de forma encontrados nesta execução eram de março, não refletem a fase atual da época"],
-  ["Atlético-MG vence o Bragantino (2,05)", "sem dados de forma fiáveis recolhidos nesta execução"],
-  ["Cobertura da Betclic", "Consultadas Liga das Nações, Amigáveis de Seleções (403), MLS, Liga MX, Liga de Expansión MX, USL, Primeira Liga (Brasil, Colômbia, Argentina, Uruguai e respetivas 2ªs divisões/taças), Libertadores, Sul-Americana, Liga dos Campeões, Primeira RFEF, Serie C italiana, Escócia (Premiership e Championship), Irlanda e Irlanda do Norte, Dinamarca, Noruega, Suécia, Finlândia, Áustria, Roménia, Bulgária, Sérvia, Grécia, Geórgia, Arábia Saudita, Uzbequistão, Angola, Argélia, Costa Rica, Guatemala, Honduras, Japão (J-League 2), Coreia do Sul, Equador, Chile, Peru, Taça de Portugal e Taça da Rep. Checa. Confirmado: Liga Portugal, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1, Eredivisie e a generalidade das ligas domésticas europeias e sul-americanas continuam paradas pela janela FIFA; hoje (2 de outubro) só havia 2 jogos em toda a lista, um deles sem odds."]
+  ["Boca Juniors vence o Union Santa Fe (1,37)", "data e hora do jogo contraditórias entre a Betclic (madrugada de hoje) e outras fontes consultadas nesta execução (domingo às 16h local); sem confirmação fiável, ficou fora"],
+  ["Independiente Rivadavia vence o Gimnasia Y Esgrima (2,05)", "mesmo problema de data contraditória entre fontes nesta execução"],
+  ["Albion vence o Defensor Sporting (2,68)", "sem dados de forma fiáveis recolhidos nesta execução"],
+  ["Islândia vence a Bulgária (1,39)", "forma recente da Islândia é fraca (1 vitória nos últimos 5 jogos) e a Bulgária está em recuperação; o favoritismo da odd não ficou bem sustentado pelos dados encontrados"],
+  ["Colômbia vence o Paraguai (1,72)", "jogo amigável com início a menos de uma hora no momento da pesquisa, sem tempo para analisar dados de forma com confiança"],
+  ["Atlético-MG vence o Bragantino (2,05)", "data exata do jogo (hoje ou domingo) ficou ambígua entre as fontes consultadas nesta execução"],
+  ["Newell's Old Boys vence o Atlético Lanús (2,73)", "sem dados de forma recolhidos nesta execução; preferência por jogos com informação mais sólida"],
+  ["Cobertura da Betclic", "Consultadas: Liga das Nações, Primeira Liga (Argentina, Uruguai, Colômbia), Primeira Liga (Brasil), Liga MX, Taça dos Libertadores, Taça Sul-Americana, Chile, Peru e Amigáveis de Seleções. Confirmado: Liga Portugal, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie continuam paradas pela janela FIFA até 9-12 de outubro; as ligas sul-americanas (Argentina, Uruguai, Colômbia, Brasil) não pararam e tiveram jogos hoje e nos próximos dias; Chile e Peru só retomam depois de 8 de outubro."]
  ]
 }
