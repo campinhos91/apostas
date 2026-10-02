@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-02T16:58:40+01:00",
+ "atualizado": "2026-10-02T18:56:42+01:00",
  "dia": "2026-10-02",
  "rotulo": "Sexta-feira · 2 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "1 de 3 pernas certas até agora"
+   "d": "2 de 3 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -293,7 +293,7 @@
      "c": "t4",
      "total": "4,17",
      "e": "nao verificado",
-     "d": "1 de 3 pernas certas até agora",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
@@ -309,7 +309,9 @@
        "d": "SEX",
        "j": "Montenegro vence a Letónia",
        "m": "Resultado final",
-       "o": "1,78"
+       "o": "1,78",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "00:00",
@@ -1642,8 +1644,8 @@
  "estatisticas": {
   "decididos": 44,
   "ganhos": 20,
-  "pernas": 74,
-  "pernas_ok": 45,
+  "pernas": 75,
+  "pernas_ok": 46,
   "dias": 13,
   "odd_media": "1,61",
   "tipos": [
@@ -1678,8 +1680,8 @@
   ],
   "mercados": [
    {
-    "ok": 43,
-    "dec": 71,
+    "ok": 44,
+    "dec": 72,
     "pct": 61,
     "nome": "Resultado final"
    },
@@ -1710,9 +1712,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 19,
-    "dec": 40,
-    "pct": 48,
+    "ok": 20,
+    "dec": 41,
+    "pct": 49,
     "nome": "Odd acima de 1,45"
    }
   ],
