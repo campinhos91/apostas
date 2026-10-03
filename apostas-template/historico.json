@@ -23,19 +23,23 @@
     "c": "t2",
     "total": "2,06",
     "e": "pendente",
-    "d": "",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
       "j": "Liverpool Montevideo vence o CA Progreso",
       "m": "Resultado final",
-      "o": "1,52"
+      "o": "1,52",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "17:00",
       "j": "Bielorrússia vence a San Marino",
       "m": "Resultado final",
-      "o": "1,06"
+      "o": "1,06",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "19:45",
@@ -50,13 +54,15 @@
     "c": "t3",
     "total": "4,42",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:00",
       "j": "Inglaterra vence a Croácia",
       "m": "Resultado final",
-      "o": "1,75"
+      "o": "1,75",
+      "r": "ok",
+      "x": "7-0"
      },
      {
       "h": "19:45",

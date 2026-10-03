@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-03T14:55:58+01:00",
+ "atualizado": "2026-10-03T18:56:23+01:00",
  "dia": "2026-10-03",
  "rotulo": "Sábado · 3 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -236,19 +236,23 @@
      "c": "t2",
      "total": "2,06",
      "e": "pendente",
-     "d": "",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
        "j": "Liverpool Montevideo vence o CA Progreso",
        "m": "Resultado final",
-       "o": "1,52"
+       "o": "1,52",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "17:00",
        "j": "Bielorrússia vence a San Marino",
        "m": "Resultado final",
-       "o": "1,06"
+       "o": "1,06",
+       "r": "ok",
+       "x": "4-0"
       },
       {
        "h": "19:45",
@@ -263,13 +267,15 @@
      "c": "t3",
      "total": "4,42",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "17:00",
        "j": "Inglaterra vence a Croácia",
        "m": "Resultado final",
-       "o": "1,75"
+       "o": "1,75",
+       "r": "ok",
+       "x": "7-0"
       },
       {
        "h": "19:45",
@@ -1825,8 +1831,8 @@
  "estatisticas": {
   "decididos": 46,
   "ganhos": 20,
-  "pernas": 77,
-  "pernas_ok": 46,
+  "pernas": 80,
+  "pernas_ok": 49,
   "dias": 14,
   "odd_media": "1,61",
   "tipos": [
@@ -1861,9 +1867,9 @@
   ],
   "mercados": [
    {
-    "ok": 44,
-    "dec": 74,
-    "pct": 59,
+    "ok": 47,
+    "dec": 77,
+    "pct": 61,
     "nome": "Resultado final"
    },
    {
@@ -1881,9 +1887,9 @@
   ],
   "faixas": [
    {
-    "ok": 12,
-    "dec": 14,
-    "pct": 86,
+    "ok": 13,
+    "dec": 15,
+    "pct": 87,
     "nome": "Odd até 1,25"
    },
    {
@@ -1893,9 +1899,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 20,
-    "dec": 43,
-    "pct": 47,
+    "ok": 22,
+    "dec": 45,
+    "pct": 49,
     "nome": "Odd acima de 1,45"
    }
   ],
