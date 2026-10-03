@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-03T00:09:50+01:00",
+ "atualizado": "2026-10-03T14:55:58+01:00",
  "dia": "2026-10-03",
  "rotulo": "Sábado · 3 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -14,8 +14,8 @@
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 0 certas, 3 por jogar"
   }
  ],
  "hoje": [
@@ -349,8 +349,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "5,66",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 0 certas, 3 por jogar",
      "legs": [
       {
        "h": "19:45",
@@ -364,7 +364,9 @@
        "d": "SÁB",
        "j": "Boca Juniors vence o Union Santa Fe",
        "m": "Resultado final",
-       "o": "1,48"
+       "o": "1,48",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "18:45",
@@ -467,8 +469,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "4,17",
-     "e": "nao verificado",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: São Paulo vence o Santos (1-2) · 2 certas",
      "legs": [
       {
        "h": "19:45",
@@ -493,7 +495,9 @@
        "d": "SÁB",
        "j": "São Paulo vence o Santos",
        "m": "Resultado final",
-       "o": "1,92"
+       "o": "1,92",
+       "r": "no",
+       "x": "1-2"
       }
      ]
     }
@@ -591,7 +595,7 @@
      "c": "t4",
      "total": "6,84",
      "e": "perdido",
-     "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0) · 1 certa, 1 por jogar",
+     "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0); São Paulo vence o Santos (1-2) · 1 certa",
      "legs": [
       {
        "h": "02:00",
@@ -625,7 +629,9 @@
        "d": "SÁB",
        "j": "São Paulo vence o Santos",
        "m": "Resultado final",
-       "o": "1,92"
+       "o": "1,92",
+       "r": "no",
+       "x": "1-2"
       }
      ]
     }
@@ -1817,9 +1823,9 @@
   }
  ],
  "estatisticas": {
-  "decididos": 44,
+  "decididos": 46,
   "ganhos": 20,
-  "pernas": 75,
+  "pernas": 77,
   "pernas_ok": 46,
   "dias": 14,
   "odd_media": "1,61",
@@ -1847,17 +1853,17 @@
    },
    {
     "ok": 3,
-    "dec": 10,
-    "pct": 30,
+    "dec": 12,
+    "pct": 25,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 1
    }
   ],
   "mercados": [
    {
     "ok": 44,
-    "dec": 72,
-    "pct": 61,
+    "dec": 74,
+    "pct": 59,
     "nome": "Resultado final"
    },
    {
@@ -1888,8 +1894,8 @@
    },
    {
     "ok": 20,
-    "dec": 41,
-    "pct": 49,
+    "dec": 43,
+    "pct": 47,
     "nome": "Odd acima de 1,45"
    }
   ],
@@ -1903,17 +1909,17 @@
    },
    {
     "ok": 1,
-    "dec": 1,
-    "pct": 100,
+    "dec": 2,
+    "pct": 50,
     "nome": "Sexta-feira, 2 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
-    "dec": 3,
+    "dec": 4,
     "pct": 0,
     "nome": "Quarta-feira, 30 de setembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,

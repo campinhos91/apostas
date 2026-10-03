@@ -136,8 +136,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "5,66",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -151,7 +151,9 @@
       "d": "SÁB",
       "j": "Boca Juniors vence o Union Santa Fe",
       "m": "Resultado final",
-      "o": "1,48"
+      "o": "1,48",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "18:45",
@@ -254,8 +256,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "4,17",
-    "e": "nao verificado",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: São Paulo vence o Santos (1-2) · 2 certas",
     "legs": [
      {
       "h": "19:45",
@@ -280,7 +282,9 @@
       "d": "SÁB",
       "j": "São Paulo vence o Santos",
       "m": "Resultado final",
-      "o": "1,92"
+      "o": "1,92",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    }
@@ -378,7 +382,7 @@
     "c": "t4",
     "total": "6,84",
     "e": "perdido",
-    "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0) · 1 certa, 1 por jogar",
+    "d": "Falhou: México vence o Peru (1-1); Japão vence o Equador (0-0); São Paulo vence o Santos (1-2) · 1 certa",
     "legs": [
      {
       "h": "02:00",
@@ -412,7 +416,9 @@
       "d": "SÁB",
       "j": "São Paulo vence o Santos",
       "m": "Resultado final",
-      "o": "1,92"
+      "o": "1,92",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    }
