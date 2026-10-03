@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-03T18:56:23+01:00",
+ "atualizado": "2026-10-03T22:56:28+01:00",
  "dia": "2026-10-03",
  "rotulo": "Sábado · 3 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -15,7 +15,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "perdido",
-   "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 0 certas, 3 por jogar"
+   "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [
@@ -220,14 +220,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,05",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Espanha vence a República Checa (3-1)",
      "legs": [
       {
        "h": "19:45",
        "j": "Espanha vence a República Checa",
        "m": "Resultado final",
-       "o": "1,05"
+       "o": "1,05",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     },
@@ -235,8 +237,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,06",
-     "e": "pendente",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Liverpool Montevideo vence o CA Progreso (3-2); Bielorrússia vence a San Marino (4-0); Suíça vence a Eslovénia (2-1)",
      "legs": [
       {
        "h": "15:00",
@@ -258,7 +260,9 @@
        "h": "19:45",
        "j": "Suíça vence a Eslovénia",
        "m": "Resultado final",
-       "o": "1,28"
+       "o": "1,28",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -267,7 +271,7 @@
      "c": "t3",
      "total": "4,42",
      "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "17:00",
@@ -281,7 +285,9 @@
        "h": "19:45",
        "j": "Escócia vence a Macedónia do Norte",
        "m": "Resultado final",
-       "o": "1,72"
+       "o": "1,72",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "22:00",
@@ -356,14 +362,16 @@
      "c": "t4",
      "total": "5,66",
      "e": "perdido",
-     "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 0 certas, 3 por jogar",
+     "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "19:45",
        "d": "SÁB",
        "j": "Espanha vence a República Checa",
        "m": "Resultado final",
-       "o": "1,36"
+       "o": "1,36",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "01:30",
@@ -1829,26 +1837,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 46,
-  "ganhos": 20,
-  "pernas": 80,
-  "pernas_ok": 49,
+  "decididos": 48,
+  "ganhos": 22,
+  "pernas": 83,
+  "pernas_ok": 52,
   "dias": 14,
-  "odd_media": "1,61",
+  "odd_media": "1,60",
   "tipos": [
    {
-    "ok": 9,
-    "dec": 12,
-    "pct": 75,
+    "ok": 10,
+    "dec": 13,
+    "pct": 77,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 7,
-    "dec": 11,
-    "pct": 64,
+    "ok": 8,
+    "dec": 12,
+    "pct": 67,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
@@ -1867,9 +1875,9 @@
   ],
   "mercados": [
    {
-    "ok": 47,
-    "dec": 77,
-    "pct": 61,
+    "ok": 50,
+    "dec": 80,
+    "pct": 62,
     "nome": "Resultado final"
    },
    {
@@ -1893,25 +1901,25 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 14,
-    "dec": 20,
-    "pct": 70,
+    "ok": 16,
+    "dec": 22,
+    "pct": 73,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 22,
-    "dec": 45,
-    "pct": 49,
+    "ok": 23,
+    "dec": 46,
+    "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
     "nome": "Sábado, 3 de outubro",
-    "pend": 4
+    "pend": 2
    },
    {
     "ok": 1,

@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,05",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Espanha vence a República Checa (3-1)",
     "legs": [
      {
       "h": "19:45",
       "j": "Espanha vence a República Checa",
       "m": "Resultado final",
-      "o": "1,05"
+      "o": "1,05",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    },
@@ -22,8 +24,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,06",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Liverpool Montevideo vence o CA Progreso (3-2); Bielorrússia vence a San Marino (4-0); Suíça vence a Eslovénia (2-1)",
     "legs": [
      {
       "h": "15:00",
@@ -45,7 +47,9 @@
       "h": "19:45",
       "j": "Suíça vence a Eslovénia",
       "m": "Resultado final",
-      "o": "1,28"
+      "o": "1,28",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -54,7 +58,7 @@
     "c": "t3",
     "total": "4,42",
     "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:00",
@@ -68,7 +72,9 @@
       "h": "19:45",
       "j": "Escócia vence a Macedónia do Norte",
       "m": "Resultado final",
-      "o": "1,72"
+      "o": "1,72",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "22:00",
@@ -143,14 +149,16 @@
     "c": "t4",
     "total": "5,66",
     "e": "perdido",
-    "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 0 certas, 3 por jogar",
+    "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "19:45",
       "d": "SÁB",
       "j": "Espanha vence a República Checa",
       "m": "Resultado final",
-      "o": "1,36"
+      "o": "1,36",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "01:30",

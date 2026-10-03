@@ -12,7 +12,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "perdido",
-   "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 0 certas, 3 por jogar"
+   "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [
@@ -21,7 +21,13 @@
    "t": "Aposta simples segura",
    "risco": "baixo",
    "legs": [
-    {"h": "19:45", "j": "Espanha vence a República Checa", "m": "Resultado final", "o": "1,05", "comp": "Liga das Nações"}
+    {
+     "h": "19:45",
+     "j": "Espanha vence a República Checa",
+     "m": "Resultado final",
+     "o": "1,05",
+     "comp": "Liga das Nações"
+    }
    ]
   },
   {
@@ -29,9 +35,27 @@
    "t": "Múltipla segura",
    "risco": "médio",
    "legs": [
-    {"h": "15:00", "j": "Liverpool Montevideo vence o CA Progreso", "m": "Resultado final", "o": "1,52", "comp": "Primeira Liga (Uruguai)"},
-    {"h": "17:00", "j": "Bielorrússia vence a San Marino", "m": "Resultado final", "o": "1,06", "comp": "Liga das Nações"},
-    {"h": "19:45", "j": "Suíça vence a Eslovénia", "m": "Resultado final", "o": "1,28", "comp": "Liga das Nações"}
+    {
+     "h": "15:00",
+     "j": "Liverpool Montevideo vence o CA Progreso",
+     "m": "Resultado final",
+     "o": "1,52",
+     "comp": "Primeira Liga (Uruguai)"
+    },
+    {
+     "h": "17:00",
+     "j": "Bielorrússia vence a San Marino",
+     "m": "Resultado final",
+     "o": "1,06",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "19:45",
+     "j": "Suíça vence a Eslovénia",
+     "m": "Resultado final",
+     "o": "1,28",
+     "comp": "Liga das Nações"
+    }
    ]
   },
   {
@@ -40,9 +64,27 @@
    "risco": "alto",
    "extra": "falhar uma perde tudo",
    "legs": [
-    {"h": "17:00", "j": "Inglaterra vence a Croácia", "m": "Resultado final", "o": "1,75", "comp": "Liga das Nações"},
-    {"h": "19:45", "j": "Escócia vence a Macedónia do Norte", "m": "Resultado final", "o": "1,72", "comp": "Liga das Nações"},
-    {"h": "22:00", "j": "Deportivo Maldonado vence o Central Español", "m": "Resultado final", "o": "1,47", "comp": "Primeira Liga (Uruguai)"}
+    {
+     "h": "17:00",
+     "j": "Inglaterra vence a Croácia",
+     "m": "Resultado final",
+     "o": "1,75",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "19:45",
+     "j": "Escócia vence a Macedónia do Norte",
+     "m": "Resultado final",
+     "o": "1,72",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "22:00",
+     "j": "Deportivo Maldonado vence o Central Español",
+     "m": "Resultado final",
+     "o": "1,47",
+     "comp": "Primeira Liga (Uruguai)"
+    }
    ]
   }
  ],
@@ -52,43 +94,111 @@
    "t": "Múltipla dos próximos dias",
    "risco": "médio",
    "legs": [
-    {"h": "01:00", "d": "DOM", "j": "Argentina vence a Burquina Faso", "m": "Resultado final", "o": "1,10", "comp": "Particular de Seleções"},
-    {"h": "17:00", "d": "DOM", "j": "Áustria vence o Kosovo", "m": "Resultado final", "o": "2,05", "comp": "Liga das Nações"},
-    {"h": "18:45", "d": "DOM", "j": "CA Huracán vence o CA Aldosivi", "m": "Resultado final", "o": "1,63", "comp": "Primeira Liga (Argentina)"},
-    {"h": "19:00", "d": "DOM", "j": "Egito vence a África do Sul", "m": "Resultado final", "o": "1,67", "comp": "Particular de Seleções"}
+    {
+     "h": "01:00",
+     "d": "DOM",
+     "j": "Argentina vence a Burquina Faso",
+     "m": "Resultado final",
+     "o": "1,10",
+     "comp": "Particular de Seleções"
+    },
+    {
+     "h": "17:00",
+     "d": "DOM",
+     "j": "Áustria vence o Kosovo",
+     "m": "Resultado final",
+     "o": "2,05",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "18:45",
+     "d": "DOM",
+     "j": "CA Huracán vence o CA Aldosivi",
+     "m": "Resultado final",
+     "o": "1,63",
+     "comp": "Primeira Liga (Argentina)"
+    },
+    {
+     "h": "19:00",
+     "d": "DOM",
+     "j": "Egito vence a África do Sul",
+     "m": "Resultado final",
+     "o": "1,67",
+     "comp": "Particular de Seleções"
+    }
    ]
   }
  ],
  "amanha": [
   {
-   "h": "01:00", "d": "DOM", "j": "Argentina vence a Burquina Faso", "m": "Resultado final", "o": "1,10",
+   "h": "01:00",
+   "d": "DOM",
+   "j": "Argentina vence a Burquina Faso",
+   "m": "Resultado final",
+   "o": "1,10",
    "n": "Primeiro jogo da Argentina após o Mundial2026 (vice-campeã, perdeu a final para a Espanha) e após a retirada de Messi; estreia histórica frente à Burquina Faso, sem qualquer tradição no confronto.",
    "comp": "Particular de Seleções"
   },
   {
-   "h": "17:00", "d": "DOM", "j": "Áustria vence o Kosovo", "m": "Resultado final", "o": "2,05",
+   "h": "17:00",
+   "d": "DOM",
+   "j": "Áustria vence o Kosovo",
+   "m": "Resultado final",
+   "o": "2,05",
    "n": "Áustria, orientada por Ralf Rangnick, vem de vencer o grupo do Euro2024 com França, Países Baixos e Polónia; é apontada como o adversário mais forte do grupo do Kosovo na Liga das Nações.",
    "comp": "Liga das Nações"
   },
   {
-   "h": "18:45", "d": "DOM", "j": "CA Huracán vence o CA Aldosivi", "m": "Resultado final", "o": "1,63",
+   "h": "18:45",
+   "d": "DOM",
+   "j": "CA Huracán vence o CA Aldosivi",
+   "m": "Resultado final",
+   "o": "1,63",
    "n": "Huracán em 7º lugar (22 pts/16 jogos) recebe o Aldosivi, 14º com apenas 8 pontos; nos últimos 6 confrontos directos o Huracán venceu 3 e perdeu só 1.",
    "comp": "Primeira Liga (Argentina)"
   },
   {
-   "h": "19:00", "d": "DOM", "j": "Egito vence a África do Sul", "m": "Resultado final", "o": "1,67",
+   "h": "19:00",
+   "d": "DOM",
+   "j": "Egito vence a África do Sul",
+   "m": "Resultado final",
+   "o": "1,67",
    "n": "Egipto chegou aos oitavos-de-final do Mundial2026 (perdeu com a Argentina); África do Sul foi eliminada mais cedo (derrota por 1-0 com o Canadá) e troca agora de selecionador para Pitso Mosimane.",
    "comp": "Particular de Seleções"
   }
  ],
  "fora": [
-  ["Boca Juniors vence o Union Santa Fe (1,37)", "data e hora do jogo contraditórias entre a Betclic (madrugada de hoje) e outras fontes consultadas nesta execução (domingo às 16h local); sem confirmação fiável, ficou fora"],
-  ["Independiente Rivadavia vence o Gimnasia Y Esgrima (2,05)", "mesmo problema de data contraditória entre fontes nesta execução"],
-  ["Albion vence o Defensor Sporting (2,68)", "sem dados de forma fiáveis recolhidos nesta execução"],
-  ["Islândia vence a Bulgária (1,39)", "forma recente da Islândia é fraca (1 vitória nos últimos 5 jogos) e a Bulgária está em recuperação; o favoritismo da odd não ficou bem sustentado pelos dados encontrados"],
-  ["Colômbia vence o Paraguai (1,72)", "jogo amigável com início a menos de uma hora no momento da pesquisa, sem tempo para analisar dados de forma com confiança"],
-  ["Atlético-MG vence o Bragantino (2,05)", "data exata do jogo (hoje ou domingo) ficou ambígua entre as fontes consultadas nesta execução"],
-  ["Newell's Old Boys vence o Atlético Lanús (2,73)", "sem dados de forma recolhidos nesta execução; preferência por jogos com informação mais sólida"],
-  ["Cobertura da Betclic", "Consultadas: Liga das Nações, Primeira Liga (Argentina, Uruguai, Colômbia), Primeira Liga (Brasil), Liga MX, Taça dos Libertadores, Taça Sul-Americana, Chile, Peru e Amigáveis de Seleções. Confirmado: Liga Portugal, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie continuam paradas pela janela FIFA até 9-12 de outubro; as ligas sul-americanas (Argentina, Uruguai, Colômbia, Brasil) não pararam e tiveram jogos hoje e nos próximos dias; Chile e Peru só retomam depois de 8 de outubro."]
+  [
+   "Boca Juniors vence o Union Santa Fe (1,37)",
+   "data e hora do jogo contraditórias entre a Betclic (madrugada de hoje) e outras fontes consultadas nesta execução (domingo às 16h local); sem confirmação fiável, ficou fora"
+  ],
+  [
+   "Independiente Rivadavia vence o Gimnasia Y Esgrima (2,05)",
+   "mesmo problema de data contraditória entre fontes nesta execução"
+  ],
+  [
+   "Albion vence o Defensor Sporting (2,68)",
+   "sem dados de forma fiáveis recolhidos nesta execução"
+  ],
+  [
+   "Islândia vence a Bulgária (1,39)",
+   "forma recente da Islândia é fraca (1 vitória nos últimos 5 jogos) e a Bulgária está em recuperação; o favoritismo da odd não ficou bem sustentado pelos dados encontrados"
+  ],
+  [
+   "Colômbia vence o Paraguai (1,72)",
+   "jogo amigável com início a menos de uma hora no momento da pesquisa, sem tempo para analisar dados de forma com confiança"
+  ],
+  [
+   "Atlético-MG vence o Bragantino (2,05)",
+   "data exata do jogo (hoje ou domingo) ficou ambígua entre as fontes consultadas nesta execução"
+  ],
+  [
+   "Newell's Old Boys vence o Atlético Lanús (2,73)",
+   "sem dados de forma recolhidos nesta execução; preferência por jogos com informação mais sólida"
+  ],
+  [
+   "Cobertura da Betclic",
+   "Consultadas: Liga das Nações, Primeira Liga (Argentina, Uruguai, Colômbia), Primeira Liga (Brasil), Liga MX, Taça dos Libertadores, Taça Sul-Americana, Chile, Peru e Amigáveis de Seleções. Confirmado: Liga Portugal, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie continuam paradas pela janela FIFA até 9-12 de outubro; as ligas sul-americanas (Argentina, Uruguai, Colômbia, Brasil) não pararam e tiveram jogos hoje e nos próximos dias; Chile e Peru só retomam depois de 8 de outubro."
+  ]
  ]
 }
