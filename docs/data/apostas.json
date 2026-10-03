@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-04T00:09:49+01:00",
+ "atualizado": "2026-10-04T00:55:49+01:00",
  "dia": "2026-10-04",
  "rotulo": "Domingo · 4 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -19,8 +19,8 @@
   },
   {
    "t": "Múltipla arriscada",
-   "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Inglaterra vence a Croácia (7-0); Escócia vence a Macedónia do Norte (2-0); Deportivo Maldonado vence o Central Español (3-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -379,8 +379,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "4,42",
-     "e": "nao verificado",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Inglaterra vence a Croácia (7-0); Escócia vence a Macedónia do Norte (2-0); Deportivo Maldonado vence o Central Español (3-0)",
      "legs": [
       {
        "h": "17:00",
@@ -402,7 +402,9 @@
        "h": "22:00",
        "j": "Deportivo Maldonado vence o Central Español",
        "m": "Resultado final",
-       "o": "1,47"
+       "o": "1,47",
+       "r": "ok",
+       "x": "3-0"
       }
      ]
     },
@@ -1946,10 +1948,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 48,
-  "ganhos": 22,
-  "pernas": 83,
-  "pernas_ok": 52,
+  "decididos": 49,
+  "ganhos": 23,
+  "pernas": 84,
+  "pernas_ok": 53,
   "dias": 15,
   "odd_media": "1,60",
   "tipos": [
@@ -1968,11 +1970,11 @@
     "pend": 1
    },
    {
-    "ok": 1,
-    "dec": 11,
-    "pct": 9,
+    "ok": 2,
+    "dec": 12,
+    "pct": 17,
     "nome": "Múltipla arriscada",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 3,
@@ -1984,9 +1986,9 @@
   ],
   "mercados": [
    {
-    "ok": 50,
-    "dec": 80,
-    "pct": 62,
+    "ok": 51,
+    "dec": 81,
+    "pct": 63,
     "nome": "Resultado final"
    },
    {
@@ -2016,9 +2018,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 23,
-    "dec": 46,
-    "pct": 50,
+    "ok": 24,
+    "dec": 47,
+    "pct": 51,
     "nome": "Odd acima de 1,45"
    }
   ],
@@ -2031,11 +2033,11 @@
     "pend": 4
    },
    {
-    "ok": 2,
-    "dec": 2,
+    "ok": 3,
+    "dec": 3,
     "pct": 100,
     "nome": "Sábado, 3 de outubro",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 1,
