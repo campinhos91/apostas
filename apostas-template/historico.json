@@ -1,5 +1,117 @@
 [
  {
+  "dia": "2026-10-04",
+  "rotulo": "Domingo · 4 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,14",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Países Baixos vence a Sérvia",
+      "m": "Resultado final",
+      "o": "1,14"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,82",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Países Baixos vence a Sérvia",
+      "m": "Resultado final",
+      "o": "1,14"
+     },
+     {
+      "h": "19:45",
+      "j": "Portugal vence a Noruega",
+      "m": "Resultado final",
+      "o": "1,60"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "12,09",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:00",
+      "j": "Áustria vence o Kosovo",
+      "m": "Resultado final",
+      "o": "2,10"
+     },
+     {
+      "h": "19:45",
+      "j": "Dinamarca vence o País de Gales",
+      "m": "Resultado final",
+      "o": "1,93"
+     },
+     {
+      "h": "22:05",
+      "j": "Cúcuta Deportivo vence o Deportivo Pereira",
+      "m": "Resultado final",
+      "o": "1,63"
+     },
+     {
+      "h": "23:30",
+      "j": "Peñarol vence o Racing Club Montevideo",
+      "m": "Resultado final",
+      "o": "1,83"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "7,49",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "d": "SEG",
+      "j": "França vence a Bélgica",
+      "m": "Resultado final",
+      "o": "1,49"
+     },
+     {
+      "h": "23:30",
+      "d": "QUA",
+      "j": "Internacional RS vence o Corinthians",
+      "m": "Resultado final",
+      "o": "1,98"
+     },
+     {
+      "h": "02:20",
+      "d": "QUI",
+      "j": "Atlético Nacional vence o Deportes Tolima",
+      "m": "Resultado final",
+      "o": "1,46"
+     },
+     {
+      "h": "23:30",
+      "d": "QUI",
+      "j": "Flamengo vence o Santos",
+      "m": "Resultado final",
+      "o": "1,74"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-03",
   "rotulo": "Sábado · 3 de outubro de 2026",
   "boletins": [
@@ -57,7 +169,7 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "4,42",
-    "e": "pendente",
+    "e": "nao verificado",
     "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
@@ -88,8 +200,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "6,14",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "01:00",

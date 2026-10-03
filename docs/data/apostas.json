@@ -1,21 +1,31 @@
 {
- "atualizado": "2026-10-03T22:56:28+01:00",
- "dia": "2026-10-03",
- "rotulo": "Sábado · 3 de outubro de 2026",
+ "atualizado": "2026-10-04T00:09:49+01:00",
+ "dia": "2026-10-04",
+ "rotulo": "Domingo · 4 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As principais ligas domésticas europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) continuam paradas pela janela FIFA e só regressam entre 9 e 12 de outubro; a Liga das Nações está a decorrer esta jornada (3 e 4 de outubro).",
+ "pausa": "As principais ligas domésticas europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) continuam paradas pela janela FIFA e só regressam entre 9 e 12 de outubro; a Liga das Nações está a decorrer esta jornada (3 e 4 de outubro) e tem mais uma jornada a 5-6 de outubro.",
  "ontem": [
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Seattle Sounders vence o Sporting Kansas City (2-1)"
+   "d": "Todas as pernas certas: Espanha vence a República Checa (3-1)"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Liverpool Montevideo vence o CA Progreso (3-2); Bielorrússia vence a San Marino (4-0); Suíça vence a Eslovénia (2-1)"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "nao verificado",
+   "d": "2 de 3 pernas certas até agora"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "perdido",
-   "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 1 certa, 2 por jogar"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -26,13 +36,13 @@
    "legs": [
     {
      "h": "19:45",
-     "j": "Espanha vence a República Checa",
+     "j": "Países Baixos vence a Sérvia",
      "m": "Resultado final",
-     "o": "1,05",
+     "o": "1,14",
      "comp": "Liga das Nações"
     }
    ],
-   "total": "1,05",
+   "total": "1,14",
    "rodape": "Uma seleção"
   },
   {
@@ -41,29 +51,22 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "15:00",
-     "j": "Liverpool Montevideo vence o CA Progreso",
+     "h": "19:45",
+     "j": "Países Baixos vence a Sérvia",
      "m": "Resultado final",
-     "o": "1,52",
-     "comp": "Primeira Liga (Uruguai)"
-    },
-    {
-     "h": "17:00",
-     "j": "Bielorrússia vence a San Marino",
-     "m": "Resultado final",
-     "o": "1,06",
+     "o": "1,14",
      "comp": "Liga das Nações"
     },
     {
      "h": "19:45",
-     "j": "Suíça vence a Eslovénia",
+     "j": "Portugal vence a Noruega",
      "m": "Resultado final",
-     "o": "1,28",
+     "o": "1,60",
      "comp": "Liga das Nações"
     }
    ],
-   "total": "2,06",
-   "rodape": "3 seleções"
+   "total": "1,82",
+   "rodape": "2 seleções"
   },
   {
    "c": "t3",
@@ -72,28 +75,35 @@
    "legs": [
     {
      "h": "17:00",
-     "j": "Inglaterra vence a Croácia",
+     "j": "Áustria vence o Kosovo",
      "m": "Resultado final",
-     "o": "1,75",
+     "o": "2,10",
      "comp": "Liga das Nações"
     },
     {
      "h": "19:45",
-     "j": "Escócia vence a Macedónia do Norte",
+     "j": "Dinamarca vence o País de Gales",
      "m": "Resultado final",
-     "o": "1,72",
+     "o": "1,93",
      "comp": "Liga das Nações"
     },
     {
-     "h": "22:00",
-     "j": "Deportivo Maldonado vence o Central Español",
+     "h": "22:05",
+     "j": "Cúcuta Deportivo vence o Deportivo Pereira",
      "m": "Resultado final",
-     "o": "1,47",
+     "o": "1,63",
+     "comp": "Primeira Liga (Colômbia)"
+    },
+    {
+     "h": "23:30",
+     "j": "Peñarol vence o Racing Club Montevideo",
+     "m": "Resultado final",
+     "o": "1,83",
      "comp": "Primeira Liga (Uruguai)"
     }
    ],
-   "total": "4,42",
-   "rodape": "3 seleções · falhar uma perde tudo"
+   "total": "12,09",
+   "rodape": "4 seleções · falhar uma perde tudo"
   }
  ],
  "proximos": [
@@ -103,115 +113,214 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "01:00",
-     "d": "DOM",
-     "j": "Argentina vence a Burquina Faso",
+     "h": "19:45",
+     "d": "SEG",
+     "j": "França vence a Bélgica",
      "m": "Resultado final",
-     "o": "1,10",
-     "comp": "Particular de Seleções"
-    },
-    {
-     "h": "17:00",
-     "d": "DOM",
-     "j": "Áustria vence o Kosovo",
-     "m": "Resultado final",
-     "o": "2,05",
+     "o": "1,49",
      "comp": "Liga das Nações"
     },
     {
-     "h": "18:45",
-     "d": "DOM",
-     "j": "CA Huracán vence o CA Aldosivi",
+     "h": "23:30",
+     "d": "QUA",
+     "j": "Internacional RS vence o Corinthians",
      "m": "Resultado final",
-     "o": "1,63",
-     "comp": "Primeira Liga (Argentina)"
+     "o": "1,98",
+     "comp": "Primeira Liga (Brasil)"
     },
     {
-     "h": "19:00",
-     "d": "DOM",
-     "j": "Egito vence a África do Sul",
+     "h": "02:20",
+     "d": "QUI",
+     "j": "Atlético Nacional vence o Deportes Tolima",
      "m": "Resultado final",
-     "o": "1,67",
-     "comp": "Particular de Seleções"
+     "o": "1,46",
+     "comp": "Primeira Liga (Colômbia)"
+    },
+    {
+     "h": "23:30",
+     "d": "QUI",
+     "j": "Flamengo vence o Santos",
+     "m": "Resultado final",
+     "o": "1,74",
+     "comp": "Primeira Liga (Brasil)"
     }
    ],
-   "total": "6,14",
-   "rodape": "4 seleções · todas no domingo"
+   "total": "7,49",
+   "rodape": "4 seleções · segunda, quarta e quinta"
   }
  ],
  "amanha": [
   {
-   "h": "01:00",
-   "d": "DOM",
-   "j": "Argentina vence a Burquina Faso",
+   "h": "02:15",
+   "d": "SEG",
+   "j": "América de Cali vence o Llaneros FC",
    "m": "Resultado final",
-   "o": "1,10",
-   "n": "Primeiro jogo da Argentina após o Mundial2026 (vice-campeã, perdeu a final para a Espanha) e após a retirada de Messi; estreia histórica frente à Burquina Faso, sem qualquer tradição no confronto.",
-   "comp": "Particular de Seleções"
+   "o": "1,98",
+   "n": "América de Cali é 5º (24 pts) e Llaneros 7º (21 pts) na Liga Betplay; no único confronto direto desta época empataram 0-0.",
+   "comp": "Primeira Liga (Colômbia)"
   },
   {
    "h": "17:00",
-   "d": "DOM",
-   "j": "Áustria vence o Kosovo",
+   "d": "SEG",
+   "j": "Chipre vence a Letónia",
    "m": "Resultado final",
-   "o": "2,05",
-   "n": "Áustria, orientada por Ralf Rangnick, vem de vencer o grupo do Euro2024 com França, Países Baixos e Polónia; é apontada como o adversário mais forte do grupo do Kosovo na Liga das Nações.",
+   "o": "1,71",
+   "n": "Chipre tem 2V-2E-1D nos últimos 5 jogos (7-5 golos) contra 2V-1E-2D da Letónia (3-4 golos); as seleções já empataram 0-0 nesta Liga das Nações.",
    "comp": "Liga das Nações"
   },
   {
-   "h": "18:45",
-   "d": "DOM",
-   "j": "CA Huracán vence o CA Aldosivi",
+   "h": "19:45",
+   "d": "SEG",
+   "j": "França vence a Bélgica",
    "m": "Resultado final",
-   "o": "1,63",
-   "n": "Huracán em 7º lugar (22 pts/16 jogos) recebe o Aldosivi, 14º com apenas 8 pontos; nos últimos 6 confrontos directos o Huracán venceu 3 e perdeu só 1.",
-   "comp": "Primeira Liga (Argentina)"
-  },
-  {
-   "h": "19:00",
-   "d": "DOM",
-   "j": "Egito vence a África do Sul",
-   "m": "Resultado final",
-   "o": "1,67",
-   "n": "Egipto chegou aos oitavos-de-final do Mundial2026 (perdeu com a Argentina); África do Sul foi eliminada mais cedo (derrota por 1-0 com o Canadá) e troca agora de selecionador para Pitso Mosimane.",
-   "comp": "Particular de Seleções"
+   "o": "1,49",
+   "n": "França venceu a estreia por 1-0 à Turquia sob o comando de Zidane; Bélgica falha com Doku e Onana lesionados, e Courtois pediu para não ser convocado para esta Liga das Nações.",
+   "comp": "Liga das Nações"
   }
  ],
  "fora": [
   [
-   "Boca Juniors vence o Union Santa Fe (1,37)",
-   "data e hora do jogo contraditórias entre a Betclic (madrugada de hoje) e outras fontes consultadas nesta execução (domingo às 16h local); sem confirmação fiável, ficou fora"
+   "Marrocos vence o Mali (1,35)",
+   "fontes consultadas nesta execução sugerem que o amistoso de outubro de Marrocos poderá ser antes frente a uma seleção asiática a 10 de outubro; sem confirmação fiável do jogo com o Mali, ficou fora"
   ],
   [
-   "Independiente Rivadavia vence o Gimnasia Y Esgrima (2,05)",
-   "mesmo problema de data contraditória entre fontes nesta execução"
+   "Once Caldas vence o Internacional de Bogotá (2,35)",
+   "Once Caldas joga fora; os dados de forma fiáveis encontrados nesta execução são sobre o seu desempenho em casa, sem garantia para a deslocação"
   ],
   [
-   "Albion vence o Defensor Sporting (2,68)",
+   "Juventud de Las Piedras vence o Boston River (2,18)",
+   "ambas as equipas no fundo da tabela uruguaia com fraca forma recente (Juventud só 1 vitória nos últimos 5 jogos); sem vantagem clara"
+  ],
+  [
+   "CA Huracán vence o Aldosivi (1,63)",
+   "dados de forma recente encontrados nesta execução inconclusivos sobre as duas equipas"
+  ],
+  [
+   "Argentina vence a Burquina Faso (1,01)",
+   "odd sem valor para apostar apesar do favoritismo esmagador"
+  ],
+  [
+   "Montevideo Wanderers vence o CA Cerro (2,08)",
    "sem dados de forma fiáveis recolhidos nesta execução"
   ],
   [
-   "Islândia vence a Bulgária (1,39)",
-   "forma recente da Islândia é fraca (1 vitória nos últimos 5 jogos) e a Bulgária está em recuperação; o favoritismo da odd não ficou bem sustentado pelos dados encontrados"
-  ],
-  [
-   "Colômbia vence o Paraguai (1,72)",
-   "jogo amigável com início a menos de uma hora no momento da pesquisa, sem tempo para analisar dados de forma com confiança"
-  ],
-  [
-   "Atlético-MG vence o Bragantino (2,05)",
-   "data exata do jogo (hoje ou domingo) ficou ambígua entre as fontes consultadas nesta execução"
-  ],
-  [
-   "Newell's Old Boys vence o Atlético Lanús (2,73)",
-   "sem dados de forma recolhidos nesta execução; preferência por jogos com informação mais sólida"
-  ],
-  [
    "Cobertura da Betclic",
-   "Consultadas: Liga das Nações, Primeira Liga (Argentina, Uruguai, Colômbia), Primeira Liga (Brasil), Liga MX, Taça dos Libertadores, Taça Sul-Americana, Chile, Peru e Amigáveis de Seleções. Confirmado: Liga Portugal, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie continuam paradas pela janela FIFA até 9-12 de outubro; as ligas sul-americanas (Argentina, Uruguai, Colômbia, Brasil) não pararam e tiveram jogos hoje e nos próximos dias; Chile e Peru só retomam depois de 8 de outubro."
+   "Consultadas: Liga das Nações, Primeira Liga (Argentina, Uruguai, Colômbia), Primeira Liga (Brasil), Liga MX, MLS e Amigáveis de Seleções. Confirmado: Liga Portugal, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie continuam paradas pela janela FIFA até 9-12 de outubro; Liga dos Campeões, Liga Europa e Liga Conferência sem jornada esta semana (pausa internacional); as ligas sul-americanas e a MLS não pararam."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-10-04",
+   "rotulo": "Domingo · 4 de outubro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,14",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "j": "Países Baixos vence a Sérvia",
+       "m": "Resultado final",
+       "o": "1,14"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,82",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "j": "Países Baixos vence a Sérvia",
+       "m": "Resultado final",
+       "o": "1,14"
+      },
+      {
+       "h": "19:45",
+       "j": "Portugal vence a Noruega",
+       "m": "Resultado final",
+       "o": "1,60"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "12,09",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:00",
+       "j": "Áustria vence o Kosovo",
+       "m": "Resultado final",
+       "o": "2,10"
+      },
+      {
+       "h": "19:45",
+       "j": "Dinamarca vence o País de Gales",
+       "m": "Resultado final",
+       "o": "1,93"
+      },
+      {
+       "h": "22:05",
+       "j": "Cúcuta Deportivo vence o Deportivo Pereira",
+       "m": "Resultado final",
+       "o": "1,63"
+      },
+      {
+       "h": "23:30",
+       "j": "Peñarol vence o Racing Club Montevideo",
+       "m": "Resultado final",
+       "o": "1,83"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "7,49",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "d": "SEG",
+       "j": "França vence a Bélgica",
+       "m": "Resultado final",
+       "o": "1,49"
+      },
+      {
+       "h": "23:30",
+       "d": "QUA",
+       "j": "Internacional RS vence o Corinthians",
+       "m": "Resultado final",
+       "o": "1,98"
+      },
+      {
+       "h": "02:20",
+       "d": "QUI",
+       "j": "Atlético Nacional vence o Deportes Tolima",
+       "m": "Resultado final",
+       "o": "1,46"
+      },
+      {
+       "h": "23:30",
+       "d": "QUI",
+       "j": "Flamengo vence o Santos",
+       "m": "Resultado final",
+       "o": "1,74"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-10-03",
    "rotulo": "Sábado · 3 de outubro de 2026",
@@ -270,7 +379,7 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "4,42",
-     "e": "pendente",
+     "e": "nao verificado",
      "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
@@ -301,8 +410,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "6,14",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "01:00",
@@ -1841,7 +1950,7 @@
   "ganhos": 22,
   "pernas": 83,
   "pernas_ok": 52,
-  "dias": 14,
+  "dias": 15,
   "odd_media": "1,60",
   "tipos": [
    {
@@ -1849,28 +1958,28 @@
     "dec": 13,
     "pct": 77,
     "nome": "Aposta simples segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 8,
     "dec": 12,
     "pct": 67,
     "nome": "Múltipla segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 1,
     "dec": 11,
     "pct": 9,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 2
    },
    {
     "ok": 3,
     "dec": 12,
     "pct": 25,
     "nome": "Múltipla dos próximos dias",
-    "pend": 1
+    "pend": 2
    }
   ],
   "mercados": [
@@ -1914,6 +2023,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Domingo, 4 de outubro",
+    "pend": 4
+   },
    {
     "ok": 2,
     "dec": 2,
