@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-04T20:57:45+01:00",
+ "atualizado": "2026-10-04T22:57:01+01:00",
  "dia": "2026-10-04",
  "rotulo": "Domingo · 4 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "perdido",
-   "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar"
+   "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2); Egito vence a África do Sul (0-1) · 1 certa"
   }
  ],
  "hoje": [
@@ -217,14 +217,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,14",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Países Baixos vence a Sérvia (2-1)",
      "legs": [
       {
        "h": "19:45",
        "j": "Países Baixos vence a Sérvia",
        "m": "Resultado final",
-       "o": "1,14"
+       "o": "1,14",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -232,20 +234,24 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,82",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Países Baixos vence a Sérvia (2-1); Portugal vence a Noruega (2-1)",
      "legs": [
       {
        "h": "19:45",
        "j": "Países Baixos vence a Sérvia",
        "m": "Resultado final",
-       "o": "1,14"
+       "o": "1,14",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "19:45",
        "j": "Portugal vence a Noruega",
        "m": "Resultado final",
-       "o": "1,60"
+       "o": "1,60",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -254,7 +260,7 @@
      "c": "t3",
      "total": "12,09",
      "e": "perdido",
-     "d": "Falhou: Áustria vence o Kosovo (1-1) · 0 certas, 3 por jogar",
+     "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "17:00",
@@ -268,7 +274,9 @@
        "h": "19:45",
        "j": "Dinamarca vence o País de Gales",
        "m": "Resultado final",
-       "o": "1,93"
+       "o": "1,93",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "22:05",
@@ -415,7 +423,7 @@
      "c": "t4",
      "total": "6,14",
      "e": "perdido",
-     "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar",
+     "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2); Egito vence a África do Sul (0-1) · 1 certa",
      "legs": [
       {
        "h": "01:00",
@@ -449,7 +457,9 @@
        "d": "DOM",
        "j": "Egito vence a África do Sul",
        "m": "Resultado final",
-       "o": "1,67"
+       "o": "1,67",
+       "r": "no",
+       "x": "0-1"
       }
      ]
     }
@@ -1958,26 +1968,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 51,
-  "ganhos": 23,
-  "pernas": 86,
-  "pernas_ok": 54,
+  "decididos": 53,
+  "ganhos": 25,
+  "pernas": 89,
+  "pernas_ok": 56,
   "dias": 15,
   "odd_media": "1,59",
   "tipos": [
    {
-    "ok": 10,
-    "dec": 13,
-    "pct": 77,
+    "ok": 11,
+    "dec": 14,
+    "pct": 79,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 8,
-    "dec": 12,
-    "pct": 67,
+    "ok": 9,
+    "dec": 13,
+    "pct": 69,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
@@ -1996,8 +2006,8 @@
   ],
   "mercados": [
    {
-    "ok": 52,
-    "dec": 83,
+    "ok": 54,
+    "dec": 86,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -2016,8 +2026,8 @@
   ],
   "faixas": [
    {
-    "ok": 14,
-    "dec": 16,
+    "ok": 15,
+    "dec": 17,
     "pct": 88,
     "nome": "Odd até 1,25"
    },
@@ -2028,19 +2038,19 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 24,
-    "dec": 48,
+    "ok": 25,
+    "dec": 50,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Domingo, 4 de outubro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 3,

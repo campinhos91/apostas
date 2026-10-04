@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,14",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Países Baixos vence a Sérvia (2-1)",
     "legs": [
      {
       "h": "19:45",
       "j": "Países Baixos vence a Sérvia",
       "m": "Resultado final",
-      "o": "1,14"
+      "o": "1,14",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -22,20 +24,24 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,82",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Países Baixos vence a Sérvia (2-1); Portugal vence a Noruega (2-1)",
     "legs": [
      {
       "h": "19:45",
       "j": "Países Baixos vence a Sérvia",
       "m": "Resultado final",
-      "o": "1,14"
+      "o": "1,14",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "19:45",
       "j": "Portugal vence a Noruega",
       "m": "Resultado final",
-      "o": "1,60"
+      "o": "1,60",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -44,7 +50,7 @@
     "c": "t3",
     "total": "12,09",
     "e": "perdido",
-    "d": "Falhou: Áustria vence o Kosovo (1-1) · 0 certas, 3 por jogar",
+    "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "17:00",
@@ -58,7 +64,9 @@
       "h": "19:45",
       "j": "Dinamarca vence o País de Gales",
       "m": "Resultado final",
-      "o": "1,93"
+      "o": "1,93",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "22:05",
@@ -205,7 +213,7 @@
     "c": "t4",
     "total": "6,14",
     "e": "perdido",
-    "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar",
+    "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2); Egito vence a África do Sul (0-1) · 1 certa",
     "legs": [
      {
       "h": "01:00",
@@ -239,7 +247,9 @@
       "d": "DOM",
       "j": "Egito vence a África do Sul",
       "m": "Resultado final",
-      "o": "1,67"
+      "o": "1,67",
+      "r": "no",
+      "x": "0-1"
      }
     ]
    }
