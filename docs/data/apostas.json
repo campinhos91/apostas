@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-05T00:18:32+01:00",
+ "atualizado": "2026-10-05T00:57:02+01:00",
  "dia": "2026-10-05",
  "rotulo": "Segunda-feira · 5 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -20,7 +20,7 @@
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar"
+   "d": "Falhou: Áustria vence o Kosovo (1-1) · 2 certas, 1 por jogar"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -372,7 +372,7 @@
      "c": "t3",
      "total": "12,09",
      "e": "perdido",
-     "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar",
+     "d": "Falhou: Áustria vence o Kosovo (1-1) · 2 certas, 1 por jogar",
      "legs": [
       {
        "h": "17:00",
@@ -394,7 +394,9 @@
        "h": "22:05",
        "j": "Cúcuta Deportivo vence o Deportivo Pereira",
        "m": "Resultado final",
-       "o": "1,63"
+       "o": "1,63",
+       "r": "ok",
+       "x": "4-0"
       },
       {
        "h": "23:30",
@@ -2082,8 +2084,8 @@
  "estatisticas": {
   "decididos": 53,
   "ganhos": 25,
-  "pernas": 89,
-  "pernas_ok": 56,
+  "pernas": 90,
+  "pernas_ok": 57,
   "dias": 16,
   "odd_media": "1,59",
   "tipos": [
@@ -2118,8 +2120,8 @@
   ],
   "mercados": [
    {
-    "ok": 54,
-    "dec": 86,
+    "ok": 55,
+    "dec": 87,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -2150,9 +2152,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 25,
-    "dec": 50,
-    "pct": 50,
+    "ok": 26,
+    "dec": 51,
+    "pct": 51,
     "nome": "Odd acima de 1,45"
    }
   ],

@@ -162,7 +162,7 @@
     "c": "t3",
     "total": "12,09",
     "e": "perdido",
-    "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar",
+    "d": "Falhou: Áustria vence o Kosovo (1-1) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "17:00",
@@ -184,7 +184,9 @@
       "h": "22:05",
       "j": "Cúcuta Deportivo vence o Deportivo Pereira",
       "m": "Resultado final",
-      "o": "1,63"
+      "o": "1,63",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "23:30",
