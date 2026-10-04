@@ -205,7 +205,7 @@
     "c": "t4",
     "total": "6,14",
     "e": "perdido",
-    "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar",
+    "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "01:00",
@@ -230,7 +230,9 @@
       "d": "DOM",
       "j": "CA Huracán vence o CA Aldosivi",
       "m": "Resultado final",
-      "o": "1,63"
+      "o": "1,63",
+      "r": "no",
+      "x": "0-2"
      },
      {
       "h": "19:00",
@@ -269,7 +271,7 @@
     "c": "t4",
     "total": "5,66",
     "e": "perdido",
-    "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 1 certa, 2 por jogar",
+    "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -294,7 +296,9 @@
       "d": "DOM",
       "j": "CA Huracán vence o CA Aldosivi",
       "m": "Resultado final",
-      "o": "1,57"
+      "o": "1,57",
+      "r": "no",
+      "x": "0-2"
      },
      {
       "h": "00:10",

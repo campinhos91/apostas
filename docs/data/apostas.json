@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-04T18:56:18+01:00",
+ "atualizado": "2026-10-04T20:57:45+01:00",
  "dia": "2026-10-04",
  "rotulo": "Domingo · 4 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "perdido",
-   "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar"
+   "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar"
   }
  ],
  "hoje": [
@@ -415,7 +415,7 @@
      "c": "t4",
      "total": "6,14",
      "e": "perdido",
-     "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar",
+     "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "01:00",
@@ -440,7 +440,9 @@
        "d": "DOM",
        "j": "CA Huracán vence o CA Aldosivi",
        "m": "Resultado final",
-       "o": "1,63"
+       "o": "1,63",
+       "r": "no",
+       "x": "0-2"
       },
       {
        "h": "19:00",
@@ -479,7 +481,7 @@
      "c": "t4",
      "total": "5,66",
      "e": "perdido",
-     "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1) · 1 certa, 2 por jogar",
+     "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "19:45",
@@ -504,7 +506,9 @@
        "d": "DOM",
        "j": "CA Huracán vence o CA Aldosivi",
        "m": "Resultado final",
-       "o": "1,57"
+       "o": "1,57",
+       "r": "no",
+       "x": "0-2"
       },
       {
        "h": "00:10",
@@ -1956,7 +1960,7 @@
  "estatisticas": {
   "decididos": 51,
   "ganhos": 23,
-  "pernas": 85,
+  "pernas": 86,
   "pernas_ok": 54,
   "dias": 15,
   "odd_media": "1,59",
@@ -1993,7 +1997,7 @@
   "mercados": [
    {
     "ok": 52,
-    "dec": 82,
+    "dec": 83,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -2025,8 +2029,8 @@
    },
    {
     "ok": 24,
-    "dec": 47,
-    "pct": 51,
+    "dec": 48,
+    "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
