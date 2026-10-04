@@ -1,28 +1,28 @@
 {
- "data": "Domingo · 4 de outubro de 2026",
+ "data": "Segunda-feira · 5 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
- "pausa": "As principais ligas domésticas europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) continuam paradas pela janela FIFA e só regressam entre 9 e 12 de outubro; a Liga das Nações está a decorrer esta jornada (3 e 4 de outubro) e tem mais uma jornada a 5-6 de outubro.",
+ "pausa": "As principais ligas domésticas europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) continuam paradas pela janela FIFA e só regressam entre 9 e 12 de outubro; a Liga das Nações ainda tem jogos a 6 e 7 de outubro antes de parar até novembro.",
  "ontem": [
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Espanha vence a República Checa (3-1)"
+   "d": "Todas as pernas certas: Países Baixos vence a Sérvia (2-1)"
   },
   {
    "t": "Múltipla segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Liverpool Montevideo vence o CA Progreso (3-2); Bielorrússia vence a San Marino (4-0); Suíça vence a Eslovénia (2-1)"
+   "d": "Todas as pernas certas: Países Baixos vence a Sérvia (2-1); Portugal vence a Noruega (2-1)"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Inglaterra vence a Croácia (7-0); Escócia vence a Macedónia do Norte (2-0); Deportivo Maldonado vence o Central Español (3-0)"
+   "e": "perdido",
+   "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "perdido",
-   "d": "Falhou: Áustria vence o Kosovo (1-1); CA Huracán vence o CA Aldosivi (0-2); Egito vence a África do Sul (0-1) · 1 certa"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -32,11 +32,11 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "19:45",
-     "j": "Países Baixos vence a Sérvia",
+     "h": "14:00",
+     "j": "RD Congo vence o Uganda",
      "m": "Resultado final",
-     "o": "1,14",
-     "comp": "Liga das Nações"
+     "o": "1,64",
+     "comp": "Particular de Seleções"
     }
    ]
   },
@@ -46,18 +46,18 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "19:45",
-     "j": "Países Baixos vence a Sérvia",
+     "h": "07:30",
+     "j": "Equador vence o Panamá",
      "m": "Resultado final",
-     "o": "1,14",
-     "comp": "Liga das Nações"
+     "o": "1,58",
+     "comp": "Particular de Seleções"
     },
     {
-     "h": "19:45",
-     "j": "Portugal vence a Noruega",
+     "h": "11:30",
+     "j": "Japão vence a Nova Zelândia",
      "m": "Resultado final",
-     "o": "1,60",
-     "comp": "Liga das Nações"
+     "o": "1,20",
+     "comp": "Particular de Seleções"
     }
    ]
   },
@@ -68,32 +68,32 @@
    "extra": "falhar uma perde tudo",
    "legs": [
     {
-     "h": "17:00",
-     "j": "Áustria vence o Kosovo",
+     "h": "01:30",
+     "j": "Racing Club vence o Estudiantes Rio Cuarto",
      "m": "Resultado final",
-     "o": "2,10",
-     "comp": "Liga das Nações"
+     "o": "1,98",
+     "comp": "Primeira Liga (Argentina)"
     },
     {
-     "h": "19:45",
-     "j": "Dinamarca vence o País de Gales",
+     "h": "02:15",
+     "j": "América de Cali vence o Llaneros",
      "m": "Resultado final",
-     "o": "1,93",
-     "comp": "Liga das Nações"
-    },
-    {
-     "h": "22:05",
-     "j": "Cúcuta Deportivo vence o Deportivo Pereira",
-     "m": "Resultado final",
-     "o": "1,63",
+     "o": "2,03",
      "comp": "Primeira Liga (Colômbia)"
     },
     {
-     "h": "23:30",
-     "j": "Peñarol vence o Racing Club Montevideo",
+     "h": "16:00",
+     "j": "Sri Lanka vence as Maurícias",
      "m": "Resultado final",
-     "o": "1,83",
-     "comp": "Primeira Liga (Uruguai)"
+     "o": "3,53",
+     "comp": "Particular de Seleções"
+    },
+    {
+     "h": "19:45",
+     "j": "Gibraltar vence o Liechtenstein",
+     "m": "Resultado final",
+     "o": "2,72",
+     "comp": "Particular de Seleções"
     }
    ]
   }
@@ -106,34 +106,34 @@
    "legs": [
     {
      "h": "19:45",
-     "d": "SEG",
-     "j": "França vence a Bélgica",
+     "d": "TER",
+     "j": "Itália vence a Turquia",
      "m": "Resultado final",
-     "o": "1,49",
+     "o": "1,38",
      "comp": "Liga das Nações"
     },
     {
-     "h": "23:30",
+     "h": "19:45",
      "d": "QUA",
-     "j": "Internacional RS vence o Corinthians",
+     "j": "Inglaterra vence a Chéquia",
      "m": "Resultado final",
-     "o": "1,98",
-     "comp": "Primeira Liga (Brasil)"
+     "o": "1,12",
+     "comp": "Liga das Nações"
     },
     {
      "h": "02:20",
      "d": "QUI",
      "j": "Atlético Nacional vence o Deportes Tolima",
      "m": "Resultado final",
-     "o": "1,46",
+     "o": "1,51",
      "comp": "Primeira Liga (Colômbia)"
     },
     {
-     "h": "23:30",
-     "d": "QUI",
-     "j": "Flamengo vence o Santos",
+     "h": "01:30",
+     "d": "SEX",
+     "j": "Palmeiras vence o Bahia",
      "m": "Resultado final",
-     "o": "1,74",
+     "o": "1,49",
      "comp": "Primeira Liga (Brasil)"
     }
    ]
@@ -141,61 +141,61 @@
  ],
  "amanha": [
   {
-   "h": "02:15",
-   "d": "SEG",
-   "j": "América de Cali vence o Llaneros FC",
-   "m": "Resultado final",
-   "o": "1,98",
-   "n": "América de Cali é 5º (24 pts) e Llaneros 7º (21 pts) na Liga Betplay; no único confronto direto desta época empataram 0-0.",
-   "comp": "Primeira Liga (Colômbia)"
-  },
-  {
-   "h": "17:00",
-   "d": "SEG",
-   "j": "Chipre vence a Letónia",
-   "m": "Resultado final",
-   "o": "1,71",
-   "n": "Chipre tem 2V-2E-1D nos últimos 5 jogos (7-5 golos) contra 2V-1E-2D da Letónia (3-4 golos); as seleções já empataram 0-0 nesta Liga das Nações.",
-   "comp": "Liga das Nações"
-  },
-  {
    "h": "19:45",
-   "d": "SEG",
-   "j": "França vence a Bélgica",
+   "d": "TER",
+   "j": "Itália vence a Turquia",
    "m": "Resultado final",
-   "o": "1,49",
-   "n": "França venceu a estreia por 1-0 à Turquia sob o comando de Zidane; Bélgica falha com Doku e Onana lesionados, e Courtois pediu para não ser convocado para esta Liga das Nações.",
+   "o": "1,38",
+   "n": "Turquia fica sem Çalhanoglu e Yildiz, e o guarda-redes Çakir está suspenso; Itália recupera Bastoni mas falha com Locatelli e Cristante lesionados.",
    "comp": "Liga das Nações"
+  },
+  {
+   "h": "23:00",
+   "d": "TER",
+   "j": "Vélez Sarsfield vence o Platense",
+   "m": "Resultado final",
+   "o": "1,79",
+   "n": "Vélez é 3º classificado (28 pts) e joga em casa; Platense está no 12º lugar (16 pts), uma diferença de 12 pontos na tabela.",
+   "comp": "Primeira Liga (Argentina)"
+  },
+  {
+   "h": "01:15",
+   "d": "QUA",
+   "j": "Rosario Central vence o Banfield",
+   "m": "Resultado final",
+   "o": "1,83",
+   "n": "Rosario Central é 4º (28 pts) e visita o Banfield, 12º colocado (18 pts); nos últimos 6 confrontos directos Rosario já venceu uma vez mais do que o rival.",
+   "comp": "Primeira Liga (Argentina)"
   }
  ],
  "fora": [
   [
-   "Marrocos vence o Mali (1,35)",
-   "fontes consultadas nesta execução sugerem que o amistoso de outubro de Marrocos poderá ser antes frente a uma seleção asiática a 10 de outubro; sem confirmação fiável do jogo com o Mali, ficou fora"
+   "Comunicaciones vence o Suchitepéquez (1,35)",
+   "a Liga Nacional da Guatemala não consta na lista de competições autorizadas e não foram encontrados dados de forma fiáveis para esta jornada"
   ],
   [
-   "Once Caldas vence o Internacional de Bogotá (2,35)",
-   "Once Caldas joga fora; os dados de forma fiáveis encontrados nesta execução são sobre o seu desempenho em casa, sem garantia para a deslocação"
+   "Independiente Medellín vence a Independiente Santa Fe (1,79)",
+   "a tabela encontrada nesta execução (Santa Fe 7º com 29 pts vs Medellín 11º com 26 pts) contraria o favoritismo da odd de casa; sinal pouco claro"
   ],
   [
-   "Juventud de Las Piedras vence o Boston River (2,18)",
-   "ambas as equipas no fundo da tabela uruguaia com fraca forma recente (Juventud só 1 vitória nos últimos 5 jogos); sem vantagem clara"
+   "Argentinos Juniors vence o Tigre (1,01)",
+   "jogo já em curso e praticamente decidido (2-0 ao intervalo) no momento da consulta; sem valor para apostar"
   ],
   [
-   "CA Huracán vence o Aldosivi (1,63)",
-   "dados de forma recente encontrados nesta execução inconclusivos sobre as duas equipas"
+   "Racing Club (Uruguai) vence o Peñarol (3,10)",
+   "jogo já em direto (0-0 aos 28') no momento da consulta; odds instáveis em tempo real, sem valor pré-jogo"
   ],
   [
-   "Argentina vence a Burquina Faso (1,01)",
-   "odd sem valor para apostar apesar do favoritismo esmagador"
+   "Atlético Bucaramanga vence o Junior FC (1,87)",
+   "pontapé de saída a poucos minutos da consulta, sem tempo para confirmar notícias de equipa atualizadas"
   ],
   [
-   "Montevideo Wanderers vence o CA Cerro (2,08)",
-   "sem dados de forma fiáveis recolhidos nesta execução"
+   "Ucrânia vence a Hungria (2,38)",
+   "sem dados de forma fiáveis encontrados nesta execução para esta seleção"
   ],
   [
    "Cobertura da Betclic",
-   "Consultadas: Liga das Nações, Primeira Liga (Argentina, Uruguai, Colômbia), Primeira Liga (Brasil), Liga MX, MLS e Amigáveis de Seleções. Confirmado: Liga Portugal, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie continuam paradas pela janela FIFA até 9-12 de outubro; Liga dos Campeões, Liga Europa e Liga Conferência sem jornada esta semana (pausa internacional); as ligas sul-americanas e a MLS não pararam."
+   "Consultadas e com jogos confirmados: Liga das Nações, Primeira Liga (Argentina, Colômbia, Uruguai), Particular de Seleções (vários países), Liga Portugal Betclic, Brasil Série A, MLS, Liga MX, Peru, Chile, Equador, Arábia Saudita, J-League 2, K-League. Sem jogos hoje (5/10) mas confirmadas para os próximos dias: Áustria, Grécia, Dinamarca, Irlanda, Suécia, Bulgária, Finlândia, Roménia, Costa Rica, Brasil Copa. Sem jogos nem dados visíveis nesta consulta: Honduras, Sérvia (só amanhã), Angola, Argélia, Geórgia, Uzbequistão. Confirmado: Liga Portugal, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie continuam paradas pela janela FIFA até 9-12 de outubro."
   ]
  ]
 }

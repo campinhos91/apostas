@@ -1,5 +1,117 @@
 [
  {
+  "dia": "2026-10-05",
+  "rotulo": "Segunda-feira · 5 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,64",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:00",
+      "j": "RD Congo vence o Uganda",
+      "m": "Resultado final",
+      "o": "1,64"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,90",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "07:30",
+      "j": "Equador vence o Panamá",
+      "m": "Resultado final",
+      "o": "1,58"
+     },
+     {
+      "h": "11:30",
+      "j": "Japão vence a Nova Zelândia",
+      "m": "Resultado final",
+      "o": "1,20"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "38,59",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:30",
+      "j": "Racing Club vence o Estudiantes Rio Cuarto",
+      "m": "Resultado final",
+      "o": "1,98"
+     },
+     {
+      "h": "02:15",
+      "j": "América de Cali vence o Llaneros",
+      "m": "Resultado final",
+      "o": "2,03"
+     },
+     {
+      "h": "16:00",
+      "j": "Sri Lanka vence as Maurícias",
+      "m": "Resultado final",
+      "o": "3,53"
+     },
+     {
+      "h": "19:45",
+      "j": "Gibraltar vence o Liechtenstein",
+      "m": "Resultado final",
+      "o": "2,72"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "3,48",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "d": "TER",
+      "j": "Itália vence a Turquia",
+      "m": "Resultado final",
+      "o": "1,38"
+     },
+     {
+      "h": "19:45",
+      "d": "QUA",
+      "j": "Inglaterra vence a Chéquia",
+      "m": "Resultado final",
+      "o": "1,12"
+     },
+     {
+      "h": "02:20",
+      "d": "QUI",
+      "j": "Atlético Nacional vence o Deportes Tolima",
+      "m": "Resultado final",
+      "o": "1,51"
+     },
+     {
+      "h": "01:30",
+      "d": "SEX",
+      "j": "Palmeiras vence o Bahia",
+      "m": "Resultado final",
+      "o": "1,49"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-04",
   "rotulo": "Domingo · 4 de outubro de 2026",
   "boletins": [
@@ -86,8 +198,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "7,49",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "19:45",
