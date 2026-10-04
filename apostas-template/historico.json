@@ -43,14 +43,16 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "12,09",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Áustria vence o Kosovo (1-1) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "17:00",
       "j": "Áustria vence o Kosovo",
       "m": "Resultado final",
-      "o": "2,10"
+      "o": "2,10",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "19:45",
@@ -202,8 +204,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "6,14",
-    "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "01:00",
@@ -219,7 +221,9 @@
       "d": "DOM",
       "j": "Áustria vence o Kosovo",
       "m": "Resultado final",
-      "o": "2,05"
+      "o": "2,05",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "18:45",

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-04T14:55:30+01:00",
+ "atualizado": "2026-10-04T18:56:18+01:00",
  "dia": "2026-10-04",
  "rotulo": "Domingo · 4 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -24,8 +24,8 @@
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "1 de 4 pernas certas até agora"
+   "e": "perdido",
+   "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [
@@ -253,14 +253,16 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "12,09",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Áustria vence o Kosovo (1-1) · 0 certas, 3 por jogar",
      "legs": [
       {
        "h": "17:00",
        "j": "Áustria vence o Kosovo",
        "m": "Resultado final",
-       "o": "2,10"
+       "o": "2,10",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "19:45",
@@ -412,8 +414,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "6,14",
-     "e": "nao verificado",
-     "d": "1 de 4 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Áustria vence o Kosovo (1-1) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "01:00",
@@ -429,7 +431,9 @@
        "d": "DOM",
        "j": "Áustria vence o Kosovo",
        "m": "Resultado final",
-       "o": "2,05"
+       "o": "2,05",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "18:45",
@@ -1950,7 +1954,7 @@
   }
  ],
  "estatisticas": {
-  "decididos": 49,
+  "decididos": 51,
   "ganhos": 23,
   "pernas": 85,
   "pernas_ok": 54,
@@ -1973,17 +1977,17 @@
    },
    {
     "ok": 2,
-    "dec": 12,
-    "pct": 17,
+    "dec": 13,
+    "pct": 15,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
-    "dec": 12,
-    "pct": 25,
+    "dec": 13,
+    "pct": 23,
     "nome": "Múltipla dos próximos dias",
-    "pend": 2
+    "pend": 1
    }
   ],
   "mercados": [
@@ -2029,17 +2033,17 @@
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Domingo, 4 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 3,
-    "dec": 3,
-    "pct": 100,
+    "dec": 4,
+    "pct": 75,
     "nome": "Sábado, 3 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
