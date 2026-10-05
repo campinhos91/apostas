@@ -214,14 +214,16 @@
     "c": "t4",
     "total": "7,49",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
       "d": "SEG",
       "j": "França vence a Bélgica",
       "m": "Resultado final",
-      "o": "1,49"
+      "o": "1,49",
+      "r": "ok",
+      "x": "4-1"
      },
      {
       "h": "23:30",
