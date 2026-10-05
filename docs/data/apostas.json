@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-05T14:57:49+01:00",
+ "atualizado": "2026-10-05T16:55:36+01:00",
  "dia": "2026-10-05",
  "rotulo": "Segunda-feira · 5 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -217,14 +217,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,64",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: RD Congo vence o Uganda (0-0) · 0 certas",
      "legs": [
       {
        "h": "14:00",
        "j": "RD Congo vence o Uganda",
        "m": "Resultado final",
-       "o": "1,64"
+       "o": "1,64",
+       "r": "no",
+       "x": "0-0"
       }
      ]
     },
@@ -2093,19 +2095,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 54,
+  "decididos": 55,
   "ganhos": 25,
-  "pernas": 96,
+  "pernas": 97,
   "pernas_ok": 62,
   "dias": 16,
   "odd_media": "1,60",
   "tipos": [
    {
     "ok": 11,
-    "dec": 14,
-    "pct": 79,
+    "dec": 15,
+    "pct": 73,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 9,
@@ -2132,8 +2134,8 @@
   "mercados": [
    {
     "ok": 60,
-    "dec": 93,
-    "pct": 65,
+    "dec": 94,
+    "pct": 64,
     "nome": "Resultado final"
    },
    {
@@ -2164,18 +2166,18 @@
    },
    {
     "ok": 30,
-    "dec": 56,
-    "pct": 54,
+    "dec": 57,
+    "pct": 53,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 1,
+    "dec": 2,
     "pct": 0,
     "nome": "Segunda-feira, 5 de outubro",
-    "pend": 3
+    "pend": 2
    },
    {
     "ok": 2,

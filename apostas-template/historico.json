@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,64",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: RD Congo vence o Uganda (0-0) · 0 certas",
     "legs": [
      {
       "h": "14:00",
       "j": "RD Congo vence o Uganda",
       "m": "Resultado final",
-      "o": "1,64"
+      "o": "1,64",
+      "r": "no",
+      "x": "0-0"
      }
     ]
    },
