@@ -1,5 +1,117 @@
 [
  {
+  "dia": "2026-10-06",
+  "rotulo": "Terça-feira · 6 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,23",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Espanha vence a Croácia",
+      "m": "Resultado final",
+      "o": "1,23"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,27",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Eslováquia vence a Moldávia",
+      "m": "Resultado final",
+      "o": "1,36"
+     },
+     {
+      "h": "19:45",
+      "j": "Islândia vence a Estónia",
+      "m": "Resultado final",
+      "o": "1,53"
+     },
+     {
+      "h": "19:45",
+      "j": "Inglaterra vence a Chéquia",
+      "m": "Resultado final",
+      "o": "1,09"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "8,17",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:15",
+      "j": "Rosario Central vence o Banfield",
+      "m": "Resultado final",
+      "o": "1,82"
+     },
+     {
+      "h": "15:00",
+      "j": "Cazaquistão vence as Ilhas Faroé",
+      "m": "Resultado final",
+      "o": "2,28"
+     },
+     {
+      "h": "19:45",
+      "j": "Finlândia vence a Bielorrússia",
+      "m": "Resultado final",
+      "o": "1,97"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "8,52",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "23:30",
+      "d": "QUA",
+      "j": "Bragantino vence o Mirassol",
+      "m": "Resultado final",
+      "o": "1,77"
+     },
+     {
+      "h": "01:30",
+      "d": "QUI",
+      "j": "Cruzeiro vence o São Paulo",
+      "m": "Resultado final",
+      "o": "1,79"
+     },
+     {
+      "h": "01:30",
+      "d": "SEX",
+      "j": "Palmeiras vence a Bahia",
+      "m": "Resultado final",
+      "o": "1,47"
+     },
+     {
+      "h": "18:00",
+      "d": "SÁB",
+      "j": "Toronto FC vence o CF Montreal",
+      "m": "Resultado final",
+      "o": "1,83"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-05",
   "rotulo": "Segunda-feira · 5 de outubro de 2026",
   "boletins": [
@@ -49,8 +161,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "38,59",
-    "e": "pendente",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Gibraltar vence o Liechtenstein (2-2) · 3 certas",
     "legs": [
      {
       "h": "01:30",
@@ -79,7 +191,9 @@
       "h": "19:45",
       "j": "Gibraltar vence o Liechtenstein",
       "m": "Resultado final",
-      "o": "2,72"
+      "o": "2,72",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    },
@@ -87,8 +201,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,48",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "19:45",
