@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-05T16:55:36+01:00",
+ "atualizado": "2026-10-05T18:58:59+01:00",
  "dia": "2026-10-05",
  "rotulo": "Segunda-feira · 5 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -260,7 +260,7 @@
      "c": "t3",
      "total": "38,59",
      "e": "pendente",
-     "d": "2 de 4 pernas certas até agora",
+     "d": "3 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "01:30",
@@ -281,7 +281,9 @@
        "h": "16:00",
        "j": "Sri Lanka vence as Maurícias",
        "m": "Resultado final",
-       "o": "3,53"
+       "o": "3,53",
+       "r": "ok",
+       "x": "2-3"
       },
       {
        "h": "19:45",
@@ -2097,10 +2099,10 @@
  "estatisticas": {
   "decididos": 55,
   "ganhos": 25,
-  "pernas": 97,
-  "pernas_ok": 62,
+  "pernas": 98,
+  "pernas_ok": 63,
   "dias": 16,
-  "odd_media": "1,60",
+  "odd_media": "1,62",
   "tipos": [
    {
     "ok": 11,
@@ -2133,8 +2135,8 @@
   ],
   "mercados": [
    {
-    "ok": 60,
-    "dec": 94,
+    "ok": 61,
+    "dec": 95,
     "pct": 64,
     "nome": "Resultado final"
    },
@@ -2165,8 +2167,8 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 30,
-    "dec": 57,
+    "ok": 31,
+    "dec": 58,
     "pct": 53,
     "nome": "Odd acima de 1,45"
    }
