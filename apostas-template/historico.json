@@ -22,20 +22,24 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,90",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Equador vence o Panamá (1-1) · 1 certa",
     "legs": [
      {
       "h": "07:30",
       "j": "Equador vence o Panamá",
       "m": "Resultado final",
-      "o": "1,58"
+      "o": "1,58",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "11:30",
       "j": "Japão vence a Nova Zelândia",
       "m": "Resultado final",
-      "o": "1,20"
+      "o": "1,20",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -44,19 +48,22 @@
     "c": "t3",
     "total": "38,59",
     "e": "pendente",
-    "d": "",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "01:30",
       "j": "Racing Club vence o Estudiantes Rio Cuarto",
       "m": "Resultado final",
-      "o": "1,98"
+      "o": "1,98",
+      "r": "ok"
      },
      {
       "h": "02:15",
       "j": "América de Cali vence o Llaneros",
       "m": "Resultado final",
-      "o": "2,03"
+      "o": "2,03",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "16:00",
@@ -162,7 +169,7 @@
     "c": "t3",
     "total": "12,09",
     "e": "perdido",
-    "d": "Falhou: Áustria vence o Kosovo (1-1) · 2 certas, 1 por jogar",
+    "d": "Falhou: Áustria vence o Kosovo (1-1) · 3 certas",
     "legs": [
      {
       "h": "17:00",
@@ -192,7 +199,9 @@
       "h": "23:30",
       "j": "Peñarol vence o Racing Club Montevideo",
       "m": "Resultado final",
-      "o": "1,83"
+      "o": "1,83",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -395,7 +404,7 @@
     "c": "t4",
     "total": "5,66",
     "e": "perdido",
-    "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1); CA Huracán vence o CA Aldosivi (0-2) · 1 certa, 1 por jogar",
+    "d": "Falhou: Boca Juniors vence o Union Santa Fe (1-1); CA Huracán vence o CA Aldosivi (0-2) · 2 certas",
     "legs": [
      {
       "h": "19:45",
@@ -429,7 +438,9 @@
       "d": "SEG",
       "j": "Atlético Bucaramanga vence o Junior",
       "m": "Resultado final",
-      "o": "1,79"
+      "o": "1,79",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    }
