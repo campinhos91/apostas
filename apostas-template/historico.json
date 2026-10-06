@@ -1,5 +1,104 @@
 [
  {
+  "dia": "2026-10-07",
+  "rotulo": "Quarta-feira · 7 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,62",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:00",
+      "j": "Vitória vence a Chapecoense",
+      "m": "Resultado final",
+      "o": "1,62"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,87",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "23:30",
+      "j": "Bragantino vence o Mirassol",
+      "m": "Resultado final",
+      "o": "1,77"
+     },
+     {
+      "h": "00:00",
+      "j": "Vitória vence a Chapecoense",
+      "m": "Resultado final",
+      "o": "1,62"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "11,40",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "23:30",
+      "j": "Grêmio vence o Remo",
+      "m": "Resultado final",
+      "o": "2,85"
+     },
+     {
+      "h": "01:30",
+      "j": "Cruzeiro vence o São Paulo",
+      "m": "Resultado final",
+      "o": "1,86"
+     },
+     {
+      "h": "01:30",
+      "j": "Vancouver Whitecaps vence o Chicago Fire",
+      "m": "Resultado final",
+      "o": "2,15"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "7,53",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "23:30",
+      "d": "QUI",
+      "j": "Flamengo vence o Santos",
+      "m": "Resultado final",
+      "o": "1,79"
+     },
+     {
+      "h": "23:30",
+      "d": "SEX",
+      "j": "Boca Juniors vence o Instituto AC Córdoba",
+      "m": "Resultado final",
+      "o": "2,30"
+     },
+     {
+      "h": "18:00",
+      "d": "SÁB",
+      "j": "Toronto FC vence o CF Montreal",
+      "m": "Resultado final",
+      "o": "1,83"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-06",
   "rotulo": "Terça-feira · 6 de outubro de 2026",
   "boletins": [
@@ -90,8 +189,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "8,52",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "23:30",
