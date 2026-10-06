@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-06T17:02:33+01:00",
+ "atualizado": "2026-10-06T22:59:36+01:00",
  "dia": "2026-10-06",
  "rotulo": "Terça-feira · 6 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -230,14 +230,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,23",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Espanha vence a Croácia (2-1)",
      "legs": [
       {
        "h": "19:45",
        "j": "Espanha vence a Croácia",
        "m": "Resultado final",
-       "o": "1,23"
+       "o": "1,23",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -245,26 +247,32 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,27",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Islândia vence a Estónia (0-0) · 2 certas",
      "legs": [
       {
        "h": "19:45",
        "j": "Eslováquia vence a Moldávia",
        "m": "Resultado final",
-       "o": "1,36"
+       "o": "1,36",
+       "r": "ok",
+       "x": "0-4"
       },
       {
        "h": "19:45",
        "j": "Islândia vence a Estónia",
        "m": "Resultado final",
-       "o": "1,53"
+       "o": "1,53",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "19:45",
        "j": "Inglaterra vence a Chéquia",
        "m": "Resultado final",
-       "o": "1,09"
+       "o": "1,09",
+       "r": "ok",
+       "x": "3-0"
       }
      ]
     },
@@ -273,7 +281,7 @@
      "c": "t3",
      "total": "8,17",
      "e": "perdido",
-     "d": "Falhou: Rosario Central vence o Banfield (1-1); Cazaquistão vence as Ilhas Faroé (2-2) · 0 certas, 1 por jogar",
+     "d": "Falhou: Rosario Central vence o Banfield (1-1); Cazaquistão vence as Ilhas Faroé (2-2); Finlândia vence a Bielorrússia (0-0) · 0 certas",
      "legs": [
       {
        "h": "01:15",
@@ -295,7 +303,9 @@
        "h": "19:45",
        "j": "Finlândia vence a Bielorrússia",
        "m": "Resultado final",
-       "o": "1,97"
+       "o": "1,97",
+       "r": "no",
+       "x": "0-0"
       }
      ]
     },
@@ -429,21 +439,25 @@
      "c": "t4",
      "total": "3,48",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
        "d": "TER",
        "j": "Itália vence a Turquia",
        "m": "Resultado final",
-       "o": "1,38"
+       "o": "1,38",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "19:45",
        "d": "QUA",
        "j": "Inglaterra vence a Chéquia",
        "m": "Resultado final",
-       "o": "1,12"
+       "o": "1,12",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "02:20",
@@ -2230,26 +2244,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 57,
-  "ganhos": 25,
-  "pernas": 102,
-  "pernas_ok": 64,
+  "decididos": 59,
+  "ganhos": 26,
+  "pernas": 104,
+  "pernas_ok": 65,
   "dias": 17,
-  "odd_media": "1,64",
+  "odd_media": "1,63",
   "tipos": [
    {
-    "ok": 11,
-    "dec": 15,
-    "pct": 73,
+    "ok": 12,
+    "dec": 16,
+    "pct": 75,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 9,
-    "dec": 14,
-    "pct": 64,
+    "dec": 15,
+    "pct": 60,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
@@ -2268,9 +2282,9 @@
   ],
   "mercados": [
    {
-    "ok": 62,
-    "dec": 99,
-    "pct": 63,
+    "ok": 63,
+    "dec": 101,
+    "pct": 62,
     "nome": "Resultado final"
    },
    {
@@ -2294,25 +2308,25 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 16,
-    "dec": 22,
-    "pct": 73,
+    "ok": 17,
+    "dec": 23,
+    "pct": 74,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 32,
-    "dec": 62,
-    "pct": 52,
+    "dec": 63,
+    "pct": 51,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 1,
+    "dec": 3,
+    "pct": 33,
     "nome": "Terça-feira, 6 de outubro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 0,
