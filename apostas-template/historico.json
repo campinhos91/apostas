@@ -50,7 +50,7 @@
     "c": "t3",
     "total": "8,17",
     "e": "perdido",
-    "d": "Falhou: Rosario Central vence o Banfield (1-1) · 0 certas, 2 por jogar",
+    "d": "Falhou: Rosario Central vence o Banfield (1-1); Cazaquistão vence as Ilhas Faroé (2-2) · 0 certas, 1 por jogar",
     "legs": [
      {
       "h": "01:15",
@@ -64,7 +64,9 @@
       "h": "15:00",
       "j": "Cazaquistão vence as Ilhas Faroé",
       "m": "Resultado final",
-      "o": "2,28"
+      "o": "2,28",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "19:45",
