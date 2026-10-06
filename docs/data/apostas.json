@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-06T00:17:41+01:00",
+ "atualizado": "2026-10-06T14:57:29+01:00",
  "dia": "2026-10-06",
  "rotulo": "Terça-feira · 6 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -272,14 +272,16 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "8,17",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Rosario Central vence o Banfield (1-1) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "01:15",
        "j": "Rosario Central vence o Banfield",
        "m": "Resultado final",
-       "o": "1,82"
+       "o": "1,82",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "15:00",
@@ -2226,9 +2228,9 @@
   }
  ],
  "estatisticas": {
-  "decididos": 56,
+  "decididos": 57,
   "ganhos": 25,
-  "pernas": 100,
+  "pernas": 101,
   "pernas_ok": 64,
   "dias": 17,
   "odd_media": "1,63",
@@ -2249,10 +2251,10 @@
    },
    {
     "ok": 2,
-    "dec": 14,
-    "pct": 14,
+    "dec": 15,
+    "pct": 13,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
@@ -2265,8 +2267,8 @@
   "mercados": [
    {
     "ok": 62,
-    "dec": 97,
-    "pct": 64,
+    "dec": 98,
+    "pct": 63,
     "nome": "Resultado final"
    },
    {
@@ -2297,18 +2299,18 @@
    },
    {
     "ok": 32,
-    "dec": 60,
-    "pct": 53,
+    "dec": 61,
+    "pct": 52,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Terça-feira, 6 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 0,

@@ -49,14 +49,16 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "8,17",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Rosario Central vence o Banfield (1-1) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "01:15",
       "j": "Rosario Central vence o Banfield",
       "m": "Resultado final",
-      "o": "1,82"
+      "o": "1,82",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "15:00",
