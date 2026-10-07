@@ -1,5 +1,104 @@
 [
  {
+  "dia": "2026-10-08",
+  "rotulo": "Quinta-feira · 8 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,70",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:30",
+      "j": "Cruzeiro vence o São Paulo",
+      "m": "Resultado final",
+      "o": "1,70"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "3,04",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:30",
+      "j": "Cruzeiro vence o São Paulo",
+      "m": "Resultado final",
+      "o": "1,70"
+     },
+     {
+      "h": "23:30",
+      "j": "Flamengo vence o Santos",
+      "m": "Resultado final",
+      "o": "1,79"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "6,48",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "j": "Vasco da Gama vence o Botafogo",
+      "m": "Resultado final",
+      "o": "2,13"
+     },
+     {
+      "h": "01:30",
+      "j": "Cruzeiro vence o São Paulo",
+      "m": "Resultado final",
+      "o": "1,70"
+     },
+     {
+      "h": "23:30",
+      "j": "Flamengo vence o Santos",
+      "m": "Resultado final",
+      "o": "1,79"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "4,03",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:30",
+      "d": "SEX",
+      "j": "Fluminense vence o Coritiba",
+      "m": "Resultado final",
+      "o": "1,46"
+     },
+     {
+      "h": "01:30",
+      "d": "SEX",
+      "j": "Palmeiras vence o Bahia",
+      "m": "Resultado final",
+      "o": "1,51"
+     },
+     {
+      "h": "18:00",
+      "d": "SÁB",
+      "j": "Toronto FC vence o CF Montreal",
+      "m": "Resultado final",
+      "o": "1,83"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-07",
   "rotulo": "Quarta-feira · 7 de outubro de 2026",
   "boletins": [
@@ -7,8 +106,8 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,62",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "00:00",
@@ -22,8 +121,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,87",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "23:30",
@@ -72,8 +171,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "7,53",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "23:30",

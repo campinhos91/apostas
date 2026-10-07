@@ -1,26 +1,26 @@
 {
- "atualizado": "2026-10-07T14:59:50+01:00",
- "dia": "2026-10-07",
- "rotulo": "Quarta-feira · 7 de outubro de 2026",
+ "atualizado": "2026-10-08T00:18:29+01:00",
+ "dia": "2026-10-08",
+ "rotulo": "Quinta-feira · 8 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As principais ligas domésticas europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) continuam paradas pela janela FIFA e só regressam entre 9 e 12 de outubro; a Liga das Nações já disputou ontem a última rodada antes da pausa até novembro. Por isso, hoje o destaque fica para o Brasileirão (rodada 29) e a MLS.",
+ "pausa": "As principais ligas domésticas europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) continuam paradas pela janela FIFA e só regressam a partir de 9 de outubro. Por isso o destaque de hoje volta a ser o Brasileirão (rodada 29); vários jogos de ligas menos cobertas (Argélia, Roménia) tinham dados de classificação desatualizados ou contraditórios e ficaram de fora dos boletins.",
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Espanha vence a Croácia (2-1)"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: Islândia vence a Estónia (0-0) · 2 certas"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Rosario Central vence o Banfield (1-1); Cazaquistão vence as Ilhas Faroé (2-2); Finlândia vence a Bielorrússia (0-0) · 0 certas"
+   "d": "Falhou: Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 2 por jogar"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -35,14 +35,14 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "00:00",
-     "j": "Vitória vence a Chapecoense",
+     "h": "01:30",
+     "j": "Cruzeiro vence o São Paulo",
      "m": "Resultado final",
-     "o": "1,62",
+     "o": "1,70",
      "comp": "Primeira Liga (Brasil)"
     }
    ],
-   "total": "1,62",
+   "total": "1,70",
    "rodape": "Uma seleção"
   },
   {
@@ -51,21 +51,21 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "23:30",
-     "j": "Bragantino vence o Mirassol",
+     "h": "01:30",
+     "j": "Cruzeiro vence o São Paulo",
      "m": "Resultado final",
-     "o": "1,77",
+     "o": "1,70",
      "comp": "Primeira Liga (Brasil)"
     },
     {
-     "h": "00:00",
-     "j": "Vitória vence a Chapecoense",
+     "h": "23:30",
+     "j": "Flamengo vence o Santos",
      "m": "Resultado final",
-     "o": "1,62",
+     "o": "1,79",
      "comp": "Primeira Liga (Brasil)"
     }
    ],
-   "total": "2,87",
+   "total": "3,04",
    "rodape": "2 seleções"
   },
   {
@@ -74,28 +74,28 @@
    "risco": "alto",
    "legs": [
     {
-     "h": "23:30",
-     "j": "Grêmio vence o Remo",
+     "h": "00:30",
+     "j": "Vasco da Gama vence o Botafogo",
      "m": "Resultado final",
-     "o": "2,85",
+     "o": "2,13",
      "comp": "Primeira Liga (Brasil)"
     },
     {
      "h": "01:30",
      "j": "Cruzeiro vence o São Paulo",
      "m": "Resultado final",
-     "o": "1,86",
+     "o": "1,70",
      "comp": "Primeira Liga (Brasil)"
     },
     {
-     "h": "01:30",
-     "j": "Vancouver Whitecaps vence o Chicago Fire",
+     "h": "23:30",
+     "j": "Flamengo vence o Santos",
      "m": "Resultado final",
-     "o": "2,15",
-     "comp": "MLS"
+     "o": "1,79",
+     "comp": "Primeira Liga (Brasil)"
     }
    ],
-   "total": "11,40",
+   "total": "6,48",
    "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
@@ -106,20 +106,20 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "23:30",
-     "d": "QUI",
-     "j": "Flamengo vence o Santos",
+     "h": "01:30",
+     "d": "SEX",
+     "j": "Fluminense vence o Coritiba",
      "m": "Resultado final",
-     "o": "1,79",
+     "o": "1,46",
      "comp": "Primeira Liga (Brasil)"
     },
     {
-     "h": "23:30",
+     "h": "01:30",
      "d": "SEX",
-     "j": "Boca Juniors vence o Instituto AC Córdoba",
+     "j": "Palmeiras vence o Bahia",
      "m": "Resultado final",
-     "o": "2,30",
-     "comp": "Primeira Liga (Argentina)"
+     "o": "1,51",
+     "comp": "Primeira Liga (Brasil)"
     },
     {
      "h": "18:00",
@@ -130,74 +130,173 @@
      "comp": "MLS"
     }
    ],
-   "total": "7,53",
-   "rodape": "3 seleções · quinta, sexta e sábado"
+   "total": "4,03",
+   "rodape": "3 seleções · sexta e sábado"
   }
  ],
  "amanha": [
   {
-   "h": "18:00",
-   "d": "QUI",
-   "j": "USM Alger vence o MB Rouissat",
+   "h": "00:00",
+   "d": "SEX",
+   "j": "Athletico Paranaense vence o Atlético-MG",
    "m": "Resultado final",
    "o": "2,03",
-   "n": "USM Alger lidera a Ligue 1 argelina e mantém boa forma recente; joga fora mas é o favorito claro do confronto.",
-   "comp": "Primeira Liga (Argélia)"
+   "n": "Athletico-PR é 3º com 49 pontos e saldo +11, Atlético-MG é 7º com 40 pontos e saldo +4; Athletico joga em casa na Arena da Baixada, embora o confronto direto histórico favoreça o Atlético-MG.",
+   "comp": "Primeira Liga (Brasil)"
   },
   {
-   "h": "18:30",
-   "d": "QUI",
-   "j": "CFR Cluj vence a Universitatea Cluj",
+   "h": "01:30",
+   "d": "SEX",
+   "j": "Fluminense vence o Coritiba",
    "m": "Resultado final",
-   "o": "2,18",
-   "n": "O CFR tem 7 vitórias nos confrontos diretos e joga em casa, mas a Universitatea está em melhor fase esta temporada (9ª vs 13ª classificada); sinal dividido.",
-   "comp": "Primeira Liga (Roménia)"
+   "o": "1,46",
+   "n": "Fluminense é 4º com 48 pontos e somou 10 nos últimos 5 jogos; Coritiba é 9º, 10 pontos atrás e está há 3 jogos sem vencer.",
+   "comp": "Primeira Liga (Brasil)"
   },
   {
-   "h": "23:30",
-   "d": "QUI",
-   "j": "Flamengo vence o Santos",
+   "h": "01:30",
+   "d": "SEX",
+   "j": "Palmeiras vence o Bahia",
    "m": "Resultado final",
-   "o": "1,79",
-   "n": "Flamengo lidera o Brasileirão com 60 pontos e vem de 5 vitórias seguidas; Santos (8º) só perdeu 1 dos últimos 5 mas joga em casa.",
+   "o": "1,51",
+   "n": "Palmeiras é 2º com 57 pontos e está há 5 jogos sem perder; Bahia é 5º, 11 pontos atrás, mas vem de 4 vitórias nos últimos 5 jogos, por isso o jogo pode ser mais equilibrado do que a odd sugere.",
    "comp": "Primeira Liga (Brasil)"
   }
  ],
  "fora": [
   [
-   "Botafogo vence o Vasco (2,65)",
-   "modelo estatístico dá vantagem ao Botafogo (42,7%) mas o mercado favorece o Vasco (2,37 vs 2,65); sinal contraditório, preferimos não arriscar"
+   "Saoura vence o Olympique Akbou (1,66)",
+   "dados de classificação contraditórios nesta pesquisa (tabelas misturam temporadas diferentes, sem confirmação da forma atual)"
   ],
   [
-   "Internacional vence o Corinthians (2,15)",
-   "ambas as equipas em má fase (Internacional é 18º, mais perto do descenso do que a tabela sugere; Corinthians está sem vencer há 6 jogos); sem vantagem clara de qualquer lado"
+   "MC Oran vence o Setif (1,82)",
+   "classificação atual não confirmada; fontes encontradas contradizem-se sobre a posição das equipas"
   ],
   [
-   "River Plate vence o Estudiantes Rio Cuarto (1,13)",
-   "odd demasiado extrema para a posição atual do River, apenas 8º classificado esta temporada; sem dados que justifiquem uma vitória tão confortável"
+   "USM Alger vence o MB Rouissat (2,00)",
+   "classificação desatualizada, sem tabela fiável da época 2026-27 encontrada nesta pesquisa"
   ],
   [
-   "Al-Nassr vence o Diriyah Club (1,30)",
-   "sem dados fiáveis da fase atual da equipa nesta pesquisa (só foi encontrada informação da temporada anterior)"
+   "CFR Cluj vence a Universitatea Cluj (2,18)",
+   "calendário contraditório: fonte oficial da liga aponta o próximo jogo do CFR fora, a 10/10, incompatível com esta data, e classificação atual não confirmada"
   ],
   [
-   "AEK Athens vence o OFI Crete (1,18)",
-   "dados de classificação encontrados nesta pesquisa desatualizados/contraditórios, sem confiança na fase atual"
+   "NAC Breda vence o MVV Maastricht (1,29)",
+   "sinal contraditório: a odd favorece claramente o NAC, mas os dados encontrados dão o MVV mais bem colocado e em melhor forma"
   ],
   [
-   "Peñarol vence o Progreso (1,25)",
-   "sem dados fiáveis da fase atual nesta pesquisa (resultados encontrados são de temporadas/torneios anteriores)"
+   "Boca Juniors vence o Instituto AC Córdoba (2,37)",
+   "sem dados fiáveis da forma atual do Boca encontrados nesta pesquisa"
   ],
   [
-   "Nacional Montevideo vence o Central Español (1,38)",
-   "sem dados fiáveis da fase atual nesta pesquisa (resultados encontrados são de temporadas/torneios anteriores)"
+   "Al-Nassr vence o Diriyah Club (1,39)",
+   "dados de classificação só confirmados até meados de setembro nesta pesquisa, sem confirmação da fase atual"
   ],
   [
    "Cobertura da Betclic",
-   "Consultadas e com jogos confirmados hoje: Primeira Liga (Brasil, rodada 29) e MLS. Sem jogos hoje mas confirmados nos próximos dias: Primeira Liga (Argentina, Colômbia, Uruguai, Equador), Chile, Peru, Liga MX, Escócia (Premiership e Championship), Áustria, Países Baixos (Eredivisie e Eerste), Grécia, Roménia, Sérvia, Arábia Saudita, K-League, J-League 2, Alemanha 3.Liga, Inglaterra League 1, França Ligue 2, Argentina (Primera Nacional), Honduras, Costa Rica, USL, Argélia, Uzbequistão. Sem jogos nos próximos dias: Liga das Nações (pausa até novembro), Noruega, Suécia, Dinamarca, Finlândia, Geórgia, Angola, Taça do Brasil (só a 1 de novembro), Taça da Argentina (só a 28/10), Taça dos Libertadores e Sul-Americana (só a partir de 14/10), Taça da Rep. Checa e dos Países Baixos (sem jogos listados nesta consulta). Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1 continuam paradas pela janela FIFA até 9-12/10."
+   "Consultadas e com jogos confirmados hoje: Primeira Liga (Brasil, rodada 29); jogos também encontrados na Argélia e Roménia mas deixados de fora por dados fracos/contraditórios. Sem jogos hoje mas confirmados nos próximos dias: MLS, Primeira Liga (Argentina, Uruguai, Colômbia), Liga MX, Eredivisie, Escócia, Grécia, Sérvia, Áustria, K-League, J-League 2, Peru, Chile, Arábia Saudita, Alemanha 3.Liga, Inglaterra League 1, França Ligue 2, Países Baixos Eerste, Dinamarca, Bulgária, Honduras, Angola, Geórgia. Sem jogos de futebol individuais nesta consulta: Liga das Nações (só mercados de vencedor da competição), Taça de Portugal e Taça do Rei de Espanha (só mercados de vencedor). Sem acesso (403) nesta consulta: Uzbequistão. Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1 continuam paradas pela janela FIFA até 9-12/10."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-10-08",
+   "rotulo": "Quinta-feira · 8 de outubro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,70",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "01:30",
+       "j": "Cruzeiro vence o São Paulo",
+       "m": "Resultado final",
+       "o": "1,70"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "3,04",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "01:30",
+       "j": "Cruzeiro vence o São Paulo",
+       "m": "Resultado final",
+       "o": "1,70"
+      },
+      {
+       "h": "23:30",
+       "j": "Flamengo vence o Santos",
+       "m": "Resultado final",
+       "o": "1,79"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "6,48",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "00:30",
+       "j": "Vasco da Gama vence o Botafogo",
+       "m": "Resultado final",
+       "o": "2,13"
+      },
+      {
+       "h": "01:30",
+       "j": "Cruzeiro vence o São Paulo",
+       "m": "Resultado final",
+       "o": "1,70"
+      },
+      {
+       "h": "23:30",
+       "j": "Flamengo vence o Santos",
+       "m": "Resultado final",
+       "o": "1,79"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "4,03",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "01:30",
+       "d": "SEX",
+       "j": "Fluminense vence o Coritiba",
+       "m": "Resultado final",
+       "o": "1,46"
+      },
+      {
+       "h": "01:30",
+       "d": "SEX",
+       "j": "Palmeiras vence o Bahia",
+       "m": "Resultado final",
+       "o": "1,51"
+      },
+      {
+       "h": "18:00",
+       "d": "SÁB",
+       "j": "Toronto FC vence o CF Montreal",
+       "m": "Resultado final",
+       "o": "1,83"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-10-07",
    "rotulo": "Quarta-feira · 7 de outubro de 2026",
@@ -206,8 +305,8 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,62",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "00:00",
@@ -221,8 +320,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,87",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "23:30",
@@ -271,8 +370,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "7,53",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "23:30",
@@ -2325,7 +2424,7 @@
   "ganhos": 26,
   "pernas": 105,
   "pernas_ok": 65,
-  "dias": 18,
+  "dias": 19,
   "odd_media": "1,64",
   "tipos": [
    {
@@ -2333,28 +2432,28 @@
     "dec": 16,
     "pct": 75,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 2
    },
    {
     "ok": 9,
     "dec": 15,
     "pct": 60,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 2
    },
    {
     "ok": 2,
     "dec": 16,
     "pct": 12,
     "nome": "Múltipla arriscada",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 3,
     "dec": 13,
     "pct": 23,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 5
    }
   ],
   "mercados": [
@@ -2398,6 +2497,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Quinta-feira, 8 de outubro",
+    "pend": 4
+   },
    {
     "ok": 0,
     "dec": 1,
