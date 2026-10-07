@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-07T00:18:37+01:00",
+ "atualizado": "2026-10-07T14:59:50+01:00",
  "dia": "2026-10-07",
  "rotulo": "Quarta-feira · 7 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -242,8 +242,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "11,40",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "23:30",
@@ -261,7 +261,9 @@
        "h": "01:30",
        "j": "Vancouver Whitecaps vence o Chicago Fire",
        "m": "Resultado final",
-       "o": "2,15"
+       "o": "2,15",
+       "r": "no",
+       "x": "Chicago Fire 3-1 Vancouver Whitecaps"
       }
      ]
     },
@@ -2319,12 +2321,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 59,
+  "decididos": 60,
   "ganhos": 26,
-  "pernas": 104,
+  "pernas": 105,
   "pernas_ok": 65,
   "dias": 18,
-  "odd_media": "1,63",
+  "odd_media": "1,64",
   "tipos": [
    {
     "ok": 12,
@@ -2342,10 +2344,10 @@
    },
    {
     "ok": 2,
-    "dec": 15,
-    "pct": 13,
+    "dec": 16,
+    "pct": 12,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
@@ -2358,7 +2360,7 @@
   "mercados": [
    {
     "ok": 63,
-    "dec": 101,
+    "dec": 102,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -2390,18 +2392,18 @@
    },
    {
     "ok": 32,
-    "dec": 63,
-    "pct": 51,
+    "dec": 64,
+    "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Quarta-feira, 7 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 1,
