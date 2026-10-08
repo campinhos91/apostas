@@ -6,18 +6,18 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Vitória vence a Chapecoense (4-0)"
   },
   {
    "t": "Múltipla segura",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Bragantino vence o Mirassol (1-1) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 1 por jogar"
+   "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 1 certa"
   },
   {
    "t": "Múltipla dos próximos dias",

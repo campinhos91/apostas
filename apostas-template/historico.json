@@ -7,14 +7,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,70",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Cruzeiro vence o São Paulo (2-0)",
     "legs": [
      {
       "h": "01:30",
       "j": "Cruzeiro vence o São Paulo",
       "m": "Resultado final",
-      "o": "1,70"
+      "o": "1,70",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -23,13 +25,15 @@
     "c": "t2",
     "total": "3,04",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 2 pernas certas até agora",
     "legs": [
      {
       "h": "01:30",
       "j": "Cruzeiro vence o São Paulo",
       "m": "Resultado final",
-      "o": "1,70"
+      "o": "1,70",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "23:30",
@@ -44,7 +48,7 @@
     "c": "t3",
     "total": "6,48",
     "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "00:30",
@@ -58,7 +62,9 @@
       "h": "01:30",
       "j": "Cruzeiro vence o São Paulo",
       "m": "Resultado final",
-      "o": "1,70"
+      "o": "1,70",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "23:30",
@@ -108,14 +114,16 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,62",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Vitória vence a Chapecoense (4-0)",
     "legs": [
      {
       "h": "00:00",
       "j": "Vitória vence a Chapecoense",
       "m": "Resultado final",
-      "o": "1,62"
+      "o": "1,62",
+      "r": "ok",
+      "x": "4-0"
      }
     ]
    },
@@ -123,20 +131,24 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,87",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Bragantino vence o Mirassol (1-1) · 1 certa",
     "legs": [
      {
       "h": "23:30",
       "j": "Bragantino vence o Mirassol",
       "m": "Resultado final",
-      "o": "1,77"
+      "o": "1,77",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "00:00",
       "j": "Vitória vence a Chapecoense",
       "m": "Resultado final",
-      "o": "1,62"
+      "o": "1,62",
+      "r": "ok",
+      "x": "4-0"
      }
     ]
    },
@@ -145,7 +157,7 @@
     "c": "t3",
     "total": "11,40",
     "e": "perdido",
-    "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 1 por jogar",
+    "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 1 certa",
     "legs": [
      {
       "h": "23:30",
@@ -159,7 +171,9 @@
       "h": "01:30",
       "j": "Cruzeiro vence o São Paulo",
       "m": "Resultado final",
-      "o": "1,86"
+      "o": "1,86",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "01:30",
@@ -294,22 +308,26 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "8,52",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Bragantino vence o Mirassol (1-1) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "23:30",
       "d": "QUA",
       "j": "Bragantino vence o Mirassol",
       "m": "Resultado final",
-      "o": "1,77"
+      "o": "1,77",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "01:30",
       "d": "QUI",
       "j": "Cruzeiro vence o São Paulo",
       "m": "Resultado final",
-      "o": "1,79"
+      "o": "1,79",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "01:30",
@@ -550,7 +568,7 @@
     "c": "t4",
     "total": "7,49",
     "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
@@ -566,7 +584,9 @@
       "d": "QUA",
       "j": "Internacional RS vence o Corinthians",
       "m": "Resultado final",
-      "o": "1,98"
+      "o": "1,98",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "02:20",

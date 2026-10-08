@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-08T14:56:56+01:00",
+ "atualizado": "2026-10-08T16:57:00+01:00",
  "dia": "2026-10-08",
  "rotulo": "Quinta-feira · 8 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -9,18 +9,18 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Vitória vence a Chapecoense (4-0)"
   },
   {
    "t": "Múltipla segura",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Bragantino vence o Mirassol (1-1) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 1 por jogar"
+   "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 1 certa"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -206,14 +206,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,70",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Cruzeiro vence o São Paulo (2-0)",
      "legs": [
       {
        "h": "01:30",
        "j": "Cruzeiro vence o São Paulo",
        "m": "Resultado final",
-       "o": "1,70"
+       "o": "1,70",
+       "r": "ok",
+       "x": "2-0"
       }
      ]
     },
@@ -222,13 +224,15 @@
      "c": "t2",
      "total": "3,04",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 2 pernas certas até agora",
      "legs": [
       {
        "h": "01:30",
        "j": "Cruzeiro vence o São Paulo",
        "m": "Resultado final",
-       "o": "1,70"
+       "o": "1,70",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "23:30",
@@ -243,7 +247,7 @@
      "c": "t3",
      "total": "6,48",
      "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "00:30",
@@ -257,7 +261,9 @@
        "h": "01:30",
        "j": "Cruzeiro vence o São Paulo",
        "m": "Resultado final",
-       "o": "1,70"
+       "o": "1,70",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "23:30",
@@ -307,14 +313,16 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,62",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Vitória vence a Chapecoense (4-0)",
      "legs": [
       {
        "h": "00:00",
        "j": "Vitória vence a Chapecoense",
        "m": "Resultado final",
-       "o": "1,62"
+       "o": "1,62",
+       "r": "ok",
+       "x": "4-0"
       }
      ]
     },
@@ -322,20 +330,24 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,87",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Bragantino vence o Mirassol (1-1) · 1 certa",
      "legs": [
       {
        "h": "23:30",
        "j": "Bragantino vence o Mirassol",
        "m": "Resultado final",
-       "o": "1,77"
+       "o": "1,77",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "00:00",
        "j": "Vitória vence a Chapecoense",
        "m": "Resultado final",
-       "o": "1,62"
+       "o": "1,62",
+       "r": "ok",
+       "x": "4-0"
       }
      ]
     },
@@ -344,7 +356,7 @@
      "c": "t3",
      "total": "11,40",
      "e": "perdido",
-     "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 1 por jogar",
+     "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 1 certa",
      "legs": [
       {
        "h": "23:30",
@@ -358,7 +370,9 @@
        "h": "01:30",
        "j": "Cruzeiro vence o São Paulo",
        "m": "Resultado final",
-       "o": "1,86"
+       "o": "1,86",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "01:30",
@@ -493,22 +507,26 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "8,52",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Bragantino vence o Mirassol (1-1) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "23:30",
        "d": "QUA",
        "j": "Bragantino vence o Mirassol",
        "m": "Resultado final",
-       "o": "1,77"
+       "o": "1,77",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "01:30",
        "d": "QUI",
        "j": "Cruzeiro vence o São Paulo",
        "m": "Resultado final",
-       "o": "1,79"
+       "o": "1,79",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "01:30",
@@ -749,7 +767,7 @@
      "c": "t4",
      "total": "7,49",
      "e": "nao verificado",
-     "d": "1 de 4 pernas certas até agora",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
@@ -765,7 +783,9 @@
        "d": "QUA",
        "j": "Internacional RS vence o Corinthians",
        "m": "Resultado final",
-       "o": "1,98"
+       "o": "1,98",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "02:20",
@@ -2424,26 +2444,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 60,
-  "ganhos": 26,
-  "pernas": 107,
-  "pernas_ok": 66,
+  "decididos": 64,
+  "ganhos": 28,
+  "pernas": 111,
+  "pernas_ok": 69,
   "dias": 19,
-  "odd_media": "1,65",
+  "odd_media": "1,66",
   "tipos": [
    {
-    "ok": 12,
-    "dec": 16,
-    "pct": 75,
+    "ok": 14,
+    "dec": 18,
+    "pct": 78,
     "nome": "Aposta simples segura",
-    "pend": 2
+    "pend": 0
    },
    {
     "ok": 9,
-    "dec": 15,
-    "pct": 60,
+    "dec": 16,
+    "pct": 56,
     "nome": "Múltipla segura",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 2,
@@ -2454,16 +2474,16 @@
    },
    {
     "ok": 3,
-    "dec": 13,
-    "pct": 23,
+    "dec": 14,
+    "pct": 21,
     "nome": "Múltipla dos próximos dias",
-    "pend": 5
+    "pend": 4
    }
   ],
   "mercados": [
    {
-    "ok": 64,
-    "dec": 104,
+    "ok": 67,
+    "dec": 108,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -2494,33 +2514,33 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 33,
-    "dec": 66,
-    "pct": 50,
+    "ok": 36,
+    "dec": 70,
+    "pct": 51,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
-    "nome": "Quinta-feira, 8 de outubro",
-    "pend": 4
-   },
-   {
-    "ok": 0,
+    "ok": 1,
     "dec": 1,
-    "pct": 0,
-    "nome": "Quarta-feira, 7 de outubro",
+    "pct": 100,
+    "nome": "Quinta-feira, 8 de outubro",
     "pend": 3
    },
    {
     "ok": 1,
     "dec": 3,
     "pct": 33,
-    "nome": "Terça-feira, 6 de outubro",
+    "nome": "Quarta-feira, 7 de outubro",
     "pend": 1
+   },
+   {
+    "ok": 1,
+    "dec": 4,
+    "pct": 25,
+    "nome": "Terça-feira, 6 de outubro",
+    "pend": 0
    },
    {
     "ok": 0,
