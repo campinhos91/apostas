@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-08T00:18:29+01:00",
+ "atualizado": "2026-10-08T14:56:56+01:00",
  "dia": "2026-10-08",
  "rotulo": "Quinta-feira · 8 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -20,7 +20,7 @@
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 2 por jogar"
+   "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 1 por jogar"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -243,13 +243,15 @@
      "c": "t3",
      "total": "6,48",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "00:30",
        "j": "Vasco da Gama vence o Botafogo",
        "m": "Resultado final",
-       "o": "2,13"
+       "o": "2,13",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "01:30",
@@ -342,13 +344,15 @@
      "c": "t3",
      "total": "11,40",
      "e": "perdido",
-     "d": "Falhou: Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 2 por jogar",
+     "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 0 certas, 1 por jogar",
      "legs": [
       {
        "h": "23:30",
        "j": "Grêmio vence o Remo",
        "m": "Resultado final",
-       "o": "2,85"
+       "o": "2,85",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "01:30",
@@ -2422,10 +2426,10 @@
  "estatisticas": {
   "decididos": 60,
   "ganhos": 26,
-  "pernas": 105,
-  "pernas_ok": 65,
+  "pernas": 107,
+  "pernas_ok": 66,
   "dias": 19,
-  "odd_media": "1,64",
+  "odd_media": "1,65",
   "tipos": [
    {
     "ok": 12,
@@ -2458,8 +2462,8 @@
   ],
   "mercados": [
    {
-    "ok": 63,
-    "dec": 102,
+    "ok": 64,
+    "dec": 104,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -2490,8 +2494,8 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 32,
-    "dec": 64,
+    "ok": 33,
+    "dec": 66,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
