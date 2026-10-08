@@ -437,8 +437,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,48",
-    "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "e": "adiado",
+    "d": "Há um jogo adiado; boletim por decidir",
     "legs": [
      {
       "h": "19:45",
@@ -463,7 +463,8 @@
       "d": "QUI",
       "j": "Atlético Nacional vence o Deportes Tolima",
       "m": "Resultado final",
-      "o": "1,51"
+      "o": "1,51",
+      "r": "adiado"
      },
      {
       "h": "01:30",
@@ -567,8 +568,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "7,49",
-    "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "e": "adiado",
+    "d": "Há um jogo adiado; boletim por decidir",
     "legs": [
      {
       "h": "19:45",
@@ -593,7 +594,8 @@
       "d": "QUI",
       "j": "Atlético Nacional vence o Deportes Tolima",
       "m": "Resultado final",
-      "o": "1,46"
+      "o": "1,46",
+      "r": "adiado"
      },
      {
       "h": "23:30",
