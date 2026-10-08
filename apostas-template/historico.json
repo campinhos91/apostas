@@ -1,5 +1,111 @@
 [
  {
+  "dia": "2026-10-09",
+  "rotulo": "Sexta-feira · 9 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,22",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "PSV Eindhoven vence o Heerenveen",
+      "m": "Resultado final",
+      "o": "1,22"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,84",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:30",
+      "j": "Palmeiras vence o Bahia",
+      "m": "Resultado final",
+      "o": "1,51"
+     },
+     {
+      "h": "19:00",
+      "j": "PSV Eindhoven vence o Heerenveen",
+      "m": "Resultado final",
+      "o": "1,22"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "10,48",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:30",
+      "j": "Palmeiras vence o Bahia",
+      "m": "Resultado final",
+      "o": "1,51"
+     },
+     {
+      "h": "19:45",
+      "j": "Lyon vence o Lens",
+      "m": "Resultado final",
+      "o": "2,65"
+     },
+     {
+      "h": "20:00",
+      "j": "Málaga vence o Espanhol",
+      "m": "Resultado final",
+      "o": "2,62"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,04",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "d": "SÁB",
+      "j": "Bayern Munique vence o Augsburgo",
+      "m": "Resultado final",
+      "o": "1,16"
+     },
+     {
+      "h": "17:30",
+      "d": "SÁB",
+      "j": "Barcelona vence o Getafe",
+      "m": "Resultado final",
+      "o": "1,07"
+     },
+     {
+      "h": "20:00",
+      "d": "SÁB",
+      "j": "Real Madrid vence o Villarreal",
+      "m": "Resultado final",
+      "o": "1,35"
+     },
+     {
+      "h": "18:00",
+      "d": "DOM",
+      "j": "Benfica vence o Vitória SC",
+      "m": "Resultado final",
+      "o": "1,22"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-08",
   "rotulo": "Quinta-feira · 8 de outubro de 2026",
   "boletins": [
@@ -24,7 +130,7 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "3,04",
-    "e": "pendente",
+    "e": "nao verificado",
     "d": "1 de 2 pernas certas até agora",
     "legs": [
      {
@@ -47,7 +153,7 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "6,48",
-    "e": "pendente",
+    "e": "nao verificado",
     "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
@@ -78,8 +184,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "4,03",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "01:30",

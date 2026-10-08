@@ -1,23 +1,22 @@
 {
- "data": "Quinta-feira · 8 de outubro de 2026",
+ "data": "Sexta-feira · 9 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
- "pausa": "As principais ligas domésticas europeias (Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1) continuam paradas pela janela FIFA e só regressam a partir de 9 de outubro. Por isso o destaque de hoje volta a ser o Brasileirão (rodada 29); vários jogos de ligas menos cobertas (Argélia, Roménia) tinham dados de classificação desatualizados ou contraditórios e ficaram de fora dos boletins.",
  "ontem": [
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Vitória vence a Chapecoense (4-0)"
+   "d": "Todas as pernas certas: Cruzeiro vence o São Paulo (2-0)"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: Bragantino vence o Mirassol (1-1) · 1 certa"
+   "e": "nao verificado",
+   "d": "1 de 2 pernas certas até agora"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Grêmio vence o Remo (1-1); Vancouver Whitecaps vence o Chicago Fire (Chicago Fire 3-1 Vancouver Whitecaps) · 1 certa"
+   "e": "nao verificado",
+   "d": "2 de 3 pernas certas até agora"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -32,11 +31,11 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "01:30",
-     "j": "Cruzeiro vence o São Paulo",
+     "h": "19:00",
+     "j": "PSV Eindhoven vence o Heerenveen",
      "m": "Resultado final",
-     "o": "1,70",
-     "comp": "Primeira Liga (Brasil)"
+     "o": "1,22",
+     "comp": "Eredivisie"
     }
    ]
   },
@@ -47,17 +46,17 @@
    "legs": [
     {
      "h": "01:30",
-     "j": "Cruzeiro vence o São Paulo",
+     "j": "Palmeiras vence o Bahia",
      "m": "Resultado final",
-     "o": "1,70",
+     "o": "1,51",
      "comp": "Primeira Liga (Brasil)"
     },
     {
-     "h": "23:30",
-     "j": "Flamengo vence o Santos",
+     "h": "19:00",
+     "j": "PSV Eindhoven vence o Heerenveen",
      "m": "Resultado final",
-     "o": "1,79",
-     "comp": "Primeira Liga (Brasil)"
+     "o": "1,22",
+     "comp": "Eredivisie"
     }
    ]
   },
@@ -68,25 +67,25 @@
    "extra": "falhar uma perde tudo",
    "legs": [
     {
-     "h": "00:30",
-     "j": "Vasco da Gama vence o Botafogo",
-     "m": "Resultado final",
-     "o": "2,13",
-     "comp": "Primeira Liga (Brasil)"
-    },
-    {
      "h": "01:30",
-     "j": "Cruzeiro vence o São Paulo",
+     "j": "Palmeiras vence o Bahia",
      "m": "Resultado final",
-     "o": "1,70",
+     "o": "1,51",
      "comp": "Primeira Liga (Brasil)"
     },
     {
-     "h": "23:30",
-     "j": "Flamengo vence o Santos",
+     "h": "19:45",
+     "j": "Lyon vence o Lens",
      "m": "Resultado final",
-     "o": "1,79",
-     "comp": "Primeira Liga (Brasil)"
+     "o": "2,65",
+     "comp": "Ligue 1"
+    },
+    {
+     "h": "20:00",
+     "j": "Málaga vence o Espanhol",
+     "m": "Resultado final",
+     "o": "2,62",
+     "comp": "La Liga"
     }
    ]
   }
@@ -98,93 +97,97 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "01:30",
-     "d": "SEX",
-     "j": "Fluminense vence o Coritiba",
+     "h": "14:30",
+     "d": "SÁB",
+     "j": "Bayern Munique vence o Augsburgo",
      "m": "Resultado final",
-     "o": "1,46",
-     "comp": "Primeira Liga (Brasil)"
+     "o": "1,16",
+     "comp": "Bundesliga"
     },
     {
-     "h": "01:30",
-     "d": "SEX",
-     "j": "Palmeiras vence o Bahia",
+     "h": "17:30",
+     "d": "SÁB",
+     "j": "Barcelona vence o Getafe",
      "m": "Resultado final",
-     "o": "1,51",
-     "comp": "Primeira Liga (Brasil)"
+     "o": "1,07",
+     "comp": "La Liga"
+    },
+    {
+     "h": "20:00",
+     "d": "SÁB",
+     "j": "Real Madrid vence o Villarreal",
+     "m": "Resultado final",
+     "o": "1,35",
+     "comp": "La Liga"
     },
     {
      "h": "18:00",
-     "d": "SÁB",
-     "j": "Toronto FC vence o CF Montreal",
+     "d": "DOM",
+     "j": "Benfica vence o Vitória SC",
      "m": "Resultado final",
-     "o": "1,83",
-     "comp": "MLS"
+     "o": "1,22",
+     "comp": "Liga Portugal Betclic"
     }
    ]
   }
  ],
  "amanha": [
   {
-   "h": "00:00",
-   "d": "SEX",
-   "j": "Athletico Paranaense vence o Atlético-MG",
+   "h": "14:30",
+   "d": "SÁB",
+   "j": "Bayern Munique vence o Augsburgo",
    "m": "Resultado final",
-   "o": "2,03",
-   "n": "Athletico-PR é 3º com 49 pontos e saldo +11, Atlético-MG é 7º com 40 pontos e saldo +4; Athletico joga em casa na Arena da Baixada, embora o confronto direto histórico favoreça o Atlético-MG.",
-   "comp": "Primeira Liga (Brasil)"
+   "o": "1,16",
+   "n": "Bayern foi campeão da Bundesliga 2025/26 com 89 pontos em 34 jogos (28 vitórias); sem dados de forma desta época encontrados nesta pesquisa, mas a odd (1,16) reflete um favoritismo muito claro fora de casa.",
+   "comp": "Bundesliga"
   },
   {
-   "h": "01:30",
-   "d": "SEX",
-   "j": "Fluminense vence o Coritiba",
+   "h": "17:30",
+   "d": "SÁB",
+   "j": "Barcelona vence o Getafe",
    "m": "Resultado final",
-   "o": "1,46",
-   "n": "Fluminense é 4º com 48 pontos e somou 10 nos últimos 5 jogos; Coritiba é 9º, 10 pontos atrás e está há 3 jogos sem vencer.",
-   "comp": "Primeira Liga (Brasil)"
+   "o": "1,07",
+   "n": "Barcelona lidera a LaLiga com 21 pontos em 7 jogos (31 golos marcados, 7 sofridos) e vem de vitória 3-1 fora com o Sevilha; Getafe é 11º com 8 pontos e apenas 4 golos marcados em 7 jogos.",
+   "comp": "La Liga"
   },
   {
-   "h": "01:30",
-   "d": "SEX",
-   "j": "Palmeiras vence o Bahia",
+   "h": "20:00",
+   "d": "SÁB",
+   "j": "Real Madrid vence o Villarreal",
    "m": "Resultado final",
-   "o": "1,51",
-   "n": "Palmeiras é 2º com 57 pontos e está há 5 jogos sem perder; Bahia é 5º, 11 pontos atrás, mas vem de 4 vitórias nos últimos 5 jogos, por isso o jogo pode ser mais equilibrado do que a odd sugere.",
-   "comp": "Primeira Liga (Brasil)"
+   "o": "1,35",
+   "n": "Real Madrid é 4º com 15 pontos em 7 jogos mas perdeu o último jogo (1-2 com o Atlético); Villarreal é 9º com 8 pontos e vem de vitória 3-1 ao Levante — forma recente mais equilibrada do que a odd sugere.",
+   "comp": "La Liga"
   }
  ],
  "fora": [
   [
-   "Saoura vence o Olympique Akbou (1,66)",
-   "dados de classificação contraditórios nesta pesquisa (tabelas misturam temporadas diferentes, sem confirmação da forma atual)"
+   "Dortmund vence o Werder Bremen (1,28)",
+   "pesquisa nesta execução não confirmou dados de forma/confrontos atuais nem encontrou este emparelhamento específico em fontes secundárias, apesar da odd da Betclic implicar favoritismo claro do Dortmund em casa"
   ],
   [
-   "MC Oran vence o Setif (1,82)",
-   "classificação atual não confirmada; fontes encontradas contradizem-se sobre a posição das equipas"
+   "Sporting vence o Braga (2,13)",
+   "sem dados de forma, posição na tabela ou confrontos diretos da época 2026/27 encontrados nesta pesquisa (só resultados de épocas anteriores)"
   ],
   [
-   "USM Alger vence o MB Rouissat (2,00)",
-   "classificação desatualizada, sem tabela fiável da época 2026-27 encontrada nesta pesquisa"
+   "Gil Vicente vence o Moreirense (2,27)",
+   "sem dados de forma atual fiáveis para a época 2026/27 encontrados nesta pesquisa"
   ],
   [
-   "CFR Cluj vence a Universitatea Cluj (2,18)",
-   "calendário contraditório: fonte oficial da liga aponta o próximo jogo do CFR fora, a 10/10, incompatível com esta data, e classificação atual não confirmada"
+   "Fluminense vence o Coritiba (1,43)",
+   "classificação contraditória entre fontes nesta pesquisa (3º, 4º, 7º e 9º lugares diferentes dados por fontes distintas) e data do jogo não totalmente confirmada"
   ],
   [
-   "NAC Breda vence o MVV Maastricht (1,29)",
-   "sinal contraditório: a odd favorece claramente o NAC, mas os dados encontrados dão o MVV mais bem colocado e em melhor forma"
+   "West Ham vence o QPR (1,47)",
+   "dúvidas sobre a própria divisão da equipa esta temporada e dados contraditórios/desatualizados encontrados nesta pesquisa"
   ],
   [
-   "Boca Juniors vence o Instituto AC Córdoba (2,37)",
-   "sem dados fiáveis da forma atual do Boca encontrados nesta pesquisa"
-  ],
-  [
-   "Al-Nassr vence o Diriyah Club (1,39)",
-   "dados de classificação só confirmados até meados de setembro nesta pesquisa, sem confirmação da fase atual"
+   "Boca Juniors vence o Instituto AC Córdoba (2,32)",
+   "calendário oficial encontrado nesta pesquisa não confirma jogo do Boca a 9/10 (lista jogos em 4, 11, 18 e 25/10), dados contraditórios"
   ],
   [
    "Cobertura da Betclic",
-   "Consultadas e com jogos confirmados hoje: Primeira Liga (Brasil, rodada 29); jogos também encontrados na Argélia e Roménia mas deixados de fora por dados fracos/contraditórios. Sem jogos hoje mas confirmados nos próximos dias: MLS, Primeira Liga (Argentina, Uruguai, Colômbia), Liga MX, Eredivisie, Escócia, Grécia, Sérvia, Áustria, K-League, J-League 2, Peru, Chile, Arábia Saudita, Alemanha 3.Liga, Inglaterra League 1, França Ligue 2, Países Baixos Eerste, Dinamarca, Bulgária, Honduras, Angola, Geórgia. Sem jogos de futebol individuais nesta consulta: Liga das Nações (só mercados de vencedor da competição), Taça de Portugal e Taça do Rei de Espanha (só mercados de vencedor). Sem acesso (403) nesta consulta: Uzbequistão. Liga Portugal, Premier League, LaLiga, Serie A, Bundesliga e Ligue 1 continuam paradas pela janela FIFA até 9-12/10."
+   "Consultadas e com jogos confirmados hoje: Liga Portugal Betclic, LaLiga, Bundesliga, Ligue 1, Eredivisie, Brasileirão Série A (Brasil), Primeira Liga da Argentina. Confirmadas para os próximos dias mas sem jogos hoje: Premier League, Championship inglês, Serie A italiana, Escócia Premiership, MLS. Liga das Nações só com mercados de vencedor da competição (sem jogos individuais). As principais ligas domésticas europeias já regressaram da pausa da seleções; vários jogos de hoje (Liga Portugal, Bundesliga) tiveram a data confirmada de forma cruzada mas com pouca cobertura de forma/lesões atual nas pesquisas, por isso ficaram de fora ou com análise mais cautelosa. Sem acesso ou não consultadas nesta execução: Bélgica, Suíça, Áustria, países nórdicos, Japão, Austrália, Sérvia, Roménia, Brasil Série B, entre outras."
   ]
  ]
 }
