@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-09T00:18:15+01:00",
+ "atualizado": "2026-10-09T05:34:53+01:00",
  "dia": "2026-10-09",
  "rotulo": "Sexta-feira · 9 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -74,29 +74,36 @@
    "risco": "alto",
    "legs": [
     {
-     "h": "01:30",
-     "j": "Palmeiras vence o Bahia",
+     "h": "19:00",
+     "j": "PSV Eindhoven vence o Heerenveen",
      "m": "Resultado final",
-     "o": "1,51",
-     "comp": "Primeira Liga (Brasil)"
+     "o": "1,22",
+     "comp": "Eredivisie"
+    },
+    {
+     "h": "19:30",
+     "j": "Dortmund vence o Werder Bremen",
+     "m": "Resultado final",
+     "o": "1,28",
+     "comp": "Bundesliga"
     },
     {
      "h": "19:45",
-     "j": "Lyon vence o Lens",
-     "m": "Resultado final",
-     "o": "2,65",
+     "j": "Lens–Lyon",
+     "m": "Mais de 1,5 golos",
+     "o": "1,11",
      "comp": "Ligue 1"
     },
     {
-     "h": "20:00",
-     "j": "Málaga vence o Espanhol",
-     "m": "Resultado final",
-     "o": "2,62",
-     "comp": "La Liga"
+     "h": "20:15",
+     "j": "Braga–Sporting",
+     "m": "Dupla hipótese: Sporting ou empate",
+     "o": "1,32",
+     "comp": "Liga Portugal Betclic"
     }
    ],
-   "total": "10,48",
-   "rodape": "3 seleções · falhar uma perde tudo"
+   "total": "2,29",
+   "rodape": "4 seleções · falhar uma perde tudo"
   }
  ],
  "proximos": [
@@ -173,12 +180,12 @@
  ],
  "fora": [
   [
-   "Dortmund vence o Werder Bremen (1,28)",
-   "pesquisa nesta execução não confirmou dados de forma/confrontos atuais nem encontrou este emparelhamento específico em fontes secundárias, apesar da odd da Betclic implicar favoritismo claro do Dortmund em casa"
+   "Lyon vence o Lens (2,70) e Málaga vence o Espanhol (2,62)",
+   "estavam na arriscada da madrugada, que tinha odd 10,48 e cerca de 8% de probabilidade histórica; saíram para o boletim cumprir o mínimo de 25%. O Málaga só tem 3 jogos em casa nos dados da La Liga"
   ],
   [
-   "Sporting vence o Braga (2,13)",
-   "sem dados de forma, posição na tabela ou confrontos diretos da época 2026/27 encontrados nesta pesquisa (só resultados de épocas anteriores)"
+   "Lens ou empate (1,39)",
+   "nas duas últimas épocas o Lens ganhou 21 de 33 jogos em casa e leva 5V 1E 2D nos últimos confrontos com o Lyon, mas esta época é 15.º com 4 pontos em 5 jogos e o Lyon está invicto: dados contraditórios, por isso do jogo só entrou o mercado de golos"
   ],
   [
    "Gil Vicente vence o Moreirense (2,27)",
@@ -245,27 +252,33 @@
     {
      "t": "Múltipla arriscada",
      "c": "t3",
-     "total": "10,48",
+     "total": "2,29",
      "e": "pendente",
      "d": "",
      "legs": [
       {
-       "h": "01:30",
-       "j": "Palmeiras vence o Bahia",
+       "h": "19:00",
+       "j": "PSV Eindhoven vence o Heerenveen",
        "m": "Resultado final",
-       "o": "1,51"
+       "o": "1,22"
+      },
+      {
+       "h": "19:30",
+       "j": "Dortmund vence o Werder Bremen",
+       "m": "Resultado final",
+       "o": "1,28"
       },
       {
        "h": "19:45",
-       "j": "Lyon vence o Lens",
-       "m": "Resultado final",
-       "o": "2,65"
+       "j": "Lens–Lyon",
+       "m": "Mais de 1,5 golos",
+       "o": "1,11"
       },
       {
-       "h": "20:00",
-       "j": "Málaga vence o Espanhol",
-       "m": "Resultado final",
-       "o": "2,62"
+       "h": "20:15",
+       "j": "Braga–Sporting",
+       "m": "Dupla hipótese: Sporting ou empate",
+       "o": "1,32"
       }
      ]
     },

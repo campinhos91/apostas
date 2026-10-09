@@ -42,27 +42,33 @@
    {
     "t": "Múltipla arriscada",
     "c": "t3",
-    "total": "10,48",
+    "total": "2,29",
     "e": "pendente",
     "d": "",
     "legs": [
      {
-      "h": "01:30",
-      "j": "Palmeiras vence o Bahia",
+      "h": "19:00",
+      "j": "PSV Eindhoven vence o Heerenveen",
       "m": "Resultado final",
-      "o": "1,51"
+      "o": "1,22"
+     },
+     {
+      "h": "19:30",
+      "j": "Dortmund vence o Werder Bremen",
+      "m": "Resultado final",
+      "o": "1,28"
      },
      {
       "h": "19:45",
-      "j": "Lyon vence o Lens",
-      "m": "Resultado final",
-      "o": "2,65"
+      "j": "Lens–Lyon",
+      "m": "Mais de 1,5 golos",
+      "o": "1,11"
      },
      {
-      "h": "20:00",
-      "j": "Málaga vence o Espanhol",
-      "m": "Resultado final",
-      "o": "2,62"
+      "h": "20:15",
+      "j": "Braga–Sporting",
+      "m": "Dupla hipótese: Sporting ou empate",
+      "o": "1,32"
      }
     ]
    },
