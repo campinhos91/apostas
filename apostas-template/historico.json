@@ -52,8 +52,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,29",
-    "e": "pendente",
-    "d": "1 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Dortmund vence o Werder Bremen (2-2) · 3 certas",
     "legs": [
      {
       "h": "19:00",
@@ -69,21 +69,27 @@
       "j": "Dortmund vence o Werder Bremen",
       "m": "Resultado final",
       "o": "1,28",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "19:45",
       "j": "Lens–Lyon",
       "m": "Mais de 1,5 golos",
       "o": "1,11",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "20:15",
       "j": "Braga–Sporting",
       "m": "Dupla hipótese: Sporting ou empate",
       "o": "1,32",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-3"
      }
     ]
    },
