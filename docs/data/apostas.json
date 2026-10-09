@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-09T05:44:24+01:00",
+ "atualizado": "2026-10-09T05:54:53+01:00",
  "dia": "2026-10-09",
  "rotulo": "Sexta-feira · 9 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -224,7 +224,8 @@
        "h": "19:00",
        "j": "PSV Eindhoven vence o Heerenveen",
        "m": "Resultado final",
-       "o": "1,22"
+       "o": "1,22",
+       "comp": "Eredivisie"
       }
      ]
     },
@@ -239,13 +240,15 @@
        "h": "01:30",
        "j": "Palmeiras vence o Bahia",
        "m": "Resultado final",
-       "o": "1,51"
+       "o": "1,51",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "19:00",
        "j": "PSV Eindhoven vence o Heerenveen",
        "m": "Resultado final",
-       "o": "1,22"
+       "o": "1,22",
+       "comp": "Eredivisie"
       }
      ]
     },
@@ -260,25 +263,29 @@
        "h": "19:00",
        "j": "PSV Eindhoven vence o Heerenveen",
        "m": "Resultado final",
-       "o": "1,22"
+       "o": "1,22",
+       "comp": "Eredivisie"
       },
       {
        "h": "19:30",
        "j": "Dortmund vence o Werder Bremen",
        "m": "Resultado final",
-       "o": "1,28"
+       "o": "1,28",
+       "comp": "Bundesliga"
       },
       {
        "h": "19:45",
        "j": "Lens–Lyon",
        "m": "Mais de 1,5 golos",
-       "o": "1,11"
+       "o": "1,11",
+       "comp": "Ligue 1"
       },
       {
        "h": "20:15",
        "j": "Braga–Sporting",
        "m": "Dupla hipótese: Sporting ou empate",
-       "o": "1,32"
+       "o": "1,32",
+       "comp": "Liga Portugal Betclic"
       }
      ]
     },
@@ -294,28 +301,32 @@
        "d": "SÁB",
        "j": "Bayern Munique vence o Augsburgo",
        "m": "Resultado final",
-       "o": "1,16"
+       "o": "1,16",
+       "comp": "Bundesliga"
       },
       {
        "h": "17:30",
        "d": "SÁB",
        "j": "Barcelona vence o Getafe",
        "m": "Resultado final",
-       "o": "1,07"
+       "o": "1,07",
+       "comp": "La Liga"
       },
       {
        "h": "20:00",
        "d": "SÁB",
        "j": "Real Madrid vence o Villarreal",
        "m": "Resultado final",
-       "o": "1,35"
+       "o": "1,35",
+       "comp": "La Liga"
       },
       {
        "h": "18:00",
        "d": "DOM",
        "j": "Benfica vence o Vitória SC",
        "m": "Resultado final",
-       "o": "1,22"
+       "o": "1,22",
+       "comp": "Liga Portugal Betclic"
       }
      ]
     }
@@ -338,7 +349,8 @@
        "m": "Resultado final",
        "o": "1,70",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     },
@@ -355,13 +367,15 @@
        "m": "Resultado final",
        "o": "1,70",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "23:30",
        "j": "Flamengo vence o Santos",
        "m": "Resultado final",
-       "o": "1,79"
+       "o": "1,79",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     },
@@ -378,7 +392,8 @@
        "m": "Resultado final",
        "o": "2,13",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "01:30",
@@ -386,13 +401,15 @@
        "m": "Resultado final",
        "o": "1,70",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "23:30",
        "j": "Flamengo vence o Santos",
        "m": "Resultado final",
-       "o": "1,79"
+       "o": "1,79",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     },
@@ -408,21 +425,24 @@
        "d": "SEX",
        "j": "Fluminense vence o Coritiba",
        "m": "Resultado final",
-       "o": "1,46"
+       "o": "1,46",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "01:30",
        "d": "SEX",
        "j": "Palmeiras vence o Bahia",
        "m": "Resultado final",
-       "o": "1,51"
+       "o": "1,51",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "18:00",
        "d": "SÁB",
        "j": "Toronto FC vence o CF Montreal",
        "m": "Resultado final",
-       "o": "1,83"
+       "o": "1,83",
+       "comp": "MLS"
       }
      ]
     }
@@ -445,7 +465,8 @@
        "m": "Resultado final",
        "o": "1,62",
        "r": "ok",
-       "x": "4-0"
+       "x": "4-0",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     },
@@ -462,7 +483,8 @@
        "m": "Resultado final",
        "o": "1,77",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "00:00",
@@ -470,7 +492,8 @@
        "m": "Resultado final",
        "o": "1,62",
        "r": "ok",
-       "x": "4-0"
+       "x": "4-0",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     },
@@ -487,7 +510,8 @@
        "m": "Resultado final",
        "o": "2,85",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "01:30",
@@ -495,7 +519,8 @@
        "m": "Resultado final",
        "o": "1,86",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "01:30",
@@ -503,7 +528,8 @@
        "m": "Resultado final",
        "o": "2,15",
        "r": "no",
-       "x": "Chicago Fire 3-1 Vancouver Whitecaps"
+       "x": "Chicago Fire 3-1 Vancouver Whitecaps",
+       "comp": "MLS"
       }
      ]
     },
@@ -519,21 +545,24 @@
        "d": "QUI",
        "j": "Flamengo vence o Santos",
        "m": "Resultado final",
-       "o": "1,79"
+       "o": "1,79",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "23:30",
        "d": "SEX",
        "j": "Boca Juniors vence o Instituto AC Córdoba",
        "m": "Resultado final",
-       "o": "2,30"
+       "o": "2,30",
+       "comp": "Primeira Liga (Argentina)"
       },
       {
        "h": "18:00",
        "d": "SÁB",
        "j": "Toronto FC vence o CF Montreal",
        "m": "Resultado final",
-       "o": "1,83"
+       "o": "1,83",
+       "comp": "MLS"
       }
      ]
     }
@@ -556,7 +585,8 @@
        "m": "Resultado final",
        "o": "1,23",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -573,7 +603,8 @@
        "m": "Resultado final",
        "o": "1,36",
        "r": "ok",
-       "x": "0-4"
+       "x": "0-4",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -581,7 +612,8 @@
        "m": "Resultado final",
        "o": "1,53",
        "r": "no",
-       "x": "0-0"
+       "x": "0-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -589,7 +621,8 @@
        "m": "Resultado final",
        "o": "1,09",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -606,7 +639,8 @@
        "m": "Resultado final",
        "o": "1,82",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Primeira Liga (Argentina)"
       },
       {
        "h": "15:00",
@@ -614,7 +648,8 @@
        "m": "Resultado final",
        "o": "2,28",
        "r": "no",
-       "x": "2-2"
+       "x": "2-2",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -622,7 +657,8 @@
        "m": "Resultado final",
        "o": "1,97",
        "r": "no",
-       "x": "0-0"
+       "x": "0-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -640,7 +676,8 @@
        "m": "Resultado final",
        "o": "1,77",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "01:30",
@@ -649,21 +686,24 @@
        "m": "Resultado final",
        "o": "1,79",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "01:30",
        "d": "SEX",
        "j": "Palmeiras vence a Bahia",
        "m": "Resultado final",
-       "o": "1,47"
+       "o": "1,47",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "18:00",
        "d": "SÁB",
        "j": "Toronto FC vence o CF Montreal",
        "m": "Resultado final",
-       "o": "1,83"
+       "o": "1,83",
+       "comp": "MLS"
       }
      ]
     }
@@ -686,7 +726,8 @@
        "m": "Resultado final",
        "o": "1,64",
        "r": "no",
-       "x": "0-0"
+       "x": "0-0",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -703,7 +744,8 @@
        "m": "Resultado final",
        "o": "1,58",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "11:30",
@@ -711,7 +753,8 @@
        "m": "Resultado final",
        "o": "1,20",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -727,7 +770,8 @@
        "j": "Racing Club vence o Estudiantes Rio Cuarto",
        "m": "Resultado final",
        "o": "1,98",
-       "r": "ok"
+       "r": "ok",
+       "comp": "Primeira Liga (Argentina)"
       },
       {
        "h": "02:15",
@@ -735,7 +779,8 @@
        "m": "Resultado final",
        "o": "2,03",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Primeira Liga (Colômbia)"
       },
       {
        "h": "16:00",
@@ -743,7 +788,8 @@
        "m": "Resultado final",
        "o": "3,53",
        "r": "ok",
-       "x": "2-3"
+       "x": "2-3",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "19:45",
@@ -751,7 +797,8 @@
        "m": "Resultado final",
        "o": "2,72",
        "r": "no",
-       "x": "2-2"
+       "x": "2-2",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -769,7 +816,8 @@
        "m": "Resultado final",
        "o": "1,38",
        "r": "ok",
-       "x": "3-1"
+       "x": "3-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -778,7 +826,8 @@
        "m": "Resultado final",
        "o": "1,12",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "02:20",
@@ -786,14 +835,16 @@
        "j": "Atlético Nacional vence o Deportes Tolima",
        "m": "Resultado final",
        "o": "1,51",
-       "r": "adiado"
+       "r": "adiado",
+       "comp": "Primeira Liga (Colômbia)"
       },
       {
        "h": "01:30",
        "d": "SEX",
        "j": "Palmeiras vence o Bahia",
        "m": "Resultado final",
-       "o": "1,49"
+       "o": "1,49",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     }
@@ -816,7 +867,8 @@
        "m": "Resultado final",
        "o": "1,14",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -833,7 +885,8 @@
        "m": "Resultado final",
        "o": "1,14",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -841,7 +894,8 @@
        "m": "Resultado final",
        "o": "1,60",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -858,7 +912,8 @@
        "m": "Resultado final",
        "o": "2,10",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -866,7 +921,8 @@
        "m": "Resultado final",
        "o": "1,93",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "22:05",
@@ -874,7 +930,8 @@
        "m": "Resultado final",
        "o": "1,63",
        "r": "ok",
-       "x": "4-0"
+       "x": "4-0",
+       "comp": "Primeira Liga (Colômbia)"
       },
       {
        "h": "23:30",
@@ -882,7 +939,8 @@
        "m": "Resultado final",
        "o": "1,83",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Primeira Liga (Uruguai)"
       }
      ]
     },
@@ -900,7 +958,8 @@
        "m": "Resultado final",
        "o": "1,49",
        "r": "ok",
-       "x": "4-1"
+       "x": "4-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "23:30",
@@ -909,7 +968,8 @@
        "m": "Resultado final",
        "o": "1,98",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Primeira Liga (Brasil)"
       },
       {
        "h": "02:20",
@@ -917,14 +977,16 @@
        "j": "Atlético Nacional vence o Deportes Tolima",
        "m": "Resultado final",
        "o": "1,46",
-       "r": "adiado"
+       "r": "adiado",
+       "comp": "Primeira Liga (Colômbia)"
       },
       {
        "h": "23:30",
        "d": "QUI",
        "j": "Flamengo vence o Santos",
        "m": "Resultado final",
-       "o": "1,74"
+       "o": "1,74",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     }
@@ -947,7 +1009,8 @@
        "m": "Resultado final",
        "o": "1,05",
        "r": "ok",
-       "x": "3-1"
+       "x": "3-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -964,7 +1027,8 @@
        "m": "Resultado final",
        "o": "1,52",
        "r": "ok",
-       "x": "3-2"
+       "x": "3-2",
+       "comp": "Primeira Liga (Uruguai)"
       },
       {
        "h": "17:00",
@@ -972,7 +1036,8 @@
        "m": "Resultado final",
        "o": "1,06",
        "r": "ok",
-       "x": "4-0"
+       "x": "4-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -980,7 +1045,8 @@
        "m": "Resultado final",
        "o": "1,28",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -997,7 +1063,8 @@
        "m": "Resultado final",
        "o": "1,75",
        "r": "ok",
-       "x": "7-0"
+       "x": "7-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1005,7 +1072,8 @@
        "m": "Resultado final",
        "o": "1,72",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "22:00",
@@ -1013,7 +1081,8 @@
        "m": "Resultado final",
        "o": "1,47",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Primeira Liga (Uruguai)"
       }
      ]
     },
@@ -1031,7 +1100,8 @@
        "m": "Resultado final",
        "o": "1,10",
        "r": "ok",
-       "x": "7-0"
+       "x": "7-0",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "17:00",
@@ -1040,7 +1110,8 @@
        "m": "Resultado final",
        "o": "2,05",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "18:45",
@@ -1049,7 +1120,8 @@
        "m": "Resultado final",
        "o": "1,63",
        "r": "no",
-       "x": "0-2"
+       "x": "0-2",
+       "comp": "Primeira Liga (Argentina)"
       },
       {
        "h": "19:00",
@@ -1058,7 +1130,8 @@
        "m": "Resultado final",
        "o": "1,67",
        "r": "no",
-       "x": "0-1"
+       "x": "0-1",
+       "comp": "Particular de Seleções"
       }
      ]
     }
@@ -1081,7 +1154,8 @@
        "m": "Resultado final",
        "o": "1,52",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "MLS"
       }
      ]
     },
@@ -1099,7 +1173,8 @@
        "m": "Resultado final",
        "o": "1,36",
        "r": "ok",
-       "x": "3-1"
+       "x": "3-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "01:30",
@@ -1108,7 +1183,8 @@
        "m": "Resultado final",
        "o": "1,48",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Primeira Liga (Argentina)"
       },
       {
        "h": "18:45",
@@ -1117,7 +1193,8 @@
        "m": "Resultado final",
        "o": "1,57",
        "r": "no",
-       "x": "0-2"
+       "x": "0-2",
+       "comp": "Primeira Liga (Argentina)"
       },
       {
        "h": "00:10",
@@ -1126,7 +1203,8 @@
        "m": "Resultado final",
        "o": "1,79",
        "r": "ok",
-       "x": "3-1"
+       "x": "3-1",
+       "comp": "Primeira Liga (Colômbia)"
       }
      ]
     }
@@ -1149,7 +1227,8 @@
        "m": "Resultado final",
        "o": "1,34",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -1166,7 +1245,8 @@
        "m": "Resultado final",
        "o": "1,40",
        "r": "ok",
-       "x": "4-2"
+       "x": "4-2",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "02:00",
@@ -1174,7 +1254,8 @@
        "m": "Resultado final",
        "o": "1,34",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -1191,7 +1272,8 @@
        "m": "Resultado final",
        "o": "1,40",
        "r": "ok",
-       "x": "4-2"
+       "x": "4-2",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "02:00",
@@ -1199,7 +1281,8 @@
        "m": "Resultado final",
        "o": "1,34",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "05:00",
@@ -1207,7 +1290,8 @@
        "m": "Resultado final",
        "o": "2,35",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -1225,7 +1309,8 @@
        "m": "Resultado final",
        "o": "1,22",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "17:00",
@@ -1234,7 +1319,8 @@
        "m": "Resultado final",
        "o": "1,78",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "00:00",
@@ -1243,7 +1329,8 @@
        "m": "Resultado final",
        "o": "1,92",
        "r": "no",
-       "x": "1-2"
+       "x": "1-2",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     }
@@ -1266,7 +1353,8 @@
        "m": "Resultado final",
        "o": "1,17",
        "r": "ok",
-       "x": "4-1"
+       "x": "4-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1283,7 +1371,8 @@
        "m": "Resultado final",
        "o": "1,33",
        "r": "ok",
-       "x": "4-2"
+       "x": "4-2",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "19:45",
@@ -1291,7 +1380,8 @@
        "m": "Resultado final",
        "o": "1,23",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1299,7 +1389,8 @@
        "m": "Resultado final",
        "o": "1,29",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1316,7 +1407,8 @@
        "m": "Resultado final",
        "o": "2,10",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1324,7 +1416,8 @@
        "m": "Resultado final",
        "o": "1,81",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1332,7 +1425,8 @@
        "m": "Resultado final",
        "o": "1,64",
        "r": "no",
-       "x": "0-0"
+       "x": "0-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1350,7 +1444,8 @@
        "m": "Resultado final",
        "o": "1,44",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "11:10",
@@ -1359,7 +1454,8 @@
        "m": "Resultado final",
        "o": "1,78",
        "r": "no",
-       "x": "0-0"
+       "x": "0-0",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "02:30",
@@ -1368,7 +1464,8 @@
        "m": "Resultado final",
        "o": "1,39",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "MLS"
       },
       {
        "h": "00:00",
@@ -1377,7 +1474,8 @@
        "m": "Resultado final",
        "o": "1,92",
        "r": "no",
-       "x": "1-2"
+       "x": "1-2",
+       "comp": "Primeira Liga (Brasil)"
       }
      ]
     }
@@ -1400,7 +1498,8 @@
        "m": "Resultado final",
        "o": "1,24",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -1417,7 +1516,8 @@
        "m": "Resultado final",
        "o": "1,51",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga MX"
       },
       {
        "h": "11:25",
@@ -1425,7 +1525,8 @@
        "m": "Resultado final",
        "o": "1,24",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -1442,7 +1543,8 @@
        "m": "Resultado final",
        "o": "1,51",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga MX"
       },
       {
        "h": "04:10",
@@ -1450,7 +1552,8 @@
        "m": "Resultado final",
        "o": "1,98",
        "r": "ok",
-       "x": "4-2"
+       "x": "4-2",
+       "comp": "Liga MX"
       },
       {
        "h": "11:25",
@@ -1458,7 +1561,8 @@
        "m": "Resultado final",
        "o": "1,24",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -1476,7 +1580,8 @@
        "m": "Resultado final",
        "o": "1,27",
        "r": "ok",
-       "x": "4-2"
+       "x": "4-2",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "17:00",
@@ -1485,7 +1590,8 @@
        "m": "Resultado final",
        "o": "1,67",
        "r": "no",
-       "x": "0-0"
+       "x": "0-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "02:00",
@@ -1494,7 +1600,8 @@
        "m": "Resultado final",
        "o": "1,39",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "00:30",
@@ -1503,7 +1610,8 @@
        "m": "Resultado final",
        "o": "1,75",
        "r": "ok",
-       "x": "0-3"
+       "x": "0-3",
+       "comp": "MLS"
       }
      ]
     }
@@ -1526,7 +1634,8 @@
        "m": "Resultado final",
        "o": "1,26",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -1543,7 +1652,8 @@
        "m": "Resultado final",
        "o": "1,42",
        "r": "no",
-       "x": "0-0"
+       "x": "0-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "17:30",
@@ -1551,7 +1661,8 @@
        "m": "Resultado final",
        "o": "1,26",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "19:45",
@@ -1559,7 +1670,8 @@
        "m": "Resultado final",
        "o": "1,35",
        "r": "no",
-       "x": "0-1"
+       "x": "0-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1576,7 +1688,8 @@
        "m": "Resultado final",
        "o": "1,50",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1584,7 +1697,8 @@
        "m": "Resultado final",
        "o": "2,55",
        "r": "no",
-       "x": "1-2"
+       "x": "1-2",
+       "comp": "Liga das Nações"
       },
       {
        "h": "21:30",
@@ -1592,7 +1706,8 @@
        "m": "Resultado final",
        "o": "1,43",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Particular de Seleções"
       }
      ]
     },
@@ -1610,7 +1725,8 @@
        "m": "Resultado final",
        "o": "1,29",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "12:00",
@@ -1619,7 +1735,8 @@
        "m": "Resultado final",
        "o": "2,23",
        "r": "no",
-       "x": "1-4"
+       "x": "1-4",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "17:00",
@@ -1628,7 +1745,8 @@
        "m": "Resultado final",
        "o": "2,37",
        "r": "ok",
-       "x": "2-3"
+       "x": "2-3",
+       "comp": "Liga das Nações"
       }
      ]
     }
@@ -1651,7 +1769,8 @@
        "m": "Resultado final",
        "o": "1,12",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1668,7 +1787,8 @@
        "m": "Resultado final",
        "o": "1,06",
        "r": "ok",
-       "x": "0-6"
+       "x": "0-6",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1676,7 +1796,8 @@
        "m": "Resultado final",
        "o": "1,12",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1684,7 +1805,8 @@
        "m": "Resultado final",
        "o": "1,36",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1701,7 +1823,8 @@
        "m": "Resultado final",
        "o": "2,13",
        "r": "no",
-       "x": "1-2"
+       "x": "1-2",
+       "comp": "Liga das Nações"
       },
       {
        "h": "17:00",
@@ -1709,7 +1832,8 @@
        "m": "Resultado final",
        "o": "2,20",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1717,7 +1841,8 @@
        "m": "Resultado final",
        "o": "2,02",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1725,7 +1850,8 @@
        "m": "Resultado final",
        "o": "2,17",
        "r": "ok",
-       "x": "3-2"
+       "x": "3-2",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1743,7 +1869,8 @@
        "m": "Resultado final",
        "o": "1,33",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "11:25",
@@ -1752,7 +1879,8 @@
        "m": "Resultado final",
        "o": "1,27",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "12:00",
@@ -1761,7 +1889,8 @@
        "m": "Resultado final",
        "o": "2,20",
        "r": "no",
-       "x": "1-4"
+       "x": "1-4",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "11:00",
@@ -1770,7 +1899,8 @@
        "m": "Resultado final",
        "o": "1,34",
        "r": "ok",
-       "x": "4-2"
+       "x": "4-2",
+       "comp": "Particular de Seleções"
       }
      ]
     }
@@ -1793,7 +1923,8 @@
        "m": "Resultado final",
        "o": "1,35",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1810,7 +1941,8 @@
        "m": "Resultado final",
        "o": "1,35",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1818,7 +1950,8 @@
        "m": "Resultado final",
        "o": "1,66",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1835,7 +1968,8 @@
        "m": "Resultado final",
        "o": "1,77",
        "r": "no",
-       "x": "0-1"
+       "x": "0-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1843,7 +1977,8 @@
        "m": "Resultado final",
        "o": "1,42",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1851,7 +1986,8 @@
        "m": "Resultado final",
        "o": "2,12",
        "r": "no",
-       "x": "0-2"
+       "x": "0-2",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1859,7 +1995,8 @@
        "m": "Resultado final",
        "o": "2,30",
        "r": "no",
-       "x": "0-1"
+       "x": "0-1",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1877,7 +2014,8 @@
        "m": "Resultado final",
        "o": "1,07",
        "r": "ok",
-       "x": "0-6"
+       "x": "0-6",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1886,7 +2024,8 @@
        "m": "Resultado final",
        "o": "2,17",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "15:00",
@@ -1895,7 +2034,8 @@
        "m": "Resultado final",
        "o": "1,32",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       }
      ]
     }
@@ -1918,7 +2058,8 @@
        "m": "Resultado final",
        "o": "1,19",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1935,7 +2076,8 @@
        "m": "Resultado final",
        "o": "1,19",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1943,7 +2085,8 @@
        "m": "Resultado final",
        "o": "1,26",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1951,7 +2094,8 @@
        "m": "Resultado final",
        "o": "1,65",
        "r": "ok",
-       "x": "3-2"
+       "x": "3-2",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -1968,7 +2112,8 @@
        "m": "Resultado final",
        "o": "1,78",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "17:00",
@@ -1976,7 +2121,8 @@
        "m": "Resultado final",
        "o": "2,23",
        "r": "ok",
-       "x": "1-2"
+       "x": "1-2",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1984,7 +2130,8 @@
        "m": "Resultado final",
        "o": "2,25",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -1992,7 +2139,8 @@
        "m": "Resultado final",
        "o": "2,33",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       }
      ]
     },
@@ -2010,7 +2158,8 @@
        "m": "Resultado final",
        "o": "1,29",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "17:00",
@@ -2019,7 +2168,8 @@
        "m": "Resultado final",
        "o": "1,79",
        "r": "no",
-       "x": "0-1"
+       "x": "0-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "00:00",
@@ -2028,7 +2178,8 @@
        "m": "Resultado final",
        "o": "1,58",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Particular de Seleções"
       },
       {
        "h": "00:30",
@@ -2037,7 +2188,8 @@
        "m": "Resultado final",
        "o": "1,37",
        "r": "ok",
-       "x": "4-2"
+       "x": "4-2",
+       "comp": "MLS"
       }
      ]
     }
@@ -2061,7 +2213,8 @@
        "m": "Resultado final",
        "o": "1,20",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -2070,7 +2223,8 @@
        "m": "Resultado final",
        "o": "1,27",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "17:00",
@@ -2079,7 +2233,8 @@
        "m": "Resultado final",
        "o": "1,76",
        "r": "no",
-       "x": "0-1"
+       "x": "0-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "00:00",
@@ -2088,7 +2243,8 @@
        "m": "Resultado final",
        "o": "1,64",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Particular de Seleções"
       }
      ]
     }
@@ -2111,7 +2267,8 @@
        "m": "Resultado final",
        "o": "1,04",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "UEFA Champions League Women"
       }
      ]
     },
@@ -2128,7 +2285,8 @@
        "m": "Resultado final",
        "o": "1,04",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "UEFA Champions League Women"
       },
       {
        "h": "20:00",
@@ -2136,7 +2294,8 @@
        "m": "Resultado final",
        "o": "1,68",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "UEFA Champions League Women"
       }
      ]
     },
@@ -2153,7 +2312,8 @@
        "m": "Resultado final",
        "o": "1,89",
        "r": "no",
-       "x": "2-2"
+       "x": "2-2",
+       "comp": "UEFA Champions League Women"
       },
       {
        "h": "17:45",
@@ -2161,7 +2321,8 @@
        "m": "Resultado final",
        "o": "2,08",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "UEFA Champions League Women"
       },
       {
        "h": "20:00",
@@ -2169,7 +2330,8 @@
        "m": "Resultado final",
        "o": "1,59",
        "r": "no",
-       "x": "1-2"
+       "x": "1-2",
+       "comp": "UEFA Champions League Women"
       }
      ]
     },
@@ -2187,7 +2349,8 @@
        "m": "Resultado final",
        "o": "1,20",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -2196,7 +2359,8 @@
        "m": "Resultado final",
        "o": "1,26",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -2205,7 +2369,8 @@
        "m": "Resultado final",
        "o": "1,38",
        "r": "ok",
-       "x": "3-1"
+       "x": "3-1",
+       "comp": "Liga das Nações"
       }
      ]
     }
@@ -2312,7 +2477,8 @@
        "m": "Resultado final",
        "o": "1,22",
        "r": "ok",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:45",
@@ -2321,7 +2487,8 @@
        "m": "Resultado final",
        "o": "1,32",
        "r": "ok",
-       "x": "3-1"
+       "x": "3-1",
+       "comp": "Liga das Nações"
       },
       {
        "h": "19:30",
@@ -2330,7 +2497,8 @@
        "m": "Resultado final",
        "o": "1,44",
        "r": "ok",
-       "x": "2-0"
+       "x": "2-0",
+       "comp": "La Liga"
       }
      ]
     }
@@ -2353,7 +2521,8 @@
        "m": "Resultado final",
        "o": "1,23",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Eredivisie"
       }
      ]
     },
@@ -2370,7 +2539,8 @@
        "m": "Resultado final",
        "o": "1,23",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Eredivisie"
       },
       {
        "h": "13:30",
@@ -2378,7 +2548,8 @@
        "m": "Resultado final",
        "o": "1,20",
        "r": "ok",
-       "x": "vitória do AZ"
+       "x": "vitória do AZ",
+       "comp": "Eredivisie"
       },
       {
        "h": "14:00",
@@ -2386,7 +2557,8 @@
        "m": "Resultado final",
        "o": "1,31",
        "r": "ok",
-       "x": "5-3"
+       "x": "5-3",
+       "comp": "Premier League"
       }
      ]
     },
@@ -2403,7 +2575,8 @@
        "m": "Resultado final",
        "o": "1,66",
        "r": "no",
-       "x": "0-0"
+       "x": "0-0",
+       "comp": "Premier League"
       },
       {
        "h": "14:00",
@@ -2419,7 +2592,8 @@
        "m": "Resultado final",
        "o": "1,48",
        "r": "no",
-       "x": "1-1"
+       "x": "1-1",
+       "comp": "La Liga"
       },
       {
        "h": "19:45",
@@ -2450,7 +2624,8 @@
        "m": "Resultado final",
        "o": "1,18",
        "r": "no",
-       "x": "2-2"
+       "x": "2-2",
+       "comp": "Liga Portugal Betclic"
       }
      ]
     },
@@ -2467,7 +2642,8 @@
        "m": "Resultado final",
        "o": "1,59",
        "r": "no",
-       "x": "0-1"
+       "x": "0-1",
+       "comp": "Premier League"
       },
       {
        "h": "20:30",
@@ -2475,7 +2651,8 @@
        "m": "Resultado final",
        "o": "1,18",
        "r": "no",
-       "x": "2-2"
+       "x": "2-2",
+       "comp": "Liga Portugal Betclic"
       }
      ]
     },
@@ -2492,7 +2669,8 @@
        "m": "Ambas marcam",
        "o": "1,59",
        "r": "no",
-       "x": "1-0"
+       "x": "1-0",
+       "comp": "Premier League"
       },
       {
        "h": "15:00",
@@ -2500,7 +2678,8 @@
        "m": "Ambas marcam",
        "o": "1,56",
        "r": "ok",
-       "x": "2-1"
+       "x": "2-1",
+       "comp": "Premier League"
       },
       {
        "h": "17:30",
@@ -2508,7 +2687,8 @@
        "m": "Resultado final",
        "o": "1,59",
        "r": "no",
-       "x": "0-1"
+       "x": "0-1",
+       "comp": "Premier League"
       },
       {
        "h": "20:30",
@@ -2516,7 +2696,8 @@
        "m": "Mais de 2,5 golos",
        "o": "1,30",
        "r": "ok",
-       "x": "2-2"
+       "x": "2-2",
+       "comp": "Liga Portugal Betclic"
       }
      ]
     },
@@ -2534,7 +2715,8 @@
        "m": "Resultado final",
        "o": "1,23",
        "r": "ok",
-       "x": "3-0"
+       "x": "3-0",
+       "comp": "Eredivisie"
       },
       {
        "h": "13:30",
@@ -2543,7 +2725,8 @@
        "m": "Resultado final",
        "o": "1,20",
        "r": "ok",
-       "x": "vitória do AZ"
+       "x": "vitória do AZ",
+       "comp": "Eredivisie"
       },
       {
        "h": "14:00",
@@ -2552,7 +2735,8 @@
        "m": "Resultado final",
        "o": "1,26",
        "r": "ok",
-       "x": "5-3"
+       "x": "5-3",
+       "comp": "Premier League"
       },
       {
        "h": "19:45",
@@ -2787,233 +2971,5 @@
     "pend": 0
    }
   ]
- },
- "banca": {
-  "aposta": 1,
-  "apostado": 64,
-  "recebido": 50.55,
-  "saldo": -13.45,
-  "retorno": -21.0,
-  "decididos": 64,
-  "ganhos": 28,
-  "em_jogo": 8,
-  "devolvidos": 2,
-  "tipos": [
-   {
-    "nome": "Aposta simples segura",
-    "dec": 18,
-    "ganhos": 14,
-    "recebido": 17.86,
-    "apostado": 18,
-    "saldo": -0.14
-   },
-   {
-    "nome": "Múltipla segura",
-    "dec": 16,
-    "ganhos": 9,
-    "recebido": 17.86,
-    "apostado": 16,
-    "saldo": 1.86
-   },
-   {
-    "nome": "Múltipla arriscada",
-    "dec": 16,
-    "ganhos": 2,
-    "recebido": 8.13,
-    "apostado": 16,
-    "saldo": -7.87
-   },
-   {
-    "nome": "Múltipla dos próximos dias",
-    "dec": 14,
-    "ganhos": 3,
-    "recebido": 6.7,
-    "apostado": 14,
-    "saldo": -7.3
-   }
-  ],
-  "dias": [
-   {
-    "dia": "2026-09-19",
-    "nome": "Sábado, 19 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 2.29,
-    "saldo": -1.71,
-    "banca": -1.71
-   },
-   {
-    "dia": "2026-09-20",
-    "nome": "Domingo, 20 de setembro",
-    "dec": 3,
-    "apostado": 3,
-    "recebido": 3.16,
-    "saldo": 0.16,
-    "banca": -1.55
-   },
-   {
-    "dia": "2026-09-21",
-    "nome": "Segunda-feira, 21 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 2.32,
-    "saldo": -1.68,
-    "banca": -3.23
-   },
-   {
-    "dia": "2026-09-22",
-    "nome": "Terça-feira, 22 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 4.88,
-    "saldo": 0.88,
-    "banca": -2.35
-   },
-   {
-    "dia": "2026-09-23",
-    "nome": "Quarta-feira, 23 de setembro",
-    "dec": 1,
-    "apostado": 1,
-    "recebido": 0.0,
-    "saldo": -1.0,
-    "banca": -3.35
-   },
-   {
-    "dia": "2026-09-24",
-    "nome": "Quinta-feira, 24 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 3.66,
-    "saldo": -0.34,
-    "banca": -3.69
-   },
-   {
-    "dia": "2026-09-25",
-    "nome": "Sexta-feira, 25 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 3.59,
-    "saldo": -0.41,
-    "banca": -4.1
-   },
-   {
-    "dia": "2026-09-26",
-    "nome": "Sábado, 26 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 2.73,
-    "saldo": -1.27,
-    "banca": -5.37
-   },
-   {
-    "dia": "2026-09-27",
-    "nome": "Domingo, 27 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 1.26,
-    "saldo": -2.74,
-    "banca": -8.11
-   },
-   {
-    "dia": "2026-09-28",
-    "nome": "Segunda-feira, 28 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 6.82,
-    "saldo": 2.82,
-    "banca": -5.29
-   },
-   {
-    "dia": "2026-09-29",
-    "nome": "Terça-feira, 29 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 3.28,
-    "saldo": -0.72,
-    "banca": -6.01
-   },
-   {
-    "dia": "2026-09-30",
-    "nome": "Quarta-feira, 30 de setembro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 0.0,
-    "saldo": -4.0,
-    "banca": -10.01
-   },
-   {
-    "dia": "2026-10-02",
-    "nome": "Sexta-feira, 2 de outubro",
-    "dec": 2,
-    "apostado": 2,
-    "recebido": 1.52,
-    "saldo": -0.48,
-    "banca": -10.49
-   },
-   {
-    "dia": "2026-10-03",
-    "nome": "Sábado, 3 de outubro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 7.53,
-    "saldo": 3.53,
-    "banca": -6.96
-   },
-   {
-    "dia": "2026-10-04",
-    "nome": "Domingo, 4 de outubro",
-    "dec": 3,
-    "apostado": 3,
-    "recebido": 2.96,
-    "saldo": -0.04,
-    "banca": -7.0
-   },
-   {
-    "dia": "2026-10-05",
-    "nome": "Segunda-feira, 5 de outubro",
-    "dec": 3,
-    "apostado": 3,
-    "recebido": 0.0,
-    "saldo": -3.0,
-    "banca": -10.0
-   },
-   {
-    "dia": "2026-10-06",
-    "nome": "Terça-feira, 6 de outubro",
-    "dec": 4,
-    "apostado": 4,
-    "recebido": 1.23,
-    "saldo": -2.77,
-    "banca": -12.77
-   },
-   {
-    "dia": "2026-10-07",
-    "nome": "Quarta-feira, 7 de outubro",
-    "dec": 3,
-    "apostado": 3,
-    "recebido": 1.62,
-    "saldo": -1.38,
-    "banca": -14.15
-   },
-   {
-    "dia": "2026-10-08",
-    "nome": "Quinta-feira, 8 de outubro",
-    "dec": 1,
-    "apostado": 1,
-    "recebido": 1.7,
-    "saldo": 0.7,
-    "banca": -13.45
-   },
-   {
-    "dia": "2026-10-09",
-    "nome": "Sexta-feira, 9 de outubro",
-    "dec": 0,
-    "apostado": 0,
-    "recebido": 0,
-    "saldo": 0,
-    "banca": -13.45
-   }
-  ],
-  "grafico": "<figure class=\"gb\" data-pts=\"[[0.0, 8.0, &quot;Início&quot;, &quot;0,00 €&quot;, &quot;&quot;], [5.0, 18.15, &quot;Sábado, 19 de setembro&quot;, &quot;−1,71 €&quot;, &quot;−1,71 €&quot;], [10.0, 17.2, &quot;Domingo, 20 de setembro&quot;, &quot;−1,55 €&quot;, &quot;+0,16 €&quot;], [15.0, 27.17, &quot;Segunda-feira, 21 de setembro&quot;, &quot;−3,23 €&quot;, &quot;−1,68 €&quot;], [20.0, 21.95, &quot;Terça-feira, 22 de setembro&quot;, &quot;−2,35 €&quot;, &quot;+0,88 €&quot;], [25.0, 27.89, &quot;Quarta-feira, 23 de setembro&quot;, &quot;−3,35 €&quot;, &quot;−1,00 €&quot;], [30.0, 29.91, &quot;Quinta-feira, 24 de setembro&quot;, &quot;−3,69 €&quot;, &quot;−0,34 €&quot;], [35.0, 32.34, &quot;Sexta-feira, 25 de setembro&quot;, &quot;−4,10 €&quot;, &quot;−0,41 €&quot;], [40.0, 39.88, &quot;Sábado, 26 de setembro&quot;, &quot;−5,37 €&quot;, &quot;−1,27 €&quot;], [45.0, 56.14, &quot;Domingo, 27 de setembro&quot;, &quot;−8,11 €&quot;, &quot;−2,74 €&quot;], [50.0, 39.4, &quot;Segunda-feira, 28 de setembro&quot;, &quot;−5,29 €&quot;, &quot;+2,82 €&quot;], [55.0, 43.68, &quot;Terça-feira, 29 de setembro&quot;, &quot;−6,01 €&quot;, &quot;−0,72 €&quot;], [60.0, 67.42, &quot;Quarta-feira, 30 de setembro&quot;, &quot;−10,01 €&quot;, &quot;−4,00 €&quot;], [65.0, 70.27, &quot;Sexta-feira, 2 de outubro&quot;, &quot;−10,49 €&quot;, &quot;−0,48 €&quot;], [70.0, 49.32, &quot;Sábado, 3 de outubro&quot;, &quot;−6,96 €&quot;, &quot;+3,53 €&quot;], [75.0, 49.55, &quot;Domingo, 4 de outubro&quot;, &quot;−7,00 €&quot;, &quot;−0,04 €&quot;], [80.0, 67.36, &quot;Segunda-feira, 5 de outubro&quot;, &quot;−10,00 €&quot;, &quot;−3,00 €&quot;], [85.0, 83.81, &quot;Terça-feira, 6 de outubro&quot;, &quot;−12,77 €&quot;, &quot;−2,77 €&quot;], [90.0, 92.0, &quot;Quarta-feira, 7 de outubro&quot;, &quot;−14,15 €&quot;, &quot;−1,38 €&quot;], [95.0, 87.84, &quot;Quinta-feira, 8 de outubro&quot;, &quot;−13,45 €&quot;, &quot;+0,70 €&quot;], [100.0, 87.84, &quot;Sexta-feira, 9 de outubro&quot;, &quot;−13,45 €&quot;, &quot;0,00 €&quot;]]\"><div class=\"gp\"><svg viewBox=\"0 0 100 100\" preserveAspectRatio=\"none\" aria-hidden=\"true\"><line class=\"g0\" x1=\"0\" x2=\"100\" y1=\"8.0\" y2=\"8.0\" vector-effect=\"non-scaling-stroke\"/><path class=\"gl\" d=\"M0.0 8.0 L5.0 18.15 L10.0 17.2 L15.0 27.17 L20.0 21.95 L25.0 27.89 L30.0 29.91 L35.0 32.34 L40.0 39.88 L45.0 56.14 L50.0 39.4 L55.0 43.68 L60.0 67.42 L65.0 70.27 L70.0 49.32 L75.0 49.55 L80.0 67.36 L85.0 83.81 L90.0 92.0 L95.0 87.84 L100.0 87.84\" vector-effect=\"non-scaling-stroke\"/></svg><span class=\"gz\" style=\"top:8.0%\">0 €</span><i class=\"gh\" hidden></i><i class=\"gd\" style=\"left:100.0%;top:87.84%\"></i><div class=\"gt\" hidden><small></small><b></b><span></span></div></div><figcaption><span>19 set</span><span>máx. 0,00 € · mín. −14,15 €</span><span>9 out</span></figcaption></figure>"
  }
 }

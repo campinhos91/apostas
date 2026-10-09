@@ -19,7 +19,8 @@ apostas-template/
   historico.json       histórico de boletins, dia a dia (gerado/atualizado automaticamente)
 docs/                  app (PWA), publicada como site estático (GitHub Pages)
   index.html            interface da app (lê docs/data/apostas.json)
-  data/apostas.json     dados do dia + histórico + estatísticas + banca, para a app
+  data/apostas.json     dados do dia + histórico + estatísticas, para a app
+  banca.js              separador Banca (simulação e filtros), partilhado com a página
   manifest.webmanifest, sw.js, icons/   instalação e funcionamento offline
 apostas-do-dia.html    cópia mais recente da página, atualizada a cada execução
 ```
@@ -97,20 +98,28 @@ conta previu 13% para a arriscada (ganhou 12%) e 23% para a dos próximos dias
 ### Histórico (`historico.json`)
 
 Uma lista de dias (`dia`, `rotulo`, `boletins`). Cada boletim guarda o texto,
-as pernas (hora, jogo, mercado, odd) e o estado (`pendente`, `ganho`,
+as pernas (hora, jogo, mercado, odd, competição) e o estado (`pendente`, `ganho`,
 `perdido`, `adiado`, `nao verificado`). Uma perna só fica registada quando o
 jogo termina (`--resultado`); o boletim fecha-se sozinho: falha uma perna e
 perde logo, todas certas e ganha. Nunca contém valores apostados.
 
 ### Banca
 
-O separador Banca simula 1 € em cada boletim (`APOSTA` em `gerar.py`): um
+O separador Banca simula 1 € em cada boletim (`APOSTA` em `docs/banca.js`): um
 boletim ganho devolve 1 € × a odd total publicada, um perdido perde 1 €. Mostra
-o saldo acumulado a partir de 0 €, o total apostado e recebido, o retorno em
-percentagem, a evolução dia a dia e as contas por tipo de boletim. Só contam os
-boletins decididos: os adiados devolvem a aposta e os pendentes ficam de fora.
-Cada boletim conta no dia em que foi publicado. É calculado a partir do
-`historico.json`, que continua sem guardar valores.
+o saldo acumulado a partir de 0 €, o retorno, a percentagem de acerto, a
+evolução dia a dia e as contas por tipo de boletim, odd total, número de pernas,
+competição, mercado e dia.
+
+Tudo se recalcula no browser conforme os filtros: período (tudo, 7, 14 ou 30
+dias a contar do último dia com boletins), tipo de boletim, faixa de odd total,
+número de pernas, competição e mercado. Os filtros de competição e de mercado
+apanham os boletins com pelo menos uma perna dessa competição ou mercado.
+
+Só contam os boletins decididos: os adiados devolvem a aposta e os pendentes
+ficam de fora. Cada boletim conta no dia em que foi publicado. É calculado a
+partir do `historico.json`, que continua sem guardar valores. `docs/banca.js` é
+o mesmo código na app e na página: a app carrega-o e o `gerar.py` embute-o.
 
 ## A página
 

@@ -1,6 +1,6 @@
 /* Service worker: a casca da app fica em cache (abre offline); os dados vão sempre à rede primeiro. */
-const V = "apostas-v3";
-const CASCA = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
+const V = "apostas-v4";
+const CASCA = ["./", "index.html", "banca.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener("install", e => { e.waitUntil(caches.open(V).then(c => c.addAll(CASCA)).then(() => self.skipWaiting())); });
 self.addEventListener("activate", e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== V).map(k => caches.delete(k)))).then(() => self.clients.claim()));
