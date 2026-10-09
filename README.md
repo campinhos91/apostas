@@ -11,6 +11,8 @@ escrito à mão.
 ```
 apostas-template/
   gerar.py            script gerador: página e dados da app
+  epocas.py           resultados de épocas passadas: estatísticas por jogo e probabilidade dos boletins
+  epocas/             dados descarregados por epocas.py (clubes.csv, selecoes.csv) e alias.json
   bilhetes.html        <head>/CSS de referência da página + um exemplo estático
   dados_atual.json     cópia do último dados.json usado (gerada automaticamente)
   dados_exemplo.json   exemplo de dados.json para testes
@@ -56,10 +58,41 @@ completo e comentado — data, título, boletins de hoje/próximos dias, o que
 ficou de fora, a previsão de amanhã e o resumo de "ontem". `dados_exemplo.json`
 é um exemplo completo e válido.
 
-Na múltipla arriscada (t3), como uma perna falhada perde o boletim todo,
-preferir variar o mercado em vez de encadear só "Resultado final": "Dupla
-hipótese", "Empate anula a aposta", "Ambas marcam" ou "Mais/Menos de X,5
-golos" reduzem o risco de uma perna sem baixar muito a odd total.
+A múltipla arriscada (t3) e a dos próximos dias (t4) têm de ter pelo menos 25%
+e 30% de probabilidade histórica de acertar (`PROB_MIN` em `gerar.py`, que
+emite um AVISO quando falha). Como uma perna falhada perde o boletim todo,
+variar o mercado em vez de encadear só "Resultado final": "Dupla hipótese: X ou
+empate", "Mais de 1,5 golos", "Mais de 2,5 golos" ou "Ambas marcam".
+
+## `epocas.py`: épocas passadas
+
+```
+python3 epocas.py "Casa - Fora" ["Casa - Fora" ...] [--comp "Competição"] [--neutro] [--json]
+python3 epocas.py --boletim dados.json    # probabilidade de cada boletim acertar
+python3 epocas.py --atualizar             # descarrega os resultados mais recentes
+python3 epocas.py --avaliar               # mede o acerto do modelo contra as odds de fecho
+python3 epocas.py --equipas TEXTO         # nomes das equipas tal como estão nos dados
+```
+
+Para cada jogo (equipa da casa primeiro, como na Betclic) mostra o registo em
+casa e fora nas duas últimas épocas, a forma, o confronto direto e a
+probabilidade estimada de cada mercado, com a odd justa correspondente. Os
+dados vêm de football-data.co.uk (31 ligas de clubes, 4 épocas, com odds de
+fecho) e de github.com/martj42/international_results (seleções, 12 anos).
+Não cobre Colômbia, Uruguai, futebol feminino, Sub-21 nem competições europeias
+de clubes: nesses casos responde "sem dados". Nomes em português que não
+coincidam com os dos dados acrescentam-se em `epocas/alias.json`.
+
+O que os números valem (`--avaliar`, 9 mil jogos dos últimos 12 meses): a
+probabilidade do favorito está bem calibrada, mas as odds de fecho preveem
+melhor do que o modelo, e apostar onde o modelo "vê valor" perde dinheiro. Por
+isso o modelo serve para dar contexto e travar escolhas sem base, não para
+contrariar a odd. Os mercados de golos e "ambas marcam" são os menos fiáveis.
+
+`--boletim` usa outra medida, mais sólida: quantas vezes ganharam, em épocas
+passadas, seleções com a mesma odd. Nos primeiros 20 dias de histórico essa
+conta previu 13% para a arriscada (ganhou 12%) e 23% para a dos próximos dias
+(ganhou 21%): os boletins rendem o que a odd total deles diz.
 
 ### Histórico (`historico.json`)
 
@@ -103,6 +136,7 @@ página.
 ## Ficheiros gerados automaticamente
 
 `dados_atual.json`, `historico.json`, `apostas-do-dia.html` e
-`docs/data/apostas.json` são todos escritos por `gerar.py` — nunca editar à
-mão. `.bak`, `.lock` e `.tmp` (ficheiros de escrita atómica e de segurança do
+`docs/data/apostas.json` são todos escritos por `gerar.py`, e
+`epocas/clubes.csv` e `epocas/selecoes.csv` por `epocas.py --atualizar` — nunca
+editar à mão. `.bak`, `.lock` e `.tmp` (ficheiros de escrita atómica e de segurança do
 histórico) estão no `.gitignore`.

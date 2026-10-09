@@ -20,9 +20,10 @@ dados.json:
  "ontem": [{"t": "Aposta simples segura", "e": "ganho|perdido|adiado|nao verificado", "d": "Sporting 3-0 Arouca"}],  ([] se não houver)
  "hoje": [ {"c":"t1","t":"Aposta simples segura","risco":"baixo","legs":[{"h":"20:30","j":"Sporting vence o Arouca","m":"Resultado final","o":"1,18"}]},
            {"c":"t2",...}, {"c":"t3",...,"extra":"falhar uma perde tudo"} ],
- t3 (múltipla arriscada): como uma perna falhada perde o boletim todo, preferir variar o mercado ("m") em vez de empilhar só
- "Resultado final" — usar "Dupla hipótese", "Empate anula a aposta", "Ambas marcam", "Mais/Menos de X,5 golos" ou "Handicap asiático"
- quando reduzem o risco de uma perna sem baixar demasiado a odd total (ver dados_exemplo.json para exemplos já usados).
+ t3 (múltipla arriscada) e t4: têm de ter pelo menos 25% e 30% de probabilidade histórica de acertar (PROB_MIN; confirma com
+ `epocas.py --boletim dados.json`). Como uma perna falhada perde o boletim todo, varia o mercado ("m") em vez de empilhar só
+ "Resultado final": "Dupla hipótese: X ou empate", "Mais de 1,5 golos", "Mais de 2,5 golos", "Ambas marcam". Nesses mercados
+ "j" é o jogo ("Casa–Fora") e não "X vence o Y" (ver dados_exemplo.json).
  "proximos": [ {"c":"t4","t":"Múltipla dos próximos dias","risco":"médio","legs":[{"h":"11:15","d":"DOM","j":"...","m":"...","o":"1,23"}]} ],
  "amanha": [{"h":"14:00","d":"DOM","j":"Manchester City vence o Sunderland","m":"Resultado final","o":"1,26","n":"nota curta com dados desta execução"}],  (previsão do dia seguinte, provisória; [] se não houver)
  "fora": [["Jogo (odd)","motivo"]]
@@ -49,6 +50,7 @@ MESES = {"janeiro": 1, "fevereiro": 2, "março": 3, "marco": 3, "abril": 4, "mai
 ESTADOS = {"pendente": ("n", "Pendente"), "ganho": ("g", "Ganho"), "perdido": ("p", "Perdido"), "adiado": ("n", "Adiado"), "nao verificado": ("n", "Não verificado"), "não verificado": ("n", "Não verificado")}
 COMP_AUTORIZADAS = os.path.join(BASE, "competicoes_autorizadas.json")
 ODD_REGEX = re.compile(r"\d+,\d{2}")
+PROB_MIN = {"t3": 0.25, "t4": 0.30}  # probabilidade histórica mínima de um boletim acertar (epocas.py)
 
 @lru_cache(maxsize=1)
 def carregar_competicoes():
@@ -105,6 +107,18 @@ def avisos(d):
         if not 2 <= t2_legs <= 3: out.append("t2 deve ter 2 ou 3 seleções")
         if num(total(hoje["t2"])) > 2.5: out.append("t2 passa de 2,5 de odd total")
     if "t3" in hoje and len(hoje["t3"]["legs"]) < 3: out.append("t3 deve ter 3 ou mais seleções")
+
+    # Probabilidade histórica: o que renderam odds iguais em épocas passadas
+    try:
+        import epocas
+        tabela = epocas.acerto_por_odd()
+    except Exception:
+        tabela = None
+    if tabela:
+        for b in d.get("hoje", []) + d.get("proximos", []):
+            p = reduce(lambda a, l: a * epocas.prob_odd(num(l["o"]), tabela), b["legs"], 1.0)
+            if p < PROB_MIN.get(b["c"], 0):
+                out.append(f"{b['c']}: probabilidade histórica de acertar {round(100 * p)}%, abaixo do mínimo de {round(100 * PROB_MIN[b['c']])}% (odd total {total(b)}): usa menos pernas ou seleções mais prováveis, como dupla hipótese")
 
     # Validações de boletins obrigatórios
     if not d.get("sem_boletins_motivo"):
