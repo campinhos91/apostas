@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,22",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: PSV Eindhoven vence o Heerenveen (2-0)",
     "legs": [
      {
       "h": "19:00",
       "j": "PSV Eindhoven vence o Heerenveen",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -23,8 +25,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,84",
-    "e": "pendente",
-    "d": "1 de 2 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Palmeiras vence o Bahia (1-0); PSV Eindhoven vence o Heerenveen (2-0)",
     "legs": [
      {
       "h": "01:30",
@@ -40,7 +42,9 @@
       "j": "PSV Eindhoven vence o Heerenveen",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -49,14 +53,16 @@
     "c": "t3",
     "total": "2,29",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "19:00",
       "j": "PSV Eindhoven vence o Heerenveen",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:30",
