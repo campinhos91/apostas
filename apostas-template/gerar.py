@@ -5,7 +5,7 @@ Uso:  python3 gerar.py dados.json [pasta_de_saida]
 - Lê bilhetes.html (na mesma pasta do script) só para aproveitar o <head> e o CSS da página.
 - Calcula as odds totais (produto das pernas, 2 casas, vírgula), os resumos e os rodapés: nunca escrever totais à mão.
 - Avisa (linhas "AVISO") se alguma regra dos boletins não se cumpre.
-- A página tem 3 separadores (Hoje, Histórico, Estatísticas). O histórico vive em historico.json (atualizado a cada execução,
+- A página tem 4 separadores (Hoje, Histórico, Estatísticas, Banca). O histórico vive em historico.json (atualizado a cada execução,
   sem duplicar); dados_atual.json guarda o dados.json do dia; cada execução copia a página para PASTA_COPIA.
 Modos auxiliares:
   gerar.py --pendentes                      pernas cujo jogo já devia ter acabado e ainda sem resultado (ignora as com mais de 3 dias)
@@ -310,7 +310,7 @@ HIST_CSS = """
 </style>
 """
 TAB_JS = """<script>
-(function(){var t=document.querySelectorAll('.tab'),K=['hoje','hist','est'],H={'#historico':'hist','#estatisticas':'est'},U={hist:'#historico',est:'#estatisticas'};
+(function(){var t=document.querySelectorAll('.tab'),K=['hoje','hist','est','ban'],H={'#historico':'hist','#estatisticas':'est','#banca':'ban'},U={hist:'#historico',est:'#estatisticas',ban:'#banca'};
 function show(k){for(var i=0;i<t.length;i++){t[i].setAttribute('aria-selected',t[i].dataset.p===k?'true':'false')}for(var j=0;j<K.length;j++){var e=document.getElementById('p-'+K[j]);if(e)e.hidden=K[j]!==k;}}
 function fromHash(){var h=location.hash;if(H[h]){show(H[h]);return}if(h.length>1){var el=document.getElementById(h.slice(1));if(el&&document.getElementById('p-hoje').contains(el)){show('hoje');el.scrollIntoView()}}}
 for(var i=0;i<t.length;i++)t[i].addEventListener('click',function(){var k=this.dataset.p;show(k);try{history.replaceState(null,'',U[k]||location.pathname+location.search)}catch(e){}});
@@ -363,7 +363,7 @@ def pag_est(h):
         dias.append(_linha(e["rotulo"].split(" de 20")[0].replace(" · ", ", ", 1), sum(b["e"] == "ganho" for b in d_), len(d_), f"{pend} por decidir" if pend else ""))
     media = f"odd média das pernas {fmt(sum(odds) / len(odds))}" if odds else ""
     amostra = (f"Amostra pequena: {len(pernas)} pernas decididas em {len(h)} dias{(' (' + media + ')') if media else ''}. "
-               "As percentagens só descrevem o que já aconteceu e não garantem nada sobre os próximos jogos. Sem valores nem contas de dinheiro.")
+               "As percentagens só descrevem o que já aconteceu e não garantem nada sobre os próximos jogos. As contas em euros estão no separador Banca.")
     return (chips + _bloco("Por tipo de boletim", tipos, "Um boletim só conta como decidido quando ganha ou perde; os pendentes ficam de fora.")
             + _bloco("Por mercado", mercs, "Conta cada jogo e mercado uma só vez, mesmo que apareça em vários boletins.")
             + _bloco("Por faixa de odd", fx) + _bloco("Por dia", dias) + f'<p class="note">{amostra}</p>')
@@ -381,6 +381,102 @@ EST_CSS = """
 @media(max-width:640px){.sr{grid-template-columns:minmax(0,1fr) 48px;padding:12px 16px}.sb{grid-column:1 / -1;grid-row:2}.sp{grid-row:1;grid-column:2}}
 </style>
 """
+
+# ---------------- banca (separador da página) ----------------
+APOSTA = 1  # euros por boletim na simulação
+TIPOS = (("t1", "Aposta simples segura"), ("t2", "Múltipla segura"), ("t3", "Múltipla arriscada"), ("t4", "Múltipla dos próximos dias"))
+def eur(x, sinal=False):
+    return ("+" if sinal and x > 0 else "−" if x < 0 else "") + f"{abs(x):.2f}".replace(".", ",") + " €"
+def banca(h):
+    """Simulação de APOSTA euros em cada boletim. Só contam os decididos; adiado devolve a aposta; pendentes ficam em jogo."""
+    if not h: return None
+    tipos = {c: {"nome": nome, "dec": 0, "ganhos": 0, "recebido": 0.0} for c, nome in TIPOS}
+    dias, acum, em_jogo, devolvidos = [], 0.0, 0, 0
+    for e in sorted(h, key=lambda x: x["dia"]):
+        n = rec = 0
+        for b in e["boletins"]:
+            if b["e"] == "adiado": devolvidos += 1; continue
+            if b["e"] not in ("ganho", "perdido"): em_jogo += 1; continue
+            g = round(APOSTA * num(b["total"]), 2) if b["e"] == "ganho" else 0.0
+            n += 1; rec += g
+            t = tipos.setdefault(b["c"], {"nome": b["t"], "dec": 0, "ganhos": 0, "recebido": 0.0})
+            t["dec"] += 1; t["ganhos"] += b["e"] == "ganho"; t["recebido"] += g
+        acum = round(acum + rec - n * APOSTA, 2)
+        dias.append({"dia": e["dia"], "nome": e["rotulo"].split(" de 20")[0].replace(" · ", ", ", 1), "dec": n, "apostado": n * APOSTA,
+                     "recebido": round(rec, 2), "saldo": round(rec - n * APOSTA, 2), "banca": acum})
+    apostado = sum(d["apostado"] for d in dias); recebido = round(sum(d["recebido"] for d in dias), 2)
+    ts = [{**t, "apostado": t["dec"] * APOSTA, "recebido": round(t["recebido"], 2), "saldo": round(t["recebido"] - t["dec"] * APOSTA, 2)} for t in tipos.values() if t["dec"]]
+    return {"aposta": APOSTA, "apostado": apostado, "recebido": recebido, "saldo": round(recebido - apostado, 2),
+            "retorno": round(100 * (recebido - apostado) / apostado, 1) if apostado else None, "decididos": sum(d["dec"] for d in dias),
+            "ganhos": sum(t["ganhos"] for t in ts), "em_jogo": em_jogo, "devolvidos": devolvidos, "tipos": ts, "dias": dias, "grafico": grafico_banca(dias)}
+def grafico_banca(dias):
+    """Linha da banca acumulada, dia a dia. A mesma marcação serve a página e a app."""
+    if len(dias) < 2: return ""
+    vals = [0.0] + [d["banca"] for d in dias]
+    lo, hi = min(vals), max(vals)
+    if hi == lo: hi = lo + 1
+    X = lambda i: round(100 * i / (len(vals) - 1), 2)
+    Y = lambda v: round(8 + 84 * (hi - v) / (hi - lo), 2)
+    pts = [[X(0), Y(0), "Início", eur(0), ""]] + [[X(i + 1), Y(d["banca"]), d["nome"], eur(d["banca"], True), eur(d["saldo"], True)] for i, d in enumerate(dias)]
+    path = "M" + " L".join(f"{x} {y}" for x, y, *_ in pts)
+    fim = pts[-1]
+    curto = lambda d: f'{int(d["dia"][8:])} {["jan", "fev", "mar", "abr", "mai", "jun", "jul", "ago", "set", "out", "nov", "dez"][int(d["dia"][5:7]) - 1]}'
+    return (f'<figure class="gb" data-pts="{json.dumps(pts, ensure_ascii=False).replace(chr(34), "&quot;")}">'
+            f'<div class="gp"><svg viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">'
+            f'<line class="g0" x1="0" x2="100" y1="{Y(0)}" y2="{Y(0)}" vector-effect="non-scaling-stroke"/>'
+            f'<path class="gl" d="{path}" vector-effect="non-scaling-stroke"/></svg>'
+            f'<span class="gz" style="top:{Y(0)}%">0 €</span><i class="gh" hidden></i><i class="gd" style="left:{fim[0]}%;top:{fim[1]}%"></i>'
+            f'<div class="gt" hidden><small></small><b></b><span></span></div></div>'
+            f'<figcaption><span>{curto(dias[0])}</span><span>máx. {eur(hi, True)} · mín. {eur(lo, True)}</span><span>{curto(dias[-1])}</span></figcaption></figure>')
+def _cor(x): return " lo" if x < 0 else "" if x > 0 else " z"
+def _mr(titulo, sub, valor):
+    return f'<div class="mr"><div class="sl"><b>{titulo}</b><small>{sub}</small></div><span class="sp{_cor(valor)}">{eur(valor, True)}</span></div>'
+def pag_banca(h):
+    b = banca(h)
+    if not b or not b["decididos"]: return '<p class="calm">Ainda não há boletins decididos para simular a banca.</p>'
+    um = eur(b["aposta"])
+    chips = (f'<div class="sum hs"><div class="{"p" if b["saldo"] < 0 else ""}"><small>Banca</small><b>{eur(b["saldo"], True)}</b></div>'
+             f'<div class="n"><small>Apostado</small><b>{eur(b["apostado"])}</b></div><div class="n"><small>Recebido</small><b>{eur(b["recebido"])}</b></div>'
+             f'<div class="{"p" if b["saldo"] < 0 else ""}"><small>Retorno</small><b>{("+" if b["retorno"] > 0 else "−" if b["retorno"] < 0 else "") + fmt(abs(b["retorno"]))[:-1]}%</b></div></div>')
+    graf = _bloco("Evolução da banca", [b["grafico"]], "Banca acumulada no fim de cada dia, a partir de 0 €. Cada boletim conta no dia em que foi publicado.") if b["grafico"] else ""
+    tipos = [_mr(t["nome"], f'{t["ganhos"]} {"ganho" if t["ganhos"] == 1 else "ganhos"} em {t["dec"]} · apostou {eur(t["apostado"])} · recebeu {eur(t["recebido"])}', t["saldo"]) for t in b["tipos"]]
+    dias = [_mr(d["nome"], (f'{d["dec"]} {"boletim decidido" if d["dec"] == 1 else "boletins decididos"} · recebeu {eur(d["recebido"])} · banca {eur(d["banca"], True)}' if d["dec"] else f'sem boletins decididos · banca {eur(d["banca"], True)}'), d["saldo"]) for d in reversed(b["dias"])]
+    fora = []
+    if b["em_jogo"]: fora.append(f'{b["em_jogo"]} {"boletim ainda por decidir" if b["em_jogo"] == 1 else "boletins ainda por decidir"}')
+    if b["devolvidos"]: fora.append(f'{b["devolvidos"]} {"adiado, com a aposta devolvida" if b["devolvidos"] == 1 else "adiados, com a aposta devolvida"}')
+    nota = (f'Simulação: {um} em cada boletim, com a odd total publicada. Um boletim ganho devolve {um} × a odd; um perdido perde {um}. '
+            + (f'Ficam de fora {" e ".join(fora)}. ' if fora else "") + "É uma conta sobre o que já aconteceu, não uma sugestão de quanto apostar.")
+    return (chips + graf + _bloco("Por tipo de boletim", tipos) + _bloco("Por dia", dias) + f'<p class="note">{nota}</p>')
+BANCA_CSS = """
+<style>
+.tab[data-p="ban"]{--ico:url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpath d="M3 7a2 2 0 0 1 2-2h13v4"/%3E%3Cpath d="M3 7v10a2 2 0 0 0 2 2h16V9H5a2 2 0 0 1-2-2z"/%3E%3Cpath d="M17 14h.01"/%3E%3C/svg%3E')}
+.mr{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 16px;align-items:center;padding:14px 20px;border-top:1px dashed var(--hair)}
+.mr:first-child{border-top:0}
+.mr .sp{white-space:nowrap}
+.sp.z{color:var(--soft)}
+.sum.hs b{white-space:nowrap}
+.gb{margin:0;padding:20px 20px 4px}
+.gp{position:relative;height:180px;touch-action:pan-y}
+.gp svg{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.gl{fill:none;stroke:var(--pitch);stroke-width:2;stroke-linejoin:round;stroke-linecap:round}
+.g0{stroke:var(--grey);stroke-width:1;stroke-dasharray:3 4}
+.gz{position:absolute;left:0;transform:translateY(-120%);font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:var(--soft)}
+.gd{position:absolute;width:10px;height:10px;margin:-5px 0 0 -5px;border-radius:50%;background:var(--pitch);box-shadow:0 0 0 2px var(--card)}
+.gh{position:absolute;top:0;bottom:0;width:1px;background:var(--grey)}
+.gt{position:absolute;top:0;z-index:2;background:var(--card);border:1px solid var(--hair);border-radius:10px;padding:6px 10px;box-shadow:var(--shadow);pointer-events:none;white-space:nowrap;display:flex;flex-direction:column;font-size:12px;color:var(--soft)}
+.gt b{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:15px;color:var(--ink)}
+.gb figcaption{display:flex;justify-content:space-between;gap:12px;margin-top:8px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:var(--soft)}
+@media(max-width:640px){.mr{padding:12px 16px}.gb{padding:16px 16px 4px}.gp{height:150px}.tabs .in{overflow-x:auto;scrollbar-width:none}.tab{white-space:nowrap}}
+@media(max-width:480px){.tab:before{display:none}.tab{padding:9px 9px 10px;font-size:14px}}
+</style>
+"""
+GRAFICO_JS = """<script>
+(function(){document.querySelectorAll('.gb').forEach(function(f){var P=JSON.parse(f.dataset.pts),g=f.querySelector('.gp'),h=g.querySelector('.gh'),d=g.querySelector('.gd'),t=g.querySelector('.gt'),u=P[P.length-1];
+function em(p,on){d.style.left=p[0]+'%';d.style.top=p[1]+'%';h.hidden=t.hidden=!on;if(!on)return;h.style.left=p[0]+'%';t.style.left=p[0]+'%';t.style.transform=p[0]>50?'translateX(calc(-100% - 10px))':'translateX(10px)';t.style.top=Math.min(Math.max(p[1]-20,0),58)+'%';
+t.children[0].textContent=p[2];t.children[1].textContent=p[3];t.children[2].textContent=p[4]?'no dia '+p[4]:'';}
+function mv(ev){var r=g.getBoundingClientRect(),x=100*(ev.clientX-r.left)/r.width,b=P[0];for(var i=1;i<P.length;i++)if(Math.abs(P[i][0]-x)<Math.abs(b[0]-x))b=P[i];em(b,true)}
+g.addEventListener('pointermove',mv);g.addEventListener('pointerdown',mv);g.addEventListener('pointerleave',function(){em(u,false)});});})();
+</script>"""
 
 # ---------------- página ----------------
 def pag_leg(l):
@@ -414,11 +510,11 @@ def pag_fora(d):
 def pagina(d, hist=None):
     src = open(TPL, encoding="utf-8").read()
     head = src[: src.index("</style>") + len("</style>")]
-    head = re.sub(r"<title>.*?</title>", "<title>Apostas do dia</title>", head, count=1) + HIST_CSS + EST_CSS
+    head = re.sub(r"<title>.*?</title>", "<title>Apostas do dia</title>", head, count=1) + HIST_CSS + EST_CSS + BANCA_CSS
     todos = d.get("hoje", []) + d.get("proximos", [])
     chips = "".join(f'<a href="#{b["c"]}"><small>{resumo_label(b["c"])}</small><b>{total(b)}</b></a>' if b["c"] != "t3" else f'<a class="w" href="#{b["c"]}"><small>{resumo_label(b["c"])}</small><b>{total(b)}</b></a>' for b in todos)
     body = f'\n<div class="top"><div class="in"><p class="date">{d["data"]}</p><h1>{d["titulo"]}</h1>' + (f'<div class="sum c{len(todos)}">{chips}</div>' if chips else "") + "</div></div>\n<div class=\"in\">\n"
-    body = body[: body.rindex('<div class="in">')] + '<div class="tabs"><div class="in" role="tablist" aria-label="Secções"><button class="tab" role="tab" id="tab-hoje" data-p="hoje" aria-selected="true">Hoje</button><button class="tab" role="tab" id="tab-hist" data-p="hist" aria-selected="false">Histórico</button><button class="tab" role="tab" id="tab-est" data-p="est" aria-selected="false">Estatísticas</button></div></div>\n<div class="in" id="p-hoje" role="tabpanel" aria-labelledby="tab-hoje">\n'
+    body = body[: body.rindex('<div class="in">')] + '<div class="tabs"><div class="in" role="tablist" aria-label="Secções"><button class="tab" role="tab" id="tab-hoje" data-p="hoje" aria-selected="true">Hoje</button><button class="tab" role="tab" id="tab-hist" data-p="hist" aria-selected="false">Histórico</button><button class="tab" role="tab" id="tab-est" data-p="est" aria-selected="false">Estatísticas</button><button class="tab" role="tab" id="tab-ban" data-p="ban" aria-selected="false">Banca</button></div></div>\n<div class="in" id="p-hoje" role="tabpanel" aria-labelledby="tab-hoje">\n'
     body += pag_ontem(d) + "\n"
     body += f'<div class="head"><h2>Apostas de hoje</h2><span class="src">Odds da <a href="{BETCLIC}">Betclic</a>, a confirmar</span></div>\n'
     if d.get("hoje"):
@@ -431,7 +527,7 @@ def pagina(d, hist=None):
     if d.get("proximos") or d.get("amanha") or d.get("pausa"):
         body += f'<div class="head next"><h2>Próximos dias</h2><span class="src">{d.get("pausa", "")}</span></div>\n<div class="grid one">{"".join(pag_card(b) for b in d.get("proximos", []))}{pag_amanha(d)}</div>\n'
     body += pag_fora(d) + f'\n<p class="note">{NOTA}</p>\n</div>\n'
-    body += f'<div class="in" id="p-hist" role="tabpanel" aria-labelledby="tab-hist" hidden>\n{pag_hist(hist if hist is not None else [])}\n</div>\n<div class="in" id="p-est" role="tabpanel" aria-labelledby="tab-est" hidden>\n{pag_est(hist if hist is not None else [])}\n</div>\n' + TAB_JS + "\n"
+    body += f'<div class="in" id="p-hist" role="tabpanel" aria-labelledby="tab-hist" hidden>\n{pag_hist(hist if hist is not None else [])}\n</div>\n<div class="in" id="p-est" role="tabpanel" aria-labelledby="tab-est" hidden>\n{pag_est(hist if hist is not None else [])}\n</div>\n<div class="in" id="p-ban" role="tabpanel" aria-labelledby="tab-ban" hidden>\n{pag_banca(hist if hist is not None else [])}\n</div>\n' + TAB_JS + GRAFICO_JS + "\n"
     return head + body
 
 # ---------------- app (PWA): dados em JSON ----------------
@@ -475,7 +571,7 @@ def exportar_app(d, hist):
     dados = {"atualizado": datetime.now().astimezone().isoformat(timespec="seconds"), "dia": data_iso(d), "rotulo": d["data"], "titulo": d.get("titulo", "Apostas de hoje"),
              "provisorio": bool(d.get("provisorio")), "aviso": d.get("aviso", ""), "pausa": d.get("pausa", ""),
              "ontem": d.get("ontem", []), "hoje": [boletim_app(b) for b in d.get("hoje", [])], "proximos": [boletim_app(b) for b in d.get("proximos", [])],
-             "amanha": d.get("amanha", []), "fora": d.get("fora", []), "historico": hist, "estatisticas": estatisticas(hist)}
+             "amanha": d.get("amanha", []), "fora": d.get("fora", []), "historico": hist, "estatisticas": estatisticas(hist), "banca": banca(hist)}
     os.makedirs(os.path.dirname(APP_DATA), exist_ok=True)
     tmp = APP_DATA + ".tmp"
     with open(tmp, "w", encoding="utf-8") as f: json.dump(dados, f, ensure_ascii=False, indent=1)

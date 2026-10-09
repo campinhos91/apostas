@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-09T05:34:53+01:00",
+ "atualizado": "2026-10-09T05:44:24+01:00",
  "dia": "2026-10-09",
  "rotulo": "Sexta-feira · 9 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -2787,5 +2787,233 @@
     "pend": 0
    }
   ]
+ },
+ "banca": {
+  "aposta": 1,
+  "apostado": 64,
+  "recebido": 50.55,
+  "saldo": -13.45,
+  "retorno": -21.0,
+  "decididos": 64,
+  "ganhos": 28,
+  "em_jogo": 8,
+  "devolvidos": 2,
+  "tipos": [
+   {
+    "nome": "Aposta simples segura",
+    "dec": 18,
+    "ganhos": 14,
+    "recebido": 17.86,
+    "apostado": 18,
+    "saldo": -0.14
+   },
+   {
+    "nome": "Múltipla segura",
+    "dec": 16,
+    "ganhos": 9,
+    "recebido": 17.86,
+    "apostado": 16,
+    "saldo": 1.86
+   },
+   {
+    "nome": "Múltipla arriscada",
+    "dec": 16,
+    "ganhos": 2,
+    "recebido": 8.13,
+    "apostado": 16,
+    "saldo": -7.87
+   },
+   {
+    "nome": "Múltipla dos próximos dias",
+    "dec": 14,
+    "ganhos": 3,
+    "recebido": 6.7,
+    "apostado": 14,
+    "saldo": -7.3
+   }
+  ],
+  "dias": [
+   {
+    "dia": "2026-09-19",
+    "nome": "Sábado, 19 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 2.29,
+    "saldo": -1.71,
+    "banca": -1.71
+   },
+   {
+    "dia": "2026-09-20",
+    "nome": "Domingo, 20 de setembro",
+    "dec": 3,
+    "apostado": 3,
+    "recebido": 3.16,
+    "saldo": 0.16,
+    "banca": -1.55
+   },
+   {
+    "dia": "2026-09-21",
+    "nome": "Segunda-feira, 21 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 2.32,
+    "saldo": -1.68,
+    "banca": -3.23
+   },
+   {
+    "dia": "2026-09-22",
+    "nome": "Terça-feira, 22 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 4.88,
+    "saldo": 0.88,
+    "banca": -2.35
+   },
+   {
+    "dia": "2026-09-23",
+    "nome": "Quarta-feira, 23 de setembro",
+    "dec": 1,
+    "apostado": 1,
+    "recebido": 0.0,
+    "saldo": -1.0,
+    "banca": -3.35
+   },
+   {
+    "dia": "2026-09-24",
+    "nome": "Quinta-feira, 24 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 3.66,
+    "saldo": -0.34,
+    "banca": -3.69
+   },
+   {
+    "dia": "2026-09-25",
+    "nome": "Sexta-feira, 25 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 3.59,
+    "saldo": -0.41,
+    "banca": -4.1
+   },
+   {
+    "dia": "2026-09-26",
+    "nome": "Sábado, 26 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 2.73,
+    "saldo": -1.27,
+    "banca": -5.37
+   },
+   {
+    "dia": "2026-09-27",
+    "nome": "Domingo, 27 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 1.26,
+    "saldo": -2.74,
+    "banca": -8.11
+   },
+   {
+    "dia": "2026-09-28",
+    "nome": "Segunda-feira, 28 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 6.82,
+    "saldo": 2.82,
+    "banca": -5.29
+   },
+   {
+    "dia": "2026-09-29",
+    "nome": "Terça-feira, 29 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 3.28,
+    "saldo": -0.72,
+    "banca": -6.01
+   },
+   {
+    "dia": "2026-09-30",
+    "nome": "Quarta-feira, 30 de setembro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 0.0,
+    "saldo": -4.0,
+    "banca": -10.01
+   },
+   {
+    "dia": "2026-10-02",
+    "nome": "Sexta-feira, 2 de outubro",
+    "dec": 2,
+    "apostado": 2,
+    "recebido": 1.52,
+    "saldo": -0.48,
+    "banca": -10.49
+   },
+   {
+    "dia": "2026-10-03",
+    "nome": "Sábado, 3 de outubro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 7.53,
+    "saldo": 3.53,
+    "banca": -6.96
+   },
+   {
+    "dia": "2026-10-04",
+    "nome": "Domingo, 4 de outubro",
+    "dec": 3,
+    "apostado": 3,
+    "recebido": 2.96,
+    "saldo": -0.04,
+    "banca": -7.0
+   },
+   {
+    "dia": "2026-10-05",
+    "nome": "Segunda-feira, 5 de outubro",
+    "dec": 3,
+    "apostado": 3,
+    "recebido": 0.0,
+    "saldo": -3.0,
+    "banca": -10.0
+   },
+   {
+    "dia": "2026-10-06",
+    "nome": "Terça-feira, 6 de outubro",
+    "dec": 4,
+    "apostado": 4,
+    "recebido": 1.23,
+    "saldo": -2.77,
+    "banca": -12.77
+   },
+   {
+    "dia": "2026-10-07",
+    "nome": "Quarta-feira, 7 de outubro",
+    "dec": 3,
+    "apostado": 3,
+    "recebido": 1.62,
+    "saldo": -1.38,
+    "banca": -14.15
+   },
+   {
+    "dia": "2026-10-08",
+    "nome": "Quinta-feira, 8 de outubro",
+    "dec": 1,
+    "apostado": 1,
+    "recebido": 1.7,
+    "saldo": 0.7,
+    "banca": -13.45
+   },
+   {
+    "dia": "2026-10-09",
+    "nome": "Sexta-feira, 9 de outubro",
+    "dec": 0,
+    "apostado": 0,
+    "recebido": 0,
+    "saldo": 0,
+    "banca": -13.45
+   }
+  ],
+  "grafico": "<figure class=\"gb\" data-pts=\"[[0.0, 8.0, &quot;Início&quot;, &quot;0,00 €&quot;, &quot;&quot;], [5.0, 18.15, &quot;Sábado, 19 de setembro&quot;, &quot;−1,71 €&quot;, &quot;−1,71 €&quot;], [10.0, 17.2, &quot;Domingo, 20 de setembro&quot;, &quot;−1,55 €&quot;, &quot;+0,16 €&quot;], [15.0, 27.17, &quot;Segunda-feira, 21 de setembro&quot;, &quot;−3,23 €&quot;, &quot;−1,68 €&quot;], [20.0, 21.95, &quot;Terça-feira, 22 de setembro&quot;, &quot;−2,35 €&quot;, &quot;+0,88 €&quot;], [25.0, 27.89, &quot;Quarta-feira, 23 de setembro&quot;, &quot;−3,35 €&quot;, &quot;−1,00 €&quot;], [30.0, 29.91, &quot;Quinta-feira, 24 de setembro&quot;, &quot;−3,69 €&quot;, &quot;−0,34 €&quot;], [35.0, 32.34, &quot;Sexta-feira, 25 de setembro&quot;, &quot;−4,10 €&quot;, &quot;−0,41 €&quot;], [40.0, 39.88, &quot;Sábado, 26 de setembro&quot;, &quot;−5,37 €&quot;, &quot;−1,27 €&quot;], [45.0, 56.14, &quot;Domingo, 27 de setembro&quot;, &quot;−8,11 €&quot;, &quot;−2,74 €&quot;], [50.0, 39.4, &quot;Segunda-feira, 28 de setembro&quot;, &quot;−5,29 €&quot;, &quot;+2,82 €&quot;], [55.0, 43.68, &quot;Terça-feira, 29 de setembro&quot;, &quot;−6,01 €&quot;, &quot;−0,72 €&quot;], [60.0, 67.42, &quot;Quarta-feira, 30 de setembro&quot;, &quot;−10,01 €&quot;, &quot;−4,00 €&quot;], [65.0, 70.27, &quot;Sexta-feira, 2 de outubro&quot;, &quot;−10,49 €&quot;, &quot;−0,48 €&quot;], [70.0, 49.32, &quot;Sábado, 3 de outubro&quot;, &quot;−6,96 €&quot;, &quot;+3,53 €&quot;], [75.0, 49.55, &quot;Domingo, 4 de outubro&quot;, &quot;−7,00 €&quot;, &quot;−0,04 €&quot;], [80.0, 67.36, &quot;Segunda-feira, 5 de outubro&quot;, &quot;−10,00 €&quot;, &quot;−3,00 €&quot;], [85.0, 83.81, &quot;Terça-feira, 6 de outubro&quot;, &quot;−12,77 €&quot;, &quot;−2,77 €&quot;], [90.0, 92.0, &quot;Quarta-feira, 7 de outubro&quot;, &quot;−14,15 €&quot;, &quot;−1,38 €&quot;], [95.0, 87.84, &quot;Quinta-feira, 8 de outubro&quot;, &quot;−13,45 €&quot;, &quot;+0,70 €&quot;], [100.0, 87.84, &quot;Sexta-feira, 9 de outubro&quot;, &quot;−13,45 €&quot;, &quot;0,00 €&quot;]]\"><div class=\"gp\"><svg viewBox=\"0 0 100 100\" preserveAspectRatio=\"none\" aria-hidden=\"true\"><line class=\"g0\" x1=\"0\" x2=\"100\" y1=\"8.0\" y2=\"8.0\" vector-effect=\"non-scaling-stroke\"/><path class=\"gl\" d=\"M0.0 8.0 L5.0 18.15 L10.0 17.2 L15.0 27.17 L20.0 21.95 L25.0 27.89 L30.0 29.91 L35.0 32.34 L40.0 39.88 L45.0 56.14 L50.0 39.4 L55.0 43.68 L60.0 67.42 L65.0 70.27 L70.0 49.32 L75.0 49.55 L80.0 67.36 L85.0 83.81 L90.0 92.0 L95.0 87.84 L100.0 87.84\" vector-effect=\"non-scaling-stroke\"/></svg><span class=\"gz\" style=\"top:8.0%\">0 €</span><i class=\"gh\" hidden></i><i class=\"gd\" style=\"left:100.0%;top:87.84%\"></i><div class=\"gt\" hidden><small></small><b></b><span></span></div></div><figcaption><span>19 set</span><span>máx. 0,00 € · mín. −14,15 €</span><span>9 out</span></figcaption></figure>"
  }
 }

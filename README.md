@@ -19,7 +19,7 @@ apostas-template/
   historico.json       histórico de boletins, dia a dia (gerado/atualizado automaticamente)
 docs/                  app (PWA), publicada como site estático (GitHub Pages)
   index.html            interface da app (lê docs/data/apostas.json)
-  data/apostas.json     dados do dia + histórico + estatísticas, para a app
+  data/apostas.json     dados do dia + histórico + estatísticas + banca, para a app
   manifest.webmanifest, sw.js, icons/   instalação e funcionamento offline
 apostas-do-dia.html    cópia mais recente da página, atualizada a cada execução
 ```
@@ -102,11 +102,21 @@ as pernas (hora, jogo, mercado, odd) e o estado (`pendente`, `ganho`,
 jogo termina (`--resultado`); o boletim fecha-se sozinho: falha uma perna e
 perde logo, todas certas e ganha. Nunca contém valores apostados.
 
+### Banca
+
+O separador Banca simula 1 € em cada boletim (`APOSTA` em `gerar.py`): um
+boletim ganho devolve 1 € × a odd total publicada, um perdido perde 1 €. Mostra
+o saldo acumulado a partir de 0 €, o total apostado e recebido, o retorno em
+percentagem, a evolução dia a dia e as contas por tipo de boletim. Só contam os
+boletins decididos: os adiados devolvem a aposta e os pendentes ficam de fora.
+Cada boletim conta no dia em que foi publicado. É calculado a partir do
+`historico.json`, que continua sem guardar valores.
+
 ## A página
 
 `bilhetes.html` fornece o `<head>` e o CSS partilhados; `gerar.py` monta o
 corpo (resumo do dia, boletins de hoje, próximos dias, o que ficou de fora) e
-acrescenta os separadores de Histórico e Estatísticas. Usa fundo cor de
+acrescenta os separadores de Histórico, Estatísticas e Banca. Usa fundo cor de
 relva/verde, tipografia Fraunces (títulos) + Hanken Grotesk (texto) + IBM
 Plex Mono (números e horas), tema claro/escuro automático
 (`prefers-color-scheme`), separadores fixos (sticky) com ícones e cartões em
@@ -128,7 +138,7 @@ Os horários das rotinas são em UTC e não acompanham a mudança de hora.
 
 Site estático (pensado para GitHub Pages) que lê `docs/data/apostas.json` e
 funciona como PWA instalável: barra de navegação fixa em baixo com ícones
-(Hoje/Histórico/Estatísticas), atualização manual, cache da casca da app via
+(Hoje/Histórico/Estatísticas/Banca), atualização manual, cache da casca da app via
 `sw.js` (dados vão sempre à rede primeiro) e um estado de carregamento com
 esqueleto (skeleton) em vez de texto simples. Usa o mesmo sistema visual da
 página.
