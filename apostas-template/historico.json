@@ -1,5 +1,120 @@
 [
  {
+  "dia": "2026-10-10",
+  "rotulo": "Sábado · 10 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,07",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "j": "Barcelona vence o Getafe",
+      "m": "Resultado final",
+      "o": "1,07",
+      "comp": "La Liga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,76",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "12:30",
+      "j": "Arsenal vence o Leeds",
+      "m": "Resultado final",
+      "o": "1,39",
+      "comp": "Premier League"
+     },
+     {
+      "h": "14:30",
+      "j": "Bayern Munique vence o Augsburgo",
+      "m": "Resultado final",
+      "o": "1,14",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "17:00",
+      "j": "Inter vence o Parma",
+      "m": "Resultado final",
+      "o": "1,11",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,24",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "Chelsea–Bournemouth",
+      "m": "Ambas marcam",
+      "o": "1,45",
+      "comp": "Premier League"
+     },
+     {
+      "h": "19:45",
+      "j": "Mónaco vence o Toulouse",
+      "m": "Resultado final",
+      "o": "1,55",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "20:00",
+      "j": "Ajax–NEC Nijmegen",
+      "m": "Ambas marcam",
+      "o": "1,44",
+      "comp": "Eredivisie"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,67",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "d": "DOM",
+      "j": "Betis vence o Osasuna",
+      "m": "Resultado final",
+      "o": "1,48",
+      "comp": "La Liga"
+     },
+     {
+      "h": "18:00",
+      "d": "DOM",
+      "j": "Benfica vence o Vitória SC",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "17:30",
+      "d": "SEG",
+      "j": "Atalanta vence o Venezia",
+      "m": "Resultado final",
+      "o": "1,49",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-09",
   "rotulo": "Sexta-feira · 9 de outubro de 2026",
   "boletins": [
@@ -97,8 +212,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,04",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "14:30",

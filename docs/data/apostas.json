@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-10-09T22:57:15+01:00",
- "dia": "2026-10-09",
- "rotulo": "Sexta-feira · 9 de outubro de 2026",
+ "atualizado": "2026-10-10T00:15:35+01:00",
+ "dia": "2026-10-10",
+ "rotulo": "Sábado · 10 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
@@ -10,22 +10,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Cruzeiro vence o São Paulo (2-0)"
+   "d": "Todas as pernas certas: PSV Eindhoven vence o Heerenveen (2-0)"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: Flamengo vence o Santos (2-2) · 1 certa"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Palmeiras vence o Bahia (1-0); PSV Eindhoven vence o Heerenveen (2-0)"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Flamengo vence o Santos (2-2) · 2 certas"
+   "d": "Falhou: Dortmund vence o Werder Bremen (2-2) · 3 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -35,14 +35,14 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "19:00",
-     "j": "PSV Eindhoven vence o Heerenveen",
+     "h": "17:30",
+     "j": "Barcelona vence o Getafe",
      "m": "Resultado final",
-     "o": "1,22",
-     "comp": "Eredivisie"
+     "o": "1,07",
+     "comp": "La Liga"
     }
    ],
-   "total": "1,22",
+   "total": "1,07",
    "rodape": "Uma seleção"
   },
   {
@@ -51,22 +51,29 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "01:30",
-     "j": "Palmeiras vence o Bahia",
+     "h": "12:30",
+     "j": "Arsenal vence o Leeds",
      "m": "Resultado final",
-     "o": "1,51",
-     "comp": "Primeira Liga (Brasil)"
+     "o": "1,39",
+     "comp": "Premier League"
     },
     {
-     "h": "19:00",
-     "j": "PSV Eindhoven vence o Heerenveen",
+     "h": "14:30",
+     "j": "Bayern Munique vence o Augsburgo",
      "m": "Resultado final",
-     "o": "1,22",
-     "comp": "Eredivisie"
+     "o": "1,14",
+     "comp": "Bundesliga"
+    },
+    {
+     "h": "17:00",
+     "j": "Inter vence o Parma",
+     "m": "Resultado final",
+     "o": "1,11",
+     "comp": "Superliga (Itália)"
     }
    ],
-   "total": "1,84",
-   "rodape": "2 seleções"
+   "total": "1,76",
+   "rodape": "3 seleções"
   },
   {
    "c": "t3",
@@ -74,36 +81,29 @@
    "risco": "alto",
    "legs": [
     {
-     "h": "19:00",
-     "j": "PSV Eindhoven vence o Heerenveen",
-     "m": "Resultado final",
-     "o": "1,22",
-     "comp": "Eredivisie"
-    },
-    {
-     "h": "19:30",
-     "j": "Dortmund vence o Werder Bremen",
-     "m": "Resultado final",
-     "o": "1,28",
-     "comp": "Bundesliga"
+     "h": "15:00",
+     "j": "Chelsea–Bournemouth",
+     "m": "Ambas marcam",
+     "o": "1,45",
+     "comp": "Premier League"
     },
     {
      "h": "19:45",
-     "j": "Lens–Lyon",
-     "m": "Mais de 1,5 golos",
-     "o": "1,11",
+     "j": "Mónaco vence o Toulouse",
+     "m": "Resultado final",
+     "o": "1,55",
      "comp": "Ligue 1"
     },
     {
-     "h": "20:15",
-     "j": "Braga–Sporting",
-     "m": "Dupla hipótese: Sporting ou empate",
-     "o": "1,32",
-     "comp": "Liga Portugal Betclic"
+     "h": "20:00",
+     "j": "Ajax–NEC Nijmegen",
+     "m": "Ambas marcam",
+     "o": "1,44",
+     "comp": "Eredivisie"
     }
    ],
-   "total": "2,29",
-   "rodape": "4 seleções · falhar uma perde tudo"
+   "total": "3,24",
+   "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
  "proximos": [
@@ -113,27 +113,11 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "14:30",
-     "d": "SÁB",
-     "j": "Bayern Munique vence o Augsburgo",
-     "m": "Resultado final",
-     "o": "1,16",
-     "comp": "Bundesliga"
-    },
-    {
      "h": "17:30",
-     "d": "SÁB",
-     "j": "Barcelona vence o Getafe",
+     "d": "DOM",
+     "j": "Betis vence o Osasuna",
      "m": "Resultado final",
-     "o": "1,07",
-     "comp": "La Liga"
-    },
-    {
-     "h": "20:00",
-     "d": "SÁB",
-     "j": "Real Madrid vence o Villarreal",
-     "m": "Resultado final",
-     "o": "1,35",
+     "o": "1,48",
      "comp": "La Liga"
     },
     {
@@ -141,74 +125,210 @@
      "d": "DOM",
      "j": "Benfica vence o Vitória SC",
      "m": "Resultado final",
-     "o": "1,22",
+     "o": "1,21",
      "comp": "Liga Portugal Betclic"
+    },
+    {
+     "h": "17:30",
+     "d": "SEG",
+     "j": "Atalanta vence o Venezia",
+     "m": "Resultado final",
+     "o": "1,49",
+     "comp": "Superliga (Itália)"
     }
    ],
-   "total": "2,04",
-   "rodape": "4 seleções · sábado e domingo"
+   "total": "2,67",
+   "rodape": "3 seleções · domingo e segunda"
   }
  ],
  "amanha": [
   {
-   "h": "14:30",
-   "d": "SÁB",
-   "j": "Bayern Munique vence o Augsburgo",
+   "h": "14:00",
+   "d": "DOM",
+   "j": "Lazio vence o Monza",
    "m": "Resultado final",
-   "o": "1,16",
-   "n": "Bayern foi campeão da Bundesliga 2025/26 com 89 pontos em 34 jogos (28 vitórias); sem dados de forma desta época encontrados nesta pesquisa, mas a odd (1,16) reflete um favoritismo muito claro fora de casa.",
-   "comp": "Bundesliga"
+   "o": "1,57",
+   "n": "Lazio é bem mais sólida em casa (13V 15E 8D em 2 épocas) e venceu 4 dos últimos 6 confrontos diretos; Monza é fraca fora (2V 3E 14D, só 0,9 golos marcados por jogo).",
+   "comp": "Superliga (Itália)"
   },
   {
-   "h": "17:30",
-   "d": "SÁB",
-   "j": "Barcelona vence o Getafe",
+   "h": "16:30",
+   "d": "DOM",
+   "j": "Manchester City vence o Liverpool",
    "m": "Resultado final",
-   "o": "1,07",
-   "n": "Barcelona lidera a LaLiga com 21 pontos em 7 jogos (31 golos marcados, 7 sofridos) e vem de vitória 3-1 fora com o Sevilha; Getafe é 11º com 8 pontos e apenas 4 golos marcados em 7 jogos.",
-   "comp": "La Liga"
+   "o": "2,18",
+   "n": "City tem o 2º melhor registo fora da amostra (17V 10E 10D, 1,6 golos marcados) e vem em boa forma recente; nos últimos confrontos diretos o resultado tem sido equilibrado, mas a odd reflete o momento atual do City.",
+   "comp": "Premier League"
   },
   {
-   "h": "20:00",
-   "d": "SÁB",
-   "j": "Real Madrid vence o Villarreal",
+   "h": "19:45",
+   "d": "DOM",
+   "j": "Juventus vence o Cagliari",
    "m": "Resultado final",
-   "o": "1,35",
-   "n": "Real Madrid é 4º com 15 pontos em 7 jogos mas perdeu o último jogo (1-2 com o Atlético); Villarreal é 9º com 8 pontos e vem de vitória 3-1 ao Levante — forma recente mais equilibrada do que a odd sugere.",
-   "comp": "La Liga"
+   "o": "1,53",
+   "n": "Juventus tem o melhor registo fora dos dois (15V 13E 9D) e só perdeu 1 dos últimos 4 confrontos diretos com o Cagliari.",
+   "comp": "Superliga (Itália)"
+  },
+  {
+   "h": "20:30",
+   "d": "DOM",
+   "j": "FC Arouca vence o Estrela Amadora",
+   "m": "Resultado final",
+   "o": "2,10",
+   "n": "Arouca ganhou 3 dos últimos 6 confrontos diretos e tem registo em casa (13V 9E 11D) claramente melhor do que o Estrela Amadora fora (5V 11E 17D, 0,9 golos marcados por jogo).",
+   "comp": "Liga Portugal Betclic"
   }
  ],
  "fora": [
   [
-   "Lyon vence o Lens (2,70) e Málaga vence o Espanhol (2,62)",
-   "estavam na arriscada da madrugada, que tinha odd 10,48 e cerca de 8% de probabilidade histórica; saíram para o boletim cumprir o mínimo de 25%. O Málaga só tem 3 jogos em casa nos dados da La Liga"
+   "Real Madrid vence o Villarreal (1,35)",
+   "notícias encontradas nesta pesquisa apontam várias baixas defensivas importantes para este jogo (Dean Huijsen suspenso, Raúl Asencio fora por cirurgia, Éder Militão em dúvida, Federico Valverde dúvida séria por lesão no tornozelo); apesar do domínio histórico claro em casa (30V 2E 4D em 2 épocas), a defesa reduzida pesa mais do que a odd sugere"
   ],
   [
-   "Lens ou empate (1,39)",
-   "nas duas últimas épocas o Lens ganhou 21 de 33 jogos em casa e leva 5V 1E 2D nos últimos confrontos com o Lyon, mas esta época é 15.º com 4 pontos em 5 jogos e o Lyon está invicto: dados contraditórios, por isso do jogo só entrou o mercado de golos"
+   "Académico Viseu vence o Estoril Praia (2,28)",
+   "a equipa 'Estoril Praia' não foi encontrada na base de dados históricos desta execução, sem comparação fiável"
   ],
   [
-   "Gil Vicente vence o Moreirense (2,27)",
-   "sem dados de forma atual fiáveis para a época 2026/27 encontrados nesta pesquisa"
+   "Newcastle vence o Coventry (1,98)",
+   "Coventry só tem 2 jogos em casa nos dados (equipa recém-promovida), estimativa pouco fiável"
   ],
   [
-   "Fluminense vence o Coritiba (1,43)",
-   "classificação contraditória entre fontes nesta pesquisa (3º, 4º, 7º e 9º lugares diferentes dados por fontes distintas) e data do jogo não totalmente confirmada"
+   "Paris SG vence o Le Mans FC (1,08)",
+   "Le Mans FC só tem 2 jogos fora nos dados (equipa recém-promovida), estimativa pouco fiável apesar da odd muito baixa"
   ],
   [
-   "West Ham vence o QPR (1,47)",
-   "dúvidas sobre a própria divisão da equipa esta temporada e dados contraditórios/desatualizados encontrados nesta pesquisa"
+   "Everton vence o Hull (2,07)",
+   "Hull só tem 5 jogos recentes nos dados (equipa recém-promovida), estimativa pouco fiável"
   ],
   [
-   "Boca Juniors vence o Instituto AC Córdoba (2,32)",
-   "calendário oficial encontrado nesta pesquisa não confirma jogo do Boca a 9/10 (lista jogos em 4, 11, 18 e 25/10), dados contraditórios"
+   "Rayo Vallecano vence o Athletic Bilbao (2,65)",
+   "jogo equilibrado nos dados (1: 39% · X: 30% · 2: 32%), sem favorito claro, e confronto direto desfavorável ao Rayo nas 2 últimas épocas (0V 2E 6D)"
+  ],
+  [
+   "Génova vence o Fiorentina (3,05)",
+   "jogo muito equilibrado nos dados (1: 33% · X: 29% · 2: 38%), sem favorito claro"
   ],
   [
    "Cobertura da Betclic",
-   "Consultadas e com jogos confirmados hoje: Liga Portugal Betclic, LaLiga, Bundesliga, Ligue 1, Eredivisie, Brasileirão Série A (Brasil), Primeira Liga da Argentina. Confirmadas para os próximos dias mas sem jogos hoje: Premier League, Championship inglês, Serie A italiana, Escócia Premiership, MLS. Liga das Nações só com mercados de vencedor da competição (sem jogos individuais). As principais ligas domésticas europeias já regressaram da pausa da seleções; vários jogos de hoje (Liga Portugal, Bundesliga) tiveram a data confirmada de forma cruzada mas com pouca cobertura de forma/lesões atual nas pesquisas, por isso ficaram de fora ou com análise mais cautelosa. Sem acesso ou não consultadas nesta execução: Bélgica, Suíça, Áustria, países nórdicos, Japão, Austrália, Sérvia, Roménia, Brasil Série B, entre outras."
+   "Consultadas com jogos confirmados hoje e com mercados secundários lidos: Liga Portugal Betclic, Premier League, La Liga, Bundesliga, Superliga (Itália), Ligue 1, Eredivisie. Para os próximos dias (Dom a Ter): as mesmas ligas, mais a Liga dos Campeões (jogos só a partir de Ter 13/10). A Liga das Nações só tinha mercados de vencedor da competição, sem jogos individuais marcados para esta janela. A Liga Europa e a Liga Conferência só têm jogos a partir de Qui 15/10, fora da janela dos próximos dias. Consultadas ao nível da 1X2 mas sem leitura de mercados secundários: Brasileirão (Brasil), Primeira Liga (Argentina). Sem consulta nesta execução: Bélgica, Escócia, Turquia, Suíça, Áustria, países nórdicos, MLS, Liga MX, Japão, Austrália, Sérvia, Roménia, Série B de Itália, entre outras ligas secundárias da lista Betclic."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-10-10",
+   "rotulo": "Sábado · 10 de outubro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,07",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:30",
+       "j": "Barcelona vence o Getafe",
+       "m": "Resultado final",
+       "o": "1,07",
+       "comp": "La Liga"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,76",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "12:30",
+       "j": "Arsenal vence o Leeds",
+       "m": "Resultado final",
+       "o": "1,39",
+       "comp": "Premier League"
+      },
+      {
+       "h": "14:30",
+       "j": "Bayern Munique vence o Augsburgo",
+       "m": "Resultado final",
+       "o": "1,14",
+       "comp": "Bundesliga"
+      },
+      {
+       "h": "17:00",
+       "j": "Inter vence o Parma",
+       "m": "Resultado final",
+       "o": "1,11",
+       "comp": "Superliga (Itália)"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "3,24",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "15:00",
+       "j": "Chelsea–Bournemouth",
+       "m": "Ambas marcam",
+       "o": "1,45",
+       "comp": "Premier League"
+      },
+      {
+       "h": "19:45",
+       "j": "Mónaco vence o Toulouse",
+       "m": "Resultado final",
+       "o": "1,55",
+       "comp": "Ligue 1"
+      },
+      {
+       "h": "20:00",
+       "j": "Ajax–NEC Nijmegen",
+       "m": "Ambas marcam",
+       "o": "1,44",
+       "comp": "Eredivisie"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "2,67",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:30",
+       "d": "DOM",
+       "j": "Betis vence o Osasuna",
+       "m": "Resultado final",
+       "o": "1,48",
+       "comp": "La Liga"
+      },
+      {
+       "h": "18:00",
+       "d": "DOM",
+       "j": "Benfica vence o Vitória SC",
+       "m": "Resultado final",
+       "o": "1,21",
+       "comp": "Liga Portugal Betclic"
+      },
+      {
+       "h": "17:30",
+       "d": "SEG",
+       "j": "Atalanta vence o Venezia",
+       "m": "Resultado final",
+       "o": "1,49",
+       "comp": "Superliga (Itália)"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-10-09",
    "rotulo": "Sexta-feira · 9 de outubro de 2026",
@@ -307,8 +427,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,04",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "14:30",
@@ -2787,7 +2907,7 @@
   "ganhos": 30,
   "pernas": 119,
   "pernas_ok": 75,
-  "dias": 20,
+  "dias": 21,
   "odd_media": "1,64",
   "tipos": [
    {
@@ -2795,28 +2915,28 @@
     "dec": 19,
     "pct": 79,
     "nome": "Aposta simples segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 10,
     "dec": 18,
     "pct": 56,
     "nome": "Múltipla segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 2,
     "dec": 18,
     "pct": 11,
     "nome": "Múltipla arriscada",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 3,
     "dec": 16,
     "pct": 19,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 4
    }
   ],
   "mercados": [
@@ -2872,6 +2992,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Sábado, 10 de outubro",
+    "pend": 4
+   },
    {
     "ok": 2,
     "dec": 3,
