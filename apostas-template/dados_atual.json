@@ -10,18 +10,18 @@
   },
   {
    "t": "Múltipla segura",
-   "e": "nao verificado",
-   "d": "1 de 2 pernas certas até agora"
+   "e": "perdido",
+   "d": "Falhou: Flamengo vence o Santos (2-2) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "e": "perdido",
+   "d": "Falhou: Flamengo vence o Santos (2-2) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 3 pernas certas até agora"
   }
  ],
  "hoje": [

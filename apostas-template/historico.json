@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "1,84",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 2 pernas certas até agora",
     "legs": [
      {
       "h": "01:30",
       "j": "Palmeiras vence o Bahia",
       "m": "Resultado final",
       "o": "1,51",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "19:00",
@@ -148,8 +150,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "3,04",
-    "e": "nao verificado",
-    "d": "1 de 2 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Flamengo vence o Santos (2-2) · 1 certa",
     "legs": [
      {
       "h": "01:30",
@@ -165,7 +167,9 @@
       "j": "Flamengo vence o Santos",
       "m": "Resultado final",
       "o": "1,79",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    },
@@ -173,8 +177,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "6,48",
-    "e": "nao verificado",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Flamengo vence o Santos (2-2) · 2 certas",
     "legs": [
      {
       "h": "00:30",
@@ -199,7 +203,9 @@
       "j": "Flamengo vence o Santos",
       "m": "Resultado final",
       "o": "1,79",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    },
@@ -208,7 +214,7 @@
     "c": "t4",
     "total": "4,03",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "01:30",
@@ -216,7 +222,9 @@
       "j": "Fluminense vence o Coritiba",
       "m": "Resultado final",
       "o": "1,46",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "01:30",
@@ -224,7 +232,9 @@
       "j": "Palmeiras vence o Bahia",
       "m": "Resultado final",
       "o": "1,51",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "18:00",
@@ -327,8 +337,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "7,53",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Flamengo vence o Santos (2-2) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "23:30",
@@ -336,7 +346,9 @@
       "j": "Flamengo vence o Santos",
       "m": "Resultado final",
       "o": "1,79",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "23:30",
@@ -457,7 +469,7 @@
     "c": "t4",
     "total": "8,52",
     "e": "perdido",
-    "d": "Falhou: Bragantino vence o Mirassol (1-1) · 1 certa, 2 por jogar",
+    "d": "Falhou: Bragantino vence o Mirassol (1-1) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "23:30",
@@ -485,7 +497,9 @@
       "j": "Palmeiras vence a Bahia",
       "m": "Resultado final",
       "o": "1,47",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "18:00",
@@ -634,7 +648,9 @@
       "j": "Palmeiras vence o Bahia",
       "m": "Resultado final",
       "o": "1,49",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    }
@@ -738,8 +754,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "7,49",
-    "e": "adiado",
-    "d": "Há um jogo adiado; boletim por decidir",
+    "e": "perdido",
+    "d": "Falhou: Flamengo vence o Santos (2-2) · 2 certas",
     "legs": [
      {
       "h": "19:45",
@@ -776,7 +792,9 @@
       "j": "Flamengo vence o Santos",
       "m": "Resultado final",
       "o": "1,74",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    }
