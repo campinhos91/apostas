@@ -1,5 +1,113 @@
 [
  {
+  "dia": "2026-10-11",
+  "rotulo": "Domingo · 11 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,21",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "j": "Benfica vence o Vitória SC",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,06",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "11:15",
+      "j": "Utrecht vence o Willem II",
+      "m": "Resultado final",
+      "o": "1,47",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "16:15",
+      "j": "Rennes vence o Auxerre",
+      "m": "Resultado final",
+      "o": "1,40",
+      "comp": "Ligue 1"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,15",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "j": "Colónia–Borussia Mönchengladbach",
+      "m": "Ambas marcam",
+      "o": "1,39",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "17:00",
+      "j": "Sassuolo–Milan",
+      "m": "Dupla hipótese: Milan ou empate",
+      "o": "1,20",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "19:45",
+      "j": "Cagliari–Juventus",
+      "m": "Ambas marcam",
+      "o": "1,89",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,63",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "d": "SEG",
+      "j": "Atalanta vence o Venezia",
+      "m": "Resultado final",
+      "o": "1,52",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:00",
+      "d": "SEG",
+      "j": "Levante–Sevilha",
+      "m": "Dupla hipótese: Levante ou empate",
+      "o": "1,44",
+      "comp": "La Liga"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Arsenal vence o Lille",
+      "m": "Resultado final",
+      "o": "1,20",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-10",
   "rotulo": "Sábado · 10 de outubro de 2026",
   "boletins": [
@@ -97,8 +205,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,67",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "17:30",
