@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-10T00:15:35+01:00",
+ "atualizado": "2026-10-10T16:56:36+01:00",
  "dia": "2026-10-10",
  "rotulo": "Sábado · 10 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -24,8 +24,8 @@
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 0 certas, 3 por jogar"
   }
  ],
  "hoje": [
@@ -238,22 +238,26 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,76",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "12:30",
        "j": "Arsenal vence o Leeds",
        "m": "Resultado final",
        "o": "1,39",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "14:30",
        "j": "Bayern Munique vence o Augsburgo",
        "m": "Resultado final",
        "o": "1,14",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "17:00",
@@ -269,14 +273,16 @@
      "c": "t3",
      "total": "3,24",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
        "j": "Chelsea–Bournemouth",
        "m": "Ambas marcam",
        "o": "1,45",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "5-1"
       },
       {
        "h": "19:45",
@@ -427,8 +433,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,04",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 0 certas, 3 por jogar",
      "legs": [
       {
        "h": "14:30",
@@ -436,7 +442,9 @@
        "j": "Bayern Munique vence o Augsburgo",
        "m": "Resultado final",
        "o": "1,16",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "17:30",
@@ -680,7 +688,7 @@
      "c": "t4",
      "total": "7,53",
      "e": "perdido",
-     "d": "Falhou: Flamengo vence o Santos (2-2) · 0 certas, 2 por jogar",
+     "d": "Falhou: Flamengo vence o Santos (2-2); Boca Juniors vence o Instituto AC Córdoba (2-2) · 0 certas, 1 por jogar",
      "legs": [
       {
        "h": "23:30",
@@ -698,7 +706,9 @@
        "j": "Boca Juniors vence o Instituto AC Córdoba",
        "m": "Resultado final",
        "o": "2,30",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "18:00",
@@ -2903,10 +2913,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 71,
+  "decididos": 73,
   "ganhos": 30,
-  "pernas": 119,
-  "pernas_ok": 75,
+  "pernas": 123,
+  "pernas_ok": 77,
   "dias": 21,
   "odd_media": "1,64",
   "tipos": [
@@ -2919,10 +2929,10 @@
    },
    {
     "ok": 10,
-    "dec": 18,
-    "pct": 56,
+    "dec": 19,
+    "pct": 53,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
@@ -2933,23 +2943,23 @@
    },
    {
     "ok": 3,
-    "dec": 16,
-    "pct": 19,
+    "dec": 17,
+    "pct": 18,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
    {
-    "ok": 71,
-    "dec": 114,
+    "ok": 72,
+    "dec": 117,
     "pct": 62,
     "nome": "Resultado final"
    },
    {
-    "ok": 1,
-    "dec": 2,
-    "pct": 50,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Ambas marcam"
    },
    {
@@ -2974,37 +2984,37 @@
   "faixas": [
    {
     "ok": 18,
-    "dec": 20,
-    "pct": 90,
+    "dec": 21,
+    "pct": 86,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 18,
-    "dec": 25,
-    "pct": 72,
+    "ok": 20,
+    "dec": 27,
+    "pct": 74,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 39,
-    "dec": 74,
-    "pct": 53,
+    "dec": 75,
+    "pct": 52,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Sábado, 10 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "dec": 4,
+    "pct": 50,
     "nome": "Sexta-feira, 9 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,

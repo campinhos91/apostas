@@ -23,22 +23,26 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,76",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "12:30",
       "j": "Arsenal vence o Leeds",
       "m": "Resultado final",
       "o": "1,39",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "14:30",
       "j": "Bayern Munique vence o Augsburgo",
       "m": "Resultado final",
       "o": "1,14",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "17:00",
@@ -54,14 +58,16 @@
     "c": "t3",
     "total": "3,24",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
       "j": "Chelsea–Bournemouth",
       "m": "Ambas marcam",
       "o": "1,45",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "5-1"
      },
      {
       "h": "19:45",
@@ -212,8 +218,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,04",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "14:30",
@@ -221,7 +227,9 @@
       "j": "Bayern Munique vence o Augsburgo",
       "m": "Resultado final",
       "o": "1,16",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "17:30",
@@ -465,7 +473,7 @@
     "c": "t4",
     "total": "7,53",
     "e": "perdido",
-    "d": "Falhou: Flamengo vence o Santos (2-2) · 0 certas, 2 por jogar",
+    "d": "Falhou: Flamengo vence o Santos (2-2); Boca Juniors vence o Instituto AC Córdoba (2-2) · 0 certas, 1 por jogar",
     "legs": [
      {
       "h": "23:30",
@@ -483,7 +491,9 @@
       "j": "Boca Juniors vence o Instituto AC Córdoba",
       "m": "Resultado final",
       "o": "2,30",
-      "comp": "Primeira Liga (Argentina)"
+      "comp": "Primeira Liga (Argentina)",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "18:00",
