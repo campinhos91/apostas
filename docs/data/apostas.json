@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-10T20:56:52+01:00",
+ "atualizado": "2026-10-10T22:59:10+01:00",
  "dia": "2026-10-10",
  "rotulo": "Sábado · 10 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "perdido",
-   "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 2 por jogar"
+   "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 2 certas, 1 por jogar"
   }
  ],
  "hoje": [
@@ -276,8 +276,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,24",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Mónaco vence o Toulouse (2-2) · 2 certas",
      "legs": [
       {
        "h": "15:00",
@@ -293,14 +293,18 @@
        "j": "Mónaco vence o Toulouse",
        "m": "Resultado final",
        "o": "1,55",
-       "comp": "Ligue 1"
+       "comp": "Ligue 1",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
        "j": "Ajax–NEC Nijmegen",
        "m": "Ambas marcam",
        "o": "1,44",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "ok",
+       "x": "1-1"
       }
      ]
     },
@@ -438,7 +442,7 @@
      "c": "t4",
      "total": "2,04",
      "e": "perdido",
-     "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 2 por jogar",
+     "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 2 certas, 1 por jogar",
      "legs": [
       {
        "h": "14:30",
@@ -466,7 +470,9 @@
        "j": "Real Madrid vence o Villarreal",
        "m": "Resultado final",
        "o": "1,35",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "18:00",
@@ -569,8 +575,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "4,03",
-     "e": "nao verificado",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Fluminense vence o Coritiba (4-0); Palmeiras vence o Bahia (1-0); Toronto FC vence o CF Montreal (2-1)",
      "legs": [
       {
        "h": "01:30",
@@ -598,7 +604,9 @@
        "j": "Toronto FC vence o CF Montreal",
        "m": "Resultado final",
        "o": "1,83",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     }
@@ -694,7 +702,7 @@
      "c": "t4",
      "total": "7,53",
      "e": "perdido",
-     "d": "Falhou: Flamengo vence o Santos (2-2); Boca Juniors vence o Instituto AC Córdoba (2-2) · 0 certas, 1 por jogar",
+     "d": "Falhou: Flamengo vence o Santos (2-2); Boca Juniors vence o Instituto AC Córdoba (2-2) · 1 certa",
      "legs": [
       {
        "h": "23:30",
@@ -722,7 +730,9 @@
        "j": "Toronto FC vence o CF Montreal",
        "m": "Resultado final",
        "o": "1,83",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     }
@@ -827,7 +837,7 @@
      "c": "t4",
      "total": "8,52",
      "e": "perdido",
-     "d": "Falhou: Bragantino vence o Mirassol (1-1) · 2 certas, 1 por jogar",
+     "d": "Falhou: Bragantino vence o Mirassol (1-1) · 3 certas",
      "legs": [
       {
        "h": "23:30",
@@ -865,7 +875,9 @@
        "j": "Toronto FC vence o CF Montreal",
        "m": "Resultado final",
        "o": "1,83",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     }
@@ -2919,10 +2931,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 74,
-  "ganhos": 31,
-  "pernas": 125,
-  "pernas_ok": 79,
+  "decididos": 76,
+  "ganhos": 32,
+  "pernas": 129,
+  "pernas_ok": 82,
   "dias": 21,
   "odd_media": "1,63",
   "tipos": [
@@ -2942,30 +2954,30 @@
    },
    {
     "ok": 2,
-    "dec": 18,
+    "dec": 19,
     "pct": 11,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 3,
-    "dec": 17,
-    "pct": 18,
+    "ok": 4,
+    "dec": 18,
+    "pct": 22,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 2
    }
   ],
   "mercados": [
    {
-    "ok": 74,
-    "dec": 119,
+    "ok": 76,
+    "dec": 122,
     "pct": 62,
     "nome": "Resultado final"
    },
    {
-    "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Ambas marcam"
    },
    {
@@ -2995,14 +3007,14 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 20,
-    "dec": 27,
-    "pct": 74,
+    "ok": 22,
+    "dec": 29,
+    "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 39,
-    "dec": 75,
+    "ok": 40,
+    "dec": 77,
     "pct": 52,
     "nome": "Odd acima de 1,45"
    }
@@ -3010,10 +3022,10 @@
   "por_dia": [
    {
     "ok": 1,
-    "dec": 2,
-    "pct": 50,
+    "dec": 3,
+    "pct": 33,
     "nome": "Sábado, 10 de outubro",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 2,
@@ -3023,11 +3035,11 @@
     "pend": 0
    },
    {
-    "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
     "nome": "Quinta-feira, 8 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,

@@ -61,8 +61,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,24",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Mónaco vence o Toulouse (2-2) · 2 certas",
     "legs": [
      {
       "h": "15:00",
@@ -78,14 +78,18 @@
       "j": "Mónaco vence o Toulouse",
       "m": "Resultado final",
       "o": "1,55",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:00",
       "j": "Ajax–NEC Nijmegen",
       "m": "Ambas marcam",
       "o": "1,44",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "1-1"
      }
     ]
    },
@@ -223,7 +227,7 @@
     "c": "t4",
     "total": "2,04",
     "e": "perdido",
-    "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 2 por jogar",
+    "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "14:30",
@@ -251,7 +255,9 @@
       "j": "Real Madrid vence o Villarreal",
       "m": "Resultado final",
       "o": "1,35",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "18:00",
@@ -354,8 +360,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "4,03",
-    "e": "nao verificado",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Fluminense vence o Coritiba (4-0); Palmeiras vence o Bahia (1-0); Toronto FC vence o CF Montreal (2-1)",
     "legs": [
      {
       "h": "01:30",
@@ -383,7 +389,9 @@
       "j": "Toronto FC vence o CF Montreal",
       "m": "Resultado final",
       "o": "1,83",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    }
@@ -479,7 +487,7 @@
     "c": "t4",
     "total": "7,53",
     "e": "perdido",
-    "d": "Falhou: Flamengo vence o Santos (2-2); Boca Juniors vence o Instituto AC Córdoba (2-2) · 0 certas, 1 por jogar",
+    "d": "Falhou: Flamengo vence o Santos (2-2); Boca Juniors vence o Instituto AC Córdoba (2-2) · 1 certa",
     "legs": [
      {
       "h": "23:30",
@@ -507,7 +515,9 @@
       "j": "Toronto FC vence o CF Montreal",
       "m": "Resultado final",
       "o": "1,83",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    }
@@ -612,7 +622,7 @@
     "c": "t4",
     "total": "8,52",
     "e": "perdido",
-    "d": "Falhou: Bragantino vence o Mirassol (1-1) · 2 certas, 1 por jogar",
+    "d": "Falhou: Bragantino vence o Mirassol (1-1) · 3 certas",
     "legs": [
      {
       "h": "23:30",
@@ -650,7 +660,9 @@
       "j": "Toronto FC vence o CF Montreal",
       "m": "Resultado final",
       "o": "1,83",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    }
