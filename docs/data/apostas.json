@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-10T18:56:19+01:00",
+ "atualizado": "2026-10-10T20:56:52+01:00",
  "dia": "2026-10-10",
  "rotulo": "Sábado · 10 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "perdido",
-   "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 0 certas, 3 por jogar"
+   "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [
@@ -222,15 +222,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,07",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Barcelona vence o Getafe (3-0)",
      "legs": [
       {
        "h": "17:30",
        "j": "Barcelona vence o Getafe",
        "m": "Resultado final",
        "o": "1,07",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "3-0"
       }
      ]
     },
@@ -436,7 +438,7 @@
      "c": "t4",
      "total": "2,04",
      "e": "perdido",
-     "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 0 certas, 3 por jogar",
+     "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "14:30",
@@ -454,7 +456,9 @@
        "j": "Barcelona vence o Getafe",
        "m": "Resultado final",
        "o": "1,07",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "20:00",
@@ -2915,19 +2919,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 73,
-  "ganhos": 30,
-  "pernas": 124,
-  "pernas_ok": 78,
+  "decididos": 74,
+  "ganhos": 31,
+  "pernas": 125,
+  "pernas_ok": 79,
   "dias": 21,
   "odd_media": "1,63",
   "tipos": [
    {
-    "ok": 15,
-    "dec": 19,
-    "pct": 79,
+    "ok": 16,
+    "dec": 20,
+    "pct": 80,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 10,
@@ -2953,8 +2957,8 @@
   ],
   "mercados": [
    {
-    "ok": 73,
-    "dec": 118,
+    "ok": 74,
+    "dec": 119,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -2985,9 +2989,9 @@
   ],
   "faixas": [
    {
-    "ok": 19,
-    "dec": 22,
-    "pct": 86,
+    "ok": 20,
+    "dec": 23,
+    "pct": 87,
     "nome": "Odd até 1,25"
    },
    {
@@ -3005,11 +3009,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
     "nome": "Sábado, 10 de outubro",
-    "pend": 3
+    "pend": 2
    },
    {
     "ok": 2,

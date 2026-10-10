@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,07",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Barcelona vence o Getafe (3-0)",
     "legs": [
      {
       "h": "17:30",
       "j": "Barcelona vence o Getafe",
       "m": "Resultado final",
       "o": "1,07",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "3-0"
      }
     ]
    },
@@ -221,7 +223,7 @@
     "c": "t4",
     "total": "2,04",
     "e": "perdido",
-    "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 0 certas, 3 por jogar",
+    "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "14:30",
@@ -239,7 +241,9 @@
       "j": "Barcelona vence o Getafe",
       "m": "Resultado final",
       "o": "1,07",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "20:00",
