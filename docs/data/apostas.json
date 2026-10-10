@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-10T16:56:36+01:00",
+ "atualizado": "2026-10-10T18:56:19+01:00",
  "dia": "2026-10-10",
  "rotulo": "Sábado · 10 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -239,7 +239,7 @@
      "c": "t2",
      "total": "1,76",
      "e": "perdido",
-     "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 1 certa, 1 por jogar",
+     "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 2 certas",
      "legs": [
       {
        "h": "12:30",
@@ -264,7 +264,9 @@
        "j": "Inter vence o Parma",
        "m": "Resultado final",
        "o": "1,11",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "3-0"
       }
      ]
     },
@@ -2915,10 +2917,10 @@
  "estatisticas": {
   "decididos": 73,
   "ganhos": 30,
-  "pernas": 123,
-  "pernas_ok": 77,
+  "pernas": 124,
+  "pernas_ok": 78,
   "dias": 21,
-  "odd_media": "1,64",
+  "odd_media": "1,63",
   "tipos": [
    {
     "ok": 15,
@@ -2951,8 +2953,8 @@
   ],
   "mercados": [
    {
-    "ok": 72,
-    "dec": 117,
+    "ok": 73,
+    "dec": 118,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -2983,8 +2985,8 @@
   ],
   "faixas": [
    {
-    "ok": 18,
-    "dec": 21,
+    "ok": 19,
+    "dec": 22,
     "pct": 86,
     "nome": "Odd até 1,25"
    },
