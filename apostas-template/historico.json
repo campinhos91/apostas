@@ -52,8 +52,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,15",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Colónia–Borussia Mönchengladbach (2-1); Sassuolo–Milan (1-1); Cagliari–Juventus (1-1)",
     "legs": [
      {
       "h": "14:30",
@@ -78,7 +78,9 @@
       "j": "Cagliari–Juventus",
       "m": "Ambas marcam",
       "o": "1,89",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "1-1"
      }
     ]
    },
