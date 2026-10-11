@@ -49,14 +49,16 @@
     "c": "t3",
     "total": "3,15",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "14:30",
       "j": "Colónia–Borussia Mönchengladbach",
       "m": "Ambas marcam",
       "o": "1,39",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "17:00",
