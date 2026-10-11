@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-11T16:56:40+01:00",
+ "atualizado": "2026-10-11T18:57:43+01:00",
  "dia": "2026-10-11",
  "rotulo": "Domingo · 11 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -226,8 +226,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,06",
-     "e": "pendente",
-     "d": "1 de 2 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Utrecht vence o Willem II (3-1); Rennes vence o Auxerre (4-1)",
      "legs": [
       {
        "h": "11:15",
@@ -243,7 +243,9 @@
        "j": "Rennes vence o Auxerre",
        "m": "Resultado final",
        "o": "1,40",
-       "comp": "Ligue 1"
+       "comp": "Ligue 1",
+       "r": "ok",
+       "x": "4-1"
       }
      ]
     },
@@ -3031,10 +3033,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 76,
-  "ganhos": 32,
-  "pernas": 131,
-  "pernas_ok": 84,
+  "decididos": 77,
+  "ganhos": 33,
+  "pernas": 132,
+  "pernas_ok": 85,
   "dias": 22,
   "odd_media": "1,62",
   "tipos": [
@@ -3046,11 +3048,11 @@
     "pend": 1
    },
    {
-    "ok": 10,
-    "dec": 19,
-    "pct": 53,
+    "ok": 11,
+    "dec": 20,
+    "pct": 55,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
@@ -3069,8 +3071,8 @@
   ],
   "mercados": [
    {
-    "ok": 77,
-    "dec": 123,
+    "ok": 78,
+    "dec": 124,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -3107,8 +3109,8 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 23,
-    "dec": 30,
+    "ok": 24,
+    "dec": 31,
     "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },
@@ -3121,11 +3123,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Domingo, 11 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 1,

@@ -23,8 +23,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,06",
-    "e": "pendente",
-    "d": "1 de 2 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Utrecht vence o Willem II (3-1); Rennes vence o Auxerre (4-1)",
     "legs": [
      {
       "h": "11:15",
@@ -40,7 +40,9 @@
       "j": "Rennes vence o Auxerre",
       "m": "Resultado final",
       "o": "1,40",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "ok",
+      "x": "4-1"
      }
     ]
    },
