@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "2,06",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 2 pernas certas até agora",
     "legs": [
      {
       "h": "11:15",
       "j": "Utrecht vence o Willem II",
       "m": "Resultado final",
       "o": "1,47",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "16:15",

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-11T00:15:21+01:00",
+ "atualizado": "2026-10-11T14:56:48+01:00",
  "dia": "2026-10-11",
  "rotulo": "Domingo · 11 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -227,14 +227,16 @@
      "c": "t2",
      "total": "2,06",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 2 pernas certas até agora",
      "legs": [
       {
        "h": "11:15",
        "j": "Utrecht vence o Willem II",
        "m": "Resultado final",
        "o": "1,47",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "16:15",
@@ -3029,8 +3031,8 @@
  "estatisticas": {
   "decididos": 76,
   "ganhos": 32,
-  "pernas": 129,
-  "pernas_ok": 82,
+  "pernas": 130,
+  "pernas_ok": 83,
   "dias": 22,
   "odd_media": "1,63",
   "tipos": [
@@ -3065,9 +3067,9 @@
   ],
   "mercados": [
    {
-    "ok": 76,
-    "dec": 122,
-    "pct": 62,
+    "ok": 77,
+    "dec": 123,
+    "pct": 63,
     "nome": "Resultado final"
    },
    {
@@ -3109,9 +3111,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 40,
-    "dec": 77,
-    "pct": 52,
+    "ok": 41,
+    "dec": 78,
+    "pct": 53,
     "nome": "Odd acima de 1,45"
    }
   ],
