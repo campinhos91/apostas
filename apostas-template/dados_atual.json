@@ -6,22 +6,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Barcelona vence o Getafe (3-0)"
+   "d": "Todas as pernas certas: Benfica vence o Vitória SC (2-0)"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 2 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Utrecht vence o Willem II (3-1); Rennes vence o Auxerre (4-1)"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Mónaco vence o Toulouse (2-2) · 2 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Colónia–Borussia Mönchengladbach (2-1); Sassuolo–Milan (1-1); Cagliari–Juventus (1-1)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "d": "1 de 3 pernas certas até agora"
   }
  ],
 

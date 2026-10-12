@@ -89,7 +89,7 @@
     "c": "t4",
     "total": "2,63",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:30",
@@ -97,7 +97,9 @@
       "j": "Atalanta vence o Venezia",
       "m": "Resultado final",
       "o": "1,52",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "20:00",
@@ -128,7 +130,7 @@
     "c": "t1",
     "total": "1,07",
     "e": "ganho",
-    "d": "Todas as pernas certas: Barcelona vence o Getafe (3-0)",
+    "d": "Todas as pernas certas: Benfica vence o Vitória SC (2-0)",
     "legs": [
      {
       "h": "17:30",
@@ -145,8 +147,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,76",
-    "e": "perdido",
-    "d": "Falhou: Bayern Munique vence o Augsburgo (2-2) · 2 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Utrecht vence o Willem II (3-1); Rennes vence o Auxerre (4-1)",
     "legs": [
      {
       "h": "12:30",
@@ -181,8 +183,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,24",
-    "e": "perdido",
-    "d": "Falhou: Mónaco vence o Toulouse (2-2) · 2 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Colónia–Borussia Mönchengladbach (2-1); Sassuolo–Milan (1-1); Cagliari–Juventus (1-1)",
     "legs": [
      {
       "h": "15:00",
@@ -217,8 +219,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,67",
-    "e": "nao verificado",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Betis vence o Osasuna (5-2); Benfica vence o Vitória SC (2-0); Atalanta vence o Venezia (3-1)",
     "legs": [
      {
       "h": "17:30",
@@ -246,7 +248,9 @@
       "j": "Atalanta vence o Venezia",
       "m": "Resultado final",
       "o": "1,49",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    }
