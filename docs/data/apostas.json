@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-12T20:56:13+01:00",
+ "atualizado": "2026-10-12T22:56:24+01:00",
  "dia": "2026-10-11",
  "rotulo": "Domingo · 11 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "1 de 3 pernas certas até agora"
+   "d": "2 de 3 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -292,7 +292,7 @@
      "c": "t4",
      "total": "2,63",
      "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "17:30",
@@ -310,7 +310,9 @@
        "j": "Levante–Sevilha",
        "m": "Dupla hipótese: Levante ou empate",
        "o": "1,44",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "3-3"
       },
       {
        "h": "20:00",
@@ -3051,8 +3053,8 @@
  "estatisticas": {
   "decididos": 80,
   "ganhos": 38,
-  "pernas": 137,
-  "pernas_ok": 90,
+  "pernas": 138,
+  "pernas_ok": 91,
   "dias": 22,
   "odd_media": "1,62",
   "tipos": [
@@ -3108,6 +3110,12 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
+    "nome": "Dupla hipótese: Levante ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Mais de 1,5 golos"
    },
    {
@@ -3131,9 +3139,9 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 24,
-    "dec": 31,
-    "pct": 77,
+    "ok": 25,
+    "dec": 32,
+    "pct": 78,
     "nome": "Odd de 1,26 a 1,45"
    },
    {

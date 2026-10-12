@@ -89,7 +89,7 @@
     "c": "t4",
     "total": "2,63",
     "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:30",
@@ -107,7 +107,9 @@
       "j": "Levante–Sevilha",
       "m": "Dupla hipótese: Levante ou empate",
       "o": "1,44",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "3-3"
      },
      {
       "h": "20:00",
