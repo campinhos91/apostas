@@ -2,7 +2,7 @@
 """Resultados de épocas passadas ao serviço dos boletins: ver USO."""
 import csv, difflib, io, json, math, os, re, sys, tempfile, unicodedata, urllib.request
 from collections import defaultdict
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 
 USO = """Uso:
   epocas.py "Casa - Fora" ["Casa - Fora" ...] [--comp "Competição"] [--neutro] [--json]
@@ -11,14 +11,27 @@ USO = """Uso:
       probabilidade de cada boletim acertar, pelo que odds iguais renderam em épocas passadas
   epocas.py --atualizar     descarrega os resultados mais recentes para epocas/
   epocas.py --avaliar       mede o acerto do modelo nos últimos 12 meses, contra as odds de fecho
-  epocas.py --equipas TEXTO lista os nomes das equipas e seleções que contêm TEXTO"""
+  epocas.py --equipas TEXTO lista os nomes das equipas e seleções que contêm TEXTO
+  epocas.py --flashscore [AAAA-MM-DD|ontem|amanha] "Casa - Fora" ...
+      estado, hora de Lisboa e resultado de cada jogo nesse dia, lidos no Flashscore (resultados em tempo real)"""
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 PASTA = os.path.join(BASE, "epocas")
 CLUBES = os.path.join(PASTA, "clubes.csv")
 SELECOES = os.path.join(PASTA, "selecoes.csv")
 ALIAS = os.path.join(PASTA, "alias.json")
+EUROPA = os.path.join(PASTA, "europa.csv")
 FD = "https://www.football-data.co.uk"
+FS = "https://www.flashscore.com/football/europe"
+FS_FEED = "https://global.flashscore.ninja/2/x/feed"
+FS_SIGN = "SW9D1eZo"
+TACAS_EUR = {"UCL": ("champions-league", "Liga dos Campeões"), "UEL": ("europa-league", "Liga Europa"), "UECL": ("conference-league", "Liga Conferência")}
+# ligas europeias que entram no modelo conjunto com as taças europeias (as de fora da Europa não têm jogos que as liguem)
+LIGAS_EUROPEIAS = {"E0", "E1", "SC0", "D1", "D2", "I1", "I2", "SP1", "SP2", "F1", "F2", "N1", "B1", "P1", "T1", "G1",
+                   "AUT", "DNK", "FIN", "IRL", "NOR", "POL", "ROU", "RUS", "SWE"}
+PAIS_LIGAS = {"Eng": ("E0", "E1"), "Sco": ("SC0",), "Ger": ("D1", "D2"), "Ita": ("I1", "I2"), "Esp": ("SP1", "SP2"), "Fra": ("F1", "F2"),
+              "Ned": ("N1",), "Bel": ("B1",), "Por": ("P1",), "Tur": ("T1",), "Gre": ("G1",), "Aut": ("AUT",), "Den": ("DNK",),
+              "Fin": ("FIN",), "Irl": ("IRL",), "Nor": ("NOR",), "Pol": ("POL",), "Rou": ("ROU",), "Rus": ("RUS",), "Swe": ("SWE",)}
 SEL_URL = "https://raw.githubusercontent.com/martj42/international_results/master/results.csv"
 LIGAS_EPOCA = {"E0": "Premier League", "E1": "Championship", "SC0": "Escócia", "D1": "Bundesliga", "D2": "2. Bundesliga",
                "I1": "Serie A", "I2": "Serie B", "SP1": "La Liga", "SP2": "La Liga 2", "F1": "Ligue 1", "F2": "Ligue 2",
@@ -28,7 +41,12 @@ LIGAS_UNICAS = {"ARG": ("Argentina", "Argentina"), "AUT": ("Austria", "Áustria"
                 "IRL": ("Ireland", "Irlanda"), "JPN": ("Japan", "Japão"), "MEX": ("Mexico", "Liga MX"),
                 "NOR": ("Norway", "Noruega"), "POL": ("Poland", "Polónia"), "ROU": ("Romania", "Roménia"),
                 "RUS": ("Russia", "Rússia"), "SWE": ("Sweden", "Suécia"), "USA": ("USA", "MLS")}
-NOME_LIGA = {**LIGAS_EPOCA, **{k: v[1] for k, v in LIGAS_UNICAS.items()}}
+NOME_LIGA = {**LIGAS_EPOCA, **{k: v[1] for k, v in LIGAS_UNICAS.items()}, **{k: v[1] for k, v in TACAS_EUR.items()},
+             "EUR": "ligas europeias e taças europeias"}
+# peso de cada jogo europeu no modelo conjunto: são poucos e são os únicos que comparam ligas; com peso 1 o modelo achatava as
+# diferenças (favoritos de 65-75% ganhavam 91%); 15 foi o melhor nos jogos europeus dos 12 meses anteriores (--avaliar)
+PESO_EUROPA = 15
+COMP_EUR = ("liga dos campeoes", "champions league", "liga europa", "europa league", "liga conferencia", "conference league")
 COMP_LIGA = [("premier league", "E0"), ("championship", "E1"), ("2. bundesliga", "D2"), ("bundesliga", "D1"), ("la liga 2", "SP2"),
              ("laliga 2", "SP2"), ("la liga", "SP1"), ("laliga", "SP1"), ("ligue 2", "F2"), ("ligue 1", "F1"), ("eredivisie", "N1"),
              ("liga portugal", "P1"), ("serie a (it", "I1"), ("italia", "I1"), ("brasil", "BRA"), ("argentina", "ARG"),
@@ -52,8 +70,8 @@ def justa(p): return "–" if p <= 0.005 else virg(1 / p) if p > 0.1 else str(ro
 
 
 # ---------------- dados ----------------
-def _ler_url(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (apostas-do-dia)"})
+def _ler_url(url, **cab):
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (apostas-do-dia)", **cab})
     with urllib.request.urlopen(req, timeout=60) as r:
         return r.read().decode("utf-8-sig", errors="replace")
 
@@ -103,6 +121,7 @@ def atualizar():
     saida = sorted([*k, *v] for k, v in jogos.items() if k[1] >= corte)
     _gravar(CLUBES, ["liga", "data", "casa", "fora", "gc", "gf", "o1", "ox", "o2"], saida)
     print(f"clubes: {len(saida)} jogos em {len({x[0] for x in saida})} ligas, até {max((x[1] for x in saida), default='–')}")
+    _atualizar_europa(hoje, corte, falhas)
     try:
         corte_s = hoje - timedelta(days=round(365.25 * ANOS_SELECOES))
         sel = []
@@ -117,11 +136,90 @@ def atualizar():
         falhas.append(f"seleções: {e}")
     for f in falhas: print("AVISO: falhou", f)
 
+def _fs_jogos(txt):
+    """Jogos de um feed do Flashscore decididos nos 90 minutos (sem prolongamento nem penáltis): {id: linha}."""
+    out = {}
+    for bloco in txt.split("¬~"):
+        c = dict(x.split("÷", 1) for x in bloco.split("¬") if "÷" in x)
+        if c.get("AB") == "3" and c.get("AC") == "3" and all(c.get(k, "").isdigit() for k in ("AD", "AG", "AH")):
+            d = datetime.fromtimestamp(int(c["AD"]), timezone.utc).date().isoformat()
+            out[c["AA"]] = [d, c["AE"].strip(), c["AF"].strip(), c["AG"], c["AH"], "1" if c.get("AM", "").startswith("Neutral") else "0"]
+    return out
+
+def _fs_epoca(slug):
+    """Todos os resultados de uma época de uma taça europeia: a página traz os mais recentes, o feed traz o resto, 100 de cada vez."""
+    html = _ler_url(f"{FS}/{slug}/results/")
+    t, s = re.search(r'tournament_id = "(\w+)"', html), re.search(r"seasonId: (\d+)", html)
+    if not (t and s): raise ValueError("página sem resultados")
+    jogos, vistos = _fs_jogos(html), set(re.findall(r"¬~AA÷(\w+)", html))
+    for pag in range(1, 30):
+        txt = _ler_url(f"{FS_FEED}/tr_1_6_{t.group(1)}_{s.group(1)}_{pag}_3_en_1", **{"x-fsign": FS_SIGN, "Referer": "https://www.flashscore.com/"})
+        ids = set(re.findall(r"¬~AA÷(\w+)", "¬" + txt))
+        if not ids - vistos: break
+        vistos |= ids; jogos.update(_fs_jogos(txt))
+    return list(jogos.values())
+
+def _mapear_nomes(nomes, clubes, alias):
+    """Nome do Flashscore -> nome da equipa em clubes.csv; fica o nome do Flashscore (sem o país) quando não há correspondência segura."""
+    hoje = date.today(); por_liga = defaultdict(set)
+    for j in clubes:
+        if j["liga"] in LIGAS_EUROPEIAS and (hoje - j["data"]).days <= 800: por_liga[j["liga"]].update((j["casa"], j["fora"]))
+    universo = set().union(*por_liga.values()) if por_liga else set()
+    def indice(us):
+        pn = {norm(u): u for u in us}
+        return pn, {sem_enchimento(k): v for k, v in pn.items()}
+    geral = indice(universo)
+    partes = {n: (re.match(r"^(.*?)\s*\(([A-Z][a-z]{2})\)$", n) or None) for n in nomes}
+    limpo = {n: (m.group(1) if m else n) for n, m in partes.items()}
+    pais = {limpo[n]: m.group(2) for n, m in partes.items() if m}
+    out = {}
+    for n in nomes:
+        l = limpo[n]; k = norm(l); c = sem_enchimento(k)
+        ligas = PAIS_LIGAS.get(pais.get(l, ""), ())
+        pn, curto = indice(set().union(*(por_liga[x] for x in ligas))) if ligas else geral
+        if alias.get(k) in universo: out[n] = alias[k]
+        elif l in pais and not ligas: out[n] = l  # país sem liga nos dados: nunca ligar a uma equipa de outro país
+        elif k in pn: out[n] = pn[k]
+        elif c in curto: out[n] = curto[c]
+        else:
+            perto = difflib.get_close_matches(c, list(curto), n=1, cutoff=0.88 if ligas else 0.92)
+            out[n] = curto[perto[0]] if perto else l
+    return out
+
+def _atualizar_europa(hoje, corte, falhas):
+    a = hoje.year if hoje.month >= 7 else hoje.year - 1
+    antigas = defaultdict(list)
+    if os.path.exists(EUROPA):
+        with open(EUROPA, encoding="utf-8") as f:
+            for l in csv.DictReader(f): antigas[(l["liga"], l["epoca"])].append([l["data"], l["casa_fs"], l["fora_fs"], l["gc"], l["gf"], l["neutro"]])
+    epocas = {}
+    for liga, (slug, _) in TACAS_EUR.items():
+        for i in range(5):
+            ep = f"{a - i}-{a - i + 1}"
+            if i and antigas.get((liga, ep)): epocas[(liga, ep)] = antigas[(liga, ep)]; continue
+            try: epocas[(liga, ep)] = _fs_epoca(slug if i == 0 else f"{slug}-{ep}")
+            except Exception as e:
+                falhas.append(f"Flashscore {slug} {ep}: {e}")
+                if antigas.get((liga, ep)): epocas[(liga, ep)] = antigas[(liga, ep)]
+    nomes = {x for js in epocas.values() for j in js for x in j[1:3]}
+    mapa = _mapear_nomes(nomes, carregar_clubes(), carregar_alias()["clubes"])
+    saida = sorted([liga, ep, j[0], mapa[j[1]], mapa[j[2]], j[3], j[4], j[5], j[1], j[2]] for (liga, ep), js in epocas.items() for j in js if j[0] >= corte)
+    if not saida: return falhas.append("Flashscore: nenhum jogo das taças europeias")
+    _gravar(EUROPA, ["liga", "epoca", "data", "casa", "fora", "gc", "gf", "neutro", "casa_fs", "fora_fs"], saida)
+    fora_das_ligas = sorted({x for l in saida for x in l[3:5]} - {e for j in carregar_clubes() for e in (j["casa"], j["fora"])})
+    print(f"taças europeias: {len(saida)} jogos, até {saida[-1][2]}; {len(fora_das_ligas)} equipas só com jogos europeus nos dados")
+
 def carregar_clubes():
     if not os.path.exists(CLUBES): return []
     with open(CLUBES, encoding="utf-8") as f:
         return [{"liga": l["liga"], "data": date.fromisoformat(l["data"]), "casa": l["casa"], "fora": l["fora"], "gc": int(l["gc"]), "gf": int(l["gf"]),
                  "odds": [l["o1"], l["ox"], l["o2"]], "neutro": False, "peso": 1.0} for l in csv.DictReader(f)]
+
+def carregar_europa():
+    if not os.path.exists(EUROPA): return []
+    with open(EUROPA, encoding="utf-8") as f:
+        return [{"liga": l["liga"], "data": date.fromisoformat(l["data"]), "casa": l["casa"], "fora": l["fora"], "gc": int(l["gc"]), "gf": int(l["gf"]),
+                 "odds": ["", "", ""], "neutro": l["neutro"] == "1", "peso": 1.0} for l in csv.DictReader(f)]
 
 def carregar_selecoes():
     if not os.path.exists(SELECOES): return []
@@ -152,6 +250,7 @@ def liga_da_comp(comp):
     c = norm(comp or "")
     if not c: return None
     if any(k in c for k in COMP_SELECOES): return "SEL"
+    if any(k in c for k in COMP_EUR): return "EUR"
     return next((liga for chave, liga in COMP_LIGA if norm(chave) in c), "?")
 
 
@@ -215,6 +314,8 @@ def registo(jogos, equipa, onde):
 def forma(jogos, equipa, n=6):
     return "".join("V" if (g := (j["gc"] - j["gf"]) * (1 if j["casa"] == equipa else -1)) > 0 else "E" if g == 0 else "D" for j in jogos[-n:])
 
+_MODELOS = {}
+
 def analisar(casa, fora, comp="", neutro=False, hoje=None):
     hoje = hoje or date.today()
     r = {"pedido": f"{casa} – {fora}", "avisos": []}
@@ -230,21 +331,29 @@ def analisar(casa, fora, comp="", neutro=False, hoje=None):
         jogos, c, f, liga, janela, meia, recente = sel, sc[0], sf[0], "SEL", 365 * 6, 730, 365 * 3
         aprox = [x for x, y in ((c, sc), (f, sf)) if not y[1]]
     else:
-        clubes = carregar_clubes()
+        clubes, europa = carregar_clubes(), carregar_europa()
         por_liga = defaultdict(set)
-        for j in clubes:
+        for j in clubes + europa:
             if (hoje - j["data"]).days <= 800: por_liga[j["liga"]].update((j["casa"], j["fora"]))
         if liga == "?": return {**r, "erro": f"sem dados de épocas passadas para a competição '{comp}'"}
         cand = []
-        for lg in ([liga] if liga else por_liga):
+        for lg in ([] if liga == "EUR" else [liga] if liga else [x for x in por_liga if x not in TACAS_EUR]):
             cc, cf = procurar(casa, por_liga[lg], alias["clubes"]), procurar(fora, por_liga[lg], alias["clubes"])
             if cc[0] and cf[0]: cand.append((cc[1] + cf[1], lg, cc, cf))
-        if not cand:
-            todos = set().union(*por_liga.values()) if por_liga else set()
-            falta = [f"{n} (parecidos: {', '.join(x[1]) or 'nenhum'})" for n in (casa, fora) if not (x := procurar(n, todos, alias["clubes"]))[0]]
-            return {**r, "erro": ("equipa não encontrada: " + "; ".join(falta)) if falta else "as duas equipas não jogam na mesma liga dos dados (competições europeias e taças não estão cobertas)"}
-        _, liga, cc, cf = max(cand, key=lambda x: x[0])
-        jogos, c, f, janela, meia, recente = [j for j in clubes if j["liga"] == liga], cc[0], cf[0], 365 * 3, 365, 730
+        if cand:
+            _, liga, cc, cf = max(cand, key=lambda x: x[0])
+            jogos = [j for j in clubes if j["liga"] == liga]
+        else:
+            # equipas de ligas diferentes ou taça europeia: um só modelo com todas as ligas europeias, ligadas pelos jogos europeus
+            conj = set().union(*(por_liga[x] for x in LIGAS_EUROPEIAS | set(TACAS_EUR)))
+            cc, cf = procurar(casa, conj, alias["clubes"]), procurar(fora, conj, alias["clubes"])
+            if not (cc[0] and cf[0]):
+                todos = set().union(*por_liga.values()) if por_liga else set()
+                falta = [f"{n} (parecidos: {', '.join(x[1]) or 'nenhum'})" for n in (casa, fora) if not (x := procurar(n, todos, alias["clubes"]))[0]]
+                return {**r, "erro": ("equipa não encontrada: " + "; ".join(falta)) if falta else "as duas equipas não jogam na mesma liga dos dados e uma delas é de fora da Europa"}
+            liga = "EUR"
+            jogos = sorted([j for j in clubes if j["liga"] in LIGAS_EUROPEIAS] + [{**j, "peso": PESO_EUROPA} for j in europa], key=lambda j: j["data"])
+        c, f, janela, meia, recente = cc[0], cf[0], 365 * 3, 365, 730
         aprox = [x for x, y in ((c, cc), (f, cf)) if not y[1]]
     jogos = [j for j in jogos if j["data"] < hoje]
     rec = [j for j in jogos if (hoje - j["data"]).days <= recente]
@@ -261,7 +370,9 @@ def analisar(casa, fora, comp="", neutro=False, hoje=None):
     for e, n in ((c, r["casa"]["total"]["n"]), (f, r["fora"]["total"]["n"])):
         if n < 12: r["avisos"].append(f"{e}: só {n} jogos recentes nos dados, estimativa pouco fiável")
     if liga == "SEL" and not neutro: r["avisos"].append("assume que a primeira seleção joga em casa; usar --neutro em campo neutro")
-    m = ajustar(jogos, hoje, meia, janela)
+    chave = (liga, hoje, len(jogos))
+    if chave not in _MODELOS: _MODELOS[chave] = ajustar(jogos, hoje, meia, janela)
+    m = _MODELOS[chave]
     if m and c in m["a"] and f in m["a"]: r["modelo"] = mercados(m, c, f, neutro)
     else: r["avisos"].append("jogos insuficientes para estimar probabilidades")
     return r
@@ -314,10 +425,78 @@ def avaliar():
     print("\napostar 1 unidade no resultado sempre que a odd de fecho supera a odd justa do modelo em 10%:")
     ap = [(x[2][i], i == x[3]) for x in prev for i in range(3) if x[0][i] * x[2][i] > 1.10 and x[0][i] > 0.35]
     if ap: print(f"  {len(ap)} apostas · acertou {pct(sum(c for _, c in ap) / len(ap))} · retorno {virg(100 * (sum(o for o, c in ap if c) - len(ap)) / len(ap), 1)}% por aposta")
+    avaliar_europa()
     print("\nfavoritos por faixa de odd de fecho: vezes que ganharam")
     for a, b in ((1.0, 1.2), (1.2, 1.4), (1.4, 1.6), (1.6, 1.8), (1.8, 2.1), (2.1, 2.6)):
         g = [min(x[2]) == x[2][x[3]] for x in prev if a <= min(x[2]) < b]
         if g: print(f"  {virg(a)}–{virg(b)}: {len(g):5d} jogos · ganhou {pct(sum(g) / len(g))} · necessário para não perder dinheiro {pct(2 / (a + b))}")
+
+
+def avaliar_europa():
+    hoje = date.today(); europa = carregar_europa()
+    base = sorted([j for j in carregar_clubes() if j["liga"] in LIGAS_EUROPEIAS] + [{**j, "peso": PESO_EUROPA} for j in europa], key=lambda j: j["data"])
+    prev, ini = [], date(hoje.year - 1, hoje.month, 1)
+    while ini < hoje:
+        fim = date(ini.year + (ini.month == 12), ini.month % 12 + 1, 1)
+        alvo = [j for j in europa if ini <= j["data"] < fim]
+        m = ajustar(base, ini, 365, 365 * 3) if alvo else None
+        for j in alvo:
+            if m and j["casa"] in m["a"] and j["fora"] in m["a"]:
+                p = mercados(m, j["casa"], j["fora"], j["neutro"])
+                prev.append(([p["1"], p["X"], p["2"]], 0 if j["gc"] > j["gf"] else 1 if j["gc"] == j["gf"] else 2))
+        ini = fim
+    if not prev: return print("\ntaças europeias: sem jogos para avaliar (correr --atualizar)")
+    print(f"\ntaças europeias (modelo conjunto, sem odds de fecho para comparar): {len(prev)} jogos, log-loss {virg(-sum(math.log(max(p[r], 1e-9)) for p, r in prev) / len(prev), 3)} (palpite cego 1,099)")
+    for a, b in ((0.33, 0.45), (0.45, 0.55), (0.55, 0.65), (0.65, 0.75), (0.75, 1.01)):
+        g = [(max(p), p.index(max(p)) == r) for p, r in prev if a <= max(p) < b]
+        if g: print(f"  favorito {pct(a)}–{pct(min(b, 1))}: {len(g):5d} jogos · previsto {pct(sum(x for x, _ in g) / len(g))} · real {pct(sum(c for _, c in g) / len(g))}")
+
+
+# ---------------- jogos do dia (Flashscore) ----------------
+ESTADO_FS = {"4": "adiado", "5": "cancelado", "10": "terminado após prolongamento", "11": "terminado após penáltis"}
+EXCLUIR_FS = re.compile(r"women|u\d\d|youth|reserve|amateur", re.I)
+
+def _fs_dia(desvio):
+    txt = _ler_url(f"{FS_FEED}/f_1_{desvio}_3_en_1", **{"x-fsign": FS_SIGN, "Referer": "https://www.flashscore.com/"})
+    out, liga = {}, ""
+    for bloco in txt.split("¬~"):
+        c = dict(x.split("÷", 1) for x in bloco.split("¬") if "÷" in x)
+        if "ZA" in c: liga = c["ZA"]
+        if "AA" in c and "AE" in c and c.get("AD", "").isdigit() and not EXCLUIR_FS.search(liga):
+            out[c["AA"]] = {"liga": liga, "inicio": datetime.fromtimestamp(int(c["AD"]), timezone.utc), "casa": c["AE"], "fora": c["AF"],
+                            "gc": c.get("AG", ""), "gf": c.get("AH", ""), "ab": c.get("AB", ""), "ac": c.get("AC", "")}
+    return out
+
+def _semelhanca(pedido, nomes_fs, alias):
+    alvos = {sem_enchimento(norm(pedido))}
+    if alias.get(norm(pedido)): alvos.add(sem_enchimento(norm(alias[norm(pedido)])))
+    b = sem_enchimento(norm(nomes_fs))
+    return max(1.0 if a == b else 0.95 if (a in b.split() or b in a.split()) else difflib.SequenceMatcher(None, a, b).ratio() for a in alvos)
+
+def jogos_flashscore(pedidos, dia=None):
+    """Procura cada jogo ("Casa - Fora", "Casa–Fora" ou "X vence o Y") nos jogos do Flashscore desse dia de Lisboa."""
+    from zoneinfo import ZoneInfo
+    lx = ZoneInfo("Europe/Lisbon"); hoje = datetime.now(lx).date(); dia = dia or hoje
+    todos = {}
+    for d in {max(-7, min(7, (dia - hoje).days + k)) for k in (-1, 0, 1)}:
+        try: todos.update(_fs_dia(d))
+        except Exception as e: return [{"pedido": p, "erro": f"Flashscore indisponível: {e}"} for p in pedidos]
+    jogos = [j for j in todos.values() if j["inicio"].astimezone(lx).date() == dia]
+    alias = carregar_alias()["clubes"]; res = []
+    for p in pedidos:
+        partes = re.split(r"\s+vence\s+(?:o|a|os|as)\s+|\s+(?:-|–|vs\.?|x)\s+|–", p, maxsplit=1)
+        if len(partes) != 2: res.append({"pedido": p, "erro": 'escreve o jogo como "Casa - Fora"'}); continue
+        a, b = (x.strip() for x in partes); melhor = None
+        for j in jogos:
+            for x, y, troca in ((a, b, False), (b, a, True)):
+                s1, s2 = _semelhanca(x, j["casa"], alias), _semelhanca(y, j["fora"], alias)
+                if min(s1, s2) >= 0.6 and (s1 + s2) / 2 >= 0.75 and (not melhor or s1 + s2 > melhor[0]): melhor = (s1 + s2, j, troca)
+        if not melhor: res.append({"pedido": p, "erro": f"não encontrado no Flashscore em {dia.isoformat()}"}); continue
+        j = melhor[1]; ab, ac = j["ab"], j["ac"]
+        estado = "por começar" if ab == "1" else "a decorrer" if ab == "2" else "terminado" if ac == "3" else ESTADO_FS.get(ac, f"estado especial (código {ac}): confirmar")
+        res.append({"pedido": p, "jogo": f'{j["casa"]} – {j["fora"]}', "liga": j["liga"], "hora_lisboa": j["inicio"].astimezone(lx).strftime("%Y-%m-%d %H:%M"),
+                    "estado": estado, "resultado": f'{j["gc"]}-{j["gf"]}' if j["gc"] != "" else "", "pedido_invertido": melhor[2]})
+    return res
 
 
 # ---------------- odds de épocas passadas ----------------
@@ -356,6 +535,16 @@ def main(args):
     if args[0] == "--atualizar": return atualizar()
     if args[0] == "--avaliar": return avaliar()
     if args[0] == "--boletim": return boletim(args[1]) if len(args) > 1 else print(USO)
+    if args[0] == "--flashscore":
+        from zoneinfo import ZoneInfo
+        hoje = datetime.now(ZoneInfo("Europe/Lisbon")).date(); resto = args[1:]; dia = hoje
+        if resto and (resto[0] in ("ontem", "amanha", "amanhã") or re.fullmatch(r"\d{4}-\d{2}-\d{2}", resto[0])):
+            x = resto.pop(0); dia = hoje - timedelta(days=1) if x == "ontem" else hoje + timedelta(days=1) if x.startswith("amanh") else date.fromisoformat(x)
+        res = jogos_flashscore([a for a in resto if not a.startswith("--")], dia)
+        if "--json" in args: return print(json.dumps(res, ensure_ascii=False, indent=1))
+        for r in res:
+            print(f'{r["pedido"]}: {r["erro"]}' if "erro" in r else f'{r["pedido"]}: {r["jogo"]} · {r["liga"]} · {r["hora_lisboa"]} (Lisboa) · {r["estado"]}' + (f' · {r["resultado"]}' if r["resultado"] else "") + (" · ATENÇÃO: a primeira equipa do pedido joga fora" if r["pedido_invertido"] else ""))
+        return
     if args[0] == "--equipas":
         t = norm(" ".join(args[1:]))
         for nome, js in (("clubes", carregar_clubes()), ("seleções", carregar_selecoes())):

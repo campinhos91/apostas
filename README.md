@@ -12,7 +12,7 @@ escrito à mão.
 apostas-template/
   gerar.py            script gerador: página e dados da app
   epocas.py           resultados de épocas passadas: estatísticas por jogo e probabilidade dos boletins
-  epocas/             dados descarregados por epocas.py (clubes.csv, selecoes.csv) e alias.json
+  epocas/             dados descarregados por epocas.py (clubes.csv, selecoes.csv, europa.csv) e alias.json
   bilhetes.html        <head>/CSS de referência da página + um exemplo estático
   dados_atual.json     cópia do último dados.json usado (gerada automaticamente)
   dados_exemplo.json   exemplo de dados.json para testes
@@ -73,16 +73,36 @@ python3 epocas.py --boletim dados.json    # probabilidade de cada boletim acerta
 python3 epocas.py --atualizar             # descarrega os resultados mais recentes
 python3 epocas.py --avaliar               # mede o acerto do modelo contra as odds de fecho
 python3 epocas.py --equipas TEXTO         # nomes das equipas tal como estão nos dados
+python3 epocas.py --flashscore [AAAA-MM-DD|ontem|amanha] "Casa - Fora" ...
+                                          # estado, hora de Lisboa e resultado no Flashscore
 ```
 
 Para cada jogo (equipa da casa primeiro, como na Betclic) mostra o registo em
 casa e fora nas duas últimas épocas, a forma, o confronto direto e a
 probabilidade estimada de cada mercado, com a odd justa correspondente. Os
 dados vêm de football-data.co.uk (31 ligas de clubes, 4 épocas, com odds de
-fecho) e de github.com/martj42/international_results (seleções, 12 anos).
-Não cobre Colômbia, Uruguai, futebol feminino, Sub-21 nem competições europeias
-de clubes: nesses casos responde "sem dados". Nomes em português que não
-coincidam com os dos dados acrescentam-se em `epocas/alias.json`.
+fecho), do Flashscore (Liga dos Campeões, Liga Europa e Liga Conferência,
+qualificações incluídas, 5 épocas, em `epocas/europa.csv`) e de
+github.com/martj42/international_results (seleções, 12 anos). Não cobre
+Colômbia, Uruguai, futebol feminino nem Sub-21: nesses casos responde "sem
+dados". Nomes em português ou do Flashscore que não coincidam com os dos dados
+acrescentam-se em `epocas/alias.json`.
+
+Jogos de taças europeias, ou de equipas de ligas diferentes, usam um só modelo
+com todas as ligas europeias e as taças europeias: os jogos europeus são os
+únicos que comparam ligas, por isso pesam 15 vezes mais (`PESO_EUROPA`). Com
+peso 1 o modelo achatava as diferenças (favoritos a quem dava 65-75% ganhavam
+91%); com 15, nos jogos europeus dos 12 meses anteriores, os favoritos a quem
+dava 75% ou mais ganharam 82% para 82% previstos (`--avaliar`). Equipas de
+ligas que não estão nos dados (Chéquia, Suíça, Croácia, Israel...) só têm os
+jogos europeus, e o aviso de poucos jogos recentes assinala-o.
+
+`--flashscore` lê os jogos de um dia (até 7 dias para trás ou para a frente)
+no Flashscore e diz, para cada pedido, a hora de Lisboa, o estado (por
+começar, a decorrer, terminado, adiado...) e o resultado. Serve para confirmar
+datas e horas e para registar resultados (os jogos acabados no prolongamento
+ou nos penáltis aparecem assim marcados: o resultado mostrado não é o dos 90
+minutos).
 
 O que os números valem (`--avaliar`, 9 mil jogos dos últimos 12 meses): a
 probabilidade do favorito está bem calibrada, mas as odds de fecho preveem
@@ -156,6 +176,6 @@ página.
 
 `dados_atual.json`, `historico.json`, `apostas-do-dia.html` e
 `docs/data/apostas.json` são todos escritos por `gerar.py`, e
-`epocas/clubes.csv` e `epocas/selecoes.csv` por `epocas.py --atualizar` — nunca
+`epocas/clubes.csv`, `epocas/selecoes.csv` e `epocas/europa.csv` por `epocas.py --atualizar` — nunca
 editar à mão. `.bak`, `.lock` e `.tmp` (ficheiros de escrita atómica e de segurança do
 histórico) estão no `.gitignore`.

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-13T01:44:11+01:00",
+ "atualizado": "2026-10-13T02:05:34+01:00",
  "dia": "2026-10-13",
  "rotulo": "Terça-feira · 13 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -81,6 +81,13 @@
    "risco": "alto",
    "legs": [
     {
+     "h": "19:45",
+     "j": "Burnley vence o Charlton",
+     "m": "Resultado final",
+     "o": "1,60",
+     "comp": "Championship"
+    },
+    {
      "h": "20:00",
      "j": "Atlético de Madrid–Manchester United",
      "m": "Dupla hipótese: Atlético de Madrid ou empate",
@@ -93,16 +100,9 @@
      "m": "Ambas marcam",
      "o": "1,34",
      "comp": "Liga dos Campeões"
-    },
-    {
-     "h": "20:00",
-     "j": "Villarreal–Nápoles",
-     "m": "Ambas marcam",
-     "o": "1,48",
-     "comp": "Liga dos Campeões"
     }
    ],
-   "total": "2,48",
+   "total": "2,68",
    "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
@@ -114,7 +114,7 @@
    "legs": [
     {
      "h": "00:30",
-     "d": "QUA",
+     "d": "QUI",
      "j": "Inter Miami vence o New York City FC",
      "m": "Resultado final",
      "o": "1,47",
@@ -131,81 +131,72 @@
     {
      "h": "17:45",
      "d": "QUI",
-     "j": "AZ vence o Hapoel Beer Sheva",
+     "j": "Gent vence o AGF",
      "m": "Resultado final",
-     "o": "1,28",
-     "comp": "Liga Europa"
+     "o": "1,56",
+     "comp": "Liga Conferência"
     }
    ],
-   "total": "2,30",
-   "rodape": "3 seleções · quarta e quinta"
+   "total": "2,80",
+   "rodape": "3 seleções · todas no quinta"
   }
  ],
  "amanha": [
   {
-   "h": "00:30",
+   "h": "17:45",
    "d": "QUA",
-   "j": "Inter Miami vence o New York City FC",
+   "j": "Como vence o Feyenoord",
    "m": "Resultado final",
-   "o": "1,47",
-   "comp": "MLS",
-   "n": "Inter Miami em casa nas 2 últimas épocas: 21V 10E 6D, 2,8 golos marcados por jogo; confronto direto 3V 4E 1D a favor; o modelo dá 55% à vitória, a odd da Betclic implica cerca de 68%."
+   "o": "1,88",
+   "comp": "Liga dos Campeões",
+   "n": "Modelo com ligas e taças europeias: Como 47%, perto dos 53% da odd; Feyenoord em casa 28V 7E 10D em 2 épocas, Como fora 16V 10E 11D e forma VVVVDE."
   },
   {
-   "h": "00:30",
+   "h": "23:00",
    "d": "QUA",
-   "j": "Cincinnati vence o New England Revolution",
-   "m": "Resultado final",
-   "o": "1,93",
-   "comp": "MLS",
-   "n": "Cincinnati em casa: 19V 7E 8D em 2 épocas; New England fora: 10V 7E 16D; o modelo dá 47% à vitória da casa, em linha com a odd de 1,93."
-  },
-  {
-   "h": "00:30",
-   "d": "QUA",
-   "j": "Columbus Crew vence o Charlotte",
-   "m": "Resultado final",
-   "o": "1,97",
-   "comp": "MLS",
-   "n": "Columbus em casa: 17V 7E 10D; Charlotte fora: 12V 6E 16D; o modelo dá só 43% ao Columbus e o confronto direto (2V 2E 4D) é desfavorável, por isso fica como previsão e não como aposta."
+   "j": "Sarmiento–River Plate",
+   "m": "Dupla hipótese: River Plate ou empate",
+   "o": "1,13",
+   "comp": "Primeira Liga (Argentina)",
+   "n": "River fora: 13V 11E 10D em 2 épocas; o modelo dá 75% a River ou empate (a odd implica 88%); data e hora confirmadas no Flashscore."
   }
  ],
  "fora": [
   [
-   "Sarmiento–River Plate: dupla hipótese River ou empate (1,13)",
-   "data contraditória: a Betclic mostra 'amanhã 00:00' (23:00 de hoje em Lisboa) e o futboltotal dá quarta, 14/10, 18:00 na Argentina; era a única perna de hoje com dados históricos (River X2 75% no modelo)"
+   "Villarreal–Nápoles: ambas marcam (1,48)",
+   "o modelo dá 56% contra os 68% da odd; o Nápoles fora marca 1,3 golos por jogo e só teve ambas marcam em 45% desses jogos"
+  ],
+  [
+   "AZ vence o Hapoel Beer Sheva (1,28)",
+   "o Hapoel só tem 9 jogos nos dados (só europeus, a liga israelita não está coberta) e o modelo dá 41%: sem base para confirmar a odd"
   ],
   [
    "Lens–Sporting (2,42 / 3,68 / 2,60)",
-   "jogo equilibrado na própria odd da Betclic, sem favorito, e sem dados no modelo (competição europeia)"
-  ],
-  [
-   "Villarreal vence o Nápoles (2,10)",
-   "odd longe de baixo risco e notícias contraditórias sobre lesões no Nápoles; usado só o mercado 'Ambas marcam' na múltipla arriscada"
+   "sem favorito claro: modelo Lens 30% · empate 26% · Sporting 44%"
   ],
   [
    "Galatasaray–Barcelona: Mais de 2,5 golos (1,16)",
-   "Raphinha lesionado no Barcelona e Osimhen em dúvida no Galatasaray, segundo as notícias desta pesquisa; o jogo entrou só pela vitória do Barcelona na múltipla segura"
+   "Raphinha lesionado e Osimhen em dúvida, segundo as notícias desta pesquisa; o jogo entrou só pela vitória do Barcelona na múltipla segura"
   ],
   [
-   "Sabah–Slavia Praga: Slavia vence (2,00)",
-   "sem dados no modelo (competição europeia) e odd de 2,00 sem margem de segurança"
+   "Wolverhampton vence o Bolton (1,38)",
+   "Wolves (despromovido) e Bolton (promovido) só têm 8 e 9 jogos recentes no Championship: estimativa pouco fiável"
   ],
   [
-   "Como vence o Feyenoord (1,88)",
-   "sem dados no modelo (competição europeia) e odd acima de baixo risco"
+   "Birmingham vence o Preston (1,57)",
+   "o modelo dá 50%, abaixo dos 64% que a odd implica"
   ],
   [
-   "Sunderland vence o Torreense (1,37)",
-   "sem dados no modelo para o confronto (Liga Europa); preferidos os jogos da MLS, que têm histórico"
+   "QPR vence o Derby (1,74, amanhã)",
+   "o modelo dá só 41% contra 57% da odd; fica fora também da previsão"
   ],
   [
-   "DC United–New York Red Bulls",
-   "equilibrado nos dados (1: 38% · X: 26% · 2: 35%), sem favorito"
+   "Sunderland vence o Torreense (1,37, quinta)",
+   "o Torreense só tem 1 jogo nos dados"
   ],
   [
    "Cobertura da Betclic",
-   "betclic.pt devolveu 403 em todas as tentativas a partir do servidor desta rotina; as odds foram lidas em betclic.com (mesmo número de competição, horas convertidas para Lisboa com −1h). Consultadas: Liga dos Campeões, Liga Europa, Liga Conferência, MLS, Argentina, Brasil, Escócia, Premier League, LaLiga, Bundesliga, Ligue 1, Eredivisie e Liga Portugal (estas sete sem jogos até sábado). Arábia Saudita, Coreia do Sul e Japão deram 403 também no .com; a Taça de Portugal não mostrou jogos. Hoje só há Liga dos Campeões e o epocas.py não tem dados de competições europeias: a múltipla arriscada assenta nas odds da Betclic e nas notícias, não em dados históricos."
+   "betclic.pt devolveu 403 a partir do servidor desta rotina; odds lidas em betclic.com (mesmo número de competição) e datas e horas confirmadas no Flashscore. Consultadas: Liga dos Campeões, Liga Europa, Liga Conferência, Championship, MLS, Argentina, Brasil, Escócia, Premier League, LaLiga, Bundesliga, Ligue 1, Eredivisie e Liga Portugal (estas sete sem jogos até sábado). A página da Liga dos Campeões da Betclic ainda só mostra o Feyenoord–Como dos 9 jogos de quarta. Arábia Saudita, Coreia do Sul e Japão deram 403 também no .com."
   ]
  ],
  "historico": [
@@ -262,10 +253,17 @@
     {
      "t": "Múltipla arriscada",
      "c": "t3",
-     "total": "2,48",
+     "total": "2,68",
      "e": "pendente",
      "d": "",
      "legs": [
+      {
+       "h": "19:45",
+       "j": "Burnley vence o Charlton",
+       "m": "Resultado final",
+       "o": "1,60",
+       "comp": "Championship"
+      },
       {
        "h": "20:00",
        "j": "Atlético de Madrid–Manchester United",
@@ -279,26 +277,19 @@
        "m": "Ambas marcam",
        "o": "1,34",
        "comp": "Liga dos Campeões"
-      },
-      {
-       "h": "20:00",
-       "j": "Villarreal–Nápoles",
-       "m": "Ambas marcam",
-       "o": "1,48",
-       "comp": "Liga dos Campeões"
       }
      ]
     },
     {
      "t": "Múltipla dos próximos dias",
      "c": "t4",
-     "total": "2,30",
+     "total": "2,80",
      "e": "pendente",
      "d": "",
      "legs": [
       {
        "h": "00:30",
-       "d": "QUA",
+       "d": "QUI",
        "j": "Inter Miami vence o New York City FC",
        "m": "Resultado final",
        "o": "1,47",
@@ -315,10 +306,10 @@
       {
        "h": "17:45",
        "d": "QUI",
-       "j": "AZ vence o Hapoel Beer Sheva",
+       "j": "Gent vence o AGF",
        "m": "Resultado final",
-       "o": "1,28",
-       "comp": "Liga Europa"
+       "o": "1,56",
+       "comp": "Liga Conferência"
       }
      ]
     }
