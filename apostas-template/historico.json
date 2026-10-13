@@ -53,15 +53,17 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,68",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Burnley vence o Charlton (2-2) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "19:45",
       "j": "Burnley vence o Charlton",
       "m": "Resultado final",
       "o": "1,60",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:00",

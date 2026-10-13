@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-13T03:03:59+01:00",
+ "atualizado": "2026-10-13T21:55:52+01:00",
  "dia": "2026-10-13",
  "rotulo": "Terça-feira · 13 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -254,15 +254,17 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,68",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Burnley vence o Charlton (2-2) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "19:45",
        "j": "Burnley vence o Charlton",
        "m": "Resultado final",
        "o": "1,60",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
@@ -3164,9 +3166,9 @@
   }
  ],
  "estatisticas": {
-  "decididos": 80,
+  "decididos": 81,
   "ganhos": 38,
-  "pernas": 138,
+  "pernas": 139,
   "pernas_ok": 91,
   "dias": 23,
   "odd_media": "1,62",
@@ -3187,10 +3189,10 @@
    },
    {
     "ok": 4,
-    "dec": 20,
-    "pct": 20,
+    "dec": 21,
+    "pct": 19,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 5,
@@ -3203,8 +3205,8 @@
   "mercados": [
    {
     "ok": 81,
-    "dec": 127,
-    "pct": 64,
+    "dec": 128,
+    "pct": 63,
     "nome": "Resultado final"
    },
    {
@@ -3259,7 +3261,7 @@
    },
    {
     "ok": 44,
-    "dec": 81,
+    "dec": 82,
     "pct": 54,
     "nome": "Odd acima de 1,45"
    }
@@ -3267,10 +3269,10 @@
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Terça-feira, 13 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 3,
