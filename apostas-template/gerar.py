@@ -271,14 +271,19 @@ def pag_hist(h):
     ng = sum(b["e"] == "ganho" for b in bs); npd = sum(b["e"] == "perdido" for b in bs); nv = len(bs) - ng - npd
     out = (f'<div class="sum hs"><div><small>Boletins</small><b>{len(bs)}</b></div><div><small>Ganhos</small><b>{ng}</b></div>'
            f'<div class="p"><small>Perdidos</small><b>{npd}</b></div><div class="n"><small>Por verificar</small><b>{nv}</b></div></div>')
-    for e in h:
+    out += DX_BOTOES
+    for i, e in enumerate(h):
         rows = ""
         for b in e["boletins"]:
             k, lb = ESTADOS[b["e"]]
             legs = "".join(f'<li class="{l.get("r", "")}">{(l["d"].capitalize() + " ") if l.get("d") else ""}{l["h"] + " · " if l.get("h") else ""}{l["j"]} · {l["m"]} · {l["o"]}' + (f' <em>{l["x"]}</em>' if l.get("x") else "") + "</li>" for l in b["legs"])
             det = f'<small>{b["d"]}</small>' if b.get("d") and not any(l.get("r") for l in b["legs"]) else ""
             rows += (f'<li class="hr"><div class="hh"><b>{b["t"]}</b><span class="od">{b["total"]}</span><span class="st {k}">{lb}</span></div>{det}<ul class="hl">{legs}</ul></li>')
-        out += f'<section class="hday"><div class="head"><h2>{e["rotulo"].replace(" · ", ", ", 1)}</h2></div><article class="tk"><ul class="hlist">{rows}</ul></article></section>'
+        cont = {k: sum(b["e"] == k for b in e["boletins"]) for k in ("ganho", "perdido")}
+        meta = f'{cont["ganho"]} {"ganho" if cont["ganho"] == 1 else "ganhos"} · {cont["perdido"]} {"perdido" if cont["perdido"] == 1 else "perdidos"}'
+        resto = len(e["boletins"]) - cont["ganho"] - cont["perdido"]
+        if resto: meta += f" · {resto} por decidir"
+        out += secao(e["rotulo"].replace(" · ", ", ", 1), f'<article class="tk"><ul class="hlist">{rows}</ul></article>', i == 0, meta)
     return out + '<p class="note">Só ganho ou perdido, sem valores. Cada dia é acrescentado automaticamente pela rotina.</p>'
 HIST_CSS = """
 <style>
@@ -317,9 +322,43 @@ function show(k){for(var i=0;i<t.length;i++){t[i].setAttribute('aria-selected',t
 function fromHash(){var h=location.hash;if(H[h]){show(H[h]);return}if(h.length>1){var el=document.getElementById(h.slice(1));if(el&&document.getElementById('p-hoje').contains(el)){show('hoje');el.scrollIntoView()}}}
 for(var i=0;i<t.length;i++)t[i].addEventListener('click',function(){var k=this.dataset.p;show(k);try{history.replaceState(null,'',U[k]||location.pathname+location.search)}catch(e){}});
 var L=document.querySelectorAll('.sum a[href^="#"]');for(var k=0;k<L.length;k++)L[k].addEventListener('click',function(ev){var el=document.getElementById(this.getAttribute('href').slice(1));if(!el)return;ev.preventDefault();show('hoje');el.scrollIntoView({behavior:'smooth',block:'start'})});
+document.addEventListener('click',function(ev){var b=ev.target.closest('.dxt button');if(!b)return;var p=b.closest('[role=tabpanel]')||document,d=p.querySelectorAll('details.dx');for(var i=0;i<d.length;i++)d[i].open=b.dataset.dx==='1'});
 window.addEventListener('hashchange',fromHash);fromHash();
 })();
 </script>"""
+
+# ---------------- expandir e colapsar ----------------
+DX_BOTOES = '<div class="dxt"><button type="button" data-dx="1">Expandir tudo</button><button type="button" data-dx="0">Colapsar tudo</button></div>'
+def secao(titulo, corpo, aberto=True, meta=""):
+    m = f'<span class="dxm">{meta}</span>' if meta else ""
+    return f'<details class="hday dx"{" open" if aberto else ""}><summary><h2>{titulo}</h2>{m}</summary>{corpo}</details>'
+DX_CSS = """
+<style>
+details.dx>summary,details.cx>summary{list-style:none;cursor:pointer;-webkit-tap-highlight-color:transparent}
+details.dx>summary::-webkit-details-marker,details.cx>summary::-webkit-details-marker{display:none}
+details.dx>summary:after,details.cx>summary:after{content:"";flex:0 0 auto;width:8px;height:8px;margin:0 4px 0 2px;border-right:2px solid var(--soft);border-bottom:2px solid var(--soft);transform:translateY(-2px) rotate(45deg);transition:transform .15s ease}
+details[open].dx>summary:after,details[open].cx>summary:after{transform:translateY(2px) rotate(-135deg)}
+details.dx>summary{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:12px;align-items:center;margin:0 0 20px}
+details.dx>summary h2{margin:0;grid-column:1}
+details.dx>summary .dxm{grid-column:1;grid-row:2;margin-top:2px}
+details.dx>summary:after{grid-column:2;grid-row:1 / span 2}
+details.dx:not([open]){margin-bottom:0;border-bottom:1px solid var(--hair)}
+details.dx:not([open])>summary{margin:0;padding:14px 0}
+details.dx:not([open])>summary h2{font-size:19px}
+details.dx[open]+details.dx:not([open]){margin-top:-12px}
+.dxm{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--soft);white-space:nowrap}
+details.cx>summary{display:flex;align-items:center;gap:10px;padding:20px 20px 12px}
+details.cx>summary h3{margin-right:auto}
+details.cx:not([open])>summary{padding-bottom:20px}
+details.dx>summary:focus-visible,details.cx>summary:focus-visible{outline:2px solid var(--pitch);outline-offset:2px;border-radius:10px}
+.dxt{display:flex;gap:8px;margin:0 0 20px}
+.dxt button{appearance:none;font:600 12.5px "IBM Plex Mono",ui-monospace,monospace;color:var(--ink);background:var(--card);border:1px solid var(--hair);border-radius:999px;padding:8px 14px;cursor:pointer}
+.dxt button:hover{border-color:var(--pitch);color:var(--pitch)}
+.dxt button:focus-visible{outline:2px solid var(--pitch);outline-offset:2px}
+@media(max-width:640px){details.cx>summary{padding:18px 16px 10px}details.cx:not([open])>summary{padding-bottom:18px}.dxm{font-size:11px}}
+@media(prefers-reduced-motion:reduce){details.dx>summary:after,details.cx>summary:after{transition:none}}
+</style>
+"""
 
 # ---------------- estatísticas (separador da página) ----------------
 def _pct(a, b): return f"{round(100 * a / b)}%" if b else "–"
@@ -329,9 +368,9 @@ def _linha(rotulo, ok, dec, extra="", perna=False):
     sub = base + (f" · {extra}" if extra else "") if dec else (extra or "sem dados ainda")
     cor = " lo" if dec and larg < 50 else ""
     return f'<div class="sr"><div class="sl"><b>{rotulo}</b><small>{sub}</small></div><div class="sb" aria-hidden="true"><i class="{cor.strip()}" style="width:{larg}%"></i></div><span class="sp{cor}">{_pct(ok, dec)}</span></div>'
-def _bloco(titulo, linhas, nota=""):
+def _bloco(titulo, linhas, nota="", aberto=True, meta=""):
     n = f'<p class="pn">{nota}</p>' if nota else ""
-    return f'<section class="hday"><div class="head"><h2>{titulo}</h2></div><article class="tk">{"".join(linhas)}{n}</article></section>'
+    return secao(titulo, f'<article class="tk">{"".join(linhas)}{n}</article>', aberto, meta)
 def pag_est(h):
     if not h: return '<p class="calm">Ainda não há apostas para estatísticas.</p>'
     bs = [(e, b) for e in h for b in e["boletins"]]
@@ -366,9 +405,9 @@ def pag_est(h):
     media = f"odd média das pernas {fmt(sum(odds) / len(odds))}" if odds else ""
     amostra = (f"Amostra pequena: {len(pernas)} pernas decididas em {len(h)} dias{(' (' + media + ')') if media else ''}. "
                "As percentagens só descrevem o que já aconteceu e não garantem nada sobre os próximos jogos. As contas em euros estão no separador Banca.")
-    return (chips + _bloco("Por tipo de boletim", tipos, "Um boletim só conta como decidido quando ganha ou perde; os pendentes ficam de fora.")
+    return (chips + DX_BOTOES + _bloco("Por tipo de boletim", tipos, "Um boletim só conta como decidido quando ganha ou perde; os pendentes ficam de fora.")
             + _bloco("Por mercado", mercs, "Conta cada jogo e mercado uma só vez, mesmo que apareça em vários boletins.")
-            + _bloco("Por faixa de odd", fx) + _bloco("Por dia", dias) + f'<p class="note">{amostra}</p>')
+            + _bloco("Por faixa de odd", fx) + _bloco("Por dia", dias, aberto=False, meta=f"{len(dias)} dias") + f'<p class="note">{amostra}</p>')
 EST_CSS = """
 <style>
 .sr{display:grid;grid-template-columns:minmax(0,1fr) 140px 48px;gap:6px 16px;align-items:center;padding:14px 20px;border-top:1px dashed var(--hair)}
@@ -425,19 +464,20 @@ def pag_ontem(d):
         cnt = f'<span class="cnt">{n} de {len(d["ontem"])} ganhos</span>'
     else:
         rows = '<li class="r"><span class="lg"><b>Sem apostas de ontem para verificar</b></span></li>'; cnt = ""
-    return f'<div class="wide"><article class="tk"><header><h3>Como correram as apostas de ontem</h3>{cnt}</header><ul>{rows}</ul></article></div>'
+    return f'<div class="wide"><article class="tk"><details class="cx" open><summary><h3>Como correram as apostas de ontem</h3>{cnt}</summary><ul>{rows}</ul></details></article></div>'
 def pag_amanha(d):
     if not d.get("amanha"): return ""
     rows = "".join(f'<li><span class="tm"><u>{l["d"].capitalize()}</u>{l["h"]}</span><span class="lg"><b>{l["j"]}</b><small>{l["m"]} · {l["n"]}</small></span><span class="od">{l["o"]}</span></li>' for l in d["amanha"])
-    return f'<article class="tk prev" id="amanha"><header><h3>Previsão para amanhã</h3><span class="st n">Provisório</span></header><ul>{rows}</ul><p class="pn">Odds, lesões e equipas podem mudar. A rotina de amanhã confirma tudo.</p></article>'
+    return f'<article class="tk prev" id="amanha"><details class="cx" open><summary><h3>Previsão para amanhã</h3><span class="st n">Provisório</span></summary><ul>{rows}</ul><p class="pn">Odds, lesões e equipas podem mudar. A rotina de amanhã confirma tudo.</p></details></article>'
 def pag_fora(d):
     if not d.get("fora"): return ""
     lis = "".join(f'<li class="r"><span class="lg"><b>{a}</b><small>{b}</small></span></li>' for a, b in d["fora"])
-    return f'<div class="wide next fora"><article class="tk"><header><h3>Ficaram de fora</h3></header><ul>{lis}</ul></article></div>'
+    n = sum(not a.startswith("Cobertura") for a, _ in d["fora"])
+    return f'<div class="wide next fora"><article class="tk"><details class="cx"><summary><h3>Ficaram de fora</h3><span class="cnt">{n} {"jogo" if n == 1 else "jogos"}</span></summary><ul>{lis}</ul></details></article></div>'
 def pagina(d, hist=None):
     src = open(TPL, encoding="utf-8").read()
     head = src[: src.index("</style>") + len("</style>")]
-    head = re.sub(r"<title>.*?</title>", "<title>Apostas do dia</title>", head, count=1) + HIST_CSS + EST_CSS + BANCA_CSS
+    head = re.sub(r"<title>.*?</title>", "<title>Apostas do dia</title>", head, count=1) + HIST_CSS + EST_CSS + BANCA_CSS + DX_CSS
     if "<meta charset" not in head:  # sem isto, aberta fora de um servidor que diga utf-8, os acentos saem trocados
         head = '<!doctype html>\n<html lang="pt-PT">\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n' + head
     todos = d.get("hoje", []) + d.get("proximos", [])

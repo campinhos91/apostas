@@ -82,8 +82,10 @@ function linha(nome, c, extra) {
   var sub = c.dec ? c.ganhos + " " + (c.ganhos === 1 ? "ganho" : "ganhos") + " em " + c.dec + " (" + Math.round(100 * c.ganhos / c.dec) + "%) · retorno " + perc(c.retorno, true) : "sem boletins decididos";
   return '<div class="mr"><div class="sl"><b>' + esc(nome) + '</b><small>' + esc(sub + (extra ? " · " + extra : "")) + '</small></div><span class="sp' + cor(c.saldo) + '">' + eur(c.saldo, true) + '</span></div>';
 }
-function bloco(titulo, linhas, nota) {
-  return linhas.length ? '<section class="hday"><div class="head"><h2>' + titulo + '</h2></div><article class="tk">' + linhas.join("") + (nota ? '<p class="pn">' + nota + '</p>' : "") + '</article></section>' : "";
+// blocos que começam abertos; o resto começa fechado e cada um lembra-se do que o utilizador escolheu enquanto a página está aberta
+var ABERTOS = {"Evolução da banca": true, "Por tipo de boletim": true};
+function bloco(titulo, linhas, nota, meta) {
+  return linhas.length ? '<details class="hday dx" data-k="' + esc(titulo) + '"' + (ABERTOS[titulo] ? " open" : "") + '><summary><h2>' + titulo + '</h2>' + (meta ? '<span class="dxm">' + meta + '</span>' : "") + '</summary><article class="tk">' + linhas.join("") + (nota ? '<p class="pn">' + nota + '</p>' : "") + '</article></details>' : "";
 }
 function porChave(l, chaves, ordem) {
   var g = {};
@@ -143,7 +145,7 @@ function resultado(el) {
   h += bloco("Por número de pernas", porChave(l, function (b) { return [String(b.n)]; }, ["1", "2", "3", "4"]).map(function (x) { return linha(x[0] === "1" ? "1 perna" : x[0] === "4" ? "4 ou mais pernas" : x[0] + " pernas", x[1]); }));
   h += bloco("Por competição", porChave(l, function (b) { return Object.keys(b.cs); }).map(function (x) { return linha(x[0], x[1]); }), varias);
   h += bloco("Por mercado", porChave(l, function (b) { return Object.keys(b.ms); }).map(function (x) { return linha(x[0], x[1]); }), varias);
-  h += bloco("Por dia", dias.slice().reverse().map(function (d) { return linha(d.nome, d.c, "banca " + eur(d.banca, true)); }));
+  h += bloco("Por dia", dias.slice().reverse().map(function (d) { return linha(d.nome, d.c, "banca " + eur(d.banca, true)); }), "", dias.length + (dias.length === 1 ? " dia" : " dias"));
   var fora = [];
   if (c.emJogo) fora.push(c.emJogo + " " + (c.emJogo === 1 ? "boletim ainda por decidir" : "boletins ainda por decidir"));
   if (c.adiados) fora.push(c.adiados + " " + (c.adiados === 1 ? "adiado, com a aposta devolvida" : "adiados, com a aposta devolvida"));
@@ -185,6 +187,10 @@ function montar(el, hist) {
     else { if (F[g][v]) delete F[g][v]; else F[g][v] = 1; b.setAttribute("aria-pressed", !!F[g][v]); }
     resultado(el);
   };
+  if (!el.dataset.dx) {
+    el.dataset.dx = "1";
+    el.addEventListener("toggle", function (ev) { var d = ev.target; if (d.matches && d.matches("details.dx[data-k]")) ABERTOS[d.dataset.k] = d.open; }, true);
+  }
   el.onchange = function (ev) { var s = ev.target.closest("select[data-g]"); if (s) { F[s.dataset.g] = s.value; resultado(el); } };
   resultado(el);
 }
