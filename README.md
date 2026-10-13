@@ -13,7 +13,7 @@ apostas-template/
   gerar.py            script gerador: página e dados da app
   epocas.py           resultados de épocas passadas: estatísticas por jogo e probabilidade dos boletins
   epocas/             dados descarregados por epocas.py (clubes.csv, selecoes.csv, europa.csv) e alias.json
-  bilhetes.html        <head>/CSS de referência da página + um exemplo estático
+  bilhetes.html        <head> e CSS da página (gerar.py junta-lhe o corpo)
   dados_atual.json     cópia do último dados.json usado (gerada automaticamente)
   dados_exemplo.json   exemplo de dados.json para testes
   historico.json       histórico de boletins, dia a dia (gerado/atualizado automaticamente)
@@ -159,7 +159,14 @@ e fazem commit e push para `main`; a app (GitHub Pages) lê o resultado:
 - **Geração 00:00** (Lisboa): verifica o dia anterior, lê as odds da Betclic,
   gera os 4 boletins, a previsão de amanhã e o "Ficaram de fora".
 - **Resultados** (às 00:54 e de 2 em 2 horas das 14:54 às 22:54, hora de
-  Lisboa): regista os resultados dos jogos que já terminaram (`--pendentes` / `--resultado`) e regenera a página e a app.
+  Lisboa): regista os resultados dos jogos que já terminaram (`--pendentes`,
+  `epocas.py --flashscore`, `--resultado`) e regenera a página e a app.
+
+A partir da nuvem, betclic.pt responde 403: as odds são lidas em betclic.com,
+com o mesmo número de competição (ver o cabeçalho de
+`competicoes_betclic.txt`). As horas do betclic.com estão 1 hora à frente de
+Lisboa e os dias "hoje/amanhã" lidos por WebFetch não são fiáveis, por isso
+datas e horas confirmam-se sempre com `epocas.py --flashscore`.
 
 Os horários das rotinas são em UTC e não acompanham a mudança de hora.
 

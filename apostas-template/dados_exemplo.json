@@ -14,7 +14,8 @@
      "h": "20:30",
      "j": "Sporting vence o Arouca",
      "m": "Resultado final",
-     "o": "1,18"
+     "o": "1,18",
+     "comp": "Liga Portugal Betclic"
     }
    ]
   },
@@ -27,13 +28,15 @@
      "h": "17:30",
      "j": "Nottingham Forest vence o Coventry",
      "m": "Resultado final",
-     "o": "1,59"
+     "o": "1,59",
+     "comp": "Premier League"
     },
     {
      "h": "20:30",
      "j": "Sporting vence o Arouca",
      "m": "Resultado final",
-     "o": "1,18"
+     "o": "1,18",
+     "comp": "Liga Portugal Betclic"
     }
    ]
   },
@@ -47,19 +50,22 @@
      "h": "15:00",
      "j": "Everton–Ipswich",
      "m": "Dupla hipótese: Everton ou empate",
-     "o": "1,25"
+     "o": "1,25",
+     "comp": "Premier League"
     },
     {
      "h": "17:30",
      "j": "Nottingham Forest vence o Coventry",
      "m": "Resultado final",
-     "o": "1,59"
+     "o": "1,59",
+     "comp": "Premier League"
     },
     {
      "h": "20:30",
      "j": "Sporting–Arouca",
      "m": "Mais de 2,5 golos",
-     "o": "1,30"
+     "o": "1,30",
+     "comp": "Liga Portugal Betclic"
     }
    ]
   }
@@ -75,28 +81,32 @@
      "j": "Feyenoord vence o Utrecht",
      "m": "Resultado final",
      "o": "1,23",
-     "d": "DOM"
+     "d": "DOM",
+     "comp": "Eredivisie"
     },
     {
      "h": "13:30",
      "j": "AZ vence o Telstar",
      "m": "Resultado final",
      "o": "1,20",
-     "d": "DOM"
+     "d": "DOM",
+     "comp": "Eredivisie"
     },
     {
      "h": "14:00",
      "j": "Manchester City vence o Sunderland",
      "m": "Resultado final",
      "o": "1,26",
-     "d": "DOM"
+     "d": "DOM",
+     "comp": "Premier League"
     },
     {
      "h": "19:45",
      "j": "Milan vence o Lecce",
      "m": "Resultado final",
      "o": "1,23",
-     "d": "DOM"
+     "d": "DOM",
+     "comp": "Superliga (Itália)"
     }
    ]
   }
@@ -134,7 +144,8 @@
    "j": "Feyenoord vence o Utrecht",
    "m": "Resultado final",
    "o": "1,23",
-   "n": "Utrecht sem vitórias desde dezembro e com vários jogadores em dúvida"
+   "n": "Utrecht sem vitórias desde dezembro e com vários jogadores em dúvida",
+   "comp": "Eredivisie"
   },
   {
    "h": "13:30",
@@ -142,7 +153,8 @@
    "j": "AZ vence o Telstar",
    "m": "Resultado final",
    "o": "1,20",
-   "n": "Telstar é 13.º; AZ sem Kasius e Resink e vem de um empate e de uma derrota"
+   "n": "Telstar é 13.º; AZ sem Kasius e Resink e vem de um empate e de uma derrota",
+   "comp": "Eredivisie"
   },
   {
    "h": "14:00",
@@ -150,7 +162,8 @@
    "j": "Manchester City vence o Sunderland",
    "m": "Resultado final",
    "o": "1,26",
-   "n": "City ganhou os últimos cinco jogos; Sunderland sem três jogadores e com um suspenso"
+   "n": "City ganhou os últimos cinco jogos; Sunderland sem três jogadores e com um suspenso",
+   "comp": "Premier League"
   },
   {
    "h": "19:45",
@@ -158,7 +171,8 @@
    "j": "Milan vence o Lecce",
    "m": "Resultado final",
    "o": "1,23",
-   "n": "Milan ganhou os últimos quatro em casa contra o Lecce (9-0); Lecce sem dois defesas por castigo"
+   "n": "Milan ganhou os últimos quatro em casa contra o Lecce (9-0); Lecce sem dois defesas por castigo",
+   "comp": "Superliga (Itália)"
   }
  ]
 }
