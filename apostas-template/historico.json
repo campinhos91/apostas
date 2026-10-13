@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,20",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Arsenal vence o Lille (3-0)",
     "legs": [
      {
       "h": "20:00",
       "j": "Arsenal vence o Lille",
       "m": "Resultado final",
       "o": "1,20",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "3-0"
      }
     ]
    },
@@ -23,29 +25,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,70",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Inter vence o Club Brugge (3-4); Bayern de Munique vence o Viking (3-3) · 1 certa",
     "legs": [
      {
       "h": "20:00",
       "j": "Barcelona vence o Galatasaray",
       "m": "Resultado final",
       "o": "1,27",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "4-1"
      },
      {
       "h": "20:00",
       "j": "Inter vence o Club Brugge",
       "m": "Resultado final",
       "o": "1,23",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "3-4"
      },
      {
       "h": "20:00",
       "j": "Bayern de Munique vence o Viking",
       "m": "Resultado final",
       "o": "1,09",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "3-3"
      }
     ]
    },
@@ -53,29 +61,35 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,68",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Burnley vence o Charlton (2-2); RB Leipzig–PSV (1-0) · 1 certa",
     "legs": [
      {
       "h": "19:45",
       "j": "Burnley vence o Charlton",
       "m": "Resultado final",
       "o": "1,60",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:00",
       "j": "Atlético de Madrid–Manchester United",
       "m": "Dupla hipótese: Atlético de Madrid ou empate",
       "o": "1,25",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "20:00",
       "j": "RB Leipzig–PSV",
       "m": "Ambas marcam",
       "o": "1,34",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "1-0"
      }
     ]
    },
@@ -203,8 +217,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,63",
-    "e": "nao verificado",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Atalanta vence o Venezia (3-1); Levante–Sevilha (3-3); Arsenal vence o Lille (3-0)",
     "legs": [
      {
       "h": "17:30",
@@ -232,7 +246,9 @@
       "j": "Arsenal vence o Lille",
       "m": "Resultado final",
       "o": "1,20",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "3-0"
      }
     ]
    }
