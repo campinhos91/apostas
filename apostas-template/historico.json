@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-10-14",
+  "rotulo": "Quarta-feira · 14 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,28",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Liverpool vence o LASK Linz",
+      "m": "Resultado final",
+      "o": "1,28",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,15",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Aston Villa–Fenerbahce",
+      "m": "Dupla hipótese: Aston Villa ou empate",
+      "o": "1,16",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Bétis–FC Porto",
+      "m": "Dupla hipótese: Bétis ou empate",
+      "o": "1,29",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Shakhtar Donetsk–AEK Atenas",
+      "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
+      "o": "1,44",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,44",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Como vence o Feyenoord",
+      "m": "Resultado final",
+      "o": "1,88",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Aston Villa–Fenerbahce",
+      "m": "Mais de 1,5 golos",
+      "o": "1,11",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Bétis–FC Porto",
+      "m": "Mais de 1,5 golos",
+      "o": "1,17",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "3,16",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "d": "QUI",
+      "j": "Gent vence o AGF",
+      "m": "Resultado final",
+      "o": "1,54",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "d": "QUI",
+      "j": "Mónaco vence o CSKA Sófia",
+      "m": "Resultado final",
+      "o": "1,46",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "15:00",
+      "d": "SÁB",
+      "j": "Manchester City vence o Ipswich",
+      "m": "Resultado final",
+      "o": "1,16",
+      "comp": "Premier League"
+     },
+     {
+      "h": "20:00",
+      "d": "DOM",
+      "j": "Real Madrid vence o Sevilha",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "La Liga"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-13",
   "rotulo": "Terça-feira · 13 de outubro de 2026",
   "boletins": [
@@ -97,8 +220,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,80",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "00:30",
