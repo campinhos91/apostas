@@ -8,7 +8,8 @@ Uso:  python3 gerar.py dados.json [pasta_de_saida]
 - A página tem 4 separadores (Hoje, Histórico, Estatísticas, Banca). O histórico vive em historico.json (atualizado a cada execução,
   sem duplicar); dados_atual.json guarda o dados.json do dia; cada execução copia a página para PASTA_COPIA.
 Modos auxiliares:
-  gerar.py --pendentes                      pernas cujo jogo já devia ter acabado e ainda sem resultado (ignora as com mais de 3 dias)
+  gerar.py --pendentes                      pernas cujo jogo já devia ter acabado e ainda sem resultado (ignora as com mais de 3 dias):
+                                            data do jogo | hora | jogo | mercado | boletim
   gerar.py --resultado JOGO MERCADO ok|no|adiado [placar]   regista uma perna (substring, sem maiúsculas)
   gerar.py --ontem [AAAA-MM-DD]             JSON com o "ontem" pronto para o dados.json e as pernas ainda por verificar
   gerar.py --teste dados.json [pasta]       gera tudo SEM tocar no histórico, em dados_atual.json nem na pasta de cópia
@@ -239,7 +240,7 @@ def pendentes():
                 if l.get("r") or not l.get("h"): continue
                 ini = inicio_perna(e, l)
                 if ini + timedelta(minutes=DUR_MIN) <= agora <= ini + timedelta(days=3):
-                    out.append((e["dia"], l["h"], l["j"], l["m"], b["t"]))
+                    out.append((ini.date().isoformat(), l["h"], l["j"], l["m"], b["t"]))  # data do jogo, não a do boletim
     return out
 def ontem_json(dia=None):
     h = carregar_hist(); hoje = date.today().isoformat()
