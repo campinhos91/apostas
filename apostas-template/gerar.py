@@ -252,17 +252,18 @@ def ontem_json(dia=None):
     return {"dia": e["dia"], "ontem": ontem, "por_verificar": falta}
 def registar(jogo, mercado, r, x=""):
     """Marca a perna (jogo e mercado por substring, sem maiúsculas) como ok|no|adiado e guarda o resultado."""
-    n = 0
     with bloqueio():
         h = carregar_hist()
-        for e in h:
-            for b in e["boletins"]:
-                for l in b["legs"]:
-                    if not l.get("r") and jogo.lower() in l["j"].lower() and mercado.lower() in l["m"].lower():
-                        l["r"] = r; n += 1
-                        if x: l["x"] = x
+        alvo = [l for e in h for b in e["boletins"] for l in b["legs"] if not l.get("r") and jogo.lower() in l["j"].lower() and mercado.lower() in l["m"].lower()]
+        jogos = sorted({(l["j"], l["m"]) for l in alvo})
+        if len(jogos) > 1:  # ex.: "Inter" apanharia "Inter vence o Club Brugge" e "Inter Miami vence o ..."
+            print("AVISO: nada registado, o texto apanha pernas diferentes; usa mais do nome do jogo:\n  " + "\n  ".join(f"{j} · {m}" for j, m in jogos))
+            return 0
+        for l in alvo:
+            l["r"] = r
+            if x: l["x"] = x
         resolver(h); gravar_hist(h)
-    return n
+    return len(alvo)
 def pag_hist(h):
     if not h: return '<p class="calm">Ainda não há apostas no histórico.</p>'
     bs = [b for e in h for b in e["boletins"]]
@@ -436,6 +437,8 @@ def pagina(d, hist=None):
     src = open(TPL, encoding="utf-8").read()
     head = src[: src.index("</style>") + len("</style>")]
     head = re.sub(r"<title>.*?</title>", "<title>Apostas do dia</title>", head, count=1) + HIST_CSS + EST_CSS + BANCA_CSS
+    if "<meta charset" not in head:  # sem isto, aberta fora de um servidor que diga utf-8, os acentos saem trocados
+        head = '<!doctype html>\n<html lang="pt-PT">\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n' + head
     todos = d.get("hoje", []) + d.get("proximos", [])
     chips = "".join(f'<a href="#{b["c"]}"><small>{resumo_label(b["c"])}</small><b>{total(b)}</b></a>' if b["c"] != "t3" else f'<a class="w" href="#{b["c"]}"><small>{resumo_label(b["c"])}</small><b>{total(b)}</b></a>' for b in todos)
     body = f'\n<div class="top"><div class="in"><p class="date">{d["data"]}</p><h1>{d["titulo"]}</h1>' + (f'<div class="sum c{len(todos)}">{chips}</div>' if chips else "") + "</div></div>\n<div class=\"in\">\n"
