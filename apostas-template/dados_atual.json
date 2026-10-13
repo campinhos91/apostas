@@ -1,194 +1,64 @@
 {
- "data": "Domingo · 11 de outubro de 2026",
+ "data": "Terça-feira · 13 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "ontem": [
-  {
-   "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Benfica vence o Vitória SC (2-0)"
-  },
-  {
-   "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Utrecht vence o Willem II (3-1); Rennes vence o Auxerre (4-1)"
-  },
-  {
-   "t": "Múltipla arriscada",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Colónia–Borussia Mönchengladbach (2-1); Sassuolo–Milan (1-1); Cagliari–Juventus (1-1)"
-  },
-  {
-   "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
-  }
+  {"t": "Aposta simples segura", "e": "ganho", "d": "Todas as pernas certas: Benfica vence o Vitória SC (2-0)"},
+  {"t": "Múltipla segura", "e": "ganho", "d": "Todas as pernas certas: Utrecht vence o Willem II (3-1); Rennes vence o Auxerre (4-1)"},
+  {"t": "Múltipla arriscada", "e": "ganho", "d": "Todas as pernas certas: Colónia–Borussia Mönchengladbach (2-1); Sassuolo–Milan (1-1); Cagliari–Juventus (1-1)"},
+  {"t": "Múltipla dos próximos dias", "e": "nao verificado", "d": "2 de 3 pernas certas até agora"}
  ],
-
  "hoje": [
   {
-   "c": "t1",
-   "t": "Aposta simples segura",
-   "risco": "baixo",
+   "c": "t1", "t": "Aposta simples segura", "risco": "baixo",
    "legs": [
-    {
-     "h": "18:00",
-     "j": "Benfica vence o Vitória SC",
-     "m": "Resultado final",
-     "o": "1,21",
-     "comp": "Liga Portugal Betclic"
-    }
+    {"h": "20:00", "j": "Arsenal vence o Lille", "m": "Resultado final", "o": "1,20", "comp": "Liga dos Campeões"}
    ]
   },
   {
-   "c": "t2",
-   "t": "Múltipla segura",
-   "risco": "médio",
+   "c": "t2", "t": "Múltipla segura", "risco": "médio",
    "legs": [
-    {
-     "h": "11:15",
-     "j": "Utrecht vence o Willem II",
-     "m": "Resultado final",
-     "o": "1,47",
-     "comp": "Eredivisie"
-    },
-    {
-     "h": "16:15",
-     "j": "Rennes vence o Auxerre",
-     "m": "Resultado final",
-     "o": "1,40",
-     "comp": "Ligue 1"
-    }
+    {"h": "20:00", "j": "Barcelona vence o Galatasaray", "m": "Resultado final", "o": "1,27", "comp": "Liga dos Campeões"},
+    {"h": "20:00", "j": "Inter vence o Club Brugge", "m": "Resultado final", "o": "1,23", "comp": "Liga dos Campeões"},
+    {"h": "20:00", "j": "Bayern de Munique vence o Viking", "m": "Resultado final", "o": "1,09", "comp": "Liga dos Campeões"}
    ]
   },
   {
-   "c": "t3",
-   "t": "Múltipla arriscada",
-   "risco": "alto",
-   "extra": "falhar uma perde tudo",
+   "c": "t3", "t": "Múltipla arriscada", "risco": "alto", "extra": "falhar uma perde tudo",
    "legs": [
-    {
-     "h": "14:30",
-     "j": "Colónia–Borussia Mönchengladbach",
-     "m": "Ambas marcam",
-     "o": "1,39",
-     "comp": "Bundesliga"
-    },
-    {
-     "h": "17:00",
-     "j": "Sassuolo–Milan",
-     "m": "Dupla hipótese: Milan ou empate",
-     "o": "1,20",
-     "comp": "Superliga (Itália)"
-    },
-    {
-     "h": "19:45",
-     "j": "Cagliari–Juventus",
-     "m": "Ambas marcam",
-     "o": "1,89",
-     "comp": "Superliga (Itália)"
-    }
+    {"h": "20:00", "j": "Atlético de Madrid–Manchester United", "m": "Dupla hipótese: Atlético de Madrid ou empate", "o": "1,25", "comp": "Liga dos Campeões"},
+    {"h": "20:00", "j": "RB Leipzig–PSV", "m": "Ambas marcam", "o": "1,34", "comp": "Liga dos Campeões"},
+    {"h": "20:00", "j": "Villarreal–Nápoles", "m": "Ambas marcam", "o": "1,48", "comp": "Liga dos Campeões"}
    ]
   }
  ],
  "proximos": [
   {
-   "c": "t4",
-   "t": "Múltipla dos próximos dias",
-   "risco": "médio",
+   "c": "t4", "t": "Múltipla dos próximos dias", "risco": "médio",
    "legs": [
-    {
-     "h": "17:30",
-     "d": "SEG",
-     "j": "Atalanta vence o Venezia",
-     "m": "Resultado final",
-     "o": "1,52",
-     "comp": "Superliga (Itália)"
-    },
-    {
-     "h": "20:00",
-     "d": "SEG",
-     "j": "Levante–Sevilha",
-     "m": "Dupla hipótese: Levante ou empate",
-     "o": "1,44",
-     "comp": "La Liga"
-    },
-    {
-     "h": "20:00",
-     "d": "TER",
-     "j": "Arsenal vence o Lille",
-     "m": "Resultado final",
-     "o": "1,20",
-     "comp": "Liga dos Campeões"
-    }
+    {"h": "00:30", "d": "QUA", "j": "Inter Miami vence o New York City FC", "m": "Resultado final", "o": "1,47", "comp": "MLS"},
+    {"h": "01:30", "d": "QUI", "j": "Nashville vence o Sporting Kansas City", "m": "Resultado final", "o": "1,22", "comp": "MLS"},
+    {"h": "17:45", "d": "QUI", "j": "AZ vence o Hapoel Beer Sheva", "m": "Resultado final", "o": "1,28", "comp": "Liga Europa"}
    ]
   }
  ],
  "amanha": [
-  {
-   "h": "19:45",
-   "d": "SEG",
-   "j": "Torino vence o Udinese",
-   "m": "Resultado final",
-   "o": "2,28",
-   "n": "Jogo muito equilibrado nos dados (1: 36% · X: 29% · 2: 35%) e na própria odd da Betclic; o confronto direto recente (4V 2E 2D para o Torino nos últimos 8) dá uma ligeira vantagem aos anfitriões, mas sem segurança para considerar baixo risco.",
-   "comp": "Superliga (Itália)"
-  },
-  {
-   "h": "20:00",
-   "d": "SEG",
-   "j": "Newcastle vence o Coventry",
-   "m": "Resultado final",
-   "o": "2,10",
-   "n": "Coventry só tem 2 jogos em casa nos dados (equipa promovida), amostra fraca; o modelo (49% Newcastle vs 25% Coventry) e a odd da Betclic (2,10 para o Newcastle, a mais baixa das três) apontam no mesmo sentido.",
-   "comp": "Premier League"
-  },
-  {
-   "h": "20:15",
-   "d": "SEG",
-   "j": "Famalicão vence o Alverca",
-   "m": "Resultado final",
-   "o": "1,85",
-   "n": "Famalicão tem bom registo em casa (14V 11E 8D em 2 épocas) e o Alverca é fraco fora (4V 4E 12D); o modelo dá 80% de hipótese de o Famalicão não perder, em linha com a odd de dupla hipótese da Betclic (1,19).",
-   "comp": "Liga Portugal Betclic"
-  }
+  {"h": "00:30", "d": "QUA", "j": "Inter Miami vence o New York City FC", "m": "Resultado final", "o": "1,47", "comp": "MLS",
+   "n": "Inter Miami em casa nas 2 últimas épocas: 21V 10E 6D, 2,8 golos marcados por jogo; confronto direto 3V 4E 1D a favor; o modelo dá 55% à vitória, a odd da Betclic implica cerca de 68%."},
+  {"h": "00:30", "d": "QUA", "j": "Cincinnati vence o New England Revolution", "m": "Resultado final", "o": "1,93", "comp": "MLS",
+   "n": "Cincinnati em casa: 19V 7E 8D em 2 épocas; New England fora: 10V 7E 16D; o modelo dá 47% à vitória da casa, em linha com a odd de 1,93."},
+  {"h": "00:30", "d": "QUA", "j": "Columbus Crew vence o Charlotte", "m": "Resultado final", "o": "1,97", "comp": "MLS",
+   "n": "Columbus em casa: 17V 7E 10D; Charlotte fora: 12V 6E 16D; o modelo dá só 43% ao Columbus e o confronto direto (2V 2E 4D) é desfavorável, por isso fica como previsão e não como aposta."}
  ],
  "fora": [
-  [
-   "Manchester City vence o Liverpool (2,18)",
-   "jogo muito equilibrado nos dados (1: 33% · X: 26% · 2: 41%); o modelo dá ligeira vantagem ao City mas não o suficiente para baixo risco, e não há notícias de lesões confirmadas nesta pesquisa"
-  ],
-  [
-   "Everton vence o Hull (2,08)",
-   "Hull só tem 2 jogos em casa nos dados (equipa promovida), estimativa pouco fiável"
-  ],
-  [
-   "Real Sociedad vence o Deportivo (1,56)",
-   "Deportivo tem apenas 3 jogos fora nos dados, amostra demasiado pequena para confiança"
-  ],
-  [
-   "Roma vence o Como (2,60)",
-   "jogo equilibrado nos dados (1: 34% · X: 29% · 2: 38%), sem favorito claro"
-  ],
-  [
-   "Estrasburgo vence o Nice (2,77)",
-   "jogo equilibrado nos dados (1: 35% · X: 27% · 2: 39%), sem favorito claro"
-  ],
-  [
-   "Bolonha vence o Lecce (1,85)",
-   "Lecce tem registo fraco em casa (9V 10E 18D em 2 épocas) e o confronto direto é desfavorável ao Lecce (0V 3E 5D nos últimos 8), mas ficou fora para não concentrar demasiados jogos da Superliga (Itália) nos boletins"
-  ],
-  [
-   "Zwolle vence o Cambuur Leeuwarden (1,93)",
-   "Cambuur Leeuwarden não foi encontrado na base de dados históricos desta execução, sem comparação fiável"
-  ],
-  [
-   "Marselha vence o Troyes (1,89)",
-   "Troyes só tem 2 jogos em casa nos dados, amostra demasiado pequena para confiança apesar da odd baixa do Marselha"
-  ],
-  [
-   "Cobertura da Betclic",
-   "Consultadas hoje com mercados secundários lidos (Dupla hipótese, Total de golos, Ambas marcam): Liga Portugal Betclic, La Liga, Superliga (Itália), Eredivisie, Bundesliga. Consultadas ao nível 1X2 mas sem leitura de mercados secundários: Premier League, Ligue 1, Primeira Liga (Brasil), Primeira Liga (Argentina). Para os próximos dias (Seg a Qui): as mesmas ligas principais, mais a Liga dos Campeões (jogos a partir de Ter 13/10, mercados secundários não lidos), e a Liga Europa e a Liga Conferência (jogos só a partir de Qui 15/10, fora da janela usada). A Liga das Nações só tinha mercados de vencedor da competição/grupo, sem jogos individuais marcados. O Championship inglês tem jogos na Betclic mas não consta da lista de competições autorizadas deste repositório, por isso ficou fora de todos os boletins nesta execução (ver nota separada). Sem consulta nesta execução: Bélgica, Escócia, Turquia, Suíça, Áustria, países nórdicos, MLS, Liga MX, Japão, Austrália, Sérvia, Roménia, entre outras ligas secundárias da lista Betclic."
-  ]
+  ["Sarmiento–River Plate: dupla hipótese River ou empate (1,13)", "data contraditória: a Betclic mostra 'amanhã 00:00' (23:00 de hoje em Lisboa) e o futboltotal dá quarta, 14/10, 18:00 na Argentina; era a única perna de hoje com dados históricos (River X2 75% no modelo)"],
+  ["Lens–Sporting (2,42 / 3,68 / 2,60)", "jogo equilibrado na própria odd da Betclic, sem favorito, e sem dados no modelo (competição europeia)"],
+  ["Villarreal vence o Nápoles (2,10)", "odd longe de baixo risco e notícias contraditórias sobre lesões no Nápoles; usado só o mercado 'Ambas marcam' na múltipla arriscada"],
+  ["Galatasaray–Barcelona: Mais de 2,5 golos (1,16)", "Raphinha lesionado no Barcelona e Osimhen em dúvida no Galatasaray, segundo as notícias desta pesquisa; o jogo entrou só pela vitória do Barcelona na múltipla segura"],
+  ["Sabah–Slavia Praga: Slavia vence (2,00)", "sem dados no modelo (competição europeia) e odd de 2,00 sem margem de segurança"],
+  ["Como vence o Feyenoord (1,88)", "sem dados no modelo (competição europeia) e odd acima de baixo risco"],
+  ["Sunderland vence o Torreense (1,37)", "sem dados no modelo para o confronto (Liga Europa); preferidos os jogos da MLS, que têm histórico"],
+  ["DC United–New York Red Bulls", "equilibrado nos dados (1: 38% · X: 26% · 2: 35%), sem favorito"],
+  ["Cobertura da Betclic", "betclic.pt devolveu 403 em todas as tentativas a partir do servidor desta rotina; as odds foram lidas em betclic.com (mesmo número de competição, horas convertidas para Lisboa com −1h). Consultadas: Liga dos Campeões, Liga Europa, Liga Conferência, MLS, Argentina, Brasil, Escócia, Premier League, LaLiga, Bundesliga, Ligue 1, Eredivisie e Liga Portugal (estas sete sem jogos até sábado). Arábia Saudita, Coreia do Sul e Japão deram 403 também no .com; a Taça de Portugal não mostrou jogos. Hoje só há Liga dos Campeões e o epocas.py não tem dados de competições europeias: a múltipla arriscada assenta nas odds da Betclic e nas notícias, não em dados históricos."]
  ]
 }

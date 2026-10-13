@@ -1,5 +1,8 @@
 # Competições de futebol da Betclic (uma por linha). Base: https://www.betclic.pt/futebol-sfootball/<slug>
 # Lista obtida a 21/09/2026 em 41 países. Ligas paradas por pausa ou fora de época aparecem sem jogos.
+# Se betclic.pt der 403, usa betclic.com: https://www.betclic.com/en/sports-betting/football-sfootball/x-cNN, com o número cNN
+# desta lista (o texto antes de -cNN é ignorado). Subtrai 1 hora às horas mostradas para ter a hora de Lisboa (até ao fim da
+# hora de verão a 25/10; depois confirma a diferença). Os nomes das equipas vêm em inglês: escreve-os em português.
 https://www.betclic.pt/futebol-sfootball/liga-das-nacoes-c22676
 https://www.betclic.pt/futebol-sfootball/mexico-liga-mx-c432
 https://www.betclic.pt/futebol-sfootball/colombia-primera-a-c5500

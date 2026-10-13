@@ -1,5 +1,120 @@
 [
  {
+  "dia": "2026-10-13",
+  "rotulo": "Terça-feira · 13 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,20",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Arsenal vence o Lille",
+      "m": "Resultado final",
+      "o": "1,20",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,70",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Barcelona vence o Galatasaray",
+      "m": "Resultado final",
+      "o": "1,27",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Inter vence o Club Brugge",
+      "m": "Resultado final",
+      "o": "1,23",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Bayern de Munique vence o Viking",
+      "m": "Resultado final",
+      "o": "1,09",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,48",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Atlético de Madrid–Manchester United",
+      "m": "Dupla hipótese: Atlético de Madrid ou empate",
+      "o": "1,25",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "RB Leipzig–PSV",
+      "m": "Ambas marcam",
+      "o": "1,34",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Villarreal–Nápoles",
+      "m": "Ambas marcam",
+      "o": "1,48",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,30",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "d": "QUA",
+      "j": "Inter Miami vence o New York City FC",
+      "m": "Resultado final",
+      "o": "1,47",
+      "comp": "MLS"
+     },
+     {
+      "h": "01:30",
+      "d": "QUI",
+      "j": "Nashville vence o Sporting Kansas City",
+      "m": "Resultado final",
+      "o": "1,22",
+      "comp": "MLS"
+     },
+     {
+      "h": "17:45",
+      "d": "QUI",
+      "j": "AZ vence o Hapoel Beer Sheva",
+      "m": "Resultado final",
+      "o": "1,28",
+      "comp": "Liga Europa"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-11",
   "rotulo": "Domingo · 11 de outubro de 2026",
   "boletins": [
@@ -88,7 +203,7 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,63",
-    "e": "pendente",
+    "e": "nao verificado",
     "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
