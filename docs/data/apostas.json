@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-15T11:55:37+01:00",
+ "atualizado": "2026-10-15T19:55:46+01:00",
  "dia": "2026-10-15",
  "rotulo": "Quinta-feira · 15 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -218,15 +218,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,49",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Monaco vence o CSKA Sófia (2-1)",
      "legs": [
       {
        "h": "17:45",
        "j": "Monaco vence o CSKA Sófia",
        "m": "Resultado final",
        "o": "1,49",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -234,22 +236,26 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,42",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Midtjylland vence o Egnatia (1-1) · 1 certa",
      "legs": [
       {
        "h": "17:45",
        "j": "Gent vence o AGF",
        "m": "Resultado final",
        "o": "1,60",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "17:45",
        "j": "Midtjylland vence o Egnatia",
        "m": "Resultado final",
        "o": "1,51",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "no",
+       "x": "1-1"
       }
      ]
     },
@@ -257,29 +263,35 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,42",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Sparta Praga vence o Lillestrom (1-1); Riga FC vence o Kairat Almaty (1-1) · 1 certa",
      "legs": [
       {
        "h": "17:45",
        "j": "Sunderland vence o Torreense",
        "m": "Resultado final",
        "o": "1,35",
-       "comp": "Liga Europa"
+       "comp": "Liga Europa",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "17:45",
        "j": "Sparta Praga vence o Lillestrom",
        "m": "Resultado final",
        "o": "1,32",
-       "comp": "Liga Europa"
+       "comp": "Liga Europa",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "17:45",
        "j": "Riga FC vence o Kairat Almaty",
        "m": "Resultado final",
        "o": "1,92",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "no",
+       "x": "1-1"
       }
      ]
     },
@@ -425,7 +437,7 @@
      "c": "t4",
      "total": "3,16",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "17:45",
@@ -433,7 +445,9 @@
        "j": "Gent vence o AGF",
        "m": "Resultado final",
        "o": "1,54",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "17:45",
@@ -441,7 +455,9 @@
        "j": "Mónaco vence o CSKA Sófia",
        "m": "Resultado final",
        "o": "1,46",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "15:00",
@@ -561,8 +577,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,80",
-     "e": "nao verificado",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Inter Miami vence o New York City FC (2-0); Nashville vence o Sporting Kansas City (4-0); Gent vence o AGF (1-0)",
      "legs": [
       {
        "h": "00:30",
@@ -590,7 +606,9 @@
        "j": "Gent vence o AGF",
        "m": "Resultado final",
        "o": "1,56",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     }
@@ -3447,46 +3465,46 @@
   }
  ],
  "estatisticas": {
-  "decididos": 87,
-  "ganhos": 42,
-  "pernas": 154,
-  "pernas_ok": 102,
+  "decididos": 91,
+  "ganhos": 44,
+  "pernas": 161,
+  "pernas_ok": 106,
   "dias": 25,
   "odd_media": "1,58",
   "tipos": [
    {
-    "ok": 19,
-    "dec": 23,
+    "ok": 20,
+    "dec": 24,
     "pct": 83,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 13,
-    "dec": 22,
-    "pct": 59,
+    "dec": 23,
+    "pct": 57,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 4,
-    "dec": 22,
-    "pct": 18,
+    "dec": 23,
+    "pct": 17,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 6,
-    "dec": 20,
-    "pct": 30,
+    "ok": 7,
+    "dec": 21,
+    "pct": 33,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
    {
-    "ok": 86,
-    "dec": 136,
+    "ok": 90,
+    "dec": 143,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -3559,25 +3577,25 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 29,
-    "dec": 37,
-    "pct": 78,
+    "ok": 30,
+    "dec": 39,
+    "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 45,
-    "dec": 84,
+    "ok": 48,
+    "dec": 89,
     "pct": 54,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 3,
+    "pct": 33,
     "nome": "Quinta-feira, 15 de outubro",
-    "pend": 4
+    "pend": 1
    },
    {
     "ok": 2,
@@ -3587,11 +3605,11 @@
     "pend": 1
    },
    {
-    "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
     "nome": "Terça-feira, 13 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 4,

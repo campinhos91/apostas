@@ -6,7 +6,7 @@
   {"t": "Aposta simples segura", "e": "ganho", "d": "Todas as pernas certas: Liverpool vence o LASK Linz (LASK 3-6 Liverpool)"},
   {"t": "Múltipla segura", "e": "ganho", "d": "Todas as pernas certas: Aston Villa–Fenerbahce (Aston Villa 6-0 Fenerbahce); Bétis–FC Porto (Bétis 3-2 FC Porto); Shakhtar Donetsk–AEK Atenas (Shakhtar Donetsk 3-1 AEK Atenas)"},
   {"t": "Múltipla arriscada", "e": "perdido", "d": "Falhou: Como vence o Feyenoord (Feyenoord 3-2 Como) · 2 certas"},
-  {"t": "Múltipla dos próximos dias", "e": "nao verificado", "d": "Ainda sem resultados dos jogos"}
+  {"t": "Múltipla dos próximos dias", "e": "nao verificado", "d": "2 de 4 pernas certas até agora"}
  ],
  "hoje": [
   {"c": "t1", "t": "Aposta simples segura", "risco": "baixo",
