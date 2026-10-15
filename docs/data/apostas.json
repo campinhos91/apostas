@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-15T01:38:41+01:00",
+ "atualizado": "2026-10-15T11:55:37+01:00",
  "dia": "2026-10-15",
  "rotulo": "Quinta-feira · 15 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -562,7 +562,7 @@
      "c": "t4",
      "total": "2,80",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "00:30",
@@ -570,7 +570,9 @@
        "j": "Inter Miami vence o New York City FC",
        "m": "Resultado final",
        "o": "1,47",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "01:30",
@@ -578,7 +580,9 @@
        "j": "Nashville vence o Sporting Kansas City",
        "m": "Resultado final",
        "o": "1,22",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "4-0"
       },
       {
        "h": "17:45",
@@ -3445,10 +3449,10 @@
  "estatisticas": {
   "decididos": 87,
   "ganhos": 42,
-  "pernas": 152,
-  "pernas_ok": 100,
+  "pernas": 154,
+  "pernas_ok": 102,
   "dias": 25,
-  "odd_media": "1,59",
+  "odd_media": "1,58",
   "tipos": [
    {
     "ok": 19,
@@ -3481,8 +3485,8 @@
   ],
   "mercados": [
    {
-    "ok": 84,
-    "dec": 134,
+    "ok": 86,
+    "dec": 136,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -3549,9 +3553,9 @@
   ],
   "faixas": [
    {
-    "ok": 27,
-    "dec": 32,
-    "pct": 84,
+    "ok": 28,
+    "dec": 33,
+    "pct": 85,
     "nome": "Odd até 1,25"
    },
    {
@@ -3561,9 +3565,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 44,
-    "dec": 83,
-    "pct": 53,
+    "ok": 45,
+    "dec": 84,
+    "pct": 54,
     "nome": "Odd acima de 1,45"
    }
   ],

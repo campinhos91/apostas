@@ -351,7 +351,7 @@
     "c": "t4",
     "total": "2,80",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "00:30",
@@ -359,7 +359,9 @@
       "j": "Inter Miami vence o New York City FC",
       "m": "Resultado final",
       "o": "1,47",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "01:30",
@@ -367,7 +369,9 @@
       "j": "Nashville vence o Sporting Kansas City",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "17:45",
