@@ -1,5 +1,121 @@
 [
  {
+  "dia": "2026-10-15",
+  "rotulo": "Quinta-feira · 15 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,49",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Monaco vence o CSKA Sófia",
+      "m": "Resultado final",
+      "o": "1,49",
+      "comp": "Liga Conferência"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Gent vence o AGF",
+      "m": "Resultado final",
+      "o": "1,60",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "j": "Midtjylland vence o Egnatia",
+      "m": "Resultado final",
+      "o": "1,51",
+      "comp": "Liga Conferência"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Sunderland vence o Torreense",
+      "m": "Resultado final",
+      "o": "1,35",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "17:45",
+      "j": "Sparta Praga vence o Lillestrom",
+      "m": "Resultado final",
+      "o": "1,32",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "17:45",
+      "j": "Riga FC vence o Kairat Almaty",
+      "m": "Resultado final",
+      "o": "1,92",
+      "comp": "Liga Conferência"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,92",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "d": "SÁB",
+      "j": "Manchester City vence o Ipswich",
+      "m": "Resultado final",
+      "o": "1,22",
+      "comp": "Premier League"
+     },
+     {
+      "h": "17:30",
+      "d": "SÁB",
+      "j": "Bayern Munique vence o RB Leipzig",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:00",
+      "d": "DOM",
+      "j": "Real Madrid vence o Sevilha",
+      "m": "Resultado final",
+      "o": "1,26",
+      "comp": "La Liga"
+     },
+     {
+      "h": "20:15",
+      "d": "SEG",
+      "j": "Sporting Braga vence o Gil Vicente",
+      "m": "Resultado final",
+      "o": "1,57",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-14",
   "rotulo": "Quarta-feira · 14 de outubro de 2026",
   "boletins": [
@@ -7,15 +123,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,28",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Liverpool vence o LASK Linz (LASK 3-6 Liverpool)",
     "legs": [
      {
       "h": "17:45",
       "j": "Liverpool vence o LASK Linz",
       "m": "Resultado final",
       "o": "1,28",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "LASK 3-6 Liverpool"
      }
     ]
    },
@@ -23,29 +141,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,15",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Aston Villa–Fenerbahce (Aston Villa 6-0 Fenerbahce); Bétis–FC Porto (Bétis 3-2 FC Porto); Shakhtar Donetsk–AEK Atenas (Shakhtar Donetsk 3-1 AEK Atenas)",
     "legs": [
      {
       "h": "20:00",
       "j": "Aston Villa–Fenerbahce",
       "m": "Dupla hipótese: Aston Villa ou empate",
       "o": "1,16",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "Aston Villa 6-0 Fenerbahce"
      },
      {
       "h": "20:00",
       "j": "Bétis–FC Porto",
       "m": "Dupla hipótese: Bétis ou empate",
       "o": "1,29",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "Bétis 3-2 FC Porto"
      },
      {
       "h": "20:00",
       "j": "Shakhtar Donetsk–AEK Atenas",
       "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
       "o": "1,44",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "Shakhtar Donetsk 3-1 AEK Atenas"
      }
     ]
    },
@@ -53,29 +177,35 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,44",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Como vence o Feyenoord (Feyenoord 3-2 Como) · 2 certas",
     "legs": [
      {
       "h": "17:45",
       "j": "Como vence o Feyenoord",
       "m": "Resultado final",
       "o": "1,88",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "Feyenoord 3-2 Como"
      },
      {
       "h": "20:00",
       "j": "Aston Villa–Fenerbahce",
       "m": "Mais de 1,5 golos",
       "o": "1,11",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "Aston Villa 6-0 Fenerbahce"
      },
      {
       "h": "20:00",
       "j": "Bétis–FC Porto",
       "m": "Mais de 1,5 golos",
       "o": "1,17",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "Bétis 3-2 FC Porto"
      }
     ]
    },
@@ -83,8 +213,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,16",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "17:45",

@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-10-14T00:18:46+01:00",
- "dia": "2026-10-14",
- "rotulo": "Quarta-feira · 14 de outubro de 2026",
+ "atualizado": "2026-10-15T01:38:41+01:00",
+ "dia": "2026-10-15",
+ "rotulo": "Quinta-feira · 15 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
@@ -10,17 +10,17 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Arsenal vence o Lille (3-0)"
+   "d": "Todas as pernas certas: Liverpool vence o LASK Linz (LASK 3-6 Liverpool)"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: Inter vence o Club Brugge (3-4); Bayern de Munique vence o Viking (3-3) · 1 certa"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Aston Villa–Fenerbahce (Aston Villa 6-0 Fenerbahce); Bétis–FC Porto (Bétis 3-2 FC Porto); Shakhtar Donetsk–AEK Atenas (Shakhtar Donetsk 3-1 AEK Atenas)"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Burnley vence o Charlton (2-2); RB Leipzig–PSV (1-0) · 1 certa"
+   "d": "Falhou: Como vence o Feyenoord (Feyenoord 3-2 Como) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -36,44 +36,37 @@
    "legs": [
     {
      "h": "17:45",
-     "j": "Liverpool vence o LASK Linz",
+     "j": "Monaco vence o CSKA Sófia",
      "m": "Resultado final",
-     "o": "1,28",
-     "comp": "Liga dos Campeões"
+     "o": "1,49",
+     "comp": "Liga Conferência"
     }
    ],
-   "total": "1,28",
+   "total": "1,49",
    "rodape": "Uma seleção"
   },
   {
    "c": "t2",
    "t": "Múltipla segura",
-   "risco": "médio",
+   "risco": "baixo",
    "legs": [
     {
-     "h": "20:00",
-     "j": "Aston Villa–Fenerbahce",
-     "m": "Dupla hipótese: Aston Villa ou empate",
-     "o": "1,16",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Gent vence o AGF",
+     "m": "Resultado final",
+     "o": "1,60",
+     "comp": "Liga Conferência"
     },
     {
-     "h": "20:00",
-     "j": "Bétis–FC Porto",
-     "m": "Dupla hipótese: Bétis ou empate",
-     "o": "1,29",
-     "comp": "Liga dos Campeões"
-    },
-    {
-     "h": "20:00",
-     "j": "Shakhtar Donetsk–AEK Atenas",
-     "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
-     "o": "1,44",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Midtjylland vence o Egnatia",
+     "m": "Resultado final",
+     "o": "1,51",
+     "comp": "Liga Conferência"
     }
    ],
-   "total": "2,15",
-   "rodape": "3 seleções"
+   "total": "2,42",
+   "rodape": "2 seleções"
   },
   {
    "c": "t3",
@@ -82,27 +75,27 @@
    "legs": [
     {
      "h": "17:45",
-     "j": "Como vence o Feyenoord",
+     "j": "Sunderland vence o Torreense",
      "m": "Resultado final",
-     "o": "1,88",
-     "comp": "Liga dos Campeões"
+     "o": "1,35",
+     "comp": "Liga Europa"
     },
     {
-     "h": "20:00",
-     "j": "Aston Villa–Fenerbahce",
-     "m": "Mais de 1,5 golos",
-     "o": "1,11",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Sparta Praga vence o Lillestrom",
+     "m": "Resultado final",
+     "o": "1,32",
+     "comp": "Liga Europa"
     },
     {
-     "h": "20:00",
-     "j": "Bétis–FC Porto",
-     "m": "Mais de 1,5 golos",
-     "o": "1,17",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Riga FC vence o Kairat Almaty",
+     "m": "Resultado final",
+     "o": "1,92",
+     "comp": "Liga Conferência"
     }
    ],
-   "total": "2,44",
+   "total": "3,42",
    "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
@@ -113,115 +106,226 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "17:45",
-     "d": "QUI",
-     "j": "Gent vence o AGF",
-     "m": "Resultado final",
-     "o": "1,54",
-     "comp": "Liga Conferência"
-    },
-    {
-     "h": "17:45",
-     "d": "QUI",
-     "j": "Mónaco vence o CSKA Sófia",
-     "m": "Resultado final",
-     "o": "1,46",
-     "comp": "Liga Conferência"
-    },
-    {
      "h": "15:00",
      "d": "SÁB",
      "j": "Manchester City vence o Ipswich",
      "m": "Resultado final",
-     "o": "1,16",
+     "o": "1,22",
      "comp": "Premier League"
+    },
+    {
+     "h": "17:30",
+     "d": "SÁB",
+     "j": "Bayern Munique vence o RB Leipzig",
+     "m": "Resultado final",
+     "o": "1,21",
+     "comp": "Bundesliga"
     },
     {
      "h": "20:00",
      "d": "DOM",
      "j": "Real Madrid vence o Sevilha",
      "m": "Resultado final",
-     "o": "1,21",
+     "o": "1,26",
      "comp": "La Liga"
+    },
+    {
+     "h": "20:15",
+     "d": "SEG",
+     "j": "Sporting Braga vence o Gil Vicente",
+     "m": "Resultado final",
+     "o": "1,57",
+     "comp": "Liga Portugal Betclic"
     }
    ],
-   "total": "3,16",
-   "rodape": "4 seleções · quinta, sábado e domingo"
+   "total": "2,92",
+   "rodape": "4 seleções · sábado, domingo e segunda"
   }
  ],
  "amanha": [
   {
-   "h": "01:30",
-   "d": "QUI",
-   "j": "Nashville vence o Sporting Kansas City",
+   "h": "19:30",
+   "d": "SEX",
+   "j": "Eintracht Frankfurt vence o FC Köln",
    "m": "Resultado final",
-   "o": "1,21",
-   "comp": "MLS",
-   "n": "Modelo (4 épocas MLS): Nashville 72%, abaixo dos 83% implícitos pela odd; Nashville em casa 25V 4E 3D, Sporting KC fora muito fraco (6V 2E 24D)."
+   "o": "1,91",
+   "comp": "Bundesliga",
+   "n": "Frankfurt ganhou 1 e empatou 3 dos últimos 6 confrontos (0 derrotas); marca 2,0 golos em casa. Modelo dá 54%, em linha com a odd."
   },
   {
-   "h": "17:45",
-   "d": "QUI",
-   "j": "Gent vence o AGF",
+   "h": "20:00",
+   "d": "SEX",
+   "j": "La Coruna vence o Levante",
    "m": "Resultado final",
-   "o": "1,54",
-   "comp": "Liga Conferência",
-   "n": "Modelo com ligas e taças europeias: Gent 61%, perto dos 65% da odd; Gent em casa 19V 11E 15D, AGF fora com ataque fraco mas defesa permeável (79% ambas marcam)."
+   "o": "2,08",
+   "comp": "La Liga",
+   "n": "Levante só venceu 4 de 23 jogos fora nas últimas 2 épocas (13 derrotas). Modelo dá 51% ao Dépor, em linha com a odd."
   },
   {
-   "h": "17:45",
-   "d": "QUI",
-   "j": "Mónaco vence o CSKA Sófia",
+   "h": "19:00",
+   "d": "SEX",
+   "j": "Heerenveen vence o Excelsior",
    "m": "Resultado final",
-   "o": "1,46",
-   "comp": "Liga Conferência",
-   "n": "Monaco fora: 14V 12E 18D em 2 épocas; modelo dá 64% a Monaco, perto dos 68% da odd; CSKA Sófia só 3 jogos em casa nos dados europeus (AVISO: poucos jogos)."
-  },
-  {
-   "h": "17:45",
-   "d": "QUI",
-   "j": "Lyon vence o Crystal Palace",
-   "m": "Resultado final",
-   "o": "2,18",
-   "comp": "Liga Europa",
-   "n": "Lyon em casa 30V 6E 9D em 2 épocas; modelo dá 41%, perto dos 46% implícitos pela odd; Crystal Palace fora irregular (18V 12E 15D)."
+   "o": "1,63",
+   "comp": "Eredivisie",
+   "n": "Heerenveen tem 17V-11E-6D em casa, mas o Excelsior marca fora em 71% dos jogos; favoritismo mais ajustado do que a odd sugere (modelo 46%)."
   }
  ],
  "fora": [
   [
-   "Real Madrid vence a Roma (1,93)",
-   "Modelo dá só 40% à vitória do Real Madrid, bem abaixo dos 52% implícitos pela odd"
-  ],
-  [
-   "Dortmund vence o Bodo/Glimt (2,05)",
-   "Modelo dá 32% a Dortmund fora, bem abaixo dos 49% implícitos pela odd"
-  ],
-  [
-   "Manchester City vence o PSG (2,12)",
-   "Modelo dá só 30% à vitória do City (PSG com 45%); odd implica 47%, divergência grande"
-  ],
-  [
-   "AZ vence o Hapoel Beer Sheva (1,26)",
-   "Modelo dá 41%, muito abaixo dos 79% implícitos pela odd; H. Beer Sheva só 4 jogos fora nos dados"
-  ],
-  [
    "Panathinaikos vence o Borac Banja Luka (1,19)",
-   "Modelo dá 62%, bem abaixo dos 84% implícitos pela odd; Borac só 8 jogos fora nos dados"
+   "modelo dá só 62% ao Panathinaikos, bem abaixo dos ~84% implícitos na odd"
   ],
   [
-   "Bayern de Munique vence o RB Leipzig (1,17)",
-   "Modelo dá 67%, bem abaixo dos 85% implícitos pela odd, mesmo com confronto direto favorável"
+   "AZ Alkmaar vence o Hapoel Beer Sheva (1,30)",
+   "dados do Hapoel fracos (só 9 jogos fora); modelo (41%) muito abaixo da odd"
   ],
   [
-   "UD Santarém–Gil Vicente FC (Taça de Portugal)",
-   "Sem dados de épocas passadas para a Taça de Portugal (adversário da 3.ª divisão)"
+   "Mjallby vence o Inter Club d'Escaldes (1,30)",
+   "adversário quase sem dados fiáveis (5 jogos fora); modelo (45%) muito abaixo da odd"
+  ],
+  [
+   "Trabzonspor vence o Kuopio (1,46)",
+   "modelo favorece antes o KuPS em casa (43%), ao contrário da odd"
+  ],
+  [
+   "Ajax vence o Hajduk Split (1,62)",
+   "modelo favorece claramente o Hajduk em casa (53%); poucos dados do Hajduk (8 jogos)"
+  ],
+  [
+   "Universitatea Craiova vence o Getafe",
+   "mercado e modelo discordam sobre o favorito; sem seleção segura"
+  ],
+  [
+   "Bayer Leverkusen vence o Lech Poznan (1,61)",
+   "modelo dá só 40% ao Leverkusen fora, bem abaixo da odd"
+  ],
+  [
+   "Wolverhampton vence o Burnley (2,25, amanhã)",
+   "modelo dá só 24% ao Wolves fora, bem abaixo da odd"
   ],
   [
    "Cobertura da Betclic",
-   "betclic.pt respondeu normalmente (sem bloqueio, não foi preciso usar betclic.com); consultadas Liga dos Campeões, Championship, Taça de Portugal, Liga Europa, Liga Conferência, MLS, Premier League, La Liga, Serie A, Bundesliga, Ligue 1 e Eredivisie; Liga Portugal Betclic sem jogos nesta janela (pausa internacional); Torreense–Sunderland (Liga Europa) ficou de fora por falta de dados históricos do Torreense"
+   "páginas de jogo individuais devolveram 403 a partir da nuvem; só foi possível usar 'Resultado final' (sem Dupla hipótese, Over/Under ou Ambas marcam). Odds lidas em betclic.com, hora de Lisboa confirmada no Flashscore"
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-10-15",
+   "rotulo": "Quinta-feira · 15 de outubro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,49",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:45",
+       "j": "Monaco vence o CSKA Sófia",
+       "m": "Resultado final",
+       "o": "1,49",
+       "comp": "Liga Conferência"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "2,42",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:45",
+       "j": "Gent vence o AGF",
+       "m": "Resultado final",
+       "o": "1,60",
+       "comp": "Liga Conferência"
+      },
+      {
+       "h": "17:45",
+       "j": "Midtjylland vence o Egnatia",
+       "m": "Resultado final",
+       "o": "1,51",
+       "comp": "Liga Conferência"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "3,42",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:45",
+       "j": "Sunderland vence o Torreense",
+       "m": "Resultado final",
+       "o": "1,35",
+       "comp": "Liga Europa"
+      },
+      {
+       "h": "17:45",
+       "j": "Sparta Praga vence o Lillestrom",
+       "m": "Resultado final",
+       "o": "1,32",
+       "comp": "Liga Europa"
+      },
+      {
+       "h": "17:45",
+       "j": "Riga FC vence o Kairat Almaty",
+       "m": "Resultado final",
+       "o": "1,92",
+       "comp": "Liga Conferência"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "2,92",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "15:00",
+       "d": "SÁB",
+       "j": "Manchester City vence o Ipswich",
+       "m": "Resultado final",
+       "o": "1,22",
+       "comp": "Premier League"
+      },
+      {
+       "h": "17:30",
+       "d": "SÁB",
+       "j": "Bayern Munique vence o RB Leipzig",
+       "m": "Resultado final",
+       "o": "1,21",
+       "comp": "Bundesliga"
+      },
+      {
+       "h": "20:00",
+       "d": "DOM",
+       "j": "Real Madrid vence o Sevilha",
+       "m": "Resultado final",
+       "o": "1,26",
+       "comp": "La Liga"
+      },
+      {
+       "h": "20:15",
+       "d": "SEG",
+       "j": "Sporting Braga vence o Gil Vicente",
+       "m": "Resultado final",
+       "o": "1,57",
+       "comp": "Liga Portugal Betclic"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-10-14",
    "rotulo": "Quarta-feira · 14 de outubro de 2026",
@@ -230,15 +334,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,28",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Liverpool vence o LASK Linz (LASK 3-6 Liverpool)",
      "legs": [
       {
        "h": "17:45",
        "j": "Liverpool vence o LASK Linz",
        "m": "Resultado final",
        "o": "1,28",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "LASK 3-6 Liverpool"
       }
      ]
     },
@@ -246,29 +352,35 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,15",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Aston Villa–Fenerbahce (Aston Villa 6-0 Fenerbahce); Bétis–FC Porto (Bétis 3-2 FC Porto); Shakhtar Donetsk–AEK Atenas (Shakhtar Donetsk 3-1 AEK Atenas)",
      "legs": [
       {
        "h": "20:00",
        "j": "Aston Villa–Fenerbahce",
        "m": "Dupla hipótese: Aston Villa ou empate",
        "o": "1,16",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "Aston Villa 6-0 Fenerbahce"
       },
       {
        "h": "20:00",
        "j": "Bétis–FC Porto",
        "m": "Dupla hipótese: Bétis ou empate",
        "o": "1,29",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "Bétis 3-2 FC Porto"
       },
       {
        "h": "20:00",
        "j": "Shakhtar Donetsk–AEK Atenas",
        "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
        "o": "1,44",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "Shakhtar Donetsk 3-1 AEK Atenas"
       }
      ]
     },
@@ -276,29 +388,35 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,44",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Como vence o Feyenoord (Feyenoord 3-2 Como) · 2 certas",
      "legs": [
       {
        "h": "17:45",
        "j": "Como vence o Feyenoord",
        "m": "Resultado final",
        "o": "1,88",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "Feyenoord 3-2 Como"
       },
       {
        "h": "20:00",
        "j": "Aston Villa–Fenerbahce",
        "m": "Mais de 1,5 golos",
        "o": "1,11",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "Aston Villa 6-0 Fenerbahce"
       },
       {
        "h": "20:00",
        "j": "Bétis–FC Porto",
        "m": "Mais de 1,5 golos",
        "o": "1,17",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "Bétis 3-2 FC Porto"
       }
      ]
     },
@@ -306,8 +424,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "3,16",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "17:45",
@@ -3325,31 +3443,31 @@
   }
  ],
  "estatisticas": {
-  "decididos": 84,
-  "ganhos": 40,
-  "pernas": 145,
-  "pernas_ok": 94,
-  "dias": 24,
-  "odd_media": "1,60",
+  "decididos": 87,
+  "ganhos": 42,
+  "pernas": 152,
+  "pernas_ok": 100,
+  "dias": 25,
+  "odd_media": "1,59",
   "tipos": [
    {
-    "ok": 18,
-    "dec": 22,
-    "pct": 82,
+    "ok": 19,
+    "dec": 23,
+    "pct": 83,
     "nome": "Aposta simples segura",
     "pend": 1
    },
    {
-    "ok": 12,
-    "dec": 21,
-    "pct": 57,
+    "ok": 13,
+    "dec": 22,
+    "pct": 59,
     "nome": "Múltipla segura",
     "pend": 1
    },
    {
     "ok": 4,
-    "dec": 21,
-    "pct": 19,
+    "dec": 22,
+    "pct": 18,
     "nome": "Múltipla arriscada",
     "pend": 1
    },
@@ -3358,13 +3476,13 @@
     "dec": 20,
     "pct": 30,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 4
    }
   ],
   "mercados": [
    {
-    "ok": 83,
-    "dec": 132,
+    "ok": 84,
+    "dec": 134,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -3373,6 +3491,30 @@
     "dec": 7,
     "pct": 71,
     "nome": "Ambas marcam"
+   },
+   {
+    "ok": 3,
+    "dec": 3,
+    "pct": 100,
+    "nome": "Mais de 1,5 golos"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Aston Villa ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Bétis ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Shakhtar Donetsk ou empate"
    },
    {
     "ok": 1,
@@ -3396,12 +3538,6 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
-    "nome": "Mais de 1,5 golos"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
     "nome": "Dupla hipótese: Sporting ou empate"
    },
    {
@@ -3413,21 +3549,21 @@
   ],
   "faixas": [
    {
-    "ok": 24,
-    "dec": 29,
-    "pct": 83,
+    "ok": 27,
+    "dec": 32,
+    "pct": 84,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 26,
-    "dec": 34,
-    "pct": 76,
+    "ok": 29,
+    "dec": 37,
+    "pct": 78,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 44,
-    "dec": 82,
-    "pct": 54,
+    "dec": 83,
+    "pct": 53,
     "nome": "Odd acima de 1,45"
    }
   ],
@@ -3436,8 +3572,15 @@
     "ok": 0,
     "dec": 0,
     "pct": null,
-    "nome": "Quarta-feira, 14 de outubro",
+    "nome": "Quinta-feira, 15 de outubro",
     "pend": 4
+   },
+   {
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
+    "nome": "Quarta-feira, 14 de outubro",
+    "pend": 1
    },
    {
     "ok": 1,
