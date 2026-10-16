@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T00:13:15+01:00",
+ "atualizado": "2026-10-16T21:55:50+01:00",
  "dia": "2026-10-16",
  "rotulo": "Sexta-feira · 16 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -214,15 +214,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,28",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Eintracht Frankfurt–Colónia (1-0)",
      "legs": [
       {
        "h": "19:30",
        "j": "Eintracht Frankfurt–Colónia",
        "m": "Dupla hipótese: Eintracht Frankfurt ou empate",
        "o": "1,28",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -231,14 +233,16 @@
      "c": "t2",
      "total": "1,98",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 2 pernas certas até agora",
      "legs": [
       {
        "h": "19:30",
        "j": "Eintracht Frankfurt–Colónia",
        "m": "Dupla hipótese: Eintracht Frankfurt ou empate",
        "o": "1,28",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "20:00",
@@ -254,14 +258,16 @@
      "c": "t3",
      "total": "2,52",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "19:30",
        "j": "Eintracht Frankfurt–Colónia",
        "m": "Dupla hipótese: Eintracht Frankfurt ou empate",
        "o": "1,28",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "20:00",
@@ -3577,19 +3583,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 91,
-  "ganhos": 44,
-  "pernas": 161,
-  "pernas_ok": 106,
+  "decididos": 92,
+  "ganhos": 45,
+  "pernas": 162,
+  "pernas_ok": 107,
   "dias": 26,
   "odd_media": "1,58",
   "tipos": [
    {
-    "ok": 20,
-    "dec": 24,
-    "pct": 83,
+    "ok": 21,
+    "dec": 25,
+    "pct": 84,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 13,
@@ -3631,6 +3637,12 @@
     "dec": 3,
     "pct": 100,
     "nome": "Mais de 1,5 golos"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Eintracht Frankfurt ou empate"
    },
    {
     "ok": 1,
@@ -3689,9 +3701,9 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 30,
-    "dec": 39,
-    "pct": 77,
+    "ok": 31,
+    "dec": 40,
+    "pct": 78,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
@@ -3703,11 +3715,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Sexta-feira, 16 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 1,

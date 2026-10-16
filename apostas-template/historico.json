@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,28",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Eintracht Frankfurt–Colónia (1-0)",
     "legs": [
      {
       "h": "19:30",
       "j": "Eintracht Frankfurt–Colónia",
       "m": "Dupla hipótese: Eintracht Frankfurt ou empate",
       "o": "1,28",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -24,14 +26,16 @@
     "c": "t2",
     "total": "1,98",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 2 pernas certas até agora",
     "legs": [
      {
       "h": "19:30",
       "j": "Eintracht Frankfurt–Colónia",
       "m": "Dupla hipótese: Eintracht Frankfurt ou empate",
       "o": "1,28",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "20:00",
@@ -47,14 +51,16 @@
     "c": "t3",
     "total": "2,52",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "19:30",
       "j": "Eintracht Frankfurt–Colónia",
       "m": "Dupla hipótese: Eintracht Frankfurt ou empate",
       "o": "1,28",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "20:00",
