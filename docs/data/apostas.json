@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T21:55:50+01:00",
+ "atualizado": "2026-10-16T22:55:37+01:00",
  "dia": "2026-10-16",
  "rotulo": "Sexta-feira · 16 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -232,8 +232,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,98",
-     "e": "pendente",
-     "d": "1 de 2 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Burnley–Wolverhampton (1-2) · 1 certa",
      "legs": [
       {
        "h": "19:30",
@@ -249,7 +249,9 @@
        "j": "Burnley–Wolverhampton",
        "m": "Dupla hipótese: Burnley ou empate",
        "o": "1,55",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "no",
+       "x": "1-2"
       }
      ]
     },
@@ -257,8 +259,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,52",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Burnley–Wolverhampton (1-2) · 2 certas",
      "legs": [
       {
        "h": "19:30",
@@ -274,14 +276,18 @@
        "j": "Burnley–Wolverhampton",
        "m": "Dupla hipótese: Burnley ou empate",
        "o": "1,55",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "no",
+       "x": "1-2"
       },
       {
        "h": "20:00",
        "j": "Corunha–Levante",
        "m": "Dupla hipótese: Corunha ou empate",
        "o": "1,27",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "1-1"
       }
      ]
     },
@@ -3583,10 +3589,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 92,
+  "decididos": 94,
   "ganhos": 45,
-  "pernas": 162,
-  "pernas_ok": 107,
+  "pernas": 164,
+  "pernas_ok": 108,
   "dias": 26,
   "odd_media": "1,58",
   "tipos": [
@@ -3599,17 +3605,17 @@
    },
    {
     "ok": 13,
-    "dec": 23,
-    "pct": 57,
+    "dec": 24,
+    "pct": 54,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 4,
-    "dec": 23,
+    "dec": 24,
     "pct": 17,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 7,
@@ -3643,6 +3649,18 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Eintracht Frankfurt ou empate"
+   },
+   {
+    "ok": 0,
+    "dec": 1,
+    "pct": 0,
+    "nome": "Dupla hipótese: Burnley ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Corunha ou empate"
    },
    {
     "ok": 1,
@@ -3701,25 +3719,25 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 31,
-    "dec": 40,
+    "ok": 32,
+    "dec": 41,
     "pct": 78,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 48,
-    "dec": 89,
-    "pct": 54,
+    "dec": 90,
+    "pct": 53,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
     "ok": 1,
-    "dec": 1,
-    "pct": 100,
+    "dec": 3,
+    "pct": 33,
     "nome": "Sexta-feira, 16 de outubro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 1,
