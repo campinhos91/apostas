@@ -1,5 +1,119 @@
 [
  {
+  "dia": "2026-10-17",
+  "rotulo": "Sábado · 17 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,23",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "Manchester City vence o Ipswich",
+      "m": "Resultado final",
+      "o": "1,23",
+      "comp": "Premier League"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,38",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "Manchester City vence o Ipswich",
+      "m": "Resultado final",
+      "o": "1,23",
+      "comp": "Premier League"
+     },
+     {
+      "h": "15:30",
+      "j": "PSV Eindhoven vence o Den Haag",
+      "m": "Resultado final",
+      "o": "1,25",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "14:30",
+      "j": "Borussia Dortmund vence o Union Berlin",
+      "m": "Resultado final",
+      "o": "1,55",
+      "comp": "Bundesliga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,38",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "j": "Borussia Dortmund vence o Union Berlin",
+      "m": "Resultado final",
+      "o": "1,55",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "15:00",
+      "j": "Manchester City vence o Ipswich",
+      "m": "Resultado final",
+      "o": "1,23",
+      "comp": "Premier League"
+     },
+     {
+      "h": "15:15",
+      "j": "Villarreal vence o Elche",
+      "m": "Resultado final",
+      "o": "1,42",
+      "comp": "La Liga"
+     },
+     {
+      "h": "15:30",
+      "j": "PSV Eindhoven vence o Den Haag",
+      "m": "Resultado final",
+      "o": "1,25",
+      "comp": "Eredivisie"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,49",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "d": "DOM",
+      "j": "Bayer Leverkusen vence o Freiburg",
+      "m": "Resultado final",
+      "o": "1,68",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Liverpool vence o Villarreal",
+      "m": "Resultado final",
+      "o": "1,48",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-16",
   "rotulo": "Sexta-feira · 16 de outubro de 2026",
   "boletins": [
@@ -88,8 +202,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,70",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "15:00",
