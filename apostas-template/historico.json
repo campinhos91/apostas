@@ -88,8 +88,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,70",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "15:00",
@@ -97,7 +97,9 @@
       "j": "Manchester City vence o Ipswich",
       "m": "Resultado final",
       "o": "1,23",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "15:30",
@@ -105,7 +107,9 @@
       "j": "PSV Eindhoven vence o ADO Den Haag",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "20:00",
@@ -136,7 +140,7 @@
     "c": "t1",
     "total": "1,49",
     "e": "ganho",
-    "d": "Todas as pernas certas: Monaco vence o CSKA Sófia (2-1)",
+    "d": "Todas as pernas certas: Eintracht Frankfurt–Colónia (1-0)",
     "legs": [
      {
       "h": "17:45",
@@ -216,8 +220,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,92",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -225,7 +229,9 @@
       "j": "Manchester City vence o Ipswich",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "17:30",
@@ -354,7 +360,7 @@
     "c": "t4",
     "total": "3,16",
     "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "17:45",
@@ -382,7 +388,9 @@
       "j": "Manchester City vence o Ipswich",
       "m": "Resultado final",
       "o": "1,16",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "20:00",

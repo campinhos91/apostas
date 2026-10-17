@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-16T22:55:37+01:00",
+ "atualizado": "2026-10-17T17:55:13+01:00",
  "dia": "2026-10-16",
  "rotulo": "Sexta-feira · 16 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -10,22 +10,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Monaco vence o CSKA Sófia (2-1)"
+   "d": "Todas as pernas certas: Eintracht Frankfurt–Colónia (1-0)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Midtjylland vence o Egnatia (1-1) · 1 certa"
+   "d": "Falhou: Burnley–Wolverhampton (1-2) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Sparta Praga vence o Lillestrom (1-1); Riga FC vence o Kairat Almaty (1-1) · 1 certa"
+   "d": "Falhou: Burnley–Wolverhampton (1-2) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [
@@ -295,8 +295,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,70",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "15:00",
@@ -304,7 +304,9 @@
        "j": "Manchester City vence o Ipswich",
        "m": "Resultado final",
        "o": "1,23",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "15:30",
@@ -312,7 +314,9 @@
        "j": "PSV Eindhoven vence o ADO Den Haag",
        "m": "Resultado final",
        "o": "1,25",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "no",
+       "x": "1-2"
       },
       {
        "h": "20:00",
@@ -343,7 +347,7 @@
      "c": "t1",
      "total": "1,49",
      "e": "ganho",
-     "d": "Todas as pernas certas: Monaco vence o CSKA Sófia (2-1)",
+     "d": "Todas as pernas certas: Eintracht Frankfurt–Colónia (1-0)",
      "legs": [
       {
        "h": "17:45",
@@ -423,8 +427,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,92",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
@@ -432,7 +436,9 @@
        "j": "Manchester City vence o Ipswich",
        "m": "Resultado final",
        "o": "1,22",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "17:30",
@@ -561,7 +567,7 @@
      "c": "t4",
      "total": "3,16",
      "e": "nao verificado",
-     "d": "2 de 4 pernas certas até agora",
+     "d": "3 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "17:45",
@@ -589,7 +595,9 @@
        "j": "Manchester City vence o Ipswich",
        "m": "Resultado final",
        "o": "1,16",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "20:00",
@@ -3589,12 +3597,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 94,
+  "decididos": 96,
   "ganhos": 45,
-  "pernas": 164,
-  "pernas_ok": 108,
+  "pernas": 166,
+  "pernas_ok": 109,
   "dias": 26,
-  "odd_media": "1,58",
+  "odd_media": "1,57",
   "tipos": [
    {
     "ok": 21,
@@ -3619,16 +3627,16 @@
    },
    {
     "ok": 7,
-    "dec": 21,
-    "pct": 33,
+    "dec": 23,
+    "pct": 30,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 2
    }
   ],
   "mercados": [
    {
-    "ok": 90,
-    "dec": 143,
+    "ok": 91,
+    "dec": 145,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -3713,9 +3721,9 @@
   ],
   "faixas": [
    {
-    "ok": 28,
-    "dec": 33,
-    "pct": 85,
+    "ok": 29,
+    "dec": 35,
+    "pct": 83,
     "nome": "Odd até 1,25"
    },
    {
@@ -3734,17 +3742,17 @@
   "por_dia": [
    {
     "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "dec": 4,
+    "pct": 25,
     "nome": "Sexta-feira, 16 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "dec": 4,
+    "pct": 25,
     "nome": "Quinta-feira, 15 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,

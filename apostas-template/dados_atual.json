@@ -5,22 +5,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Monaco vence o CSKA Sófia (2-1)"
+   "d": "Todas as pernas certas: Eintracht Frankfurt–Colónia (1-0)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Midtjylland vence o Egnatia (1-1) · 1 certa"
+   "d": "Falhou: Burnley–Wolverhampton (1-2) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Sparta Praga vence o Lillestrom (1-1); Riga FC vence o Kairat Almaty (1-1) · 1 certa"
+   "d": "Falhou: Burnley–Wolverhampton (1-2) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [
@@ -160,13 +160,37 @@
   }
  ],
  "fora": [
-  ["Manchester City–AEK Atenas, Liga dos Campeões (1,04)", "o modelo dá só 64% ao Man City (contra os ~96% implícitos na odd), divergência grande entre modelo e mercado"],
-  ["Nápoles–Bodø/Glimt, Liga dos Campeões (1,52 no Nápoles)", "o modelo dá o Bodø/Glimt como mais provável (45% vs 29%), ao contrário do que a odd sugere"],
-  ["FC Porto–PSV Eindhoven, Liga dos Campeões (1,68 no Porto)", "modelo (46%) e mercado (≈60%) divergem bastante; dados fracos para decidir"],
-  ["PSG–Barcelona, Liga dos Campeões (2,27 / 4,05 / 2,43)", "sem favorito claro"],
-  ["Heerenveen–Excelsior (1,17 em dupla hipótese Heerenveen)", "mercado muito mais confiante (85%) do que o modelo (71%), divergência grande"],
-  ["Frosinone–Sassuolo, Serie A (1,44 em dupla hipótese Frosinone)", "Frosinone só tem 6 jogos recentes nos dados (AVISO), amostra fraca"],
-  ["Le Mans–Toulouse, Ligue 1 (1,54 em dupla hipótese Le Mans)", "Le Mans só tem 6 jogos recentes nos dados (AVISO), amostra fraca"],
-  ["Cobertura da Betclic", "Liga das Nações e Amigáveis de Seleções sem jogos listados nesta janela; Dinamarca, Grécia e Suécia (Superliga/Allsvenskan) deram 403 em betclic.pt e betclic.com e não foram consultadas; Liga Europa e Liga Conferência só tinham jogos a 22/10, fora da janela desta execução"]
+  [
+   "Manchester City–AEK Atenas, Liga dos Campeões (1,04)",
+   "o modelo dá só 64% ao Man City (contra os ~96% implícitos na odd), divergência grande entre modelo e mercado"
+  ],
+  [
+   "Nápoles–Bodø/Glimt, Liga dos Campeões (1,52 no Nápoles)",
+   "o modelo dá o Bodø/Glimt como mais provável (45% vs 29%), ao contrário do que a odd sugere"
+  ],
+  [
+   "FC Porto–PSV Eindhoven, Liga dos Campeões (1,68 no Porto)",
+   "modelo (46%) e mercado (≈60%) divergem bastante; dados fracos para decidir"
+  ],
+  [
+   "PSG–Barcelona, Liga dos Campeões (2,27 / 4,05 / 2,43)",
+   "sem favorito claro"
+  ],
+  [
+   "Heerenveen–Excelsior (1,17 em dupla hipótese Heerenveen)",
+   "mercado muito mais confiante (85%) do que o modelo (71%), divergência grande"
+  ],
+  [
+   "Frosinone–Sassuolo, Serie A (1,44 em dupla hipótese Frosinone)",
+   "Frosinone só tem 6 jogos recentes nos dados (AVISO), amostra fraca"
+  ],
+  [
+   "Le Mans–Toulouse, Ligue 1 (1,54 em dupla hipótese Le Mans)",
+   "Le Mans só tem 6 jogos recentes nos dados (AVISO), amostra fraca"
+  ],
+  [
+   "Cobertura da Betclic",
+   "Liga das Nações e Amigáveis de Seleções sem jogos listados nesta janela; Dinamarca, Grécia e Suécia (Superliga/Allsvenskan) deram 403 em betclic.pt e betclic.com e não foram consultadas; Liga Europa e Liga Conferência só tinham jogos a 22/10, fora da janela desta execução"
+  ]
  ]
 }
