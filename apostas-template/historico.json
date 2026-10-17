@@ -1,5 +1,119 @@
 [
  {
+  "dia": "2026-10-17",
+  "rotulo": "Sábado · 17 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,07",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "22:00",
+      "j": "Botafogo–Chapecoense",
+      "m": "Dupla hipótese: Botafogo ou empate",
+      "o": "1,07",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,78",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "21:30",
+      "j": "Atlético Mineiro–Coritiba",
+      "m": "Dupla hipótese: Atlético Mineiro ou empate",
+      "o": "1,13",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "21:30",
+      "j": "Minnesota United–St. Louis City",
+      "m": "Dupla hipótese: Minnesota United ou empate",
+      "o": "1,25",
+      "comp": "MLS"
+     },
+     {
+      "h": "21:30",
+      "j": "Independiente Rivadavia–Tigre",
+      "m": "Dupla hipótese: Independiente Rivadavia ou empate",
+      "o": "1,26",
+      "comp": "Primeira Liga (Argentina)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,06",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "21:30",
+      "j": "Independiente Rivadavia–Tigre",
+      "m": "Mais de 1,5 golos",
+      "o": "1,39",
+      "comp": "Primeira Liga (Argentina)"
+     },
+     {
+      "h": "21:30",
+      "j": "Platense–Lanús",
+      "m": "Dupla hipótese: Lanús ou empate",
+      "o": "1,37",
+      "comp": "Primeira Liga (Argentina)"
+     },
+     {
+      "h": "21:30",
+      "j": "Atlético Mineiro–Coritiba",
+      "m": "Dupla hipótese: Atlético Mineiro ou empate",
+      "o": "1,13",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "21:30",
+      "j": "Minnesota United–St. Louis City",
+      "m": "Ambas marcam",
+      "o": "1,42",
+      "comp": "MLS"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,03",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "d": "DOM",
+      "j": "Bayer Leverkusen vence o Freiburg",
+      "m": "Resultado final",
+      "o": "1,66",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:00",
+      "d": "DOM",
+      "j": "Real Madrid vence o Sevilha",
+      "m": "Resultado final",
+      "o": "1,22",
+      "comp": "La Liga"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-16",
   "rotulo": "Sexta-feira · 16 de outubro de 2026",
   "boletins": [
