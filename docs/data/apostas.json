@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T20:09:46+01:00",
+ "atualizado": "2026-10-17T20:55:47+01:00",
  "dia": "2026-10-17",
  "rotulo": "Sábado · 17 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -221,15 +221,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,23",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Manchester City vence o Ipswich (3-2)",
      "legs": [
       {
        "h": "15:00",
        "j": "Manchester City vence o Ipswich",
        "m": "Resultado final",
        "o": "1,23",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "3-2"
       }
      ]
     },
@@ -237,29 +239,35 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,38",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: PSV Eindhoven vence o Den Haag (1-2); Borussia Dortmund vence o Union Berlin (0-0) · 1 certa",
      "legs": [
       {
        "h": "15:00",
        "j": "Manchester City vence o Ipswich",
        "m": "Resultado final",
        "o": "1,23",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "15:30",
        "j": "PSV Eindhoven vence o Den Haag",
        "m": "Resultado final",
        "o": "1,25",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "no",
+       "x": "1-2"
       },
       {
        "h": "14:30",
        "j": "Borussia Dortmund vence o Union Berlin",
        "m": "Resultado final",
        "o": "1,55",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "no",
+       "x": "0-0"
       }
      ]
     },
@@ -267,36 +275,44 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,38",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Borussia Dortmund vence o Union Berlin (0-0); Villarreal vence o Elche (0-0); PSV Eindhoven vence o Den Haag (1-2) · 1 certa",
      "legs": [
       {
        "h": "14:30",
        "j": "Borussia Dortmund vence o Union Berlin",
        "m": "Resultado final",
        "o": "1,55",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "15:00",
        "j": "Manchester City vence o Ipswich",
        "m": "Resultado final",
        "o": "1,23",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "15:15",
        "j": "Villarreal vence o Elche",
        "m": "Resultado final",
        "o": "1,42",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "15:30",
        "j": "PSV Eindhoven vence o Den Haag",
        "m": "Resultado final",
        "o": "1,25",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "no",
+       "x": "1-2"
       }
      ]
     },
@@ -3720,33 +3736,33 @@
   }
  ],
  "estatisticas": {
-  "decididos": 96,
-  "ganhos": 45,
-  "pernas": 167,
+  "decididos": 99,
+  "ganhos": 46,
+  "pernas": 170,
   "pernas_ok": 110,
   "dias": 27,
   "odd_media": "1,57",
   "tipos": [
    {
-    "ok": 21,
-    "dec": 25,
-    "pct": 84,
+    "ok": 22,
+    "dec": 26,
+    "pct": 85,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 13,
-    "dec": 24,
-    "pct": 54,
+    "dec": 25,
+    "pct": 52,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 4,
-    "dec": 24,
-    "pct": 17,
+    "dec": 25,
+    "pct": 16,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 7,
@@ -3759,8 +3775,8 @@
   "mercados": [
    {
     "ok": 92,
-    "dec": 146,
-    "pct": 63,
+    "dec": 149,
+    "pct": 62,
     "nome": "Resultado final"
    },
    {
@@ -3845,30 +3861,30 @@
   "faixas": [
    {
     "ok": 30,
-    "dec": 36,
-    "pct": 83,
+    "dec": 37,
+    "pct": 81,
     "nome": "Odd até 1,25"
    },
    {
     "ok": 32,
-    "dec": 41,
-    "pct": 78,
+    "dec": 42,
+    "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 48,
-    "dec": 90,
+    "dec": 91,
     "pct": 53,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 3,
+    "pct": 33,
     "nome": "Sábado, 17 de outubro",
-    "pend": 4
+    "pend": 1
    },
    {
     "ok": 1,

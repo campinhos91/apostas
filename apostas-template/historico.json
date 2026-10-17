@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,23",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Manchester City vence o Ipswich (3-2)",
     "legs": [
      {
       "h": "15:00",
       "j": "Manchester City vence o Ipswich",
       "m": "Resultado final",
       "o": "1,23",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    },
@@ -23,29 +25,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,38",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: PSV Eindhoven vence o Den Haag (1-2); Borussia Dortmund vence o Union Berlin (0-0) · 1 certa",
     "legs": [
      {
       "h": "15:00",
       "j": "Manchester City vence o Ipswich",
       "m": "Resultado final",
       "o": "1,23",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "15:30",
       "j": "PSV Eindhoven vence o Den Haag",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "14:30",
       "j": "Borussia Dortmund vence o Union Berlin",
       "m": "Resultado final",
       "o": "1,55",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "0-0"
      }
     ]
    },
@@ -53,36 +61,44 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,38",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Borussia Dortmund vence o Union Berlin (0-0); Villarreal vence o Elche (0-0); PSV Eindhoven vence o Den Haag (1-2) · 1 certa",
     "legs": [
      {
       "h": "14:30",
       "j": "Borussia Dortmund vence o Union Berlin",
       "m": "Resultado final",
       "o": "1,55",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "15:00",
       "j": "Manchester City vence o Ipswich",
       "m": "Resultado final",
       "o": "1,23",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "15:15",
       "j": "Villarreal vence o Elche",
       "m": "Resultado final",
       "o": "1,42",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "15:30",
       "j": "PSV Eindhoven vence o Den Haag",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    },
