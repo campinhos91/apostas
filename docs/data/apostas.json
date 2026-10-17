@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-10-17T20:55:47+01:00",
- "dia": "2026-10-17",
- "rotulo": "Sábado · 17 de outubro de 2026",
+ "atualizado": "2026-10-18T00:22:34+01:00",
+ "dia": "2026-10-18",
+ "rotulo": "Domingo · 18 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
@@ -10,22 +10,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Eintracht Frankfurt–Colónia (1-0)"
+   "d": "Todas as pernas certas: Manchester City vence o Ipswich (3-2)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Burnley–Wolverhampton (1-2) · 1 certa"
+   "d": "Falhou: PSV Eindhoven vence o Den Haag (1-2); Borussia Dortmund vence o Union Berlin (0-0) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Burnley–Wolverhampton (1-2) · 2 certas"
+   "d": "Falhou: Borussia Dortmund vence o Union Berlin (0-0); Villarreal vence o Elche (0-0); PSV Eindhoven vence o Den Haag (1-2) · 1 certa"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "perdido",
-   "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 1 certa, 2 por jogar"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -35,14 +35,14 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "15:00",
-     "j": "Manchester City vence o Ipswich",
+     "h": "20:00",
+     "j": "Real Madrid vence o Sevilha",
      "m": "Resultado final",
-     "o": "1,23",
-     "comp": "Premier League"
+     "o": "1,22",
+     "comp": "La Liga"
     }
    ],
-   "total": "1,23",
+   "total": "1,22",
    "rodape": "Uma seleção"
   },
   {
@@ -51,29 +51,22 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "15:00",
-     "j": "Manchester City vence o Ipswich",
-     "m": "Resultado final",
-     "o": "1,23",
-     "comp": "Premier League"
-    },
-    {
-     "h": "15:30",
-     "j": "PSV Eindhoven vence o Den Haag",
-     "m": "Resultado final",
-     "o": "1,25",
-     "comp": "Eredivisie"
-    },
-    {
      "h": "14:30",
-     "j": "Borussia Dortmund vence o Union Berlin",
+     "j": "Bayer Leverkusen vence o Freiburg",
      "m": "Resultado final",
-     "o": "1,55",
+     "o": "1,66",
      "comp": "Bundesliga"
+    },
+    {
+     "h": "20:00",
+     "j": "Real Madrid vence o Sevilha",
+     "m": "Resultado final",
+     "o": "1,22",
+     "comp": "La Liga"
     }
    ],
-   "total": "2,38",
-   "rodape": "3 seleções"
+   "total": "2,03",
+   "rodape": "2 seleções"
   },
   {
    "c": "t3",
@@ -82,35 +75,28 @@
    "legs": [
     {
      "h": "14:30",
-     "j": "Borussia Dortmund vence o Union Berlin",
+     "j": "Bayer Leverkusen vence o Freiburg",
      "m": "Resultado final",
-     "o": "1,55",
+     "o": "1,66",
      "comp": "Bundesliga"
     },
     {
-     "h": "15:00",
-     "j": "Manchester City vence o Ipswich",
+     "h": "19:00",
+     "j": "NEC Nijmegen vence o Fortuna Sittard",
      "m": "Resultado final",
-     "o": "1,23",
-     "comp": "Premier League"
-    },
-    {
-     "h": "15:15",
-     "j": "Villarreal vence o Elche",
-     "m": "Resultado final",
-     "o": "1,42",
-     "comp": "La Liga"
-    },
-    {
-     "h": "15:30",
-     "j": "PSV Eindhoven vence o Den Haag",
-     "m": "Resultado final",
-     "o": "1,25",
+     "o": "1,64",
      "comp": "Eredivisie"
+    },
+    {
+     "h": "20:00",
+     "j": "Real Madrid vence o Sevilha",
+     "m": "Resultado final",
+     "o": "1,22",
+     "comp": "La Liga"
     }
    ],
-   "total": "3,38",
-   "rodape": "4 seleções · falhar uma perde tudo"
+   "total": "3,32",
+   "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
  "proximos": [
@@ -120,99 +106,185 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "14:30",
-     "d": "DOM",
-     "j": "Bayer Leverkusen vence o Freiburg",
+     "h": "17:45",
+     "d": "TER",
+     "j": "Fenerbahce vence o Slavia Praga",
      "m": "Resultado final",
-     "o": "1,68",
-     "comp": "Bundesliga"
+     "o": "1,64",
+     "comp": "Liga dos Campeões"
     },
     {
      "h": "20:00",
      "d": "TER",
-     "j": "Liverpool vence o Villarreal",
+     "j": "Roma vence o Slovan Bratislava",
      "m": "Resultado final",
-     "o": "1,48",
+     "o": "1,15",
      "comp": "Liga dos Campeões"
     }
    ],
-   "total": "2,49",
-   "rodape": "2 seleções · domingo e terça"
+   "total": "1,89",
+   "rodape": "2 seleções · todas no terça"
   }
  ],
  "amanha": [
   {
-   "h": "14:30",
-   "d": "DOM",
-   "j": "Bayer Leverkusen vence o Freiburg",
+   "h": "19:45",
+   "d": "SEG",
+   "j": "Sp Braga vence o Gil Vicente",
    "m": "Resultado final",
-   "o": "1,68",
-   "comp": "Bundesliga",
-   "n": "Leverkusen fez 20V 7E 6D em casa nas últimas 2 épocas (2,2 golos/jogo) e lidera o confronto direto 4V-3E-1D; modelo dá 59%, bem alinhado com a odd."
-  },
-  {
-   "h": "19:00",
-   "d": "DOM",
-   "j": "NEC Nijmegen vence o Fortuna Sittard",
-   "m": "Resultado final",
-   "o": "1,62",
-   "comp": "Eredivisie",
-   "n": "NEC venceu 14 e empatou 12 dos 34 jogos em casa (2,3 golos/jogo) nas últimas 2 épocas; modelo dá 58%, alinhado com a odd."
+   "o": "1,56",
+   "comp": "Liga Portugal Betclic",
+   "n": "Braga venceu 17 dos 33 jogos em casa nas últimas 2 épocas (1,9 golos/jogo) e lidera o confronto direto 4V-2E-2D; modelo dá 53%, algo abaixo dos ≈64% implícitos na odd, por isso alguma cautela."
   },
   {
    "h": "19:45",
-   "d": "DOM",
-   "j": "Lyon vence o Nice",
+   "d": "SEG",
+   "j": "Torino vence o Parma",
    "m": "Resultado final",
-   "o": "1,67",
-   "comp": "Ligue 1",
-   "n": "Lyon venceu 23 dos 33 jogos em casa nas últimas 2 épocas e lidera o confronto direto 4V-2E-2D; modelo dá 57%, alinhado com a odd."
-  },
-  {
-   "h": "20:00",
-   "d": "DOM",
-   "j": "Real Madrid vence o Sevilha",
-   "m": "Resultado final",
-   "o": "1,22",
-   "comp": "La Liga",
-   "n": "Real Madrid só perdeu 4 dos 37 jogos em casa nas últimas 2 épocas e lidera o confronto direto 7V-1E-0D; o modelo (72%) fica atrás do que a odd implica (≈82%), por isso alguma cautela."
+   "o": "2,33",
+   "comp": "Superliga (Itália)",
+   "n": "Torino só venceu 7 dos 37 jogos fora nas últimas 2 épocas; modelo dá-lhe 36%, abaixo dos ≈43% implícitos na odd, dados moderados e sem confronto direto recente claro."
   }
  ],
  "fora": [
   [
-   "Bayern Munique–RB Leipzig, Bundesliga (1,21)",
-   "o modelo dá só 67% ao Bayern, contra os ≈83% implícitos na odd, divergência grande entre modelo e mercado"
+   "Tottenham–Coventry, Premier League (1,45 no Tottenham)",
+   "Tottenham só venceu 7 de 38 jogos em casa nas últimas 2 épocas (muitos empates e derrotas); modelo dá 44%, bem abaixo dos ≈69% implícitos na odd, divergência grande"
   ],
   [
-   "Sporting Braga–Gil Vicente, Liga Portugal Betclic (1,55 no Braga)",
-   "o modelo dá 53% ao Braga, abaixo dos ≈65% implícitos na odd; a página do jogo deu 403 e não foi possível confirmar dupla hipótese"
+   "Napoli–Bodø/Glimt, Liga dos Campeões (1,56 no Nápoles)",
+   "o modelo dá o Bodø/Glimt como mais provável (44% vs 30%), ao contrário do que a odd sugere"
   ],
   [
-   "Juventus–Lazio, Serie A (1,65 na Juventus)",
-   "o modelo dá só 46% à Juventus, contra os ≈61% implícitos na odd, divergência grande"
+   "FC Porto–PSV Eindhoven, Liga dos Campeões (1,63 no Porto)",
+   "modelo (45%) e mercado (≈61%) divergem; PSV tem registo fora muito forte na Europa (27V 6E 11D)"
   ],
   [
-   "Manchester City–AEK Atenas, Liga dos Campeões (1,05)",
-   "odd já sem valor (≈95% implícito) e o modelo (64%) diverge muito"
+   "Milan–Atalanta, Série A de Itália (1,77 no Milan)",
+   "modelo dá só 38% ao Milan, contra os ≈56% implícitos na odd, divergência grande"
   ],
   [
-   "FC Porto–PSV Eindhoven, Liga dos Campeões (1,75 no Porto)",
-   "modelo (46%) e mercado (≈57%) divergem; dados ainda fracos para decidir"
+   "Monza–Cagliari, Série A de Itália (2,35 no Monza / 3,03 no Cagliari)",
+   "mercado e modelo discordam sobre o favorito (modelo dá 43% ao Cagliari, mercado favorece o Monza); sem escolha fiável"
   ],
   [
-   "Nápoles–Bodø/Glimt, Liga dos Campeões (1,56 no Nápoles)",
-   "o modelo dá o Bodø/Glimt como mais provável (45% vs 29%), ao contrário do que a odd sugere"
+   "Levante–Athletic Bilbao, La Liga (2,08 no Bilbao)",
+   "modelo dá só 34% ao Bilbao, contra os ≈48% implícitos na odd, divergência moderada"
+  ],
+  [
+   "Wolverhampton–Portsmouth, Championship (1,53 no Wolverhampton)",
+   "dados fracos: só 4 jogos em casa do Wolverhampton nesta amostra; modelo (53%) fica abaixo dos ≈65% implícitos"
   ],
   [
    "PSG–Barcelona, Liga dos Campeões (2,35 / 4,30 / 2,43)",
-   "sem favorito claro no mercado; jogo não encontrado no Flashscore nesta janela para confirmar data/hora"
+   "mercado sem favorito claro; o modelo dá 63% ao PSG, mas apostar onde só o modelo vê valor (contra um mercado equilibrado) tende a perder dinheiro"
   ],
   [
    "Cobertura da Betclic",
-   "Liga das Nações e Amigáveis de Seleções sem jogos listados nesta janela (sem jornada internacional); FA Cup só tinha jogos de pré-eliminatórias de escalões baixos, fora dos critérios; Liga Europa e Liga Conferência só tinham jogos a 22/10, fora da janela desta execução; todas as páginas individuais de jogo deram 403 (dupla hipótese, over/under e ambas marcam não confirmados), por isso todas as pernas usam só 'Resultado final'; odds lidas em betclic.com (betclic.pt deu 403)"
+   "Liga das Nações e Amigáveis de Seleções sem jogos listados nesta janela (sem jornada internacional em outubro); Taça de Portugal (3.ª eliminatória) só tinha profissionais contra amadores sem dados fiáveis; MLS tinha jogos a começar na madrugada de hoje, demasiado próximos da hora desta execução; todas as páginas individuais de jogo deram 403, por isso todas as pernas usam só 'Resultado final' (dupla hipótese, over/under e ambas marcam não confirmados); odds lidas em betclic.com (betclic.pt deu 403); Escócia (Celtic–Hearts) e Argentina não encontradas com data fiável no Flashscore e ficaram de fora"
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-10-18",
+   "rotulo": "Domingo · 18 de outubro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,22",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "20:00",
+       "j": "Real Madrid vence o Sevilha",
+       "m": "Resultado final",
+       "o": "1,22",
+       "comp": "La Liga"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "2,03",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "14:30",
+       "j": "Bayer Leverkusen vence o Freiburg",
+       "m": "Resultado final",
+       "o": "1,66",
+       "comp": "Bundesliga"
+      },
+      {
+       "h": "20:00",
+       "j": "Real Madrid vence o Sevilha",
+       "m": "Resultado final",
+       "o": "1,22",
+       "comp": "La Liga"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "3,32",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "14:30",
+       "j": "Bayer Leverkusen vence o Freiburg",
+       "m": "Resultado final",
+       "o": "1,66",
+       "comp": "Bundesliga"
+      },
+      {
+       "h": "19:00",
+       "j": "NEC Nijmegen vence o Fortuna Sittard",
+       "m": "Resultado final",
+       "o": "1,64",
+       "comp": "Eredivisie"
+      },
+      {
+       "h": "20:00",
+       "j": "Real Madrid vence o Sevilha",
+       "m": "Resultado final",
+       "o": "1,22",
+       "comp": "La Liga"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "1,89",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:45",
+       "d": "TER",
+       "j": "Fenerbahce vence o Slavia Praga",
+       "m": "Resultado final",
+       "o": "1,64",
+       "comp": "Liga dos Campeões"
+      },
+      {
+       "h": "20:00",
+       "d": "TER",
+       "j": "Roma vence o Slovan Bratislava",
+       "m": "Resultado final",
+       "o": "1,15",
+       "comp": "Liga dos Campeões"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-10-17",
    "rotulo": "Sábado · 17 de outubro de 2026",
@@ -320,8 +392,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,49",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "14:30",
@@ -3740,7 +3812,7 @@
   "ganhos": 46,
   "pernas": 170,
   "pernas_ok": 110,
-  "dias": 27,
+  "dias": 28,
   "odd_media": "1,57",
   "tipos": [
    {
@@ -3748,28 +3820,28 @@
     "dec": 26,
     "pct": 85,
     "nome": "Aposta simples segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 13,
     "dec": 25,
     "pct": 52,
     "nome": "Múltipla segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 4,
     "dec": 25,
     "pct": 16,
     "nome": "Múltipla arriscada",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 7,
     "dec": 23,
     "pct": 30,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 4
    }
   ],
   "mercados": [
@@ -3879,6 +3951,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Domingo, 18 de outubro",
+    "pend": 4
+   },
    {
     "ok": 1,
     "dec": 3,

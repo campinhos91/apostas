@@ -1,5 +1,105 @@
 [
  {
+  "dia": "2026-10-18",
+  "rotulo": "Domingo · 18 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,22",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Real Madrid vence o Sevilha",
+      "m": "Resultado final",
+      "o": "1,22",
+      "comp": "La Liga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,03",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "j": "Bayer Leverkusen vence o Freiburg",
+      "m": "Resultado final",
+      "o": "1,66",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:00",
+      "j": "Real Madrid vence o Sevilha",
+      "m": "Resultado final",
+      "o": "1,22",
+      "comp": "La Liga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,32",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "j": "Bayer Leverkusen vence o Freiburg",
+      "m": "Resultado final",
+      "o": "1,66",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "19:00",
+      "j": "NEC Nijmegen vence o Fortuna Sittard",
+      "m": "Resultado final",
+      "o": "1,64",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "20:00",
+      "j": "Real Madrid vence o Sevilha",
+      "m": "Resultado final",
+      "o": "1,22",
+      "comp": "La Liga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,89",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "d": "TER",
+      "j": "Fenerbahce vence o Slavia Praga",
+      "m": "Resultado final",
+      "o": "1,64",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Roma vence o Slovan Bratislava",
+      "m": "Resultado final",
+      "o": "1,15",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-17",
   "rotulo": "Sábado · 17 de outubro de 2026",
   "boletins": [
@@ -106,8 +206,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,49",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "14:30",
