@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-17T17:55:13+01:00",
+ "atualizado": "2026-10-17T19:55:39+01:00",
  "dia": "2026-10-16",
  "rotulo": "Sexta-feira · 16 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -428,7 +428,7 @@
      "c": "t4",
      "total": "2,92",
      "e": "perdido",
-     "d": "1 de 4 pernas certas até agora",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
@@ -446,7 +446,9 @@
        "j": "Bayern Munique vence o RB Leipzig",
        "m": "Resultado final",
        "o": "1,21",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "ok",
+       "x": "6-1"
       },
       {
        "h": "20:00",
@@ -3599,8 +3601,8 @@
  "estatisticas": {
   "decididos": 96,
   "ganhos": 45,
-  "pernas": 166,
-  "pernas_ok": 109,
+  "pernas": 167,
+  "pernas_ok": 110,
   "dias": 26,
   "odd_media": "1,57",
   "tipos": [
@@ -3635,8 +3637,8 @@
   ],
   "mercados": [
    {
-    "ok": 91,
-    "dec": 145,
+    "ok": 92,
+    "dec": 146,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -3721,8 +3723,8 @@
   ],
   "faixas": [
    {
-    "ok": 29,
-    "dec": 35,
+    "ok": 30,
+    "dec": 36,
     "pct": 83,
     "nome": "Odd até 1,25"
    },

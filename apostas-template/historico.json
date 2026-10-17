@@ -221,7 +221,7 @@
     "c": "t4",
     "total": "2,92",
     "e": "perdido",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -239,7 +239,9 @@
       "j": "Bayern Munique vence o RB Leipzig",
       "m": "Resultado final",
       "o": "1,21",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "6-1"
      },
      {
       "h": "20:00",
