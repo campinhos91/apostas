@@ -48,8 +48,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,32",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "14:30",
@@ -65,7 +65,9 @@
       "j": "NEC Nijmegen vence o Fortuna Sittard",
       "m": "Resultado final",
       "o": "1,64",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:00",

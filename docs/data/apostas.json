@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T16:55:29+01:00",
+ "atualizado": "2026-10-18T21:55:12+01:00",
  "dia": "2026-10-18",
  "rotulo": "Domingo · 18 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -234,8 +234,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,32",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "14:30",
@@ -251,7 +251,9 @@
        "j": "NEC Nijmegen vence o Fortuna Sittard",
        "m": "Resultado final",
        "o": "1,64",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
@@ -3814,9 +3816,9 @@
   }
  ],
  "estatisticas": {
-  "decididos": 99,
+  "decididos": 100,
   "ganhos": 46,
-  "pernas": 171,
+  "pernas": 172,
   "pernas_ok": 111,
   "dias": 28,
   "odd_media": "1,57",
@@ -3837,10 +3839,10 @@
    },
    {
     "ok": 4,
-    "dec": 25,
-    "pct": 16,
+    "dec": 26,
+    "pct": 15,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 7,
@@ -3853,7 +3855,7 @@
   "mercados": [
    {
     "ok": 93,
-    "dec": 150,
+    "dec": 151,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -3951,7 +3953,7 @@
    },
    {
     "ok": 49,
-    "dec": 92,
+    "dec": 93,
     "pct": 53,
     "nome": "Odd acima de 1,45"
    }
@@ -3959,10 +3961,10 @@
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Domingo, 18 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 1,
