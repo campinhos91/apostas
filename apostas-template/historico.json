@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,22",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Real Madrid vence o Sevilha (4-1)",
     "legs": [
      {
       "h": "20:00",
       "j": "Real Madrid vence o Sevilha",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "4-1"
      }
     ]
    },
@@ -23,8 +25,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,03",
-    "e": "pendente",
-    "d": "1 de 2 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Real Madrid vence o Sevilha (4-1)",
     "legs": [
      {
       "h": "14:30",
@@ -40,7 +42,9 @@
       "j": "Real Madrid vence o Sevilha",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "4-1"
      }
     ]
    },
@@ -49,7 +53,7 @@
     "c": "t3",
     "total": "3,32",
     "e": "perdido",
-    "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 1 certa, 1 por jogar",
+    "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 2 certas",
     "legs": [
      {
       "h": "14:30",
@@ -74,7 +78,9 @@
       "j": "Real Madrid vence o Sevilha",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "4-1"
      }
     ]
    },
@@ -327,7 +333,7 @@
     "c": "t4",
     "total": "2,70",
     "e": "perdido",
-    "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 1 certa, 2 por jogar",
+    "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "15:00",
@@ -355,7 +361,9 @@
       "j": "Real Madrid vence o Sevilha",
       "m": "Resultado final",
       "o": "1,22",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "4-1"
      },
      {
       "h": "20:00",
@@ -487,7 +495,9 @@
       "j": "Real Madrid vence o Sevilha",
       "m": "Resultado final",
       "o": "1,26",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "4-1"
      },
      {
       "h": "20:15",
@@ -599,8 +609,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,16",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Gent vence o AGF (1-0); Mónaco vence o CSKA Sófia (2-1); Manchester City vence o Ipswich (3-2); Real Madrid vence o Sevilha (4-1)",
     "legs": [
      {
       "h": "17:45",
@@ -638,7 +648,9 @@
       "j": "Real Madrid vence o Sevilha",
       "m": "Resultado final",
       "o": "1,21",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "4-1"
      }
     ]
    }

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-18T21:55:12+01:00",
+ "atualizado": "2026-10-18T22:55:37+01:00",
  "dia": "2026-10-18",
  "rotulo": "Domingo · 18 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -193,15 +193,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,22",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Real Madrid vence o Sevilha (4-1)",
      "legs": [
       {
        "h": "20:00",
        "j": "Real Madrid vence o Sevilha",
        "m": "Resultado final",
        "o": "1,22",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "4-1"
       }
      ]
     },
@@ -209,8 +211,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,03",
-     "e": "pendente",
-     "d": "1 de 2 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Real Madrid vence o Sevilha (4-1)",
      "legs": [
       {
        "h": "14:30",
@@ -226,7 +228,9 @@
        "j": "Real Madrid vence o Sevilha",
        "m": "Resultado final",
        "o": "1,22",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "4-1"
       }
      ]
     },
@@ -235,7 +239,7 @@
      "c": "t3",
      "total": "3,32",
      "e": "perdido",
-     "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 1 certa, 1 por jogar",
+     "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 2 certas",
      "legs": [
       {
        "h": "14:30",
@@ -260,7 +264,9 @@
        "j": "Real Madrid vence o Sevilha",
        "m": "Resultado final",
        "o": "1,22",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "4-1"
       }
      ]
     },
@@ -513,7 +519,7 @@
      "c": "t4",
      "total": "2,70",
      "e": "perdido",
-     "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 1 certa, 2 por jogar",
+     "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 2 certas, 1 por jogar",
      "legs": [
       {
        "h": "15:00",
@@ -541,7 +547,9 @@
        "j": "Real Madrid vence o Sevilha",
        "m": "Resultado final",
        "o": "1,22",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "4-1"
       },
       {
        "h": "20:00",
@@ -673,7 +681,9 @@
        "j": "Real Madrid vence o Sevilha",
        "m": "Resultado final",
        "o": "1,26",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "4-1"
       },
       {
        "h": "20:15",
@@ -785,8 +795,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "3,16",
-     "e": "nao verificado",
-     "d": "3 de 4 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Gent vence o AGF (1-0); Mónaco vence o CSKA Sófia (2-1); Manchester City vence o Ipswich (3-2); Real Madrid vence o Sevilha (4-1)",
      "legs": [
       {
        "h": "17:45",
@@ -824,7 +834,9 @@
        "j": "Real Madrid vence o Sevilha",
        "m": "Resultado final",
        "o": "1,21",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "4-1"
       }
      ]
     }
@@ -3816,26 +3828,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 100,
-  "ganhos": 46,
-  "pernas": 172,
-  "pernas_ok": 111,
+  "decididos": 103,
+  "ganhos": 49,
+  "pernas": 173,
+  "pernas_ok": 112,
   "dias": 28,
   "odd_media": "1,57",
   "tipos": [
    {
-    "ok": 22,
-    "dec": 26,
+    "ok": 23,
+    "dec": 27,
     "pct": 85,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 13,
-    "dec": 25,
-    "pct": 52,
+    "ok": 14,
+    "dec": 26,
+    "pct": 54,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 4,
@@ -3845,17 +3857,17 @@
     "pend": 0
    },
    {
-    "ok": 7,
-    "dec": 23,
-    "pct": 30,
+    "ok": 8,
+    "dec": 24,
+    "pct": 33,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
    {
-    "ok": 93,
-    "dec": 151,
+    "ok": 94,
+    "dec": 152,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -3940,9 +3952,9 @@
   ],
   "faixas": [
    {
-    "ok": 30,
-    "dec": 37,
-    "pct": 81,
+    "ok": 31,
+    "dec": 38,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
@@ -3960,11 +3972,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Domingo, 18 de outubro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 1,
@@ -3988,11 +4000,11 @@
     "pend": 0
    },
    {
-    "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Quarta-feira, 14 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
