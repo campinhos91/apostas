@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "2,03",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 2 pernas certas até agora",
     "legs": [
      {
       "h": "14:30",
       "j": "Bayer Leverkusen vence o Freiburg",
       "m": "Resultado final",
       "o": "1,66",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "20:00",
@@ -47,14 +49,16 @@
     "c": "t3",
     "total": "3,32",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "14:30",
       "j": "Bayer Leverkusen vence o Freiburg",
       "m": "Resultado final",
       "o": "1,66",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "19:00",
@@ -207,7 +211,7 @@
     "c": "t4",
     "total": "2,49",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 2 pernas certas até agora",
     "legs": [
      {
       "h": "14:30",
@@ -215,7 +219,9 @@
       "j": "Bayer Leverkusen vence o Freiburg",
       "m": "Resultado final",
       "o": "1,68",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "20:00",
