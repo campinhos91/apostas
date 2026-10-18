@@ -1,26 +1,26 @@
 {
- "data": "Domingo · 18 de outubro de 2026",
+ "data": "Segunda-feira · 19 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "ontem": [
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Manchester City vence o Ipswich (3-2)"
+   "d": "Todas as pernas certas: Real Madrid vence o Sevilha (4-1)"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: PSV Eindhoven vence o Den Haag (1-2); Borussia Dortmund vence o Union Berlin (0-0) · 1 certa"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Real Madrid vence o Sevilha (4-1)"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Borussia Dortmund vence o Union Berlin (0-0); Villarreal vence o Elche (0-0); PSV Eindhoven vence o Den Haag (1-2) · 1 certa"
+   "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "1 de 2 pernas certas até agora"
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -30,11 +30,11 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "20:00",
-     "j": "Real Madrid vence o Sevilha",
+     "h": "19:00",
+     "j": "Al-Hilal vence o Al Hazm",
      "m": "Resultado final",
-     "o": "1,22",
-     "comp": "La Liga"
+     "o": "1,06",
+     "comp": "Primeira Liga (Arábia Saudita)"
     }
    ]
   },
@@ -44,47 +44,18 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "14:30",
-     "j": "Bayer Leverkusen vence o Freiburg",
+     "h": "16:05",
+     "j": "Al Ahli Jeddah vence o Al Faiha",
      "m": "Resultado final",
-     "o": "1,66",
-     "comp": "Bundesliga"
-    },
-    {
-     "h": "20:00",
-     "j": "Real Madrid vence o Sevilha",
-     "m": "Resultado final",
-     "o": "1,22",
-     "comp": "La Liga"
-    }
-   ]
-  },
-  {
-   "c": "t3",
-   "t": "Múltipla arriscada",
-   "risco": "alto",
-   "extra": "falhar uma perde tudo",
-   "legs": [
-    {
-     "h": "14:30",
-     "j": "Bayer Leverkusen vence o Freiburg",
-     "m": "Resultado final",
-     "o": "1,66",
-     "comp": "Bundesliga"
+     "o": "1,34",
+     "comp": "Primeira Liga (Arábia Saudita)"
     },
     {
      "h": "19:00",
-     "j": "NEC Nijmegen vence o Fortuna Sittard",
+     "j": "Al-Hilal vence o Al Hazm",
      "m": "Resultado final",
-     "o": "1,64",
-     "comp": "Eredivisie"
-    },
-    {
-     "h": "20:00",
-     "j": "Real Madrid vence o Sevilha",
-     "m": "Resultado final",
-     "o": "1,22",
-     "comp": "La Liga"
+     "o": "1,06",
+     "comp": "Primeira Liga (Arábia Saudita)"
     }
    ]
   }
@@ -100,15 +71,23 @@
      "d": "TER",
      "j": "Fenerbahce vence o Slavia Praga",
      "m": "Resultado final",
-     "o": "1,64",
+     "o": "1,63",
      "comp": "Liga dos Campeões"
     },
     {
      "h": "20:00",
      "d": "TER",
-     "j": "Roma vence o Slovan Bratislava",
+     "j": "AS Roma vence o Slovan Bratislava",
      "m": "Resultado final",
-     "o": "1,15",
+     "o": "1,14",
+     "comp": "Liga dos Campeões"
+    },
+    {
+     "h": "20:00",
+     "d": "TER",
+     "j": "Liverpool vence o Villarreal",
+     "m": "Resultado final",
+     "o": "1,47",
      "comp": "Liga dos Campeões"
     }
    ]
@@ -116,33 +95,51 @@
  ],
  "amanha": [
   {
-   "h": "19:45",
-   "d": "SEG",
-   "j": "Sp Braga vence o Gil Vicente",
+   "h": "17:45",
+   "d": "TER",
+   "j": "Fenerbahce vence o Slavia Praga",
    "m": "Resultado final",
-   "o": "1,56",
-   "comp": "Liga Portugal Betclic",
-   "n": "Braga venceu 17 dos 33 jogos em casa nas últimas 2 épocas (1,9 golos/jogo) e lidera o confronto direto 4V-2E-2D; modelo dá 53%, algo abaixo dos ≈64% implícitos na odd, por isso alguma cautela."
+   "o": "1,63",
+   "comp": "Liga dos Campeões",
+   "n": "Fenerbahce tem 31V 14E 6D em casa nas últimas 2 épocas europeias (2,1 golos/jogo) e o Slavia Praga só venceu 0 de 8 jogos fora nesta amostra (0,1 golos/jogo marcados); modelo dá 68% ao Fenerbahce, acima dos ≈61% implícitos na odd."
   },
   {
-   "h": "19:45",
-   "d": "SEG",
-   "j": "Torino vence o Parma",
+   "h": "20:00",
+   "d": "TER",
+   "j": "Liverpool vence o Villarreal",
    "m": "Resultado final",
-   "o": "2,33",
-   "comp": "Superliga (Itália)",
-   "n": "Torino só venceu 7 dos 37 jogos fora nas últimas 2 épocas; modelo dá-lhe 36%, abaixo dos ≈43% implícitos na odd, dados moderados e sem confronto direto recente claro."
+   "o": "1,47",
+   "comp": "Liga dos Campeões",
+   "n": "Liverpool tem 30V 12E 6D em casa nas últimas 2 épocas europeias; modelo dá-lhe 81%, bem acima dos ≈68% implícitos na odd, reforçando o favoritismo."
+  },
+  {
+   "h": "20:00",
+   "d": "TER",
+   "j": "AS Roma vence o Slovan Bratislava",
+   "m": "Resultado final",
+   "o": "1,14",
+   "comp": "Liga dos Campeões",
+   "n": "Roma tem 33V 6E 9D em casa nas últimas 2 épocas e o Slovan Bratislava só venceu 2 de 12 jogos fora nesta amostra; modelo dá 79% à Roma, perto dos ≈88% implícitos na odd, por isso alguma cautela apesar do domínio claro em casa."
+  },
+  {
+   "h": "20:00",
+   "d": "TER",
+   "j": "Atlético de Madrid vence o Estugarda",
+   "m": "Resultado final",
+   "o": "2,03",
+   "comp": "Liga dos Campeões",
+   "n": "Atlético tem registo fora sólido na Europa (20V 10E 20D nas últimas 2 épocas); modelo dá-lhe 46%, próximo dos ≈49% implícitos na odd, sem grande divergência."
   }
  ],
  "fora": [
-  ["Tottenham–Coventry, Premier League (1,45 no Tottenham)", "Tottenham só venceu 7 de 38 jogos em casa nas últimas 2 épocas (muitos empates e derrotas); modelo dá 44%, bem abaixo dos ≈69% implícitos na odd, divergência grande"],
-  ["Napoli–Bodø/Glimt, Liga dos Campeões (1,56 no Nápoles)", "o modelo dá o Bodø/Glimt como mais provável (44% vs 30%), ao contrário do que a odd sugere"],
-  ["FC Porto–PSV Eindhoven, Liga dos Campeões (1,63 no Porto)", "modelo (45%) e mercado (≈61%) divergem; PSV tem registo fora muito forte na Europa (27V 6E 11D)"],
-  ["Milan–Atalanta, Série A de Itália (1,77 no Milan)", "modelo dá só 38% ao Milan, contra os ≈56% implícitos na odd, divergência grande"],
-  ["Monza–Cagliari, Série A de Itália (2,35 no Monza / 3,03 no Cagliari)", "mercado e modelo discordam sobre o favorito (modelo dá 43% ao Cagliari, mercado favorece o Monza); sem escolha fiável"],
-  ["Levante–Athletic Bilbao, La Liga (2,08 no Bilbao)", "modelo dá só 34% ao Bilbao, contra os ≈48% implícitos na odd, divergência moderada"],
-  ["Wolverhampton–Portsmouth, Championship (1,53 no Wolverhampton)", "dados fracos: só 4 jogos em casa do Wolverhampton nesta amostra; modelo (53%) fica abaixo dos ≈65% implícitos"],
-  ["PSG–Barcelona, Liga dos Campeões (2,35 / 4,30 / 2,43)", "mercado sem favorito claro; o modelo dá 63% ao PSG, mas apostar onde só o modelo vê valor (contra um mercado equilibrado) tende a perder dinheiro"],
-  ["Cobertura da Betclic", "Liga das Nações e Amigáveis de Seleções sem jogos listados nesta janela (sem jornada internacional em outubro); Taça de Portugal (3.ª eliminatória) só tinha profissionais contra amadores sem dados fiáveis; MLS tinha jogos a começar na madrugada de hoje, demasiado próximos da hora desta execução; todas as páginas individuais de jogo deram 403, por isso todas as pernas usam só 'Resultado final' (dupla hipótese, over/under e ambas marcam não confirmados); odds lidas em betclic.com (betclic.pt deu 403); Escócia (Celtic–Hearts) e Argentina não encontradas com data fiável no Flashscore e ficaram de fora"]
+  ["Belgrano–River Plate, Primeira Liga (Argentina) (1,95 no River Plate)", "o jogo já tinha começado (0-0 aos 5') quando se confirmaram as odds nesta execução, tarde demais para uma aposta pré-jogo"],
+  ["Al Shabab–Al Faisaly, Arábia Saudita (1,53 no Al Shabab)", "Al Shabab está sem vencer há 5 jornadas (3E 2D, 5-8 de golos), apesar de ser o favorito no mercado: dados recentes contradizem a odd"],
+  ["Cienciano–UTC de Cajamarca, Primeira Liga (Peru) (1,15 no Cienciano)", "fontes de forma contraditórias (posições na tabela muito diferentes entre si) e sem cobertura histórica fiável; jogo também à 00h30, demasiado próximo desta execução"],
+  ["Manchester City–AEK Atenas, Liga dos Campeões (1,08 no Man City)", "modelo dá só 66% ao Man City, bem abaixo dos ≈93% implícitos na odd: divergência grande demais para confiar na odd tão baixa"],
+  ["FC Porto–PSV Eindhoven, Liga dos Campeões (1,62 no FC Porto)", "modelo dá só 45% ao FC Porto; o PSV tem registo fora muito forte na Europa (27V 6E 11D, 75% ambas marcam), divergência grande"],
+  ["Nápoles–Bodø/Glimt, Liga dos Campeões (1,55 no Nápoles)", "o modelo dá o Bodø/Glimt como mais provável (44% vs 30% do Nápoles), ao contrário do que a odd sugere"],
+  ["PSG–Barcelona, Liga dos Campeões (2,35 / 4,20 / 2,40)", "mercado sem favorito claro; o modelo dá 63% ao PSG, mas apostar onde só o modelo vê valor (contra um mercado equilibrado) tende a perder dinheiro"],
+  ["Sabah FK–Dortmund, Liga dos Campeões (1,26 no Dortmund)", "modelo dá só 57% ao Dortmund, abaixo dos ≈79% implícitos na odd, divergência grande"],
+  ["Cobertura da Betclic", "betclic.pt acessível diretamente nesta execução (sem 403, sem precisar do betclic.com nem do ajuste de 1h). Verificadas todas as ligas principais europeias (incl. Liga Portugal, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie, ligas escocesas, escandinavas, grega, romena, sérvia, búlgara, finlandesa, austríaca) sem um único jogo à segunda-feira. Liga dos Campeões, Liga Europa e Liga Conferência só jogam a partir de terça/quarta. Taça dos Libertadores e Sul-Americana só têm meias-finais entre quarta e sexta. Argentina (Primeira Nacional), Uruguai, Colômbia e Costa Rica tinham jogos em curso ou já terminados no momento desta execução, não por começar. MLS, Liga MX, Japão e Coreia do Sul não tinham jogos à segunda-feira. Honduras não mostrou jogos na página. Só a Arábia Saudita teve jogos ainda por começar hoje, por isso os boletins de hoje usam só essa liga; sem jogos suficientes com dados fiáveis para montar a Múltipla arriscada (mínimo de 3 seleções de jogos diferentes) sem recorrer a dados fracos ou contraditórios"]
  ]
 }

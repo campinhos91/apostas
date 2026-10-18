@@ -1,5 +1,83 @@
 [
  {
+  "dia": "2026-10-19",
+  "rotulo": "Segunda-feira · 19 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,06",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Al-Hilal vence o Al Hazm",
+      "m": "Resultado final",
+      "o": "1,06",
+      "comp": "Primeira Liga (Arábia Saudita)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "16:05",
+      "j": "Al Ahli Jeddah vence o Al Faiha",
+      "m": "Resultado final",
+      "o": "1,34",
+      "comp": "Primeira Liga (Arábia Saudita)"
+     },
+     {
+      "h": "19:00",
+      "j": "Al-Hilal vence o Al Hazm",
+      "m": "Resultado final",
+      "o": "1,06",
+      "comp": "Primeira Liga (Arábia Saudita)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,73",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "d": "TER",
+      "j": "Fenerbahce vence o Slavia Praga",
+      "m": "Resultado final",
+      "o": "1,63",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "AS Roma vence o Slovan Bratislava",
+      "m": "Resultado final",
+      "o": "1,14",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Liverpool vence o Villarreal",
+      "m": "Resultado final",
+      "o": "1,47",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-18",
   "rotulo": "Domingo · 18 de outubro de 2026",
   "boletins": [
@@ -88,8 +166,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,89",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "17:45",
