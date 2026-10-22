@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,48",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Juventus vence o Rennes (2-2) · 0 certas",
     "legs": [
      {
       "h": "17:45",
       "j": "Juventus vence o Rennes",
       "m": "Resultado final",
       "o": "1,48",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    },
@@ -23,22 +25,26 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,17",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Nordsjaelland vence o CSKA Sófia (2-2); Pafos FC vence o Riga FC (1-1) · 0 certas",
     "legs": [
      {
       "h": "17:45",
       "j": "Nordsjaelland vence o CSKA Sófia",
       "m": "Resultado final",
       "o": "1,40",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "17:45",
       "j": "Pafos FC vence o Riga FC",
       "m": "Resultado final",
       "o": "1,55",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    },
@@ -46,29 +52,35 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,26",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Dínamo Zagreb vence o NEC Nijmegen (2-4); Getafe vence o Lugano (2-5) · 1 certa",
     "legs": [
      {
       "h": "17:45",
       "j": "Dínamo Zagreb vence o NEC Nijmegen",
       "m": "Resultado final",
       "o": "1,57",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "no",
+      "x": "2-4"
      },
      {
       "h": "17:45",
       "j": "Getafe vence o Lugano",
       "m": "Resultado final",
       "o": "1,84",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "no",
+      "x": "2-5"
      },
      {
       "h": "17:45",
       "j": "Juventus–Rennes",
       "m": "Dupla hipótese: Juventus ou empate",
       "o": "1,13",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "ok",
+      "x": "2-2"
      }
     ]
    },
