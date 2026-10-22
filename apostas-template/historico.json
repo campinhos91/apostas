@@ -1,5 +1,135 @@
 [
  {
+  "dia": "2026-10-23",
+  "rotulo": "Sexta-feira · 23 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,62",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Alavés vence o Málaga",
+      "m": "Resultado final",
+      "o": "1,62",
+      "comp": "La Liga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,87",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:30",
+      "j": "Estugarda–Monchengladbach",
+      "m": "Dupla hipótese: Estugarda ou empate",
+      "o": "1,10",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "19:45",
+      "j": "Torino–Monza",
+      "m": "Dupla hipótese: Torino ou empate",
+      "o": "1,28",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "19:45",
+      "j": "Brest–Nice",
+      "m": "Dupla hipótese: Brest ou empate",
+      "o": "1,33",
+      "comp": "Ligue 1"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Go Ahead Eagles–Telstar",
+      "m": "Dupla hipótese: Go Ahead Eagles ou empate",
+      "o": "1,24",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "19:45",
+      "j": "Torino–Monza",
+      "m": "Dupla hipótese: Torino ou empate",
+      "o": "1,28",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "19:45",
+      "j": "Brest–Nice",
+      "m": "Dupla hipótese: Brest ou empate",
+      "o": "1,33",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "20:00",
+      "j": "Alavés vence o Málaga",
+      "m": "Resultado final",
+      "o": "1,62",
+      "comp": "La Liga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,24",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "d": "SÁB",
+      "j": "Arsenal–Everton",
+      "m": "Dupla hipótese: Arsenal ou empate",
+      "o": "1,10",
+      "comp": "Premier League"
+     },
+     {
+      "h": "17:00",
+      "d": "SÁB",
+      "j": "Nápoles–Roma",
+      "m": "Dupla hipótese: Roma ou empate",
+      "o": "1,39",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:30",
+      "d": "SÁB",
+      "j": "Gil Vicente–Porto",
+      "m": "Dupla hipótese: Porto ou empate",
+      "o": "1,21",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "17:00",
+      "d": "DOM",
+      "j": "Lecce–Juventus",
+      "m": "Dupla hipótese: Juventus ou empate",
+      "o": "1,21",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-22",
   "rotulo": "Quinta-feira · 22 de outubro de 2026",
   "boletins": [
@@ -88,8 +218,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,42",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "19:45",
