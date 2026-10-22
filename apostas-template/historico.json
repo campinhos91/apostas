@@ -1,5 +1,113 @@
 [
  {
+  "dia": "2026-10-22",
+  "rotulo": "Quinta-feira · 22 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,48",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Juventus vence o Rennes",
+      "m": "Resultado final",
+      "o": "1,48",
+      "comp": "Liga Europa"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,17",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Nordsjaelland vence o CSKA Sófia",
+      "m": "Resultado final",
+      "o": "1,40",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "j": "Pafos FC vence o Riga FC",
+      "m": "Resultado final",
+      "o": "1,55",
+      "comp": "Liga Conferência"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,26",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Dínamo Zagreb vence o NEC Nijmegen",
+      "m": "Resultado final",
+      "o": "1,57",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "17:45",
+      "j": "Getafe vence o Lugano",
+      "m": "Resultado final",
+      "o": "1,84",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "j": "Juventus–Rennes",
+      "m": "Dupla hipótese: Juventus ou empate",
+      "o": "1,13",
+      "comp": "Liga Europa"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "d": "SEX",
+      "j": "Brest–Nice",
+      "m": "Dupla hipótese: Brest ou empate",
+      "o": "1,33",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "20:00",
+      "d": "SEX",
+      "j": "Alavés vence o Málaga",
+      "m": "Resultado final",
+      "o": "1,70",
+      "comp": "La Liga"
+     },
+     {
+      "h": "18:45",
+      "d": "SEG",
+      "j": "Santa Clara–Benfica",
+      "m": "Dupla hipótese: Benfica ou empate",
+      "o": "1,07",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-19",
   "rotulo": "Segunda-feira · 19 de outubro de 2026",
   "boletins": [
