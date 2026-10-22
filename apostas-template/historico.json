@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,06",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Al-Hilal vence o Al Hazm (1-0)",
     "legs": [
      {
       "h": "19:00",
       "j": "Al-Hilal vence o Al Hazm",
       "m": "Resultado final",
       "o": "1,06",
-      "comp": "Primeira Liga (Arábia Saudita)"
+      "comp": "Primeira Liga (Arábia Saudita)",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -23,22 +25,26 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,42",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Al Ahli Jeddah vence o Al Faiha (3-2); Al-Hilal vence o Al Hazm (1-0)",
     "legs": [
      {
       "h": "16:05",
       "j": "Al Ahli Jeddah vence o Al Faiha",
       "m": "Resultado final",
       "o": "1,34",
-      "comp": "Primeira Liga (Arábia Saudita)"
+      "comp": "Primeira Liga (Arábia Saudita)",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "19:00",
       "j": "Al-Hilal vence o Al Hazm",
       "m": "Resultado final",
       "o": "1,06",
-      "comp": "Primeira Liga (Arábia Saudita)"
+      "comp": "Primeira Liga (Arábia Saudita)",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -46,8 +52,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,73",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Fenerbahce vence o Slavia Praga (2-2) · 2 certas",
     "legs": [
      {
       "h": "17:45",
@@ -55,7 +61,9 @@
       "j": "Fenerbahce vence o Slavia Praga",
       "m": "Resultado final",
       "o": "1,63",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:00",
@@ -63,7 +71,9 @@
       "j": "AS Roma vence o Slovan Bratislava",
       "m": "Resultado final",
       "o": "1,14",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "20:00",
@@ -71,7 +81,9 @@
       "j": "Liverpool vence o Villarreal",
       "m": "Resultado final",
       "o": "1,47",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "4-3"
      }
     ]
    }
@@ -86,7 +98,7 @@
     "c": "t1",
     "total": "1,22",
     "e": "ganho",
-    "d": "Todas as pernas certas: Real Madrid vence o Sevilha (4-1)",
+    "d": "Todas as pernas certas: Al-Hilal vence o Al Hazm (1-0)",
     "legs": [
      {
       "h": "20:00",
@@ -104,7 +116,7 @@
     "c": "t2",
     "total": "2,03",
     "e": "ganho",
-    "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Real Madrid vence o Sevilha (4-1)",
+    "d": "Todas as pernas certas: Al Ahli Jeddah vence o Al Faiha (3-2); Al-Hilal vence o Al Hazm (1-0)",
     "legs": [
      {
       "h": "14:30",
@@ -166,8 +178,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,89",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Fenerbahce vence o Slavia Praga (2-2) · 1 certa",
     "legs": [
      {
       "h": "17:45",
@@ -175,7 +187,9 @@
       "j": "Fenerbahce vence o Slavia Praga",
       "m": "Resultado final",
       "o": "1,64",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:00",
@@ -183,7 +197,9 @@
       "j": "Roma vence o Slovan Bratislava",
       "m": "Resultado final",
       "o": "1,15",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "4-0"
      }
     ]
    }
@@ -296,8 +312,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,49",
-    "e": "nao verificado",
-    "d": "1 de 2 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Liverpool vence o Villarreal (4-3)",
     "legs": [
      {
       "h": "14:30",
@@ -315,7 +331,9 @@
       "j": "Liverpool vence o Villarreal",
       "m": "Resultado final",
       "o": "1,48",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "4-3"
      }
     ]
    }
@@ -411,7 +429,7 @@
     "c": "t4",
     "total": "2,70",
     "e": "perdido",
-    "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 2 certas, 1 por jogar",
+    "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 3 certas",
     "legs": [
      {
       "h": "15:00",
@@ -449,7 +467,9 @@
       "j": "Liverpool vence o Villarreal",
       "m": "Resultado final",
       "o": "1,44",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "4-3"
      }
     ]
    }
@@ -583,7 +603,9 @@
       "j": "Sporting Braga vence o Gil Vicente",
       "m": "Resultado final",
       "o": "1,57",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    }

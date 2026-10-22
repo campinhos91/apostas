@@ -5,22 +5,17 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Real Madrid vence o Sevilha (4-1)"
+   "d": "Todas as pernas certas: Al-Hilal vence o Al Hazm (1-0)"
   },
   {
    "t": "Múltipla segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Real Madrid vence o Sevilha (4-1)"
-  },
-  {
-   "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 2 certas"
+   "d": "Todas as pernas certas: Al Ahli Jeddah vence o Al Faiha (3-2); Al-Hilal vence o Al Hazm (1-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Fenerbahce vence o Slavia Praga (2-2) · 2 certas"
   }
  ],
  "hoje": [

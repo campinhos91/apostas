@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-19T00:29:35+01:00",
+ "atualizado": "2026-10-22T02:18:38+01:00",
  "dia": "2026-10-19",
  "rotulo": "Segunda-feira · 19 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -10,22 +10,17 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Real Madrid vence o Sevilha (4-1)"
+   "d": "Todas as pernas certas: Al-Hilal vence o Al Hazm (1-0)"
   },
   {
    "t": "Múltipla segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Real Madrid vence o Sevilha (4-1)"
-  },
-  {
-   "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: NEC Nijmegen vence o Fortuna Sittard (2-2) · 2 certas"
+   "d": "Todas as pernas certas: Al Ahli Jeddah vence o Al Faiha (3-2); Al-Hilal vence o Al Hazm (1-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Fenerbahce vence o Slavia Praga (2-2) · 2 certas"
   }
  ],
  "hoje": [
@@ -189,15 +184,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,06",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Al-Hilal vence o Al Hazm (1-0)",
      "legs": [
       {
        "h": "19:00",
        "j": "Al-Hilal vence o Al Hazm",
        "m": "Resultado final",
        "o": "1,06",
-       "comp": "Primeira Liga (Arábia Saudita)"
+       "comp": "Primeira Liga (Arábia Saudita)",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -205,22 +202,26 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,42",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Al Ahli Jeddah vence o Al Faiha (3-2); Al-Hilal vence o Al Hazm (1-0)",
      "legs": [
       {
        "h": "16:05",
        "j": "Al Ahli Jeddah vence o Al Faiha",
        "m": "Resultado final",
        "o": "1,34",
-       "comp": "Primeira Liga (Arábia Saudita)"
+       "comp": "Primeira Liga (Arábia Saudita)",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "19:00",
        "j": "Al-Hilal vence o Al Hazm",
        "m": "Resultado final",
        "o": "1,06",
-       "comp": "Primeira Liga (Arábia Saudita)"
+       "comp": "Primeira Liga (Arábia Saudita)",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -228,8 +229,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,73",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Fenerbahce vence o Slavia Praga (2-2) · 2 certas",
      "legs": [
       {
        "h": "17:45",
@@ -237,7 +238,9 @@
        "j": "Fenerbahce vence o Slavia Praga",
        "m": "Resultado final",
        "o": "1,63",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
@@ -245,7 +248,9 @@
        "j": "AS Roma vence o Slovan Bratislava",
        "m": "Resultado final",
        "o": "1,14",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "4-0"
       },
       {
        "h": "20:00",
@@ -253,7 +258,9 @@
        "j": "Liverpool vence o Villarreal",
        "m": "Resultado final",
        "o": "1,47",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "4-3"
       }
      ]
     }
@@ -268,7 +275,7 @@
      "c": "t1",
      "total": "1,22",
      "e": "ganho",
-     "d": "Todas as pernas certas: Real Madrid vence o Sevilha (4-1)",
+     "d": "Todas as pernas certas: Al-Hilal vence o Al Hazm (1-0)",
      "legs": [
       {
        "h": "20:00",
@@ -286,7 +293,7 @@
      "c": "t2",
      "total": "2,03",
      "e": "ganho",
-     "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Real Madrid vence o Sevilha (4-1)",
+     "d": "Todas as pernas certas: Al Ahli Jeddah vence o Al Faiha (3-2); Al-Hilal vence o Al Hazm (1-0)",
      "legs": [
       {
        "h": "14:30",
@@ -348,8 +355,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,89",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Fenerbahce vence o Slavia Praga (2-2) · 1 certa",
      "legs": [
       {
        "h": "17:45",
@@ -357,7 +364,9 @@
        "j": "Fenerbahce vence o Slavia Praga",
        "m": "Resultado final",
        "o": "1,64",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
@@ -365,7 +374,9 @@
        "j": "Roma vence o Slovan Bratislava",
        "m": "Resultado final",
        "o": "1,15",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "4-0"
       }
      ]
     }
@@ -478,8 +489,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,49",
-     "e": "nao verificado",
-     "d": "1 de 2 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Bayer Leverkusen vence o Freiburg (2-1); Liverpool vence o Villarreal (4-3)",
      "legs": [
       {
        "h": "14:30",
@@ -497,7 +508,9 @@
        "j": "Liverpool vence o Villarreal",
        "m": "Resultado final",
        "o": "1,48",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "4-3"
       }
      ]
     }
@@ -593,7 +606,7 @@
      "c": "t4",
      "total": "2,70",
      "e": "perdido",
-     "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 2 certas, 1 por jogar",
+     "d": "Falhou: PSV Eindhoven vence o ADO Den Haag (1-2) · 3 certas",
      "legs": [
       {
        "h": "15:00",
@@ -631,7 +644,9 @@
        "j": "Liverpool vence o Villarreal",
        "m": "Resultado final",
        "o": "1,44",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "4-3"
       }
      ]
     }
@@ -765,7 +780,9 @@
        "j": "Sporting Braga vence o Gil Vicente",
        "m": "Resultado final",
        "o": "1,57",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "no",
+       "x": "1-2"
       }
      ]
     }
@@ -3902,26 +3919,26 @@
   }
  ],
  "estatisticas": {
-  "decididos": 103,
-  "ganhos": 49,
-  "pernas": 173,
-  "pernas_ok": 112,
+  "decididos": 108,
+  "ganhos": 52,
+  "pernas": 180,
+  "pernas_ok": 117,
   "dias": 29,
-  "odd_media": "1,57",
+  "odd_media": "1,56",
   "tipos": [
    {
-    "ok": 23,
-    "dec": 27,
-    "pct": 85,
+    "ok": 24,
+    "dec": 28,
+    "pct": 86,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 14,
-    "dec": 26,
-    "pct": 54,
+    "ok": 15,
+    "dec": 27,
+    "pct": 56,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 4,
@@ -3931,17 +3948,17 @@
     "pend": 0
    },
    {
-    "ok": 8,
-    "dec": 24,
+    "ok": 9,
+    "dec": 27,
     "pct": 33,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 1
    }
   ],
   "mercados": [
    {
-    "ok": 94,
-    "dec": 152,
+    "ok": 99,
+    "dec": 159,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -4026,45 +4043,45 @@
   ],
   "faixas": [
    {
-    "ok": 31,
-    "dec": 38,
-    "pct": 82,
+    "ok": 34,
+    "dec": 41,
+    "pct": 83,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 32,
-    "dec": 42,
-    "pct": 76,
+    "ok": 34,
+    "dec": 44,
+    "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 49,
-    "dec": 93,
-    "pct": 53,
+    "dec": 95,
+    "pct": 52,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
-    "nome": "Segunda-feira, 19 de outubro",
-    "pend": 3
-   },
-   {
     "ok": 2,
     "dec": 3,
     "pct": 67,
-    "nome": "Domingo, 18 de outubro",
-    "pend": 1
+    "nome": "Segunda-feira, 19 de outubro",
+    "pend": 0
    },
    {
-    "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
+    "nome": "Domingo, 18 de outubro",
+    "pend": 0
+   },
+   {
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
     "nome": "Sábado, 17 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
