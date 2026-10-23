@@ -54,14 +54,16 @@
     "c": "t3",
     "total": "3,42",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "19:00",
       "j": "Go Ahead Eagles–Telstar",
       "m": "Dupla hipótese: Go Ahead Eagles ou empate",
       "o": "1,24",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "19:45",

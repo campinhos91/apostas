@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-23T00:26:22+01:00",
+ "atualizado": "2026-10-23T20:55:35+01:00",
  "dia": "2026-10-23",
  "rotulo": "Sexta-feira · 23 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -284,14 +284,16 @@
      "c": "t3",
      "total": "3,42",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "19:00",
        "j": "Go Ahead Eagles–Telstar",
        "m": "Dupla hipótese: Go Ahead Eagles ou empate",
        "o": "1,24",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "19:45",
@@ -4224,10 +4226,10 @@
  "estatisticas": {
   "decididos": 111,
   "ganhos": 52,
-  "pernas": 186,
-  "pernas_ok": 118,
+  "pernas": 187,
+  "pernas_ok": 119,
   "dias": 31,
-  "odd_media": "1,56",
+  "odd_media": "1,55",
   "tipos": [
    {
     "ok": 24,
@@ -4276,6 +4278,12 @@
     "dec": 3,
     "pct": 100,
     "nome": "Mais de 1,5 golos"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Go Ahead Eagles ou empate"
    },
    {
     "ok": 1,
@@ -4352,9 +4360,9 @@
   ],
   "faixas": [
    {
-    "ok": 35,
-    "dec": 42,
-    "pct": 83,
+    "ok": 36,
+    "dec": 43,
+    "pct": 84,
     "nome": "Odd até 1,25"
    },
    {
