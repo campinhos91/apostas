@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-10-24",
+  "rotulo": "Sábado · 24 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,76",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "j": "Chelsea vence o Tottenham",
+      "m": "Resultado final",
+      "o": "1,76",
+      "comp": "Premier League"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,37",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "Arsenal–Everton",
+      "m": "Dupla hipótese: Arsenal ou empate",
+      "o": "1,10",
+      "comp": "Premier League"
+     },
+     {
+      "h": "17:30",
+      "j": "Dortmund–Eintracht Frankfurt",
+      "m": "Dupla hipótese: Dortmund ou empate",
+      "o": "1,14",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "19:45",
+      "j": "Lazio–Parma",
+      "m": "Dupla hipótese: Lazio ou empate",
+      "o": "1,09",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,31",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "Arsenal vence o Everton",
+      "m": "Resultado final",
+      "o": "1,42",
+      "comp": "Premier League"
+     },
+     {
+      "h": "17:30",
+      "j": "Dortmund vence o Eintracht Frankfurt",
+      "m": "Resultado final",
+      "o": "1,48",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:30",
+      "j": "Gil Vicente–Porto",
+      "m": "Dupla hipótese: Porto ou empate",
+      "o": "1,10",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,50",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "11:30",
+      "d": "DOM",
+      "j": "Inter–Fiorentina",
+      "m": "Dupla hipótese: Inter ou empate",
+      "o": "1,09",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "17:00",
+      "d": "DOM",
+      "j": "Lecce–Juventus",
+      "m": "Dupla hipótese: Juventus ou empate",
+      "o": "1,10",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "18:00",
+      "d": "DOM",
+      "j": "Nacional–Braga",
+      "m": "Dupla hipótese: Braga ou empate",
+      "o": "1,13",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "19:30",
+      "d": "SEG",
+      "j": "PSG–Lyon",
+      "m": "Dupla hipótese: PSG ou empate",
+      "o": "1,11",
+      "comp": "Ligue 1"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-23",
   "rotulo": "Sexta-feira · 23 de outubro de 2026",
   "boletins": [
@@ -7,15 +130,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,62",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Alavés vence o Málaga (1-1) · 0 certas",
     "legs": [
      {
       "h": "20:00",
       "j": "Alavés vence o Málaga",
       "m": "Resultado final",
       "o": "1,62",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    },
@@ -23,29 +148,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,87",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Estugarda–Monchengladbach (2-3); Brest–Nice (1-2) · 1 certa",
     "legs": [
      {
       "h": "19:30",
       "j": "Estugarda–Monchengladbach",
       "m": "Dupla hipótese: Estugarda ou empate",
       "o": "1,10",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "2-3"
      },
      {
       "h": "19:45",
       "j": "Torino–Monza",
       "m": "Dupla hipótese: Torino ou empate",
       "o": "1,28",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "19:45",
       "j": "Brest–Nice",
       "m": "Dupla hipótese: Brest ou empate",
       "o": "1,33",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    },
@@ -53,8 +184,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,42",
-    "e": "pendente",
-    "d": "1 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Brest–Nice (1-2); Alavés vence o Málaga (1-1) · 2 certas",
     "legs": [
      {
       "h": "19:00",
@@ -70,21 +201,27 @@
       "j": "Torino–Monza",
       "m": "Dupla hipótese: Torino ou empate",
       "o": "1,28",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "19:45",
       "j": "Brest–Nice",
       "m": "Dupla hipótese: Brest ou empate",
       "o": "1,33",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "20:00",
       "j": "Alavés vence o Málaga",
       "m": "Resultado final",
       "o": "1,62",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    },
@@ -92,8 +229,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,24",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "15:00",
@@ -220,8 +357,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,42",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Brest–Nice (1-2); Alavés vence o Málaga (1-1) · 0 certas, 1 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -229,7 +366,9 @@
       "j": "Brest–Nice",
       "m": "Dupla hipótese: Brest ou empate",
       "o": "1,33",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "20:00",
@@ -237,7 +376,9 @@
       "j": "Alavés vence o Málaga",
       "m": "Resultado final",
       "o": "1,70",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "18:45",

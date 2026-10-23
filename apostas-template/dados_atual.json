@@ -1,22 +1,22 @@
 {
- "data": "Sexta-feira · 23 de outubro de 2026",
+ "data": "Sábado · 24 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "ontem": [
   {
    "t": "Aposta simples segura",
    "e": "perdido",
-   "d": "Falhou: Juventus vence o Rennes (2-2) · 0 certas"
+   "d": "Falhou: Alavés vence o Málaga (1-1) · 0 certas"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Nordsjaelland vence o CSKA Sófia (2-2); Pafos FC vence o Riga FC (1-1) · 0 certas"
+   "d": "Falhou: Estugarda–Monchengladbach (2-3); Brest–Nice (1-2) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Dínamo Zagreb vence o NEC Nijmegen (2-4); Getafe vence o Lugano (2-5) · 1 certa"
+   "d": "Falhou: Brest–Nice (1-2); Alavés vence o Málaga (1-1) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -30,7 +30,7 @@
    "t": "Aposta simples segura",
    "risco": "baixo",
    "legs": [
-    {"h": "20:00", "j": "Alavés vence o Málaga", "m": "Resultado final", "o": "1,62", "comp": "La Liga"}
+    {"h": "17:30", "j": "Chelsea vence o Tottenham", "m": "Resultado final", "o": "1,76", "comp": "Premier League"}
    ]
   },
   {
@@ -38,9 +38,9 @@
    "t": "Múltipla segura",
    "risco": "médio",
    "legs": [
-    {"h": "19:30", "j": "Estugarda–Monchengladbach", "m": "Dupla hipótese: Estugarda ou empate", "o": "1,10", "comp": "Bundesliga"},
-    {"h": "19:45", "j": "Torino–Monza", "m": "Dupla hipótese: Torino ou empate", "o": "1,28", "comp": "Superliga (Itália)"},
-    {"h": "19:45", "j": "Brest–Nice", "m": "Dupla hipótese: Brest ou empate", "o": "1,33", "comp": "Ligue 1"}
+    {"h": "15:00", "j": "Arsenal–Everton", "m": "Dupla hipótese: Arsenal ou empate", "o": "1,10", "comp": "Premier League"},
+    {"h": "17:30", "j": "Dortmund–Eintracht Frankfurt", "m": "Dupla hipótese: Dortmund ou empate", "o": "1,14", "comp": "Bundesliga"},
+    {"h": "19:45", "j": "Lazio–Parma", "m": "Dupla hipótese: Lazio ou empate", "o": "1,09", "comp": "Superliga (Itália)"}
    ]
   },
   {
@@ -49,10 +49,9 @@
    "risco": "alto",
    "extra": "falhar uma perde tudo",
    "legs": [
-    {"h": "19:00", "j": "Go Ahead Eagles–Telstar", "m": "Dupla hipótese: Go Ahead Eagles ou empate", "o": "1,24", "comp": "Eredivisie"},
-    {"h": "19:45", "j": "Torino–Monza", "m": "Dupla hipótese: Torino ou empate", "o": "1,28", "comp": "Superliga (Itália)"},
-    {"h": "19:45", "j": "Brest–Nice", "m": "Dupla hipótese: Brest ou empate", "o": "1,33", "comp": "Ligue 1"},
-    {"h": "20:00", "j": "Alavés vence o Málaga", "m": "Resultado final", "o": "1,62", "comp": "La Liga"}
+    {"h": "15:00", "j": "Arsenal vence o Everton", "m": "Resultado final", "o": "1,42", "comp": "Premier League"},
+    {"h": "17:30", "j": "Dortmund vence o Eintracht Frankfurt", "m": "Resultado final", "o": "1,48", "comp": "Bundesliga"},
+    {"h": "20:30", "j": "Gil Vicente–Porto", "m": "Dupla hipótese: Porto ou empate", "o": "1,10", "comp": "Liga Portugal Betclic"}
    ]
   }
  ],
@@ -62,31 +61,34 @@
    "t": "Múltipla dos próximos dias",
    "risco": "médio",
    "legs": [
-    {"h": "15:00", "d": "SÁB", "j": "Arsenal–Everton", "m": "Dupla hipótese: Arsenal ou empate", "o": "1,10", "comp": "Premier League"},
-    {"h": "17:00", "d": "SÁB", "j": "Nápoles–Roma", "m": "Dupla hipótese: Roma ou empate", "o": "1,39", "comp": "Superliga (Itália)"},
-    {"h": "20:30", "d": "SÁB", "j": "Gil Vicente–Porto", "m": "Dupla hipótese: Porto ou empate", "o": "1,21", "comp": "Liga Portugal Betclic"},
-    {"h": "17:00", "d": "DOM", "j": "Lecce–Juventus", "m": "Dupla hipótese: Juventus ou empate", "o": "1,21", "comp": "Superliga (Itália)"}
+    {"h": "11:30", "d": "DOM", "j": "Inter–Fiorentina", "m": "Dupla hipótese: Inter ou empate", "o": "1,09", "comp": "Superliga (Itália)"},
+    {"h": "17:00", "d": "DOM", "j": "Lecce–Juventus", "m": "Dupla hipótese: Juventus ou empate", "o": "1,10", "comp": "Superliga (Itália)"},
+    {"h": "18:00", "d": "DOM", "j": "Nacional–Braga", "m": "Dupla hipótese: Braga ou empate", "o": "1,13", "comp": "Liga Portugal Betclic"},
+    {"h": "19:30", "d": "SEG", "j": "PSG–Lyon", "m": "Dupla hipótese: PSG ou empate", "o": "1,11", "comp": "Ligue 1"}
    ]
   }
  ],
  "amanha": [
-  {"h": "17:00", "d": "SÁB", "j": "Nápoles vence a Roma", "m": "Resultado final", "o": "2,68", "comp": "Superliga (Itália)",
-   "n": "Confronto direto equilibrado nos últimos 4 jogos (2V 1E 1D para Nápoles) e Roma tem 19V 5E 13D fora nas últimas 2 épocas; modelo dá 38% à vitória direta de Roma, mas a dupla hipótese (Roma ou empate) sobe a 68%, perto dos ≈72% implícitos na odd de 1,39, por isso preferida essa aposta mais sólida."},
-  {"h": "20:30", "d": "SÁB", "j": "Gil Vicente–Porto", "m": "Dupla hipótese: Porto ou empate", "o": "1,21", "comp": "Liga Portugal Betclic",
-   "n": "Porto tem 25V 3E 7D fora nas últimas 2 épocas e está em 6 vitórias seguidas fora; modelo dá 82% à dupla hipótese, quase igual aos ≈83% implícitos na odd — dos jogos de amanhã, o de maior confiança."},
-  {"h": "20:00", "d": "SÁB", "j": "Atlético de Madrid–Deportivo", "m": "Dupla hipótese: Atlético ou empate", "o": "1,06", "comp": "La Liga",
-   "n": "Atlético tem 29V 4E 4D em casa nas últimas 2 épocas; Deportivo, recém-subido, só tem 4 jogos fora nos dados (amostra muito pequena); modelo dá 85% à dupla hipótese, perto dos ≈94% implícitos na odd, mas Julián Álvarez é dúvida por problema físico."},
-  {"h": "17:30", "d": "SÁB", "j": "Dortmund vence o Eintracht Frankfurt", "m": "Resultado final", "o": "1,44", "comp": "Bundesliga",
-   "n": "Dortmund tem 22V 6E 5D em casa nas últimas 2 épocas e ganhou 5 dos últimos 8 confrontos diretos; modelo dá 64% à vitória direta, perto dos ≈69% implícitos na odd."}
+  {"h": "20:30", "d": "DOM", "j": "Sporting CP vence o Académico Viseu", "m": "Resultado final", "o": "1,24", "comp": "Liga Portugal Betclic",
+   "n": "Sporting tem 26V 5E 3D em casa nas últimas 2 épocas e marca 2,7 golos por jogo em casa; Académico Viseu só tem 4 jogos fora nos dados (amostra pequena); modelo dá 69% à vitória direta vs ≈81% implícitos na odd, mas a dupla hipótese (1,05) sobe a 88%, mais perto dos ≈95% implícitos — a aposta mais sólida seria essa."},
+  {"h": "11:30", "d": "DOM", "j": "Inter vence a Fiorentina", "m": "Resultado final", "o": "1,32", "comp": "Superliga (Itália)",
+   "n": "Inter tem 28V 7E 3D em casa nas últimas 2 épocas e ganhou 5 dos últimos 8 confrontos diretos; modelo dá 67% à vitória direta vs ≈76% implícitos na odd; a dupla hipótese (1,09), usada na múltipla dos próximos dias, tem 87% no modelo, mais perto dos ≈92% implícitos."},
+  {"h": "18:00", "d": "DOM", "j": "Nacional–Braga", "m": "Dupla hipótese: Braga ou empate", "o": "1,13", "comp": "Liga Portugal Betclic",
+   "n": "Braga tem 17V 10E 7D fora nas últimas 2 épocas e ganhou 3 dos últimos 4 confrontos diretos com o Nacional; modelo dá 78% à dupla hipótese, perto dos ≈88% implícitos na odd."},
+  {"h": "15:45", "d": "DOM", "j": "Sparta Roterdão–Ajax", "m": "Dupla hipótese: Ajax ou empate", "o": "1,13", "comp": "Eredivisie",
+   "n": "Ajax tem 18V 12E 4D fora nas últimas 2 épocas e só perdeu 1 dos últimos 4 confrontos diretos com o Sparta Roterdão; modelo dá 78% à dupla hipótese vs ≈88% implícitos na odd."},
+  {"h": "20:00", "d": "DOM", "j": "Barcelona vence o Real Madrid", "m": "Resultado final", "o": "1,55", "comp": "La Liga",
+   "n": "Clássico imprevisível: Barcelona tem 33V 1E 4D em casa nas últimas 2 épocas, mas o confronto direto está equilibrado (4V 4D em 8 jogos); modelo dá só 54% à vitória do Barcelona vs ≈65% implícitos na odd; sem notícias de lesões confirmadas encontradas nesta pesquisa."}
  ],
  "fora": [
-  ["Bolton–Middlesbrough (1,53 no Middlesbrough)", "modelo dá só 40% ao Middlesbrough vs ≈65% implícitos na odd; Bolton (recém-subido) só tem 5 jogos em casa nos dados, estimativa pouco fiável"],
-  ["Vitória SC–Marítimo (1,66 no Vitória SC)", "modelo dá só 44% ao Vitória SC vs ≈60% implícitos na odd; Marítimo só tem 4 jogos fora nos dados"],
-  ["Barcelona–Real Madrid (1,56 no Barcelona)", "clássico imprevisível; Barcelona sem Eric García e Jules Koundé por lesão; modelo dá 54% ao Barcelona vs ≈64% implícitos na odd"],
-  ["Paris SG–Lyon (1,38 no PSG)", "modelo dá só 57% ao PSG vs ≈72% implícitos na odd"],
-  ["Friburgo–Bayern Munique (1,30 no Bayern)", "Bayern sem Guerreiro, de Ligt e Gnabry por lesão; modelo dá 63% ao Bayern vs ≈77% implícitos na odd"],
-  ["Sporting CP–Académico Viseu (1,23 no Sporting, resultado final)", "modelo dá 69% ao Sporting vs ≈81% implícitos na odd; Viseu só tem 8 jogos nos dados; preferidos jogos com melhor ajuste modelo/odd nos outros boletins"],
-  ["Lazio–Parma (1,36 no Lazio)", "modelo dá só 56% ao Lazio vs ≈74% implícitos na odd"],
-  ["Cobertura da Betclic", "betclic.pt acessível nesta execução depois de alguns 403 iniciais (betclic.com também usado). Verificadas as principais ligas europeias (Premier League, Championship, La Liga, Superliga (Itália), Bundesliga, Ligue 1, Eredivisie, Liga Portugal Betclic) e Liga dos Campeões/Liga Europa/Liga das Nações, sem jogos na janela dos próximos dias (só a partir de 3 de novembro). Algumas páginas de jogo (Go Ahead Eagles–Telstar, Lecce–Juventus, Taça de Portugal) devolveram 403 ou sem jogos ao pedir os mercados extra, por isso ficam só com 'Resultado final' ou sem esses mercados. Não verificadas ligas secundárias (Bélgica, Escócia, Turquia, Suíça, Áustria, países nórdicos, Brasil, Argentina, MLS, Liga MX, Japão, Austrália, Sérvia, Roménia) por já haver jogos suficientes nas ligas principais."]
+  ["RB Leipzig–Elversberg (1,12 na dupla hipótese)", "Elversberg só tem 6 jogos recentes nos dados (AVISO), estimativa pouco fiável; modelo dá 76% vs ≈89% implícitos na odd"],
+  ["Atlético de Madrid–Deportivo (1,06 na dupla hipótese)", "Deportivo, recém-subido, só tem 9 jogos fora nos dados; modelo dá 85% vs ≈94% implícitos na odd, gap grande para uma odd tão baixa"],
+  ["Estrela Amadora–Casa Pia (1,18 na dupla hipótese)", "modelo dá só 73% à dupla hipótese do Estrela Amadora vs ≈85% implícitos na odd"],
+  ["Udinese–Milan (1,15 na dupla hipótese)", "Udinese tem só 0,9 golos marcados por jogo em casa; modelo dá 76% vs ≈87% implícitos na odd"],
+  ["Friburgo–Bayern Munique (1,10 na dupla hipótese)", "preferidos jogos com melhor ajuste modelo/odd nos outros boletins; sem dados de lesões confirmados nesta pesquisa"],
+  ["Nápoles–Roma (2,65 no Nápoles, resultado final)", "jogo equilibrado: modelo dá só 32% ao Nápoles e 38% à Roma, sem seleção clara"],
+  ["Wolves–Watford (1,34 no Wolves, Championship)", "Wolves só tem 11 jogos recentes nos dados (AVISO), estimativa pouco fiável"],
+  ["West Ham–Southampton (1,63 no West Ham, Championship)", "West Ham só tem 11 jogos recentes nos dados (AVISO), estimativa pouco fiável"],
+  ["Cobertura da Betclic", "betclic.pt acessível nesta execução, sem 403. Verificadas: Liga Portugal Betclic, Premier League, Championship, La Liga, Superliga (Itália), Bundesliga, Ligue 1, Eredivisie, Liga dos Campeões, Liga Europa, Liga Conferência e Liga das Nações — as três últimas e a Liga das Nações só têm jogos a partir de 3 de novembro, fora da janela. Não verificadas ligas secundárias (Bélgica, Escócia, Turquia, Suíça, Áustria, países nórdicos, Brasil, Argentina, MLS, Liga MX, Japão, Austrália, Sérvia, Roménia) por já haver jogos suficientes nas ligas principais."]
  ]
 }
