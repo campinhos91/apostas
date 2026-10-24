@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,76",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Chelsea vence o Tottenham (0-2) · 0 certas",
     "legs": [
      {
       "h": "17:30",
       "j": "Chelsea vence o Tottenham",
       "m": "Resultado final",
       "o": "1,76",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "no",
+      "x": "0-2"
      }
     ]
    },
@@ -24,7 +26,7 @@
     "c": "t2",
     "total": "1,37",
     "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -40,7 +42,9 @@
       "j": "Dortmund–Eintracht Frankfurt",
       "m": "Dupla hipótese: Dortmund ou empate",
       "o": "1,14",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "19:45",
@@ -56,7 +60,7 @@
     "c": "t3",
     "total": "2,31",
     "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -72,7 +76,9 @@
       "j": "Dortmund vence o Eintracht Frankfurt",
       "m": "Resultado final",
       "o": "1,48",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "20:30",
@@ -234,7 +240,7 @@
     "c": "t4",
     "total": "2,24",
     "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -252,7 +258,9 @@
       "j": "Nápoles–Roma",
       "m": "Dupla hipótese: Roma ou empate",
       "o": "1,39",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-3"
      },
      {
       "h": "20:30",
