@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "1,37",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
       "j": "Arsenal–Everton",
       "m": "Dupla hipótese: Arsenal ou empate",
       "o": "1,10",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "17:30",
@@ -54,14 +56,16 @@
     "c": "t3",
     "total": "2,31",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
       "j": "Arsenal vence o Everton",
       "m": "Resultado final",
       "o": "1,42",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "17:30",
@@ -230,7 +234,7 @@
     "c": "t4",
     "total": "2,24",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -238,7 +242,9 @@
       "j": "Arsenal–Everton",
       "m": "Dupla hipótese: Arsenal ou empate",
       "o": "1,10",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "17:00",

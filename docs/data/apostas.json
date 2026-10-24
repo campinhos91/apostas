@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-24T00:23:46+01:00",
+ "atualizado": "2026-10-24T17:55:15+01:00",
  "dia": "2026-10-24",
  "rotulo": "Sábado · 24 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "1 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -260,14 +260,16 @@
      "c": "t2",
      "total": "1,37",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
        "j": "Arsenal–Everton",
        "m": "Dupla hipótese: Arsenal ou empate",
        "o": "1,10",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "17:30",
@@ -290,14 +292,16 @@
      "c": "t3",
      "total": "2,31",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
        "j": "Arsenal vence o Everton",
        "m": "Resultado final",
        "o": "1,42",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "17:30",
@@ -466,7 +470,7 @@
      "c": "t4",
      "total": "2,24",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
@@ -474,7 +478,9 @@
        "j": "Arsenal–Everton",
        "m": "Dupla hipótese: Arsenal ou empate",
        "o": "1,10",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "17:00",
@@ -4373,8 +4379,8 @@
  "estatisticas": {
   "decididos": 115,
   "ganhos": 52,
-  "pernas": 191,
-  "pernas_ok": 120,
+  "pernas": 193,
+  "pernas_ok": 122,
   "dias": 32,
   "odd_media": "1,55",
   "tipos": [
@@ -4409,8 +4415,8 @@
   ],
   "mercados": [
    {
-    "ok": 99,
-    "dec": 165,
+    "ok": 100,
+    "dec": 166,
     "pct": 60,
     "nome": "Resultado final"
    },
@@ -4425,6 +4431,12 @@
     "dec": 3,
     "pct": 100,
     "nome": "Mais de 1,5 golos"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Arsenal ou empate"
    },
    {
     "ok": 0,
@@ -4525,15 +4537,15 @@
   ],
   "faixas": [
    {
-    "ok": 36,
-    "dec": 44,
+    "ok": 37,
+    "dec": 45,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 35,
-    "dec": 47,
-    "pct": 74,
+    "ok": 36,
+    "dec": 48,
+    "pct": 75,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
