@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-10-25",
+  "rotulo": "Domingo · 25 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,32",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "11:30",
+      "j": "Inter vence a Fiorentina",
+      "m": "Resultado final",
+      "o": "1,32",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,32",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "16:15",
+      "j": "Marselha–Le Havre",
+      "m": "Dupla hipótese: Marselha ou empate",
+      "o": "1,14",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "17:00",
+      "j": "Lecce–Juventus",
+      "m": "Dupla hipótese: Juventus ou empate",
+      "o": "1,10",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:30",
+      "j": "Sporting–Académico Viseu",
+      "m": "Dupla hipótese: Sporting ou empate",
+      "o": "1,05",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,56",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "12:00",
+      "j": "Celtic vence o Hibernian",
+      "m": "Resultado final",
+      "o": "1,54",
+      "comp": "Primeira Liga (Escócia)"
+     },
+     {
+      "h": "16:30",
+      "j": "Bayern Munique vence o Friburgo",
+      "m": "Resultado final",
+      "o": "1,36",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "19:45",
+      "j": "Milan vence o Udinese",
+      "m": "Resultado final",
+      "o": "1,70",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,32",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:45",
+      "d": "SEG",
+      "j": "Santa Clara–Benfica",
+      "m": "Dupla hipótese: Benfica ou empate",
+      "o": "1,07",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "19:30",
+      "d": "SEG",
+      "j": "PSG–Lyon",
+      "m": "Dupla hipótese: PSG ou empate",
+      "o": "1,11",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "19:45",
+      "d": "TER",
+      "j": "Roma–Cagliari",
+      "m": "Dupla hipótese: Roma ou empate",
+      "o": "1,07",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "19:45",
+      "d": "QUA",
+      "j": "Celtic–Dundee United",
+      "m": "Dupla hipótese: Celtic ou empate",
+      "o": "1,04",
+      "comp": "Primeira Liga (Escócia)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-24",
   "rotulo": "Sábado · 24 de outubro de 2026",
   "boletins": [
@@ -25,8 +148,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,37",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Arsenal–Everton (2-0); Dortmund–Eintracht Frankfurt (1-0); Lazio–Parma (2-1)",
     "legs": [
      {
       "h": "15:00",
@@ -51,7 +174,9 @@
       "j": "Lazio–Parma",
       "m": "Dupla hipótese: Lazio ou empate",
       "o": "1,09",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -59,8 +184,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,31",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Arsenal vence o Everton (2-0); Dortmund vence o Eintracht Frankfurt (1-0); Gil Vicente–Porto (0-1)",
     "legs": [
      {
       "h": "15:00",
@@ -85,7 +210,9 @@
       "j": "Gil Vicente–Porto",
       "m": "Dupla hipótese: Porto ou empate",
       "o": "1,10",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "0-1"
      }
     ]
    },
@@ -93,8 +220,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,50",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "11:30",
@@ -240,7 +367,7 @@
     "c": "t4",
     "total": "2,24",
     "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -268,7 +395,9 @@
       "j": "Gil Vicente–Porto",
       "m": "Dupla hipótese: Porto ou empate",
       "o": "1,21",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "0-1"
      },
      {
       "h": "17:00",

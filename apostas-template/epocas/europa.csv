@@ -1,11 +1,4 @@
 liga,epoca,data,casa,fora,gc,gf,neutro,casa_fs,fora_fs
-UCL,2022-2023,2022-07-06,Bodo/Glimt,Klaksvik,3,0,0,Bodo/Glimt (Nor),Klaksvik (Fai)
-UCL,2022-2023,2022-07-06,Dudelange,KF Tirana,1,0,0,Dudelange (Lux),KF Tirana (Alb)
-UCL,2022-2023,2022-07-06,HJK,RFS,1,0,0,HJK (Fin),RFS (Lat)
-UCL,2022-2023,2022-07-06,Maribor,Shakhtyor Soligorsk,0,0,0,Maribor (Slo),Shakhtyor Soligorsk (Blr)
-UCL,2022-2023,2022-07-06,Slovan Bratislava,Dinamo Batumi,0,0,0,Slovan Bratislava (Svk),Dinamo Batumi (Geo)
-UCL,2022-2023,2022-07-06,Tobol,Ferencvaros,0,0,0,Tobol (Kaz),Ferencvaros (Hun)
-UCL,2022-2023,2022-07-06,Zrinjski,Sheriff Tiraspol,0,0,0,Zrinjski (Bih),Sheriff Tiraspol (Mda)
 UCL,2022-2023,2022-07-12,Hibernians,Shamrock Rovers,0,0,0,Hibernians (Mlt),Shamrock Rovers (Irl)
 UCL,2022-2023,2022-07-12,KF Tirana,Dudelange,1,2,0,KF Tirana (Alb),Dudelange (Lux)
 UCL,2022-2023,2022-07-12,Lincoln Red Imps,Shkupi,2,0,0,Lincoln Red Imps (Gib),Shkupi (Mkd)
@@ -1068,8 +1061,6 @@ UCL,2026-2027,2026-10-21,Inter,Shakhtar Donetsk,1,0,0,Inter,Shakhtar Donetsk
 UCL,2026-2027,2026-10-21,Lille,Galatasaray,2,4,0,Lille,Galatasaray
 UCL,2026-2027,2026-10-21,Real Madrid,RB Leipzig,4,1,0,Real Madrid,RB Leipzig
 UCL,2026-2027,2026-10-21,Sp Lisbon,LASK,2,3,0,Sporting CP,LASK
-UECL,2022-2023,2022-07-06,Inter Turku,Drita,1,0,0,Inter Turku (Fin),Drita (Kos)
-UECL,2022-2023,2022-07-06,Vikingur,Europa FC,1,0,0,Vikingur (Fai),Europa FC (Gib)
 UECL,2022-2023,2022-07-07,Alashkert,Hamrun,1,0,0,Alashkert (Arm),Hamrun (Mlt)
 UECL,2022-2023,2022-07-07,Bala,Sligo Rovers,1,2,0,Bala (Wal),Sligo Rovers (Irl)
 UECL,2022-2023,2022-07-07,Borac Banja Luka,B36 Torshavn,2,0,0,Borac Banja Luka (Bih),B36 Torshavn (Fai)
