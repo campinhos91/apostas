@@ -26,21 +26,25 @@
     "c": "t2",
     "total": "1,32",
     "e": "pendente",
-    "d": "",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "16:15",
       "j": "Marselha–Le Havre",
       "m": "Dupla hipótese: Marselha ou empate",
       "o": "1,14",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "ok",
+      "x": "4-3"
      },
      {
       "h": "17:00",
       "j": "Lecce–Juventus",
       "m": "Dupla hipótese: Juventus ou empate",
       "o": "1,10",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "0-2"
      },
      {
       "h": "20:30",
@@ -56,7 +60,7 @@
     "c": "t3",
     "total": "3,56",
     "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "12:00",
@@ -72,7 +76,9 @@
       "j": "Bayern Munique vence o Friburgo",
       "m": "Resultado final",
       "o": "1,36",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "19:45",
@@ -225,7 +231,7 @@
     "c": "t4",
     "total": "1,50",
     "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "11:30",
@@ -243,7 +249,9 @@
       "j": "Lecce–Juventus",
       "m": "Dupla hipótese: Juventus ou empate",
       "o": "1,10",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "0-2"
      },
      {
       "h": "18:00",
@@ -372,8 +380,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,24",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Arsenal–Everton (2-0); Nápoles–Roma (3-3); Gil Vicente–Porto (0-1); Lecce–Juventus (0-2)",
     "legs": [
      {
       "h": "15:00",
@@ -411,7 +419,9 @@
       "j": "Lecce–Juventus",
       "m": "Dupla hipótese: Juventus ou empate",
       "o": "1,21",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "0-2"
      }
     ]
    }
