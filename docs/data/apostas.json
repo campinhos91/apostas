@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T00:24:52+01:00",
+ "atualizado": "2026-10-25T13:55:00+00:00",
  "dia": "2026-10-25",
  "rotulo": "Domingo · 25 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -221,15 +221,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,32",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Inter vence a Fiorentina (2-1)",
      "legs": [
       {
        "h": "11:30",
        "j": "Inter vence a Fiorentina",
        "m": "Resultado final",
        "o": "1,32",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -435,7 +437,7 @@
      "c": "t4",
      "total": "1,50",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "11:30",
@@ -443,7 +445,9 @@
        "j": "Inter–Fiorentina",
        "m": "Dupla hipótese: Inter ou empate",
        "o": "1,09",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "17:00",
@@ -4492,19 +4496,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 118,
-  "ganhos": 54,
-  "pernas": 199,
-  "pernas_ok": 127,
+  "decididos": 119,
+  "ganhos": 55,
+  "pernas": 201,
+  "pernas_ok": 129,
   "dias": 33,
   "odd_media": "1,54",
   "tipos": [
    {
-    "ok": 24,
-    "dec": 31,
-    "pct": 77,
+    "ok": 25,
+    "dec": 32,
+    "pct": 78,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 16,
@@ -4530,8 +4534,8 @@
   ],
   "mercados": [
    {
-    "ok": 101,
-    "dec": 168,
+    "ok": 102,
+    "dec": 169,
     "pct": 60,
     "nome": "Resultado final"
    },
@@ -4570,6 +4574,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Porto ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Inter ou empate"
    },
    {
     "ok": 0,
@@ -4676,14 +4686,14 @@
   ],
   "faixas": [
    {
-    "ok": 40,
-    "dec": 48,
-    "pct": 83,
+    "ok": 41,
+    "dec": 49,
+    "pct": 84,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 37,
-    "dec": 49,
+    "ok": 38,
+    "dec": 50,
     "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
@@ -4696,11 +4706,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Domingo, 25 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 2,

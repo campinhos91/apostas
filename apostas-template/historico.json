@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,32",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Inter vence a Fiorentina (2-1)",
     "legs": [
      {
       "h": "11:30",
       "j": "Inter vence a Fiorentina",
       "m": "Resultado final",
       "o": "1,32",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -221,7 +223,7 @@
     "c": "t4",
     "total": "1,50",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "11:30",
@@ -229,7 +231,9 @@
       "j": "Inter–Fiorentina",
       "m": "Dupla hipótese: Inter ou empate",
       "o": "1,09",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "17:00",
