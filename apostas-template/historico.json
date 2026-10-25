@@ -25,8 +25,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,32",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Sporting–Académico Viseu (1-2) · 2 certas",
     "legs": [
      {
       "h": "16:15",
@@ -51,7 +51,9 @@
       "j": "Sporting–Académico Viseu",
       "m": "Dupla hipótese: Sporting ou empate",
       "o": "1,05",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    },
@@ -59,8 +61,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,56",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Celtic vence o Hibernian (2-1); Bayern Munique vence o Friburgo (3-1); Milan vence o Udinese (2-0)",
     "legs": [
      {
       "h": "12:00",
@@ -85,7 +87,9 @@
       "j": "Milan vence o Udinese",
       "m": "Resultado final",
       "o": "1,70",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -230,8 +234,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,50",
-    "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Nacional–Braga (1-0) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "11:30",
@@ -259,7 +263,9 @@
       "j": "Nacional–Braga",
       "m": "Dupla hipótese: Braga ou empate",
       "o": "1,13",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "no",
+      "x": "1-0"
      },
      {
       "h": "19:30",

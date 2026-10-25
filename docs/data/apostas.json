@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T19:55:34+00:00",
+ "atualizado": "2026-10-25T23:55:48+00:00",
  "dia": "2026-10-25",
  "rotulo": "Domingo · 25 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -24,8 +24,8 @@
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "2 de 4 pernas certas até agora"
+   "e": "perdido",
+   "d": "Falhou: Nacional–Braga (1-0) · 2 certas, 1 por jogar"
   }
  ],
  "hoje": [
@@ -239,8 +239,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,32",
-     "e": "pendente",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Sporting–Académico Viseu (1-2) · 2 certas",
      "legs": [
       {
        "h": "16:15",
@@ -265,7 +265,9 @@
        "j": "Sporting–Académico Viseu",
        "m": "Dupla hipótese: Sporting ou empate",
        "o": "1,05",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "no",
+       "x": "1-2"
       }
      ]
     },
@@ -273,8 +275,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,56",
-     "e": "pendente",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Celtic vence o Hibernian (2-1); Bayern Munique vence o Friburgo (3-1); Milan vence o Udinese (2-0)",
      "legs": [
       {
        "h": "12:00",
@@ -299,7 +301,9 @@
        "j": "Milan vence o Udinese",
        "m": "Resultado final",
        "o": "1,70",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "2-0"
       }
      ]
     },
@@ -444,8 +448,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,50",
-     "e": "nao verificado",
-     "d": "2 de 4 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Nacional–Braga (1-0) · 2 certas, 1 por jogar",
      "legs": [
       {
        "h": "11:30",
@@ -473,7 +477,9 @@
        "j": "Nacional–Braga",
        "m": "Dupla hipótese: Braga ou empate",
        "o": "1,13",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "no",
+       "x": "1-0"
       },
       {
        "h": "19:30",
@@ -4508,10 +4514,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 120,
-  "ganhos": 56,
-  "pernas": 205,
-  "pernas_ok": 133,
+  "decididos": 123,
+  "ganhos": 57,
+  "pernas": 208,
+  "pernas_ok": 134,
   "dias": 33,
   "odd_media": "1,53",
   "tipos": [
@@ -4524,30 +4530,30 @@
    },
    {
     "ok": 16,
-    "dec": 30,
-    "pct": 53,
+    "dec": 31,
+    "pct": 52,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 5,
-    "dec": 29,
-    "pct": 17,
+    "ok": 6,
+    "dec": 30,
+    "pct": 20,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 10,
-    "dec": 29,
-    "pct": 34,
+    "dec": 30,
+    "pct": 33,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 2
    }
   ],
   "mercados": [
    {
-    "ok": 104,
-    "dec": 171,
+    "ok": 105,
+    "dec": 172,
     "pct": 61,
     "nome": "Resultado final"
    },
@@ -4568,6 +4574,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Juventus ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Dupla hipótese: Sporting ou empate"
    },
    {
     "ok": 1,
@@ -4604,6 +4616,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Inter ou empate"
+   },
+   {
+    "ok": 0,
+    "dec": 1,
+    "pct": 0,
+    "nome": "Dupla hipótese: Braga ou empate"
    },
    {
     "ok": 0,
@@ -4693,20 +4711,14 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
-    "nome": "Dupla hipótese: Sporting ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
     "nome": "Mais de 2,5 golos"
    }
   ],
   "faixas": [
    {
     "ok": 43,
-    "dec": 51,
-    "pct": 84,
+    "dec": 53,
+    "pct": 81,
     "nome": "Odd até 1,25"
    },
    {
@@ -4716,26 +4728,26 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 51,
-    "dec": 103,
+    "ok": 52,
+    "dec": 104,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
-    "nome": "Domingo, 25 de outubro",
-    "pend": 3
-   },
-   {
     "ok": 2,
     "dec": 3,
     "pct": 67,
-    "nome": "Sábado, 24 de outubro",
+    "nome": "Domingo, 25 de outubro",
     "pend": 1
+   },
+   {
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
+    "nome": "Sábado, 24 de outubro",
+    "pend": 0
    },
    {
     "ok": 1,
