@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-25T13:55:00+00:00",
+ "atualizado": "2026-10-25T16:55:38+00:00",
  "dia": "2026-10-25",
  "rotulo": "Domingo · 25 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -25,7 +25,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "1 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -270,14 +270,16 @@
      "c": "t3",
      "total": "3,56",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "12:00",
        "j": "Celtic vence o Hibernian",
        "m": "Resultado final",
        "o": "1,54",
-       "comp": "Primeira Liga (Escócia)"
+       "comp": "Primeira Liga (Escócia)",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "16:30",
@@ -4498,8 +4500,8 @@
  "estatisticas": {
   "decididos": 119,
   "ganhos": 55,
-  "pernas": 201,
-  "pernas_ok": 129,
+  "pernas": 202,
+  "pernas_ok": 130,
   "dias": 33,
   "odd_media": "1,54",
   "tipos": [
@@ -4534,9 +4536,9 @@
   ],
   "mercados": [
    {
-    "ok": 102,
-    "dec": 169,
-    "pct": 60,
+    "ok": 103,
+    "dec": 170,
+    "pct": 61,
     "nome": "Resultado final"
    },
    {
@@ -4698,9 +4700,9 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 50,
-    "dec": 102,
-    "pct": 49,
+    "ok": 51,
+    "dec": 103,
+    "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],

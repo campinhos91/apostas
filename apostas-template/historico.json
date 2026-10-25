@@ -56,14 +56,16 @@
     "c": "t3",
     "total": "3,56",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "12:00",
       "j": "Celtic vence o Hibernian",
       "m": "Resultado final",
       "o": "1,54",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "16:30",
