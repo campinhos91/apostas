@@ -1,5 +1,135 @@
 [
  {
+  "dia": "2026-10-27",
+  "rotulo": "Terça-feira · 27 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,30",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Roma vence o Cagliari",
+      "m": "Resultado final",
+      "o": "1,30",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,85",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "j": "Sassuolo–Lazio",
+      "m": "Dupla hipótese: Lazio ou empate",
+      "o": "1,31",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "19:45",
+      "j": "Torino–Como",
+      "m": "Dupla hipótese: Como ou empate",
+      "o": "1,17",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "22:00",
+      "j": "Argentinos Juniors–Independiente Rivadavia",
+      "m": "Dupla hipótese: Argentinos Juniors ou empate",
+      "o": "1,21",
+      "comp": "Primeira Liga (Argentina)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,44",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "j": "Sassuolo–Lazio",
+      "m": "Dupla hipótese: Lazio ou empate",
+      "o": "1,31",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "19:45",
+      "j": "Roma vence o Cagliari",
+      "m": "Resultado final",
+      "o": "1,30",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "19:45",
+      "j": "Como vence o Torino",
+      "m": "Resultado final",
+      "o": "1,67",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "22:00",
+      "j": "Argentinos Juniors–Independiente Rivadavia",
+      "m": "Dupla hipótese: Argentinos Juniors ou empate",
+      "o": "1,21",
+      "comp": "Primeira Liga (Argentina)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,16",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "d": "QUA",
+      "j": "Celtic vence o Dundee United",
+      "m": "Resultado final",
+      "o": "1,24",
+      "comp": "Primeira Liga (Escócia)"
+     },
+     {
+      "h": "19:45",
+      "d": "QUA",
+      "j": "Génova–Juventus",
+      "m": "Dupla hipótese: Juventus ou empate",
+      "o": "1,15",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "22:30",
+      "d": "QUA",
+      "j": "Fluminense–Internacional",
+      "m": "Dupla hipótese: Fluminense ou empate",
+      "o": "1,22",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "23:00",
+      "d": "QUI",
+      "j": "Vasco da Gama–Flamengo",
+      "m": "Dupla hipótese: Flamengo ou empate",
+      "o": "1,24",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-26",
   "rotulo": "Segunda-feira · 26 de outubro de 2026",
   "boletins": [
@@ -7,15 +137,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,44",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Copenhaga vence o Odense (1-1) · 0 certas",
     "legs": [
      {
       "h": "18:00",
       "j": "Copenhaga vence o Odense",
       "m": "Resultado final",
       "o": "1,44",
-      "comp": "Primeira Liga (Dinamarca)"
+      "comp": "Primeira Liga (Dinamarca)",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    },
@@ -23,8 +155,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,84",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Rizespor–Trabzonspor (3-4); Galatasaray–Fenerbahçe (2-1); Santa Clara–Benfica (1-2)",
     "legs": [
      {
       "h": "16:00",
@@ -40,14 +172,18 @@
       "j": "Galatasaray–Fenerbahçe",
       "m": "Dupla hipótese: Galatasaray ou empate",
       "o": "1,34",
-      "comp": "Futebol Turco"
+      "comp": "Futebol Turco",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "18:45",
       "j": "Santa Clara–Benfica",
       "m": "Dupla hipótese: Benfica ou empate",
       "o": "1,08",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-2"
      }
     ]
    },
@@ -55,8 +191,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,08",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Copenhaga vence o Odense (1-1) · 2 certas",
     "legs": [
      {
       "h": "16:00",
@@ -72,14 +208,18 @@
       "j": "Copenhaga vence o Odense",
       "m": "Resultado final",
       "o": "1,44",
-      "comp": "Primeira Liga (Dinamarca)"
+      "comp": "Primeira Liga (Dinamarca)",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "18:00",
       "j": "Sepsi–Craiova",
       "m": "Dupla hipótese: Craiova ou empate",
       "o": "1,11",
-      "comp": "Primeira Liga (Roménia)"
+      "comp": "Primeira Liga (Roménia)",
+      "r": "ok",
+      "x": "0-5"
      }
     ]
    },
@@ -87,8 +227,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,90",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "22:00",
@@ -225,7 +365,7 @@
     "c": "t4",
     "total": "1,32",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "18:45",
@@ -233,7 +373,9 @@
       "j": "Santa Clara–Benfica",
       "m": "Dupla hipótese: Benfica ou empate",
       "o": "1,07",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-2"
      },
      {
       "h": "19:30",
@@ -650,7 +792,7 @@
     "c": "t4",
     "total": "2,42",
     "e": "perdido",
-    "d": "Falhou: Brest–Nice (1-2); Alavés vence o Málaga (1-1) · 0 certas, 1 por jogar",
+    "d": "Falhou: Brest–Nice (1-2); Alavés vence o Málaga (1-1) · 1 certa",
     "legs": [
      {
       "h": "19:45",
@@ -678,7 +820,9 @@
       "j": "Santa Clara–Benfica",
       "m": "Dupla hipótese: Benfica ou empate",
       "o": "1,07",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-2"
      }
     ]
    }
