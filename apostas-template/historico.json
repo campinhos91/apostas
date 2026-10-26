@@ -137,8 +137,8 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,44",
-    "e": "perdido",
-    "d": "Falhou: Copenhaga vence o Odense (1-1) · 0 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Inter vence a Fiorentina (2-1)",
     "legs": [
      {
       "h": "18:00",
@@ -191,8 +191,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,08",
-    "e": "perdido",
-    "d": "Falhou: Copenhaga vence o Odense (1-1) · 2 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Celtic vence o Hibernian (2-1); Bayern Munique vence o Friburgo (3-1); Milan vence o Udinese (2-0)",
     "legs": [
      {
       "h": "16:00",
@@ -228,7 +228,7 @@
     "c": "t4",
     "total": "1,90",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "22:00",
@@ -365,7 +365,7 @@
     "c": "t4",
     "total": "1,32",
     "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "18:45",
@@ -383,7 +383,9 @@
       "j": "PSG–Lyon",
       "m": "Dupla hipótese: PSG ou empate",
       "o": "1,11",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:45",
@@ -504,7 +506,7 @@
     "c": "t4",
     "total": "1,50",
     "e": "perdido",
-    "d": "Falhou: Nacional–Braga (1-0) · 2 certas, 1 por jogar",
+    "d": "Falhou: Nacional–Braga (1-0) · 3 certas",
     "legs": [
      {
       "h": "11:30",
@@ -542,7 +544,9 @@
       "j": "PSG–Lyon",
       "m": "Dupla hipótese: PSG ou empate",
       "o": "1,11",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    }

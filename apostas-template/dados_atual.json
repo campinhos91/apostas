@@ -5,23 +5,23 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: Copenhaga vence o Odense (1-1) · 0 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Inter vence a Fiorentina (2-1)"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Rizespor–Trabzonspor (3-4); Galatasaray–Fenerbahçe (2-1); Santa Clara–Benfica (1-2)"
+   "e": "perdido",
+   "d": "Falhou: Sporting–Académico Viseu (1-2) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Copenhaga vence o Odense (1-1) · 2 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Celtic vence o Hibernian (2-1); Bayern Munique vence o Friburgo (3-1); Milan vence o Udinese (2-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 4 pernas certas até agora"
   }
  ],
  "hoje": [

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-26T23:26:29+00:00",
+ "atualizado": "2026-10-26T23:55:13+00:00",
  "dia": "2026-10-27",
  "rotulo": "Terça-feira · 27 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -13,23 +13,23 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: Copenhaga vence o Odense (1-1) · 0 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Inter vence a Fiorentina (2-1)"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Rizespor–Trabzonspor (3-4); Galatasaray–Fenerbahçe (2-1); Santa Clara–Benfica (1-2)"
+   "e": "perdido",
+   "d": "Falhou: Sporting–Académico Viseu (1-2) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Copenhaga vence o Odense (1-1) · 2 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Celtic vence o Hibernian (2-1); Bayern Munique vence o Friburgo (3-1); Milan vence o Udinese (2-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -362,8 +362,8 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,44",
-     "e": "perdido",
-     "d": "Falhou: Copenhaga vence o Odense (1-1) · 0 certas",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Inter vence a Fiorentina (2-1)",
      "legs": [
       {
        "h": "18:00",
@@ -416,8 +416,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,08",
-     "e": "perdido",
-     "d": "Falhou: Copenhaga vence o Odense (1-1) · 2 certas",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Celtic vence o Hibernian (2-1); Bayern Munique vence o Friburgo (3-1); Milan vence o Udinese (2-0)",
      "legs": [
       {
        "h": "16:00",
@@ -453,7 +453,7 @@
      "c": "t4",
      "total": "1,90",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "22:00",
@@ -590,7 +590,7 @@
      "c": "t4",
      "total": "1,32",
      "e": "nao verificado",
-     "d": "1 de 4 pernas certas até agora",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "18:45",
@@ -608,7 +608,9 @@
        "j": "PSG–Lyon",
        "m": "Dupla hipótese: PSG ou empate",
        "o": "1,11",
-       "comp": "Ligue 1"
+       "comp": "Ligue 1",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "19:45",
@@ -729,7 +731,7 @@
      "c": "t4",
      "total": "1,50",
      "e": "perdido",
-     "d": "Falhou: Nacional–Braga (1-0) · 2 certas, 1 por jogar",
+     "d": "Falhou: Nacional–Braga (1-0) · 3 certas",
      "legs": [
       {
        "h": "11:30",
@@ -767,7 +769,9 @@
        "j": "PSG–Lyon",
        "m": "Dupla hipótese: PSG ou empate",
        "o": "1,11",
-       "comp": "Ligue 1"
+       "comp": "Ligue 1",
+       "r": "ok",
+       "x": "2-0"
       }
      ]
     }
@@ -4797,16 +4801,16 @@
  ],
  "estatisticas": {
   "decididos": 126,
-  "ganhos": 58,
-  "pernas": 214,
-  "pernas_ok": 139,
+  "ganhos": 60,
+  "pernas": 215,
+  "pernas_ok": 140,
   "dias": 35,
   "odd_media": "1,52",
   "tipos": [
    {
-    "ok": 25,
+    "ok": 26,
     "dec": 33,
-    "pct": 76,
+    "pct": 79,
     "nome": "Aposta simples segura",
     "pend": 1
    },
@@ -4818,9 +4822,9 @@
     "pend": 1
    },
    {
-    "ok": 6,
+    "ok": 7,
     "dec": 31,
-    "pct": 19,
+    "pct": 23,
     "nome": "Múltipla arriscada",
     "pend": 1
    },
@@ -4892,6 +4896,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Marselha ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: PSG ou empate"
    },
    {
     "ok": 1,
@@ -5022,8 +5032,8 @@
   ],
   "faixas": [
    {
-    "ok": 45,
-    "dec": 55,
+    "ok": 46,
+    "dec": 56,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
@@ -5049,9 +5059,9 @@
     "pend": 4
    },
    {
-    "ok": 1,
+    "ok": 3,
     "dec": 3,
-    "pct": 33,
+    "pct": 100,
     "nome": "Segunda-feira, 26 de outubro",
     "pend": 1
    },
