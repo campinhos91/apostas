@@ -1,204 +1,192 @@
 {
-  "data": "Domingo · 25 de outubro de 2026",
-  "titulo": "Apostas de hoje",
-  "provisorio": false,
-  "ontem": [
+ "data": "Segunda-feira · 26 de outubro de 2026",
+ "titulo": "Apostas de hoje",
+ "provisorio": false,
+ "ontem": [
+  {
+   "t": "Aposta simples segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Inter vence a Fiorentina (2-1)"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "perdido",
+   "d": "Falhou: Sporting–Académico Viseu (1-2) · 2 certas"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Celtic vence o Hibernian (2-1); Bayern Munique vence o Friburgo (3-1); Milan vence o Udinese (2-0)"
+  },
+  {
+   "t": "Múltipla dos próximos dias",
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
+  }
+ ],
+ "hoje": [
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
     {
-      "t": "Aposta simples segura",
-      "e": "perdido",
-      "d": "Falhou: Chelsea vence o Tottenham (0-2) · 0 certas"
-    },
-    {
-      "t": "Múltipla segura",
-      "e": "ganho",
-      "d": "Todas as pernas certas: Arsenal–Everton (2-0); Dortmund–Eintracht Frankfurt (1-0); Lazio–Parma (2-1)"
-    },
-    {
-      "t": "Múltipla arriscada",
-      "e": "ganho",
-      "d": "Todas as pernas certas: Arsenal vence o Everton (2-0); Dortmund vence o Eintracht Frankfurt (1-0); Gil Vicente–Porto (0-1)"
-    },
-    {
-      "t": "Múltipla dos próximos dias",
-      "e": "perdido",
-      "d": "Falhou: Nacional–Braga (1-0) · 2 certas, 1 por jogar"
+     "h": "18:00",
+     "j": "Copenhaga vence o Odense",
+     "m": "Resultado final",
+     "o": "1,44",
+     "comp": "Primeira Liga (Dinamarca)"
     }
-  ],
-  "hoje": [
+   ]
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "baixo",
+   "legs": [
     {
-      "c": "t1",
-      "t": "Aposta simples segura",
-      "risco": "baixo",
-      "legs": [
-        {
-          "h": "11:30",
-          "j": "Inter vence a Fiorentina",
-          "m": "Resultado final",
-          "o": "1,32",
-          "comp": "Superliga (Itália)"
-        }
-      ]
+     "h": "16:00",
+     "j": "Rizespor–Trabzonspor",
+     "m": "Dupla hipótese: Trabzonspor ou empate",
+     "o": "1,27",
+     "comp": "Futebol Turco"
     },
     {
-      "c": "t2",
-      "t": "Múltipla segura",
-      "risco": "baixo",
-      "legs": [
-        {
-          "h": "16:15",
-          "j": "Marselha–Le Havre",
-          "m": "Dupla hipótese: Marselha ou empate",
-          "o": "1,14",
-          "comp": "Ligue 1"
-        },
-        {
-          "h": "17:00",
-          "j": "Lecce–Juventus",
-          "m": "Dupla hipótese: Juventus ou empate",
-          "o": "1,10",
-          "comp": "Superliga (Itália)"
-        },
-        {
-          "h": "20:30",
-          "j": "Sporting–Académico Viseu",
-          "m": "Dupla hipótese: Sporting ou empate",
-          "o": "1,05",
-          "comp": "Liga Portugal Betclic"
-        }
-      ]
+     "h": "18:30",
+     "j": "Galatasaray–Fenerbahçe",
+     "m": "Dupla hipótese: Galatasaray ou empate",
+     "o": "1,34",
+     "comp": "Futebol Turco"
     },
     {
-      "c": "t3",
-      "t": "Múltipla arriscada",
-      "risco": "alto",
-      "extra": "falhar uma perde tudo",
-      "legs": [
-        {
-          "h": "12:00",
-          "j": "Celtic vence o Hibernian",
-          "m": "Resultado final",
-          "o": "1,54",
-          "comp": "Primeira Liga (Escócia)"
-        },
-        {
-          "h": "16:30",
-          "j": "Bayern Munique vence o Friburgo",
-          "m": "Resultado final",
-          "o": "1,36",
-          "comp": "Bundesliga"
-        },
-        {
-          "h": "19:45",
-          "j": "Milan vence o Udinese",
-          "m": "Resultado final",
-          "o": "1,70",
-          "comp": "Superliga (Itália)"
-        }
-      ]
+     "h": "18:45",
+     "j": "Santa Clara–Benfica",
+     "m": "Dupla hipótese: Benfica ou empate",
+     "o": "1,08",
+     "comp": "Liga Portugal Betclic"
     }
-  ],
-  "proximos": [
+   ]
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "extra": "falhar uma perde tudo",
+   "legs": [
     {
-      "c": "t4",
-      "t": "Múltipla dos próximos dias",
-      "risco": "médio",
-      "legs": [
-        {
-          "h": "18:45",
-          "d": "SEG",
-          "j": "Santa Clara–Benfica",
-          "m": "Dupla hipótese: Benfica ou empate",
-          "o": "1,07",
-          "comp": "Liga Portugal Betclic"
-        },
-        {
-          "h": "19:30",
-          "d": "SEG",
-          "j": "PSG–Lyon",
-          "m": "Dupla hipótese: PSG ou empate",
-          "o": "1,11",
-          "comp": "Ligue 1"
-        },
-        {
-          "h": "19:45",
-          "d": "TER",
-          "j": "Roma–Cagliari",
-          "m": "Dupla hipótese: Roma ou empate",
-          "o": "1,07",
-          "comp": "Superliga (Itália)"
-        },
-        {
-          "h": "19:45",
-          "d": "QUA",
-          "j": "Celtic–Dundee United",
-          "m": "Dupla hipótese: Celtic ou empate",
-          "o": "1,04",
-          "comp": "Primeira Liga (Escócia)"
-        }
-      ]
-    }
-  ],
-  "amanha": [
-    {
-      "h": "18:45",
-      "d": "SEG",
-      "j": "Santa Clara vence o Benfica",
-      "m": "Resultado final",
-      "o": "1,35",
-      "comp": "Liga Portugal Betclic",
-      "n": "Benfica tem 25V 7E 3D fora nas últimas 2 épocas e marca 2,2 golos por jogo fora; venceu 5 dos últimos 6 confrontos diretos com o Santa Clara; modelo dá 56% à vitória direta vs ≈74% implícitos na odd (1,35), mas a dupla hipótese (1,07), usada na múltipla dos próximos dias, sobe a 82% no modelo, mais perto dos ≈93% implícitos."
+     "h": "16:00",
+     "j": "Trabzonspor vence o Rizespor",
+     "m": "Resultado final",
+     "o": "1,93",
+     "comp": "Futebol Turco"
     },
     {
-      "h": "20:00",
-      "d": "SEG",
-      "j": "Sevilha vence o Osasuna",
-      "m": "Resultado final",
-      "o": "1,84",
-      "comp": "La Liga",
-      "n": "Sevilha só ganhou 1 dos últimos 8 confrontos diretos com o Osasuna (3E 4D), mas tem bom registo em casa (12V 10E 15D nas últimas 2 épocas) contra o fraco registo do Osasuna fora (5V 12E 21D); modelo dá 46% à vitória direta vs ≈54% implícitos na odd, valores próximos."
+     "h": "18:00",
+     "j": "Copenhaga vence o Odense",
+     "m": "Resultado final",
+     "o": "1,44",
+     "comp": "Primeira Liga (Dinamarca)"
     },
     {
-      "h": "19:30",
-      "d": "SEG",
-      "j": "PSG vence o Lyon",
-      "m": "Resultado final",
-      "o": "1,39",
-      "comp": "Ligue 1",
-      "n": "PSG tem 24V 4E 4D em casa nas últimas 2 épocas e ganhou 6 dos últimos 8 confrontos diretos com o Lyon; modelo dá 57% à vitória direta vs ≈72% implícitos na odd, mas a dupla hipótese (1,11), usada na múltipla dos próximos dias, tem 80% no modelo, mais perto dos ≈90% implícitos — mais sólida."
+     "h": "18:00",
+     "j": "Sepsi–Craiova",
+     "m": "Dupla hipótese: Craiova ou empate",
+     "o": "1,11",
+     "comp": "Primeira Liga (Roménia)"
     }
+   ]
+  }
+ ],
+ "proximos": [
+  {
+   "c": "t4",
+   "t": "Múltipla dos próximos dias",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "22:00",
+     "d": "TER",
+     "j": "Argentinos Juniors–Independiente Rivadavia",
+     "m": "Dupla hipótese: Argentinos Juniors ou empate",
+     "o": "1,20",
+     "comp": "Primeira Liga (Argentina)"
+    },
+    {
+     "h": "18:00",
+     "d": "QUA",
+     "j": "Gotemburgo–Djurgården",
+     "m": "Dupla hipótese: Djurgården ou empate",
+     "o": "1,27",
+     "comp": "Allsvenskan (Suécia)"
+    },
+    {
+     "h": "19:45",
+     "d": "QUA",
+     "j": "Celtic–Dundee United",
+     "m": "Dupla hipótese: Celtic ou empate",
+     "o": "1,05",
+     "comp": "Primeira Liga (Escócia)"
+    },
+    {
+     "h": "22:30",
+     "d": "QUA",
+     "j": "Fluminense–Internacional",
+     "m": "Dupla hipótese: Fluminense ou empate",
+     "o": "1,19",
+     "comp": "Primeira Liga (Brasil)"
+    }
+   ]
+  }
+ ],
+ "amanha": [
+  {
+   "h": "00:15",
+   "d": "TER",
+   "j": "Instituto vence o Deportivo Riestra",
+   "m": "Resultado final",
+   "o": "1,80",
+   "comp": "Primeira Liga (Argentina)",
+   "n": "Instituto tem 17V 9E 9D em casa nas últimas 2 épocas e venceu o confronto direto mais recente (3V 1E 1D em 5 jogos); modelo dá 43% à vitória direta vs ≈56% implícitos na odd (1,80), mas a dupla hipótese sobe a 77% no modelo, mais sólida."
+  },
+  {
+   "h": "18:00",
+   "d": "TER",
+   "j": "Elfsborg vence o AIK",
+   "m": "Resultado final",
+   "o": "2,18",
+   "comp": "Allsvenskan (Suécia)",
+   "n": "Elfsborg é o favorito na odd (2,18 ⇒ ≈46%), mas o modelo dá-lhe só 35% fora; AIK tem 13V 8E 8D em casa nas últimas 2 épocas e o confronto direto é equilibrado (3V 1E 4D para o AIK em 8 jogos)."
+  },
+  {
+   "h": "22:00",
+   "d": "TER",
+   "j": "Argentinos Juniors vence o Independiente Rivadavia",
+   "m": "Resultado final",
+   "o": "2,00",
+   "comp": "Primeira Liga (Argentina)",
+   "n": "Argentinos Juniors tem 25V 12E 2D em casa nas últimas 2 épocas (quase imbatível) e só perdeu 1 dos últimos 4 confrontos diretos; modelo dá 50% à vitória direta, igual ao implícito na odd (2,00) — estimativa sólida."
+  }
+ ],
+ "fora": [
+  [
+   "Besiktas vence o Basaksehir (1,35 Resultado final)",
+   "modelo dá apenas 48% à vitória direta vs ≈74% implícitos na odd, gap grande para confiar"
   ],
-  "fora": [
-    [
-      "Barcelona vence o Real Madrid (1,60 Resultado final)",
-      "Clássico imprevisível: confronto direto equilibrado (4V 0E 4D em 8 jogos); modelo dá só 54% à vitória do Barcelona vs ≈62% implícitos na odd"
-    ],
-    [
-      "Real Sociedad vence o Levante (1,55 Resultado final)",
-      "modelo dá 51% à vitória direta vs ≈65% implícitos na odd, gap grande para confiar"
-    ],
-    [
-      "River Plate ou empate (1,08 na dupla hipótese)",
-      "modelo dá 79% vs ≈93% implícitos na odd; dados do futebol argentino mais fracos que os das ligas europeias"
-    ],
-    [
-      "PSV vence o Feyenoord (1,97 Resultado final)",
-      "jogo equilibrado: modelo dá só 51% ao PSV, sem vantagem real sobre a odd"
-    ],
-    [
-      "Atalanta vence o Frosinone (1,78 Resultado final)",
-      "Frosinone só tem 7 jogos recentes nos dados (AVISO), estimativa pouco fiável"
-    ],
-    [
-      "Toulouse vence o Troyes (1,55 Resultado final)",
-      "Troyes só tem 3 jogos fora nos dados (AVISO); preferida a dupla hipótese nos boletins"
-    ],
-    [
-      "Hull–Brentford (1,66 no Brentford, Resultado final)",
-      "Hull só tem 3 jogos recentes em casa nos dados (AVISO), estimativa pouco fiável"
-    ],
-    [
-      "Cobertura da Betclic",
-      "betclic.pt acessível nesta execução nas páginas de competição (sem 403); algumas páginas de jogo deram 403 e foram lidas em betclic.com. Verificadas: Liga Portugal Betclic, Premier League, Championship, La Liga, Superliga (Itália), Bundesliga, Ligue 1, Eredivisie, Liga dos Campeões, Liga Europa, Liga Conferência, Liga das Nações, Primeira Liga (Escócia), Primeira Liga (Argentina), Série A (Brasil) e MLS — Liga dos Campeões, Liga Europa, Liga Conferência e Liga das Nações só têm jogos a partir de 3 de novembro, fora da janela. A Taça do Rei de Espanha só mostrou o mercado de vencedor da competição, sem jogos individuais, e a Taça de Portugal não mostrou jogos nesta execução. Jogos do Brasil e da MLS vistos ao vivo ou em horário de madrugada ambíguo não foram usados por falta de confiança na hora exibida."
-    ]
+  [
+   "Craiova vence o Sepsi (1,51 Resultado final)",
+   "modelo dá 47% à vitória direta vs ≈66% implícitos na odd; preferida a dupla hipótese (1,11) nos boletins"
+  ],
+  [
+   "Benfica vence o Santa Clara (1,36 Resultado final)",
+   "modelo dá 56% à vitória direta vs ≈74% implícitos na odd; preferida a dupla hipótese (1,08) nos boletins"
+  ],
+  [
+   "Union Santa Fe–Estudiantes de La Plata (2,33/3,15/2,98)",
+   "jogo muito equilibrado, sem favorito claro no modelo (35% casa, 31% empate, 34% fora) nem na odd"
+  ],
+  [
+   "Cobertura da Betclic",
+   "betclic.pt deu 403 nesta execução; odds lidas em betclic.com (-1h para a hora de Lisboa). Verificadas: Liga Portugal Betclic, Taça de Portugal (sem jogos individuais mostrados), Premier League, Championship, La Liga, Bundesliga, Ligue 1, Eredivisie, Taça dos Países Baixos (só mercado de vencedor), Liga dos Campeões, Liga Europa, Liga Conferência, Liga das Nações, Primeira Liga (Escócia), Futebol Turco, Primeira Liga (Dinamarca), Primeira Liga (Roménia), Primeira Liga (Argentina), Allsvenskan (Suécia), Primeira Liga (Brasil), Bundesliga (Áustria), Eliteserien (Noruega), Superliga (Grécia), 3. Liga alemã, Primeira Liga (Arábia Saudita), MLS e amigáveis de seleções. English League One e Scottish Championship têm jogos mas não estão na lista de competições autorizadas. Esta semana (27-30 de outubro) não há jogos de Liga dos Campeões, Liga Europa, Liga Conferência nem Liga das Nações (próximas jornadas só a partir de 3 de novembro); Premier League, La Liga, Bundesliga, Ligue 1 e Eredivisie também não voltam antes de sexta-feira 30."
   ]
+ ]
 }
