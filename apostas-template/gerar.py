@@ -18,6 +18,7 @@ dados.json:
 {
  "data": "Sábado · 19 de setembro de 2026", "titulo": "Apostas de hoje", "link": "<url do artifact>",
  "pausa": "Depois de domingo, ... voltam entre 9 e 10 de outubro."   (opcional),
+ "casa": {"nome": "Bwin", "url": "https://www.bwin.pt/pt/sports/futebol-4"}   (opcional: só quando as odds não são da Betclic),
  "ontem": [{"t": "Aposta simples segura", "e": "ganho|perdido|adiado|nao verificado", "d": "Sporting 3-0 Arouca"}],  ([] se não houver)
  "hoje": [ {"c":"t1","t":"Aposta simples segura","risco":"baixo","legs":[{"h":"20:30","j":"Sporting vence o Arouca","m":"Resultado final","o":"1,18"}]},
            {"c":"t2",...}, {"c":"t3",...,"extra":"falhar uma perde tudo"} ],
@@ -30,7 +31,7 @@ dados.json:
  "fora": [["Jogo (odd)","motivo"]]
 }
 """
-import json, sys, re, os, shutil, fcntl, tempfile
+import json, sys, re, os, shutil, fcntl, tempfile, html
 from contextlib import contextmanager
 from decimal import Decimal, ROUND_HALF_UP
 from datetime import datetime, date, timedelta
@@ -39,6 +40,7 @@ from functools import reduce, lru_cache
 BASE = os.environ.get("APOSTAS_BASE", os.path.dirname(os.path.abspath(__file__)))  # APOSTAS_BASE e APOSTAS_COPIA só servem para testes
 TPL = os.path.join(BASE, "bilhetes.html")
 BETCLIC = "https://www.betclic.pt/futebol-s1"
+def casa(d): return d.get("casa") or {"nome": "Betclic", "url": BETCLIC}
 NOTA = "Análise informativa, não é garantia de resultado. Aposta com responsabilidade."
 DIAS = {"SEG": "segunda", "TER": "terça", "QUA": "quarta", "QUI": "quinta", "SEX": "sexta", "SÁB": "sábado", "SAB": "sábado", "DOM": "domingo"}
 RISCO_PONTOS = {"baixo": 1, "médio": 2, "medio": 2, "alto": 3}
@@ -194,7 +196,7 @@ def atualizar_hist(d):
                 if b["t"] == r["t"]: b["e"], b["d"] = r["e"], r["d"]
     todos = d.get("hoje", []) + d.get("proximos", [])
     if todos:
-        h.append({"dia": hoje, "rotulo": d["data"], "boletins": [
+        h.append({"dia": hoje, "rotulo": d["data"], **({"casa": d["casa"]["nome"]} if d.get("casa") else {}), "boletins": [
             {"t": b["t"], "c": b["c"], "total": total(b), "e": "pendente", "d": "",
              "legs": [{k: l[k] for k in ("h", "d", "j", "m", "o", "comp") if k in l} for l in b["legs"]]} for b in todos]})
         if antigo:
@@ -485,7 +487,7 @@ def pagina(d, hist=None):
     body = f'\n<div class="top"><div class="in"><p class="date">{d["data"]}</p><h1>{d["titulo"]}</h1>' + (f'<div class="sum c{len(todos)}">{chips}</div>' if chips else "") + "</div></div>\n<div class=\"in\">\n"
     body = body[: body.rindex('<div class="in">')] + '<div class="tabs"><div class="in" role="tablist" aria-label="Secções"><button class="tab" role="tab" id="tab-hoje" data-p="hoje" aria-selected="true">Hoje</button><button class="tab" role="tab" id="tab-hist" data-p="hist" aria-selected="false">Histórico</button><button class="tab" role="tab" id="tab-est" data-p="est" aria-selected="false">Estatísticas</button><button class="tab" role="tab" id="tab-ban" data-p="ban" aria-selected="false">Banca</button></div></div>\n<div class="in" id="p-hoje" role="tabpanel" aria-labelledby="tab-hoje">\n'
     body += pag_ontem(d) + "\n"
-    body += f'<div class="head"><h2>Apostas de hoje</h2><span class="src">Odds da <a href="{BETCLIC}">Betclic</a>, a confirmar</span></div>\n'
+    body += f'<div class="head"><h2>Apostas de hoje</h2><span class="src">Odds da <a href="{html.escape(casa(d)["url"])}">{html.escape(casa(d)["nome"])}</a>, a confirmar</span></div>\n'
     if d.get("hoje"):
         by = {b["c"]: b for b in d["hoje"]}
         if "t1" in by and "t2" in by:
@@ -538,7 +540,7 @@ def boletim_app(b):
 def exportar_app(d, hist):
     """Escreve docs/data/apostas.json (lido pela app). Só as apostas; nunca emails nem endereços."""
     dados = {"atualizado": datetime.now().astimezone().isoformat(timespec="seconds"), "dia": data_iso(d), "rotulo": d["data"], "titulo": d.get("titulo", "Apostas de hoje"),
-             "provisorio": bool(d.get("provisorio")), "aviso": d.get("aviso", ""), "pausa": d.get("pausa", ""),
+             "provisorio": bool(d.get("provisorio")), "aviso": d.get("aviso", ""), "pausa": d.get("pausa", ""), "casa": casa(d),
              "ontem": d.get("ontem", []), "hoje": [boletim_app(b) for b in d.get("hoje", [])], "proximos": [boletim_app(b) for b in d.get("proximos", [])],
              "amanha": d.get("amanha", []), "fora": d.get("fora", []), "historico": hist, "estatisticas": estatisticas(hist)}
     os.makedirs(os.path.dirname(APP_DATA), exist_ok=True)

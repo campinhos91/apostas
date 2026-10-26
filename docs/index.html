@@ -189,7 +189,7 @@ function vHoje(){
   if(D.dia!==hoje){h+='<div class="aviso"><b>Ainda sem apostas de hoje.</b> As apostas novas aparecem aqui logo que forem geradas, a partir da meia-noite. A mostrar as de '+esc(D.rotulo)+'.</div>'}
   else if(D.provisorio){h+='<div class="aviso"><b>Provisório.</b> '+esc(D.aviso||"Estas apostas foram geradas à meia-noite com odds ainda por confirmar. A rotina das 08:00 confirma tudo com as odds da Betclic.")+'</div>'}
   if(D.hoje.length){
-    h+=head(D.dia===hoje?"Apostas de hoje":"Apostas de "+D.rotulo,"Odds da Betclic, a confirmar")+D.hoje.map(card).join("")
+    h+=head(D.dia===hoje?"Apostas de hoje":"Apostas de "+D.rotulo,"Odds da "+(D.casa&&D.casa.nome||"Betclic")+", a confirmar")+D.hoje.map(card).join("")
   }else{h+=head("Apostas de hoje","")+'<p class="calm">Hoje não há jogos com dados suficientes.</p>'}
   if(D.proximos.length||D.pausa){h+=head("Próximos dias",D.pausa||"")+D.proximos.map(card).join("")}
   h+=amanha(D)+fora(D);
