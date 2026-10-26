@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "1,84",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "16:00",
       "j": "Rizespor–Trabzonspor",
       "m": "Dupla hipótese: Trabzonspor ou empate",
       "o": "1,27",
-      "comp": "Futebol Turco"
+      "comp": "Futebol Turco",
+      "r": "ok",
+      "x": "3-4"
      },
      {
       "h": "18:30",
@@ -54,14 +56,16 @@
     "c": "t3",
     "total": "3,08",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "16:00",
       "j": "Trabzonspor vence o Rizespor",
       "m": "Resultado final",
       "o": "1,93",
-      "comp": "Futebol Turco"
+      "comp": "Futebol Turco",
+      "r": "ok",
+      "x": "3-4"
      },
      {
       "h": "18:00",

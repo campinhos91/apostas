@@ -1,11 +1,15 @@
 {
- "atualizado": "2026-10-26T19:11:13+00:00",
+ "atualizado": "2026-10-26T19:55:03+00:00",
  "dia": "2026-10-26",
  "rotulo": "Segunda-feira · 26 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
  "pausa": "",
+ "casa": {
+  "nome": "Betclic",
+  "url": "https://www.betclic.pt/futebol-s1"
+ },
  "ontem": [
   {
    "t": "Aposta simples segura",
@@ -226,14 +230,16 @@
      "c": "t2",
      "total": "1,84",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "16:00",
        "j": "Rizespor–Trabzonspor",
        "m": "Dupla hipótese: Trabzonspor ou empate",
        "o": "1,27",
-       "comp": "Futebol Turco"
+       "comp": "Futebol Turco",
+       "r": "ok",
+       "x": "3-4"
       },
       {
        "h": "18:30",
@@ -256,14 +262,16 @@
      "c": "t3",
      "total": "3,08",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "16:00",
        "j": "Trabzonspor vence o Rizespor",
        "m": "Resultado final",
        "o": "1,93",
-       "comp": "Futebol Turco"
+       "comp": "Futebol Turco",
+       "r": "ok",
+       "x": "3-4"
       },
       {
        "h": "18:00",
@@ -4627,8 +4635,8 @@
  "estatisticas": {
   "decididos": 123,
   "ganhos": 57,
-  "pernas": 208,
-  "pernas_ok": 134,
+  "pernas": 210,
+  "pernas_ok": 136,
   "dias": 34,
   "odd_media": "1,53",
   "tipos": [
@@ -4663,8 +4671,8 @@
   ],
   "mercados": [
    {
-    "ok": 105,
-    "dec": 172,
+    "ok": 106,
+    "dec": 173,
     "pct": 61,
     "nome": "Resultado final"
    },
@@ -4691,6 +4699,12 @@
     "dec": 2,
     "pct": 50,
     "nome": "Dupla hipótese: Sporting ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Trabzonspor ou empate"
    },
    {
     "ok": 1,
@@ -4833,14 +4847,14 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 39,
-    "dec": 51,
-    "pct": 76,
+    "ok": 40,
+    "dec": 52,
+    "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 52,
-    "dec": 104,
+    "ok": 53,
+    "dec": 105,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
