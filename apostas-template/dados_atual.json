@@ -1,27 +1,27 @@
 {
- "data": "Terça-feira · 27 de outubro de 2026",
+ "data": "Quarta-feira · 28 de outubro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "ontem": [
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Inter vence a Fiorentina (2-1)"
+   "d": "Todas as pernas certas: Roma vence o Cagliari (4-2)"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Rizespor–Trabzonspor (3-4); Galatasaray–Fenerbahçe (2-1); Santa Clara–Benfica (1-2)"
+   "e": "nao verificado",
+   "d": "2 de 3 pernas certas até agora"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Celtic vence o Hibernian (2-1); Bayern Munique vence o Friburgo (3-1); Milan vence o Udinese (2-0)"
+   "e": "nao verificado",
+   "d": "3 de 4 pernas certas até agora"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "2 de 4 pernas certas até agora"
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -30,7 +30,7 @@
    "t": "Aposta simples segura",
    "risco": "baixo",
    "legs": [
-    {"h": "19:45", "j": "Roma vence o Cagliari", "m": "Resultado final", "o": "1,30", "comp": "Superliga (Itália)"}
+    {"h": "19:45", "j": "Celtic vence o Dundee United", "m": "Resultado final", "o": "1,25", "comp": "Primeira Liga (Escócia)"}
    ]
   },
   {
@@ -38,9 +38,9 @@
    "t": "Múltipla segura",
    "risco": "baixo",
    "legs": [
-    {"h": "17:30", "j": "Sassuolo–Lazio", "m": "Dupla hipótese: Lazio ou empate", "o": "1,31", "comp": "Superliga (Itália)"},
-    {"h": "19:45", "j": "Torino–Como", "m": "Dupla hipótese: Como ou empate", "o": "1,17", "comp": "Superliga (Itália)"},
-    {"h": "22:00", "j": "Argentinos Juniors–Independiente Rivadavia", "m": "Dupla hipótese: Argentinos Juniors ou empate", "o": "1,21", "comp": "Primeira Liga (Argentina)"}
+    {"h": "17:30", "j": "Venezia–Inter", "m": "Resultado final", "o": "1,32", "comp": "Superliga (Itália)"},
+    {"h": "19:45", "j": "Monza–Nápoles", "m": "Dupla hipótese: Nápoles ou empate", "o": "1,19", "comp": "Superliga (Itália)"},
+    {"h": "22:30", "j": "Fluminense–Internacional", "m": "Dupla hipótese: Fluminense ou empate", "o": "1,19", "comp": "Primeira Liga (Brasil)"}
    ]
   },
   {
@@ -49,10 +49,9 @@
    "risco": "alto",
    "extra": "falhar uma perde tudo",
    "legs": [
-    {"h": "17:30", "j": "Sassuolo–Lazio", "m": "Dupla hipótese: Lazio ou empate", "o": "1,31", "comp": "Superliga (Itália)"},
-    {"h": "19:45", "j": "Roma vence o Cagliari", "m": "Resultado final", "o": "1,30", "comp": "Superliga (Itália)"},
-    {"h": "19:45", "j": "Como vence o Torino", "m": "Resultado final", "o": "1,67", "comp": "Superliga (Itália)"},
-    {"h": "22:00", "j": "Argentinos Juniors–Independiente Rivadavia", "m": "Dupla hipótese: Argentinos Juniors ou empate", "o": "1,21", "comp": "Primeira Liga (Argentina)"}
+    {"h": "19:45", "j": "Celtic vence o Dundee United", "m": "Resultado final", "o": "1,25", "comp": "Primeira Liga (Escócia)"},
+    {"h": "19:45", "j": "Nápoles vence o Monza", "m": "Resultado final", "o": "1,71", "comp": "Superliga (Itália)"},
+    {"h": "19:30", "j": "Manchester City vence o Brighton", "m": "Resultado final", "o": "1,61", "comp": "Taça da EFL"}
    ]
   }
  ],
@@ -62,26 +61,25 @@
    "t": "Múltipla dos próximos dias",
    "risco": "médio",
    "legs": [
-    {"h": "19:45", "d": "QUA", "j": "Celtic vence o Dundee United", "m": "Resultado final", "o": "1,24", "comp": "Primeira Liga (Escócia)"},
-    {"h": "19:45", "d": "QUA", "j": "Génova–Juventus", "m": "Dupla hipótese: Juventus ou empate", "o": "1,15", "comp": "Superliga (Itália)"},
-    {"h": "22:30", "d": "QUA", "j": "Fluminense–Internacional", "m": "Dupla hipótese: Fluminense ou empate", "o": "1,22", "comp": "Primeira Liga (Brasil)"},
-    {"h": "23:00", "d": "QUI", "j": "Vasco da Gama–Flamengo", "m": "Dupla hipótese: Flamengo ou empate", "o": "1,24", "comp": "Primeira Liga (Brasil)"}
+    {"h": "20:45", "d": "QUI", "j": "Benfica vence o Gil Vicente", "m": "Resultado final", "o": "1,39", "comp": "Taça da Liga (Portugal)"},
+    {"h": "20:00", "d": "SEX", "j": "Villarreal vence o Espanhol", "m": "Resultado final", "o": "1,39", "comp": "La Liga"},
+    {"h": "20:30", "d": "SÁB", "j": "FC Porto vence o Estoril", "m": "Resultado final", "o": "1,20", "comp": "Liga Portugal Betclic"}
    ]
   }
  ],
  "amanha": [
-  {"h": "17:30", "d": "QUA", "j": "Milan vence o Bolonha", "m": "Resultado final", "o": "1,56", "comp": "Superliga (Itália)", "n": "Milan ganhou 5 dos últimos 8 diretos e só perdeu 8 de 37 em casa nas 2 épocas; Bolonha oscila fora (forma EDEVDV)."},
-  {"h": "17:30", "d": "QUA", "j": "Inter vence o Venezia", "m": "Resultado final", "o": "1,32", "comp": "Superliga (Itália)", "n": "Inter venceu os 2 últimos diretos e tem 24V em 37 jogos fora nas 2 épocas; Venezia é fraco em casa (5V 5E 10D)."},
-  {"h": "19:45", "d": "QUA", "j": "Napoles vence o Monza", "m": "Resultado final", "o": "1,71", "comp": "Superliga (Itália)", "n": "Monza só venceu 3 de 18 jogos em casa nas 2 épocas; Napoles soma 19V 10E 9D fora."}
+  {"h": "00:30", "d": "QUI", "j": "Bahia vence o São Paulo", "m": "Resultado final", "o": "1,97", "comp": "Primeira Liga (Brasil)", "n": "Bahia tem 22V 10E 7D em casa nas 2 épocas e o modelo dá 47% à vitória (odd justa 2,13), perto da odd da casa; São Paulo é fraco fora (7V 11E 22D)."},
+  {"h": "18:45", "d": "QUI", "j": "Sp Braga–Famalicão", "m": "Dupla hipótese: Sp Braga ou empate", "o": "1,21", "comp": "Taça da Liga (Portugal)", "n": "Sp Braga só perdeu 1 dos últimos 8 diretos (4V 3E 1D) e o modelo dá 73% a não perder; Famalicão oscila fora (12V 11E 12D)."},
+  {"h": "19:45", "d": "QUI", "j": "Fiorentina–Atalanta", "m": "Dupla hipótese: Atalanta ou empate", "o": "1,59", "comp": "Superliga (Itália)", "n": "Atalanta venceu 17 de 36 jogos fora nas 2 épocas e o modelo dá 72% a não perder; Fiorentina é instável em casa (forma DVEDDD)."}
  ],
  "fora": [
-  ["Parma–Udinese (2,78/3,02/2,43)", "Jogo equilibrado: o modelo dá 32% à vitória do Parma e 38% ao Udinese, sem vantagem clara."],
-  ["Hearts–Rangers (3,00/3,60/2,05)", "Sinal misto: Rangers fortes fora (19V 15E 5D) mas Hearts só perdeu 6 jogos em casa nas 2 épocas."],
-  ["Cucuta Deportivo–Rionegro Águilas (2,30/3,10/2,75)", "Colômbia sem dados fiáveis no modelo."],
-  ["Universidad Católica–Audax Italiano (1,49/3,90/4,65)", "Liga chilena sem dados fiáveis no modelo."],
-  ["ADT de Tarma–César Vallejo Moquegua (1,57/3,30/3,85)", "Liga peruana sem dados fiáveis no modelo."],
-  ["Inter Miami–FC Cincinnati (1,42/4,80/4,80)", "Play-offs da MLS: sem amostra de jogos recentes comparável para o modelo."],
-  ["CD Cuarte–Girona (13,75/6,10/1,11)", "1.ª ronda da Taça do Rei com equipas de divisões baixas: sem dados fiáveis."],
-  ["Cobertura da Betclic", "betclic.pt respondeu sem erros (sem precisar de betclic.com); Súper Lig turca, Taça de Portugal e FA Cup não mostraram jogos com data/odds 1X2 nas páginas consultadas; Sérvia sem jogos listados."]
+  ["Milan–Bolonha (1,66)", "O modelo dá 47% à vitória do Milan, bem abaixo dos 60% implícitos pela odd; Bolonha defende bem fora (forma EDEVDV)."],
+  ["Parma–Udinese (3,08/3,36/2,65)", "Jogo equilibrado: o modelo dá 32% ao Parma e 38% ao Udinese, sem vantagem clara."],
+  ["Bragantino–Chapecoense (1,27)", "O modelo dá só 62% à vitória do Bragantino, bem abaixo dos 79% implícitos pela odd."],
+  ["FC Porto–Académico Viseu (1,34)", "Académico Viseu só tem 9 jogos recentes nos dados (AVISO de poucos jogos), estimativa pouco fiável apesar do domínio histórico do Porto."],
+  ["Le Havre–PSG (1,18 no PSG)", "O modelo dá só 64% à vitória do PSG, bem abaixo dos 85% implícitos pela odd; Le Havre defende em casa (forma DEDDDD inclui poucos golos sofridos)."],
+  ["Barcelona–Alavés (1,07)", "O modelo dá 77% ao Barcelona, bem abaixo dos 94% implícitos pela odd: diferença grande para confiar."],
+  ["Bayern Munique–Dortmund (1,28)", "O modelo dá só 62% ao Bayern (confronto direto equilibrado, 4V 3E 1D em 8 jogos), bem abaixo dos 78% implícitos pela odd."],
+  ["Cobertura da Betclic", "betclic.pt respondeu bem na maioria das páginas, mas deu 403 várias vezes nas páginas de competição da Argentina, Escócia, Brasil, Championship inglês, Taça da Liga/Allianz Cup, Liga Europa e Liga Conferência; usámos betclic.com (−1h) nesses casos, confirmado sempre pelo Flashscore. Liga dos Campeões, Liga Europa e Liga Conferência não têm jogos até 3-5 de novembro. Súper Lig turca e Allsvenskan sueco não têm dados no modelo (epocas.py), por isso ficaram de fora quando apareceram como candidatos."]
  ]
 }
