@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "1,85",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:30",
       "j": "Sassuolo–Lazio",
       "m": "Dupla hipótese: Lazio ou empate",
       "o": "1,31",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "2-6"
      },
      {
       "h": "19:45",
@@ -54,14 +56,16 @@
     "c": "t3",
     "total": "3,44",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "17:30",
       "j": "Sassuolo–Lazio",
       "m": "Dupla hipótese: Lazio ou empate",
       "o": "1,31",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "2-6"
      },
      {
       "h": "19:45",
