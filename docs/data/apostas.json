@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T23:31:29+00:00",
+ "atualizado": "2026-10-27T23:58:08+00:00",
  "dia": "2026-10-28",
  "rotulo": "Quarta-feira · 28 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -702,7 +702,7 @@
      "c": "t4",
      "total": "1,32",
      "e": "nao verificado",
-     "d": "2 de 4 pernas certas até agora",
+     "d": "3 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "18:45",
@@ -730,7 +730,9 @@
        "j": "Roma–Cagliari",
        "m": "Dupla hipótese: Roma ou empate",
        "o": "1,07",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "4-2"
       },
       {
        "h": "19:45",
@@ -4914,8 +4916,8 @@
  "estatisticas": {
   "decididos": 127,
   "ganhos": 61,
-  "pernas": 219,
-  "pernas_ok": 144,
+  "pernas": 220,
+  "pernas_ok": 145,
   "dias": 36,
   "odd_media": "1,52",
   "tipos": [
@@ -4984,6 +4986,12 @@
     "dec": 2,
     "pct": 50,
     "nome": "Dupla hipótese: Sporting ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
+    "nome": "Dupla hipótese: Roma ou empate"
    },
    {
     "ok": 1,
@@ -5085,12 +5093,6 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
-    "nome": "Dupla hipótese: Roma ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
     "nome": "Dupla hipótese: Eintracht Frankfurt ou empate"
    },
    {
@@ -5150,9 +5152,9 @@
   ],
   "faixas": [
    {
-    "ok": 47,
-    "dec": 57,
-    "pct": 82,
+    "ok": 48,
+    "dec": 58,
+    "pct": 83,
     "nome": "Odd até 1,25"
    },
    {

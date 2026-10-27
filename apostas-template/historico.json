@@ -492,7 +492,7 @@
     "c": "t4",
     "total": "1,32",
     "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "18:45",
@@ -520,7 +520,9 @@
       "j": "Roma–Cagliari",
       "m": "Dupla hipótese: Roma ou empate",
       "o": "1,07",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "4-2"
      },
      {
       "h": "19:45",
