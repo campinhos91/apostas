@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-27T23:58:08+00:00",
+ "atualizado": "2026-10-28T10:58:08+00:00",
  "dia": "2026-10-28",
  "rotulo": "Quarta-feira · 28 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -18,13 +18,13 @@
   },
   {
    "t": "Múltipla segura",
-   "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Sassuolo–Lazio (2-6); Torino–Como (1-3); Argentinos Juniors–Independiente Rivadavia (1-0)"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "nao verificado",
-   "d": "3 de 4 pernas certas até agora"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Sassuolo–Lazio (2-6); Roma vence o Cagliari (4-2); Como vence o Torino (1-3); Argentinos Juniors–Independiente Rivadavia (1-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -350,8 +350,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,85",
-     "e": "nao verificado",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Sassuolo–Lazio (2-6); Torino–Como (1-3); Argentinos Juniors–Independiente Rivadavia (1-0)",
      "legs": [
       {
        "h": "17:30",
@@ -376,7 +376,9 @@
        "j": "Argentinos Juniors–Independiente Rivadavia",
        "m": "Dupla hipótese: Argentinos Juniors ou empate",
        "o": "1,21",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -384,8 +386,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,44",
-     "e": "nao verificado",
-     "d": "3 de 4 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Sassuolo–Lazio (2-6); Roma vence o Cagliari (4-2); Como vence o Torino (1-3); Argentinos Juniors–Independiente Rivadavia (1-0)",
      "legs": [
       {
        "h": "17:30",
@@ -419,7 +421,9 @@
        "j": "Argentinos Juniors–Independiente Rivadavia",
        "m": "Dupla hipótese: Argentinos Juniors ou empate",
        "o": "1,21",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -565,7 +569,7 @@
      "c": "t4",
      "total": "1,90",
      "e": "nao verificado",
-     "d": "2 de 4 pernas certas até agora",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "22:00",
@@ -573,7 +577,9 @@
        "j": "Argentinos Juniors–Independiente Rivadavia",
        "m": "Dupla hipótese: Argentinos Juniors ou empate",
        "o": "1,20",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "18:00",
@@ -4914,10 +4920,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 127,
-  "ganhos": 61,
-  "pernas": 220,
-  "pernas_ok": 145,
+  "decididos": 129,
+  "ganhos": 63,
+  "pernas": 221,
+  "pernas_ok": 146,
   "dias": 36,
   "odd_media": "1,52",
   "tipos": [
@@ -4929,18 +4935,18 @@
     "pend": 1
    },
    {
-    "ok": 17,
-    "dec": 32,
-    "pct": 53,
+    "ok": 18,
+    "dec": 33,
+    "pct": 55,
     "nome": "Múltipla segura",
-    "pend": 2
+    "pend": 1
    },
    {
-    "ok": 7,
-    "dec": 31,
-    "pct": 23,
+    "ok": 8,
+    "dec": 32,
+    "pct": 25,
     "nome": "Múltipla arriscada",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 10,
@@ -4998,6 +5004,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Como ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Argentinos Juniors ou empate"
    },
    {
     "ok": 1,
@@ -5152,8 +5164,8 @@
   ],
   "faixas": [
    {
-    "ok": 48,
-    "dec": 58,
+    "ok": 49,
+    "dec": 59,
     "pct": 83,
     "nome": "Odd até 1,25"
    },
@@ -5179,11 +5191,11 @@
     "pend": 4
    },
    {
-    "ok": 1,
-    "dec": 1,
+    "ok": 3,
+    "dec": 3,
     "pct": 100,
     "nome": "Terça-feira, 27 de outubro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 3,
