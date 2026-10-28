@@ -5,23 +5,23 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: Celtic vence o Dundee United (2-2) · 0 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Roma vence o Cagliari (4-2)"
   },
   {
    "t": "Múltipla segura",
-   "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Sassuolo–Lazio (2-6); Torino–Como (1-3); Argentinos Juniors–Independiente Rivadavia (1-0)"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Celtic vence o Dundee United (2-2); Manchester City vence o Brighton (2-2) · 1 certa"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Sassuolo–Lazio (2-6); Roma vence o Cagliari (4-2); Como vence o Torino (1-3); Argentinos Juniors–Independiente Rivadavia (1-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 0 certas, 2 por jogar"
   }
  ],
  "hoje": [

@@ -130,8 +130,8 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,25",
-    "e": "perdido",
-    "d": "Falhou: Celtic vence o Dundee United (2-2) · 0 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Roma vence o Cagliari (4-2)",
     "legs": [
      {
       "h": "19:45",
@@ -148,8 +148,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,87",
-    "e": "nao verificado",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Sassuolo–Lazio (2-6); Torino–Como (1-3); Argentinos Juniors–Independiente Rivadavia (1-0)",
     "legs": [
      {
       "h": "17:30",
@@ -182,8 +182,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,44",
-    "e": "perdido",
-    "d": "Falhou: Celtic vence o Dundee United (2-2); Manchester City vence o Brighton (2-2) · 1 certa",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Sassuolo–Lazio (2-6); Roma vence o Cagliari (4-2); Como vence o Torino (1-3); Argentinos Juniors–Independiente Rivadavia (1-0)",
     "legs": [
      {
       "h": "19:45",
@@ -218,8 +218,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,32",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "20:45",
@@ -357,7 +357,7 @@
     "c": "t4",
     "total": "2,16",
     "e": "perdido",
-    "d": "Falhou: Celtic vence o Dundee United (2-2) · 0 certas, 3 por jogar",
+    "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -375,7 +375,9 @@
       "j": "Génova–Juventus",
       "m": "Dupla hipótese: Juventus ou empate",
       "o": "1,15",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "no",
+      "x": "2-0"
      },
      {
       "h": "22:30",
@@ -496,7 +498,7 @@
     "c": "t4",
     "total": "1,90",
     "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "22:00",
@@ -514,7 +516,9 @@
       "j": "Gotemburgo–Djurgården",
       "m": "Dupla hipótese: Djurgården ou empate",
       "o": "1,27",
-      "comp": "Allsvenskan (Suécia)"
+      "comp": "Allsvenskan (Suécia)",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "19:45",
@@ -522,7 +526,9 @@
       "j": "Celtic–Dundee United",
       "m": "Dupla hipótese: Celtic ou empate",
       "o": "1,05",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "22:30",
@@ -634,8 +640,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,32",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Santa Clara–Benfica (1-2); PSG–Lyon (2-0); Roma–Cagliari (4-2); Celtic–Dundee United (2-2)",
     "legs": [
      {
       "h": "18:45",
@@ -673,7 +679,9 @@
       "j": "Celtic–Dundee United",
       "m": "Dupla hipótese: Celtic ou empate",
       "o": "1,04",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "ok",
+      "x": "2-2"
      }
     ]
    }
