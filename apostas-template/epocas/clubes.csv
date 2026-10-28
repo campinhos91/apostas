@@ -1,8 +1,4 @@
 liga,data,casa,fora,gc,gf,o1,ox,o2
-ARG,2022-07-09,Banfield,Union de Santa Fe,2,3,1.89,3.15,4.57
-ARG,2022-07-09,Patronato,Arsenal Sarandi,0,1,2.34,3.08,3.2
-ARG,2022-07-09,Rosario Central,Sarmiento Junin,1,0,2.23,3.15,3.36
-ARG,2022-07-09,San Lorenzo,Boca Juniors,2,1,4.4,3.08,1.96
 ARG,2022-07-10,Atl. Tucuman,Gimnasia L.P.,2,0,2.31,2.97,3.4
 ARG,2022-07-10,Estudiantes L.P.,Central Cordoba,2,2,1.71,3.6,4.96
 ARG,2022-07-10,Lanus,Huracan,2,3,2.95,2.91,2.62
@@ -4584,8 +4580,6 @@ B1,2026-10-25,Club Brugge,St Truiden,3,2,1.33,5.41,6.87
 B1,2026-10-25,Genk,Standard,2,1,1.73,3.81,4.15
 B1,2026-10-25,Gent,Anderlecht,4,0,2.3,3.2,2.96
 B1,2026-10-25,St. Gilloise,Cercle Brugge,5,2,1.3,5.31,8
-BRA,2022-07-09,Bragantino,Avai,4,0,1.49,4.15,6.68
-BRA,2022-07-09,Fluminense,Ceara,2,1,1.72,3.49,5.21
 BRA,2022-07-10,Atletico-MG,Sao Paulo,0,0,1.59,3.77,6.23
 BRA,2022-07-10,Corinthians,Flamengo RJ,1,0,2.99,2.93,2.62
 BRA,2022-07-10,Coritiba,Juventude,2,2,1.89,3.33,4.3
@@ -17666,8 +17660,6 @@ F2,2026-10-24,Dijon,Rodez,1,2,1.97,3.66,3.19
 F2,2026-10-24,St Etienne,Nantes,1,0,1.67,3.73,4.43
 F2,2026-10-26,Boulogne,Reims,1,1,2.99,3.12,2.26
 F2,2026-10-26,Montpellier,Red Star,2,1,2.38,3.34,2.66
-FIN,2022-07-09,HIFK,Haka,0,2,3.93,3.57,1.87
-FIN,2022-07-09,VPS,Mariehamn,1,3,1.93,3.65,3.63
 FIN,2022-07-10,KuPS,Lahti,4,0,1.44,4.51,6.51
 FIN,2022-07-10,SJK,Honka,3,2,3.67,3.29,2.03
 FIN,2022-07-11,Ilves,AC Oulu,0,2,1.73,3.74,4.5
@@ -23435,8 +23427,6 @@ IRL,2026-10-23,Derry City,Dundalk,2,1,1.67,3.77,4.22
 IRL,2026-10-23,Galway,St. Patricks,0,0,4.37,3.79,1.64
 IRL,2026-10-23,Shamrock Rovers,Sligo Rovers,4,0,1.13,7.03,15.03
 IRL,2026-10-23,Waterford,Drogheda,3,1,1.71,3.6,4.19
-JPN,2022-07-09,Iwata,Vissel Kobe,0,1,3.71,3.47,1.98
-JPN,2022-07-09,Kawasaki Frontale,Gamba Osaka,4,0,1.39,4.76,7.47
 JPN,2022-07-10,Avispa Fukuoka,Kyoto,1,0,2.08,3.19,3.71
 JPN,2022-07-10,Cerezo Osaka,Yokohama F. Marinos,2,2,3.1,3.75,2.12
 JPN,2022-07-10,Hokkaido Consadole Sapporo,Kashima Antlers,0,0,3.07,3.65,2.16
@@ -24752,9 +24742,6 @@ JPN,2026-10-25,FC Tokyo,Mito,6,0,1.3,4.83,8.86
 JPN,2026-10-25,Kawasaki Frontale,Okayama,2,1,1.83,3.57,3.7
 JPN,2026-10-25,Nagoya Grampus,Yokohama F. Marinos,1,1,2.05,3.57,3.18
 JPN,2026-10-25,Urawa Reds,V-Varen Nagasaki,1,0,1.63,3.83,4.82
-MEX,2022-07-09,Club Tijuana,Juarez,0,2,1.93,3.24,4.11
-MEX,2022-07-09,Mazatlan FC,Tigres UANL,0,1,3.46,3.34,2.08
-MEX,2022-07-09,Puebla,Santos Laguna,1,0,2.44,3.35,2.74
 MEX,2022-07-10,Club Leon,UNAM Pumas,3,3,1.94,3.69,3.53
 MEX,2022-07-10,Cruz Azul,Pachuca,1,2,2.65,3.22,2.61
 MEX,2022-07-10,Guadalajara Chivas,Atl. San Luis,0,1,1.96,3.24,3.97
@@ -27539,8 +27526,6 @@ N1,2026-10-25,For Sittard,Excelsior,1,0,2.3,3.63,2.71
 N1,2026-10-25,Nijmegen,Groningen,2,2,2.25,3.82,2.68
 N1,2026-10-25,PSV Eindhoven,Feyenoord,1,1,2.01,4.07,3.01
 N1,2026-10-25,Sparta Rotterdam,Ajax,1,2,5.26,4.68,1.48
-NOR,2022-07-09,Bodo/Glimt,Sarpsborg 08,4,1,1.38,5.33,6.64
-NOR,2022-07-09,Stromsgodset,Odd,0,0,1.85,3.91,3.79
 NOR,2022-07-10,Haugesund,Ham-Kam,1,1,2.01,3.55,3.55
 NOR,2022-07-10,Lillestrom,Viking,0,1,2.08,3.54,3.35
 NOR,2022-07-10,Molde,Tromso,5,1,1.73,3.86,4.42
@@ -38160,8 +38145,6 @@ SP2,2026-10-25,Cadiz,Ceuta,3,1,1.86,3.43,3.8
 SP2,2026-10-25,Castellon,Sp Gijon,4,0,1.48,4.14,5.63
 SP2,2026-10-25,Sabadell,Tenerife,1,1,1.88,3.14,4.1
 SP2,2026-10-26,Andorra,Burgos,2,3,1.88,3.36,3.78
-SWE,2022-07-09,Degerfors,Norrkoping,1,1,3.38,3.7,2.02
-SWE,2022-07-09,Malmo FF,Varberg,3,0,1.26,5.92,10.41
 SWE,2022-07-10,Elfsborg,AIK,2,2,2.13,3.57,3.22
 SWE,2022-07-10,Kalmar,Sirius,1,1,1.68,3.78,5.02
 SWE,2022-07-10,Mjallby,Hacken,1,2,3.62,3.5,2
@@ -40677,11 +40660,6 @@ T1,2026-10-25,Konyaspor,Genclerbirligi,2,0,1.83,3.41,4
 T1,2026-10-26,Besiktas,Buyuksehyr,2,0,1.35,5.07,6.76
 T1,2026-10-26,Galatasaray,Fenerbahce,2,1,2.13,3.73,2.85
 T1,2026-10-26,Rizespor,Trabzonspor,3,4,3.33,3.76,1.92
-USA,2022-07-09,Los Angeles FC,Los Angeles Galaxy,3,2,1.75,4.04,4.12
-USA,2022-07-09,New York City,New England Revolution,4,2,1.68,4.07,4.52
-USA,2022-07-09,Philadelphia Union,DC United,7,0,1.68,3.83,4.85
-USA,2022-07-09,Seattle Sounders,Portland Timbers,0,3,1.97,3.7,3.53
-USA,2022-07-09,Vancouver Whitecaps,Minnesota United,1,3,2.46,3.48,2.71
 USA,2022-07-10,Atlanta Utd,Austin FC,0,3,1.75,4.23,3.93
 USA,2022-07-10,CF Montreal,Sporting Kansas City,1,2,1.82,3.73,4.11
 USA,2022-07-10,Charlotte,Nashville SC,4,1,2.53,3.09,2.89

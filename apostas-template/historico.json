@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-10-29",
+  "rotulo": "Quinta-feira · 29 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "j": "Minnesota United vence o Sporting Kansas City",
+      "m": "Resultado final",
+      "o": "1,42",
+      "comp": "MLS"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,05",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "j": "Nashville SC–Philadelphia Union",
+      "m": "Dupla hipótese: Nashville SC ou empate",
+      "o": "1,21",
+      "comp": "MLS"
+     },
+     {
+      "h": "22:30",
+      "j": "Atlético-MG–Cruzeiro",
+      "m": "Dupla hipótese: Atlético-MG ou empate",
+      "o": "1,40",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "23:00",
+      "j": "Vasco da Gama–Flamengo",
+      "m": "Dupla hipótese: Flamengo ou empate",
+      "o": "1,21",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "j": "Minnesota United vence o Sporting Kansas City",
+      "m": "Resultado final",
+      "o": "1,42",
+      "comp": "MLS"
+     },
+     {
+      "h": "00:30",
+      "j": "Nashville SC vence o Philadelphia Union",
+      "m": "Resultado final",
+      "o": "1,76",
+      "comp": "MLS"
+     },
+     {
+      "h": "00:30",
+      "j": "FC Dallas–Columbus Crew",
+      "m": "Dupla hipótese: FC Dallas ou empate",
+      "o": "1,37",
+      "comp": "MLS"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,60",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:15",
+      "d": "SEX",
+      "j": "Sporting vence o Casa Pia",
+      "m": "Resultado final",
+      "o": "1,26",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "17:30",
+      "d": "SÁB",
+      "j": "Bayern Munique vence o Borussia Dortmund",
+      "m": "Resultado final",
+      "o": "1,32",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:30",
+      "d": "SÁB",
+      "j": "FC Porto vence o Estoril",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "11:30",
+      "d": "DOM",
+      "j": "Como vence o Venezia",
+      "m": "Resultado final",
+      "o": "1,29",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-28",
   "rotulo": "Quarta-feira · 28 de outubro de 2026",
   "boletins": [
@@ -7,15 +130,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,25",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Celtic vence o Dundee United (2-2) · 0 certas",
     "legs": [
      {
       "h": "19:45",
       "j": "Celtic vence o Dundee United",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    },
@@ -23,8 +148,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,87",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "nao verificado",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:30",
@@ -40,7 +165,9 @@
       "j": "Monza–Nápoles",
       "m": "Dupla hipótese: Nápoles ou empate",
       "o": "1,19",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "1-4"
      },
      {
       "h": "22:30",
@@ -55,29 +182,35 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,44",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Celtic vence o Dundee United (2-2); Manchester City vence o Brighton (2-2) · 1 certa",
     "legs": [
      {
       "h": "19:45",
       "j": "Celtic vence o Dundee United",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "19:45",
       "j": "Nápoles vence o Monza",
       "m": "Resultado final",
       "o": "1,71",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "1-4"
      },
      {
       "h": "19:30",
       "j": "Manchester City vence o Brighton",
       "m": "Resultado final",
       "o": "1,61",
-      "comp": "Taça da EFL"
+      "comp": "Taça da EFL",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    },
@@ -85,8 +218,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,32",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "20:45",
@@ -223,8 +356,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,16",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Celtic vence o Dundee United (2-2) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -232,7 +365,9 @@
       "j": "Celtic vence o Dundee United",
       "m": "Resultado final",
       "o": "1,24",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "19:45",
