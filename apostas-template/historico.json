@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "1,87",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "17:30",
       "j": "Venezia–Inter",
       "m": "Resultado final",
       "o": "1,32",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "0-2"
      },
      {
       "h": "19:45",

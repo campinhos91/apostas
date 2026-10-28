@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T10:58:08+00:00",
+ "atualizado": "2026-10-28T19:56:14+00:00",
  "dia": "2026-10-28",
  "rotulo": "Quarta-feira · 28 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -234,14 +234,16 @@
      "c": "t2",
      "total": "1,87",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "17:30",
        "j": "Venezia–Inter",
        "m": "Resultado final",
        "o": "1,32",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "0-2"
       },
       {
        "h": "19:45",
@@ -4922,8 +4924,8 @@
  "estatisticas": {
   "decididos": 129,
   "ganhos": 63,
-  "pernas": 221,
-  "pernas_ok": 146,
+  "pernas": 222,
+  "pernas_ok": 147,
   "dias": 36,
   "odd_media": "1,52",
   "tipos": [
@@ -4958,9 +4960,9 @@
   ],
   "mercados": [
    {
-    "ok": 108,
-    "dec": 176,
-    "pct": 61,
+    "ok": 109,
+    "dec": 177,
+    "pct": 62,
     "nome": "Resultado final"
    },
    {
@@ -5170,8 +5172,8 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 43,
-    "dec": 56,
+    "ok": 44,
+    "dec": 57,
     "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },
