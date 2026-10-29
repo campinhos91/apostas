@@ -1,5 +1,135 @@
 [
  {
+  "dia": "2026-10-30",
+  "rotulo": "Sexta-feira · 30 de outubro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,29",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:15",
+      "j": "Sporting CP vence o Casa Pia",
+      "m": "Resultado final",
+      "o": "1,29",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,76",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "23:00",
+      "j": "Corinthians–Mirassol",
+      "m": "Dupla hipótese: Corinthians ou empate",
+      "o": "1,17",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "20:00",
+      "j": "Villarreal–Espanhol",
+      "m": "Dupla hipótese: Villarreal ou empate",
+      "o": "1,10",
+      "comp": "La Liga"
+     },
+     {
+      "h": "20:15",
+      "j": "Sheffield United–Wrexham",
+      "m": "Dupla hipótese: Sheffield United ou empate",
+      "o": "1,37",
+      "comp": "Championship"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,11",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "j": "PSG vence o Le Havre",
+      "m": "Resultado final",
+      "o": "1,23",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "20:15",
+      "j": "Sporting CP vence o Casa Pia",
+      "m": "Resultado final",
+      "o": "1,29",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "20:00",
+      "j": "Villarreal vence o Espanhol",
+      "m": "Resultado final",
+      "o": "1,38",
+      "comp": "La Liga"
+     },
+     {
+      "h": "20:05",
+      "j": "Lille–Lens",
+      "m": "Dupla hipótese: Lille ou empate",
+      "o": "1,42",
+      "comp": "Ligue 1"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,12",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:30",
+      "d": "SÁB",
+      "j": "Bayern Munique vence o Dortmund",
+      "m": "Resultado final",
+      "o": "1,30",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:00",
+      "d": "SÁB",
+      "j": "Barcelona vence o Alavés",
+      "m": "Resultado final",
+      "o": "1,09",
+      "comp": "La Liga"
+     },
+     {
+      "h": "20:30",
+      "d": "SÁB",
+      "j": "FC Porto vence o Estoril",
+      "m": "Resultado final",
+      "o": "1,19",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "11:30",
+      "d": "DOM",
+      "j": "Como vence o Venezia",
+      "m": "Resultado final",
+      "o": "1,26",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-10-29",
   "rotulo": "Quinta-feira · 29 de outubro de 2026",
   "boletins": [
@@ -25,7 +155,7 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,05",
-    "e": "pendente",
+    "e": "nao verificado",
     "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
@@ -93,8 +223,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,60",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "20:15",
