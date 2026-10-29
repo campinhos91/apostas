@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,42",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Minnesota United vence o Sporting Kansas City (3-1)",
     "legs": [
      {
       "h": "00:30",
       "j": "Minnesota United vence o Sporting Kansas City",
       "m": "Resultado final",
       "o": "1,42",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    },
@@ -24,14 +26,16 @@
     "c": "t2",
     "total": "2,05",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "00:30",
       "j": "Nashville SC–Philadelphia Union",
       "m": "Dupla hipótese: Nashville SC ou empate",
       "o": "1,21",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "0-0"
      },
      {
       "h": "22:30",
@@ -53,29 +57,35 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,42",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Nashville SC vence o Philadelphia Union (0-0); FC Dallas–Columbus Crew (0-2) · 1 certa",
     "legs": [
      {
       "h": "00:30",
       "j": "Minnesota United vence o Sporting Kansas City",
       "m": "Resultado final",
       "o": "1,42",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "00:30",
       "j": "Nashville SC vence o Philadelphia Union",
       "m": "Resultado final",
       "o": "1,76",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "00:30",
       "j": "FC Dallas–Columbus Crew",
       "m": "Dupla hipótese: FC Dallas ou empate",
       "o": "1,37",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "no",
+      "x": "0-2"
      }
     ]
    },
@@ -174,7 +184,9 @@
       "j": "Fluminense–Internacional",
       "m": "Dupla hipótese: Fluminense ou empate",
       "o": "1,19",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -357,7 +369,7 @@
     "c": "t4",
     "total": "2,16",
     "e": "perdido",
-    "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 0 certas, 2 por jogar",
+    "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -385,7 +397,9 @@
       "j": "Fluminense–Internacional",
       "m": "Dupla hipótese: Fluminense ou empate",
       "o": "1,22",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "23:00",
@@ -497,8 +511,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,90",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Argentinos Juniors–Independiente Rivadavia (1-0); Gotemburgo–Djurgården (1-1); Celtic–Dundee United (2-2); Fluminense–Internacional (2-1)",
     "legs": [
      {
       "h": "22:00",
@@ -536,7 +550,9 @@
       "j": "Fluminense–Internacional",
       "m": "Dupla hipótese: Fluminense ou empate",
       "o": "1,19",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    }

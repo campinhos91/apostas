@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-28T23:55:19+00:00",
+ "atualizado": "2026-10-29T10:57:04+00:00",
  "dia": "2026-10-29",
  "rotulo": "Quinta-feira · 29 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -221,15 +221,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,42",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Minnesota United vence o Sporting Kansas City (3-1)",
      "legs": [
       {
        "h": "00:30",
        "j": "Minnesota United vence o Sporting Kansas City",
        "m": "Resultado final",
        "o": "1,42",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     },
@@ -238,14 +240,16 @@
      "c": "t2",
      "total": "2,05",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "00:30",
        "j": "Nashville SC–Philadelphia Union",
        "m": "Dupla hipótese: Nashville SC ou empate",
        "o": "1,21",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "0-0"
       },
       {
        "h": "22:30",
@@ -267,29 +271,35 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,42",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Nashville SC vence o Philadelphia Union (0-0); FC Dallas–Columbus Crew (0-2) · 1 certa",
      "legs": [
       {
        "h": "00:30",
        "j": "Minnesota United vence o Sporting Kansas City",
        "m": "Resultado final",
        "o": "1,42",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "00:30",
        "j": "Nashville SC vence o Philadelphia Union",
        "m": "Resultado final",
        "o": "1,76",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "00:30",
        "j": "FC Dallas–Columbus Crew",
        "m": "Dupla hipótese: FC Dallas ou empate",
        "o": "1,37",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "no",
+       "x": "0-2"
       }
      ]
     },
@@ -388,7 +398,9 @@
        "j": "Fluminense–Internacional",
        "m": "Dupla hipótese: Fluminense ou empate",
        "o": "1,19",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -571,7 +583,7 @@
      "c": "t4",
      "total": "2,16",
      "e": "perdido",
-     "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 0 certas, 2 por jogar",
+     "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "19:45",
@@ -599,7 +611,9 @@
        "j": "Fluminense–Internacional",
        "m": "Dupla hipótese: Fluminense ou empate",
        "o": "1,22",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "23:00",
@@ -711,8 +725,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,90",
-     "e": "nao verificado",
-     "d": "3 de 4 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Argentinos Juniors–Independiente Rivadavia (1-0); Gotemburgo–Djurgården (1-1); Celtic–Dundee United (2-2); Fluminense–Internacional (2-1)",
      "legs": [
       {
        "h": "22:00",
@@ -750,7 +764,9 @@
        "j": "Fluminense–Internacional",
        "m": "Dupla hipótese: Fluminense ou empate",
        "o": "1,19",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     }
@@ -5069,19 +5085,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 135,
-  "ganhos": 67,
-  "pernas": 229,
-  "pernas_ok": 151,
+  "decididos": 138,
+  "ganhos": 69,
+  "pernas": 234,
+  "pernas_ok": 154,
   "dias": 37,
   "odd_media": "1,51",
   "tipos": [
    {
-    "ok": 28,
-    "dec": 35,
-    "pct": 80,
+    "ok": 29,
+    "dec": 36,
+    "pct": 81,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 19,
@@ -5092,23 +5108,23 @@
    },
    {
     "ok": 9,
-    "dec": 33,
-    "pct": 27,
+    "dec": 34,
+    "pct": 26,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 11,
-    "dec": 33,
-    "pct": 33,
+    "ok": 12,
+    "dec": 34,
+    "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 2
    }
   ],
   "mercados": [
    {
-    "ok": 110,
-    "dec": 180,
+    "ok": 111,
+    "dec": 182,
     "pct": 61,
     "nome": "Resultado final"
    },
@@ -5152,7 +5168,25 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
+    "nome": "Dupla hipótese: Nashville SC ou empate"
+   },
+   {
+    "ok": 0,
+    "dec": 1,
+    "pct": 0,
+    "nome": "Dupla hipótese: FC Dallas ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Dupla hipótese: Nápoles ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Fluminense ou empate"
    },
    {
     "ok": 1,
@@ -5331,31 +5365,31 @@
   ],
   "faixas": [
    {
-    "ok": 51,
-    "dec": 63,
-    "pct": 81,
+    "ok": 53,
+    "dec": 65,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 45,
-    "dec": 58,
-    "pct": 78,
+    "ok": 46,
+    "dec": 60,
+    "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 55,
-    "dec": 108,
-    "pct": 51,
+    "dec": 109,
+    "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
     "nome": "Quinta-feira, 29 de outubro",
-    "pend": 4
+    "pend": 2
    },
    {
     "ok": 3,
@@ -5372,11 +5406,11 @@
     "pend": 0
    },
    {
-    "ok": 3,
-    "dec": 3,
+    "ok": 4,
+    "dec": 4,
     "pct": 100,
     "nome": "Segunda-feira, 26 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
