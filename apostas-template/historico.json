@@ -172,14 +172,18 @@
       "j": "Atlético-MG–Cruzeiro",
       "m": "Dupla hipótese: Atlético-MG ou empate",
       "o": "1,40",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "23:00",
       "j": "Vasco da Gama–Flamengo",
       "m": "Dupla hipótese: Flamengo ou empate",
       "o": "1,21",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "1-4"
      }
     ]
    },
@@ -501,7 +505,7 @@
     "c": "t4",
     "total": "2,16",
     "e": "perdido",
-    "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 1 certa, 1 por jogar",
+    "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 2 certas",
     "legs": [
      {
       "h": "19:45",
@@ -539,7 +543,9 @@
       "j": "Vasco da Gama–Flamengo",
       "m": "Dupla hipótese: Flamengo ou empate",
       "o": "1,24",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "1-4"
      }
     ]
    }

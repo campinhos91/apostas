@@ -184,9 +184,21 @@
   }
  ],
  "fora": [
-  ["Nice–Rennes (sem favorito claro)", "Modelo equilibrado (1 35% · X 26% · 2 39%), sem seleção de baixo risco em Resultado final ou dupla hipótese"],
-  ["Grémio–Athletico Paranaense (2,22)", "Modelo sem favorito claro (1 38% · X 29% · 2 34%), odds moderadas em todos os resultados"],
-  ["Elversberg–Mainz (2,38 Dupla hipótese)", "Elversberg só tem 3 jogos em casa nos dados (AVISO de poucos jogos recentes): estimativa pouco fiável"],
-  ["Cobertura da Betclic", "betclic.pt deu as listas de competição sem bloqueio; as páginas de cada jogo bloquearam (403) e foram lidas em betclic.com. Não se consultaram ligas secundárias (Escócia, Turquia, Áustria, países nórdicos, Argentina, MLS fora dos boletins de ontem, etc.) por já haver jogos suficientes nas ligas principais."]
+  [
+   "Nice–Rennes (sem favorito claro)",
+   "Modelo equilibrado (1 35% · X 26% · 2 39%), sem seleção de baixo risco em Resultado final ou dupla hipótese"
+  ],
+  [
+   "Grémio–Athletico Paranaense (2,22)",
+   "Modelo sem favorito claro (1 38% · X 29% · 2 34%), odds moderadas em todos os resultados"
+  ],
+  [
+   "Elversberg–Mainz (2,38 Dupla hipótese)",
+   "Elversberg só tem 3 jogos em casa nos dados (AVISO de poucos jogos recentes): estimativa pouco fiável"
+  ],
+  [
+   "Cobertura da Betclic",
+   "betclic.pt deu as listas de competição sem bloqueio; as páginas de cada jogo bloquearam (403) e foram lidas em betclic.com. Não se consultaram ligas secundárias (Escócia, Turquia, Áustria, países nórdicos, Argentina, MLS fora dos boletins de ontem, etc.) por já haver jogos suficientes nas ligas principais."
+  ]
  ]
 }

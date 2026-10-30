@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-29T23:55:02+00:00",
+ "atualizado": "2026-10-30T10:56:21+00:00",
  "dia": "2026-10-30",
  "rotulo": "Sexta-feira · 30 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -390,14 +390,18 @@
        "j": "Atlético-MG–Cruzeiro",
        "m": "Dupla hipótese: Atlético-MG ou empate",
        "o": "1,40",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "no",
+       "x": "0-1"
       },
       {
        "h": "23:00",
        "j": "Vasco da Gama–Flamengo",
        "m": "Dupla hipótese: Flamengo ou empate",
        "o": "1,21",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "1-4"
       }
      ]
     },
@@ -719,7 +723,7 @@
      "c": "t4",
      "total": "2,16",
      "e": "perdido",
-     "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 1 certa, 1 por jogar",
+     "d": "Falhou: Celtic vence o Dundee United (2-2); Génova–Juventus (2-0) · 2 certas",
      "legs": [
       {
        "h": "19:45",
@@ -757,7 +761,9 @@
        "j": "Vasco da Gama–Flamengo",
        "m": "Dupla hipótese: Flamengo ou empate",
        "o": "1,24",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "1-4"
       }
      ]
     }
@@ -5223,10 +5229,10 @@
  "estatisticas": {
   "decididos": 140,
   "ganhos": 71,
-  "pernas": 235,
-  "pernas_ok": 155,
+  "pernas": 237,
+  "pernas_ok": 156,
   "dias": 38,
-  "odd_media": "1,51",
+  "odd_media": "1,50",
   "tipos": [
    {
     "ok": 29,
@@ -5305,6 +5311,18 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Nashville SC ou empate"
+   },
+   {
+    "ok": 0,
+    "dec": 1,
+    "pct": 0,
+    "nome": "Dupla hipótese: Atlético-MG ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Flamengo ou empate"
    },
    {
     "ok": 0,
@@ -5501,15 +5519,15 @@
   ],
   "faixas": [
    {
-    "ok": 53,
-    "dec": 65,
+    "ok": 54,
+    "dec": 66,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
     "ok": 47,
-    "dec": 61,
-    "pct": 77,
+    "dec": 62,
+    "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
