@@ -1,5 +1,4 @@
 liga,data,casa,fora,gc,gf,o1,ox,o2
-ARG,2022-07-12,Argentinos Jrs,Tigre,2,1,2.4,2.96,3.22
 ARG,2022-07-15,Central Cordoba,Patronato,1,3,2.19,3.25,3.37
 ARG,2022-07-15,Sarmiento Junin,Defensa y Justicia,2,0,2.85,3.06,2.59
 ARG,2022-07-16,Aldosivi,Atl. Tucuman,0,1,3.21,3.04,2.36
@@ -4572,7 +4571,6 @@ B1,2026-10-25,Club Brugge,St Truiden,3,2,1.33,5.41,6.87
 B1,2026-10-25,Genk,Standard,2,1,1.73,3.81,4.15
 B1,2026-10-25,Gent,Anderlecht,4,0,2.3,3.2,2.96
 B1,2026-10-25,St. Gilloise,Cercle Brugge,5,2,1.3,5.31,8
-BRA,2022-07-12,Internacional,America MG,1,0,1.65,3.74,5.38
 BRA,2022-07-16,Athletico-PR,Internacional,0,0,2.23,3.17,3.44
 BRA,2022-07-16,Avai,Santos,1,0,2.99,3.06,2.51
 BRA,2022-07-16,Flamengo RJ,Coritiba,2,0,1.49,4.38,6.26
@@ -6260,9 +6258,6 @@ BRA,2026-10-29,Bahia,Sao Paulo,3,2,1.87,3.59,3.81
 BRA,2026-10-29,Remo,Botafogo RJ,2,1,2.45,3.48,2.64
 BRA,2026-10-29,Vasco,Flamengo RJ,1,4,4.65,3.87,1.67
 BRA,2026-10-30,Gremio,Athletico-PR,2,0,2.24,3.38,3.02
-CHN,2022-07-12,Shanghai Port,Wuhan Three Towns,0,1,3.7,3.85,1.84
-CHN,2022-07-12,Tianjin Jinmen Tiger,Cangzhou,3,0,1.87,3.45,3.97
-CHN,2022-07-12,Wuhan FC,Shanghai Shenhua,2,2,4.18,3.5,1.82
 CHN,2022-08-05,Hebei,Chengdu Rongcheng,0,1,10.88,4.76,1.3
 CHN,2022-08-05,Shanghai Shenhua,Changchun Yatai,0,0,2.51,3.24,2.73
 CHN,2022-08-05,Shenzhen,Zhejiang Professional,0,2,4.92,3.8,1.65
@@ -27521,7 +27516,6 @@ N1,2026-10-25,For Sittard,Excelsior,1,0,2.3,3.63,2.71
 N1,2026-10-25,Nijmegen,Groningen,2,2,2.25,3.82,2.68
 N1,2026-10-25,PSV Eindhoven,Feyenoord,1,1,2.01,4.07,3.01
 N1,2026-10-25,Sparta Rotterdam,Ajax,1,2,5.26,4.68,1.48
-NOR,2022-07-12,Sandefjord,Aalesund,2,2,2.37,3.48,2.85
 NOR,2022-07-16,Ham-Kam,Bodo/Glimt,0,2,3.78,3.8,1.87
 NOR,2022-07-16,Jerv,Sandefjord,1,2,2.54,3.57,2.58
 NOR,2022-07-17,Aalesund,Rosenborg,0,0,2.85,3.38,2.41
