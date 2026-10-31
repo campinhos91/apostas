@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-30T23:55:38+00:00",
+ "atualizado": "2026-10-31T10:57:00+00:00",
  "dia": "2026-10-31",
  "rotulo": "Sábado · 31 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -379,7 +379,9 @@
        "j": "Corinthians–Mirassol",
        "m": "Dupla hipótese: Corinthians ou empate",
        "o": "1,17",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "20:00",
@@ -5375,8 +5377,8 @@
  "estatisticas": {
   "decididos": 144,
   "ganhos": 74,
-  "pernas": 244,
-  "pernas_ok": 161,
+  "pernas": 245,
+  "pernas_ok": 162,
   "dias": 39,
   "odd_media": "1,50",
   "tipos": [
@@ -5451,6 +5453,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Corinthians ou empate"
    },
    {
     "ok": 0,
@@ -5683,8 +5691,8 @@
   ],
   "faixas": [
    {
-    "ok": 55,
-    "dec": 68,
+    "ok": 56,
+    "dec": 69,
     "pct": 81,
     "nome": "Odd até 1,25"
    },
