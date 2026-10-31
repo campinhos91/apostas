@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,06",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: PSV Eindhoven vence o Willem II (7-0)",
     "legs": [
      {
       "h": "17:45",
       "j": "PSV Eindhoven vence o Willem II",
       "m": "Resultado final",
       "o": "1,06",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "7-0"
      }
     ]
    },
@@ -24,7 +26,7 @@
     "c": "t2",
     "total": "1,52",
     "e": "perdido",
-    "d": "Falhou: Manchester City–Brighton (0-1); West Ham–West Bromwich (1-3) · 0 certas, 1 por jogar",
+    "d": "Falhou: Manchester City–Brighton (0-1); West Ham–West Bromwich (1-3) · 1 certa",
     "legs": [
      {
       "h": "15:00",
@@ -49,7 +51,9 @@
       "j": "Bayern Munique–Dortmund",
       "m": "Dupla hipótese: Bayern Munique ou empate",
       "o": "1,09",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "2-2"
      }
     ]
    },
@@ -57,22 +61,26 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,44",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: West Ham–West Bromwich (1-3); Bayern Munique vence o Dortmund (2-2) · 0 certas, 1 por jogar",
     "legs": [
      {
       "h": "15:00",
       "j": "West Ham–West Bromwich",
       "m": "Resultado final",
       "o": "1,59",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "no",
+      "x": "1-3"
      },
      {
       "h": "17:30",
       "j": "Bayern Munique vence o Dortmund",
       "m": "Resultado final",
       "o": "1,30",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:30",
@@ -242,7 +250,9 @@
       "j": "Bayern Munique vence o Dortmund",
       "m": "Resultado final",
       "o": "1,30",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:00",
@@ -389,7 +399,9 @@
       "j": "Bayern Munique vence o Borussia Dortmund",
       "m": "Resultado final",
       "o": "1,32",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:30",

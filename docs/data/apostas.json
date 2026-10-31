@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T16:56:57+00:00",
+ "atualizado": "2026-10-31T19:56:26+00:00",
  "dia": "2026-10-31",
  "rotulo": "Sábado · 31 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -230,15 +230,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,06",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: PSV Eindhoven vence o Willem II (7-0)",
      "legs": [
       {
        "h": "17:45",
        "j": "PSV Eindhoven vence o Willem II",
        "m": "Resultado final",
        "o": "1,06",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "ok",
+       "x": "7-0"
       }
      ]
     },
@@ -247,7 +249,7 @@
      "c": "t2",
      "total": "1,52",
      "e": "perdido",
-     "d": "Falhou: Manchester City–Brighton (0-1); West Ham–West Bromwich (1-3) · 0 certas, 1 por jogar",
+     "d": "Falhou: Manchester City–Brighton (0-1); West Ham–West Bromwich (1-3) · 1 certa",
      "legs": [
       {
        "h": "15:00",
@@ -272,7 +274,9 @@
        "j": "Bayern Munique–Dortmund",
        "m": "Dupla hipótese: Bayern Munique ou empate",
        "o": "1,09",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "ok",
+       "x": "2-2"
       }
      ]
     },
@@ -280,22 +284,26 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,44",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: West Ham–West Bromwich (1-3); Bayern Munique vence o Dortmund (2-2) · 0 certas, 1 por jogar",
      "legs": [
       {
        "h": "15:00",
        "j": "West Ham–West Bromwich",
        "m": "Resultado final",
        "o": "1,59",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "no",
+       "x": "1-3"
       },
       {
        "h": "17:30",
        "j": "Bayern Munique vence o Dortmund",
        "m": "Resultado final",
        "o": "1,30",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:30",
@@ -465,7 +473,9 @@
        "j": "Bayern Munique vence o Dortmund",
        "m": "Resultado final",
        "o": "1,30",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
@@ -612,7 +622,9 @@
        "j": "Bayern Munique vence o Borussia Dortmund",
        "m": "Resultado final",
        "o": "1,32",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:30",
@@ -5379,19 +5391,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 145,
-  "ganhos": 74,
-  "pernas": 247,
-  "pernas_ok": 162,
+  "decididos": 147,
+  "ganhos": 75,
+  "pernas": 252,
+  "pernas_ok": 164,
   "dias": 39,
   "odd_media": "1,49",
   "tipos": [
    {
-    "ok": 30,
-    "dec": 37,
-    "pct": 81,
+    "ok": 31,
+    "dec": 38,
+    "pct": 82,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 21,
@@ -5402,10 +5414,10 @@
    },
    {
     "ok": 11,
-    "dec": 35,
+    "dec": 36,
     "pct": 31,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 12,
@@ -5417,8 +5429,8 @@
   ],
   "mercados": [
    {
-    "ok": 115,
-    "dec": 187,
+    "ok": 116,
+    "dec": 191,
     "pct": 61,
     "nome": "Resultado final"
    },
@@ -5469,6 +5481,12 @@
     "dec": 1,
     "pct": 0,
     "nome": "Dupla hipótese: West Ham ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Bayern Munique ou empate"
    },
    {
     "ok": 1,
@@ -5707,31 +5725,31 @@
   ],
   "faixas": [
    {
-    "ok": 56,
-    "dec": 71,
+    "ok": 58,
+    "dec": 73,
     "pct": 79,
     "nome": "Odd até 1,25"
    },
    {
     "ok": 51,
-    "dec": 67,
-    "pct": 76,
+    "dec": 69,
+    "pct": 74,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 55,
-    "dec": 109,
+    "dec": 110,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 1,
+    "dec": 3,
+    "pct": 33,
     "nome": "Sábado, 31 de outubro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 3,
