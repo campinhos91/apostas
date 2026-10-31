@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T10:57:00+00:00",
+ "atualizado": "2026-10-31T16:56:57+00:00",
  "dia": "2026-10-31",
  "rotulo": "Sábado · 31 de outubro de 2026",
  "titulo": "Apostas de hoje",
@@ -246,22 +246,26 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,52",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Manchester City–Brighton (0-1); West Ham–West Bromwich (1-3) · 0 certas, 1 por jogar",
      "legs": [
       {
        "h": "15:00",
        "j": "Manchester City–Brighton",
        "m": "Dupla hipótese: Manchester City ou empate",
        "o": "1,20",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "no",
+       "x": "0-1"
       },
       {
        "h": "15:00",
        "j": "West Ham–West Bromwich",
        "m": "Dupla hipótese: West Ham ou empate",
        "o": "1,16",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "no",
+       "x": "1-3"
       },
       {
        "h": "17:30",
@@ -5375,12 +5379,12 @@
   }
  ],
  "estatisticas": {
-  "decididos": 144,
+  "decididos": 145,
   "ganhos": 74,
-  "pernas": 245,
+  "pernas": 247,
   "pernas_ok": 162,
   "dias": 39,
-  "odd_media": "1,50",
+  "odd_media": "1,49",
   "tipos": [
    {
     "ok": 30,
@@ -5391,10 +5395,10 @@
    },
    {
     "ok": 21,
-    "dec": 36,
-    "pct": 58,
+    "dec": 37,
+    "pct": 57,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 11,
@@ -5453,6 +5457,18 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 0,
+    "dec": 1,
+    "pct": 0,
+    "nome": "Dupla hipótese: Manchester City ou empate"
+   },
+   {
+    "ok": 0,
+    "dec": 1,
+    "pct": 0,
+    "nome": "Dupla hipótese: West Ham ou empate"
    },
    {
     "ok": 1,
@@ -5692,8 +5708,8 @@
   "faixas": [
    {
     "ok": 56,
-    "dec": 69,
-    "pct": 81,
+    "dec": 71,
+    "pct": 79,
     "nome": "Odd até 1,25"
    },
    {
@@ -5712,10 +5728,10 @@
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Sábado, 31 de outubro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 3,
