@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T16:54:53+00:00",
+ "atualizado": "2026-11-01T19:55:35+00:00",
  "dia": "2026-11-01",
  "rotulo": "Domingo · 1 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -29,7 +29,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -253,7 +253,7 @@
      "c": "t2",
      "total": "1,81",
      "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "14:00",
@@ -269,7 +269,9 @@
        "j": "Lyon–Angers",
        "m": "Dupla hipótese: Lyon ou empate",
        "o": "1,10",
-       "comp": "Ligue 1"
+       "comp": "Ligue 1",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "20:30",
@@ -285,7 +287,7 @@
      "c": "t3",
      "total": "3,45",
      "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "14:00",
@@ -301,7 +303,9 @@
        "j": "Liverpool–Arsenal",
        "m": "Dupla hipótese: Arsenal ou empate",
        "o": "1,37",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "0-1"
       },
       {
        "h": "20:00",
@@ -454,7 +458,7 @@
      "c": "t4",
      "total": "1,87",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "15:15",
@@ -462,7 +466,9 @@
        "j": "Racing Santander–Real Madrid",
        "m": "Dupla hipótese: Real Madrid ou empate",
        "o": "1,06",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "0-3"
       },
       {
        "h": "16:30",
@@ -470,7 +476,9 @@
        "j": "Liverpool–Arsenal",
        "m": "Dupla hipótese: Arsenal ou empate",
        "o": "1,37",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "0-1"
       },
       {
        "h": "20:15",
@@ -5540,10 +5548,10 @@
  "estatisticas": {
   "decididos": 148,
   "ganhos": 76,
-  "pernas": 257,
-  "pernas_ok": 169,
+  "pernas": 260,
+  "pernas_ok": 172,
   "dias": 40,
-  "odd_media": "1,49",
+  "odd_media": "1,48",
   "tipos": [
    {
     "ok": 32,
@@ -5603,6 +5611,12 @@
     "ok": 2,
     "dec": 2,
     "pct": 100,
+    "nome": "Dupla hipótese: Arsenal ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
     "nome": "Dupla hipótese: Lazio ou empate"
    },
    {
@@ -5616,6 +5630,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Lyon ou empate"
    },
    {
     "ok": 1,
@@ -5640,6 +5660,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Bayern Munique ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Real Madrid ou empate"
    },
    {
     "ok": 1,
@@ -5765,12 +5791,6 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
-    "nome": "Dupla hipótese: Arsenal ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
     "nome": "Dupla hipótese: Dortmund ou empate"
    },
    {
@@ -5878,14 +5898,14 @@
   ],
   "faixas": [
    {
-    "ok": 61,
-    "dec": 76,
-    "pct": 80,
+    "ok": 63,
+    "dec": 78,
+    "pct": 81,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 53,
-    "dec": 71,
+    "ok": 54,
+    "dec": 72,
     "pct": 75,
     "nome": "Odd de 1,26 a 1,45"
    },
