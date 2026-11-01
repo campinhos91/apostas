@@ -26,14 +26,16 @@
     "c": "t2",
     "total": "1,81",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "14:00",
       "j": "Lazio vence o Cagliari",
       "m": "Resultado final",
       "o": "1,41",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "16:15",
@@ -56,14 +58,16 @@
     "c": "t3",
     "total": "3,45",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "14:00",
       "j": "Estrasburgo–Auxerre",
       "m": "Dupla hipótese: Estrasburgo ou empate",
       "o": "1,21",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "ok",
+      "x": "5-1"
      },
      {
       "h": "16:30",

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T13:55:30+00:00",
+ "atualizado": "2026-11-01T16:54:53+00:00",
  "dia": "2026-11-01",
  "rotulo": "Domingo · 1 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -253,14 +253,16 @@
      "c": "t2",
      "total": "1,81",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "14:00",
        "j": "Lazio vence o Cagliari",
        "m": "Resultado final",
        "o": "1,41",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "16:15",
@@ -283,14 +285,16 @@
      "c": "t3",
      "total": "3,45",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "14:00",
        "j": "Estrasburgo–Auxerre",
        "m": "Dupla hipótese: Estrasburgo ou empate",
        "o": "1,21",
-       "comp": "Ligue 1"
+       "comp": "Ligue 1",
+       "r": "ok",
+       "x": "5-1"
       },
       {
        "h": "16:30",
@@ -5536,8 +5540,8 @@
  "estatisticas": {
   "decididos": 148,
   "ganhos": 76,
-  "pernas": 255,
-  "pernas_ok": 167,
+  "pernas": 257,
+  "pernas_ok": 169,
   "dias": 40,
   "odd_media": "1,49",
   "tipos": [
@@ -5572,9 +5576,9 @@
   ],
   "mercados": [
    {
-    "ok": 119,
-    "dec": 194,
-    "pct": 61,
+    "ok": 120,
+    "dec": 195,
+    "pct": 62,
     "nome": "Resultado final"
    },
    {
@@ -5612,6 +5616,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Estrasburgo ou empate"
    },
    {
     "ok": 0,
@@ -5868,15 +5878,15 @@
   ],
   "faixas": [
    {
-    "ok": 60,
-    "dec": 75,
+    "ok": 61,
+    "dec": 76,
     "pct": 80,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 52,
-    "dec": 70,
-    "pct": 74,
+    "ok": 53,
+    "dec": 71,
+    "pct": 75,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
