@@ -1,5 +1,120 @@
 [
  {
+  "dia": "2026-11-02",
+  "rotulo": "Segunda-feira · 2 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,16",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:15",
+      "j": "Benfica vence o FC Alverca",
+      "m": "Resultado final",
+      "o": "1,16",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,38",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Atalanta vence o Parma",
+      "m": "Resultado final",
+      "o": "1,47",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:00",
+      "j": "Newcastle–Everton",
+      "m": "Dupla hipótese: Newcastle ou empate",
+      "o": "1,36",
+      "comp": "Premier League"
+     },
+     {
+      "h": "02:45",
+      "j": "Portland Timbers–Houston Dynamo",
+      "m": "Dupla hipótese: Portland Timbers ou empate",
+      "o": "1,19",
+      "comp": "MLS"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,45",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "Atalanta–Parma",
+      "m": "Dupla hipótese: Atalanta ou empate",
+      "o": "1,13",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "19:45",
+      "j": "Lorient–Brest",
+      "m": "Dupla hipótese: Lorient ou empate",
+      "o": "1,37",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "20:00",
+      "j": "Newcastle vence o Everton",
+      "m": "Resultado final",
+      "o": "2,23",
+      "comp": "Premier League"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,80",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Manchester United–Roma",
+      "m": "Dupla hipótese: Manchester United ou empate",
+      "o": "1,42",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "22:30",
+      "d": "QUA",
+      "j": "Flamengo vence o Grêmio",
+      "m": "Resultado final",
+      "o": "1,13",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "20:00",
+      "d": "QUI",
+      "j": "Benfica vence o Lech Poznan",
+      "m": "Resultado final",
+      "o": "1,12",
+      "comp": "Liga Europa"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-01",
   "rotulo": "Domingo · 1 de novembro de 2026",
   "boletins": [
@@ -25,8 +140,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,81",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Lazio vence o Cagliari (2-1); Lyon–Angers (2-0); SC Braga–FC Famalicão (3-0)",
     "legs": [
      {
       "h": "14:00",
@@ -51,7 +166,9 @@
       "j": "SC Braga–FC Famalicão",
       "m": "Dupla hipótese: SC Braga ou empate",
       "o": "1,17",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "3-0"
      }
     ]
    },
@@ -59,8 +176,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,45",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Estrasburgo–Auxerre (5-1); Liverpool–Arsenal (0-1); Athletic Bilbao vence o Real Sociedad (2-1)",
     "legs": [
      {
       "h": "14:00",
@@ -85,7 +202,9 @@
       "j": "Athletic Bilbao vence o Real Sociedad",
       "m": "Resultado final",
       "o": "2,08",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -93,8 +212,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,71",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "20:00",
