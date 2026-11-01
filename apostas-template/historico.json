@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,26",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Como vence o Venezia (1-0)",
     "legs": [
      {
       "h": "11:30",
       "j": "Como vence o Venezia",
       "m": "Resultado final",
       "o": "1,26",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -405,7 +407,9 @@
       "j": "Como vence o Venezia",
       "m": "Resultado final",
       "o": "1,26",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    }
@@ -548,7 +552,9 @@
       "j": "Como vence o Venezia",
       "m": "Resultado final",
       "o": "1,29",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    }

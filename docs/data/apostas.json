@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-10-31T23:27:31+00:00",
+ "atualizado": "2026-11-01T13:55:30+00:00",
  "dia": "2026-11-01",
  "rotulo": "Domingo · 1 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -234,15 +234,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,26",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Como vence o Venezia (1-0)",
      "legs": [
       {
        "h": "11:30",
        "j": "Como vence o Venezia",
        "m": "Resultado final",
        "o": "1,26",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -632,7 +634,9 @@
        "j": "Como vence o Venezia",
        "m": "Resultado final",
        "o": "1,26",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     }
@@ -775,7 +779,9 @@
        "j": "Como vence o Venezia",
        "m": "Resultado final",
        "o": "1,29",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     }
@@ -5528,19 +5534,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 147,
-  "ganhos": 75,
-  "pernas": 254,
-  "pernas_ok": 166,
+  "decididos": 148,
+  "ganhos": 76,
+  "pernas": 255,
+  "pernas_ok": 167,
   "dias": 40,
   "odd_media": "1,49",
   "tipos": [
    {
-    "ok": 31,
-    "dec": 38,
+    "ok": 32,
+    "dec": 39,
     "pct": 82,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 21,
@@ -5566,8 +5572,8 @@
   ],
   "mercados": [
    {
-    "ok": 118,
-    "dec": 193,
+    "ok": 119,
+    "dec": 194,
     "pct": 61,
     "nome": "Resultado final"
    },
@@ -5868,8 +5874,8 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 51,
-    "dec": 69,
+    "ok": 52,
+    "dec": 70,
     "pct": 74,
     "nome": "Odd de 1,26 a 1,45"
    },
@@ -5882,11 +5888,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Domingo, 1 de novembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 1,
