@@ -24,7 +24,7 @@
     "c": "t2",
     "total": "2,38",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
@@ -45,7 +45,9 @@
       "j": "Portland Timbers–Houston Dynamo",
       "m": "Dupla hipótese: Portland Timbers ou empate",
       "o": "1,19",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    },

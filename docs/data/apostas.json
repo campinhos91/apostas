@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-01T23:24:33+00:00",
+ "atualizado": "2026-11-02T10:55:05+00:00",
  "dia": "2026-11-02",
  "rotulo": "Segunda-feira · 2 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -243,7 +243,7 @@
      "c": "t2",
      "total": "2,38",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
@@ -264,7 +264,9 @@
        "j": "Portland Timbers–Houston Dynamo",
        "m": "Dupla hipótese: Portland Timbers ou empate",
        "o": "1,19",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     },
@@ -5659,8 +5661,8 @@
  "estatisticas": {
   "decididos": 150,
   "ganhos": 78,
-  "pernas": 262,
-  "pernas_ok": 174,
+  "pernas": 263,
+  "pernas_ok": 175,
   "dias": 41,
   "odd_media": "1,48",
   "tipos": [
@@ -5741,6 +5743,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Portland Timbers ou empate"
    },
    {
     "ok": 1,
@@ -6015,8 +6023,8 @@
   ],
   "faixas": [
    {
-    "ok": 64,
-    "dec": 79,
+    "ok": 65,
+    "dec": 80,
     "pct": 81,
     "nome": "Odd até 1,25"
    },
