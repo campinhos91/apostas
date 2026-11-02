@@ -1,5 +1,127 @@
 [
  {
+  "dia": "2026-11-03",
+  "rotulo": "Terça-feira · 3 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,18",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Villarreal–PSG",
+      "m": "Dupla hipótese: PSG ou empate",
+      "o": "1,18",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,10",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Bodø/Glimt–Lille",
+      "m": "Dupla hipótese: Bodø/Glimt ou empate",
+      "o": "1,22",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Manchester Utd–Roma",
+      "m": "Dupla hipótese: Manchester Utd ou empate",
+      "o": "1,38",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Feyenoord–Inter",
+      "m": "Dupla hipótese: Inter ou empate",
+      "o": "1,25",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,36",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Galatasaray–Estugarda",
+      "m": "Dupla hipótese: Galatasaray ou empate",
+      "o": "1,37",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Manchester Utd–Roma",
+      "m": "Dupla hipótese: Manchester Utd ou empate",
+      "o": "1,38",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Feyenoord–Inter",
+      "m": "Dupla hipótese: Inter ou empate",
+      "o": "1,25",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "j": "Atlético de Madrid–Bayern Munique",
+      "m": "Dupla hipótese: Bayern Munique ou empate",
+      "o": "1,42",
+      "comp": "Liga dos Campeões"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,74",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:30",
+      "d": "QUA",
+      "j": "Rennes–Olympiacos",
+      "m": "Resultado final",
+      "o": "2,20",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "17:45",
+      "d": "QUI",
+      "j": "Atalanta–Kairat Almaty",
+      "m": "Resultado final",
+      "o": "1,12",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "20:00",
+      "d": "QUI",
+      "j": "Getafe–Brighton",
+      "m": "Dupla hipótese: Brighton ou empate",
+      "o": "1,11",
+      "comp": "Liga Conferência"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-02",
   "rotulo": "Segunda-feira · 2 de novembro de 2026",
   "boletins": [
@@ -7,15 +129,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,16",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Benfica vence o FC Alverca (1-0)",
     "legs": [
      {
       "h": "20:15",
       "j": "Benfica vence o FC Alverca",
       "m": "Resultado final",
       "o": "1,16",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -23,22 +147,26 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,38",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Atalanta vence o Parma (0-3); Newcastle–Everton (0-1) · 1 certa",
     "legs": [
      {
       "h": "19:45",
       "j": "Atalanta vence o Parma",
       "m": "Resultado final",
       "o": "1,47",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "no",
+      "x": "0-3"
      },
      {
       "h": "20:00",
       "j": "Newcastle–Everton",
       "m": "Dupla hipótese: Newcastle ou empate",
       "o": "1,36",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "02:45",
@@ -55,29 +183,35 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,45",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Atalanta–Parma (0-3); Lorient–Brest (0-2); Newcastle vence o Everton (0-1) · 0 certas",
     "legs": [
      {
       "h": "19:45",
       "j": "Atalanta–Parma",
       "m": "Dupla hipótese: Atalanta ou empate",
       "o": "1,13",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "no",
+      "x": "0-3"
      },
      {
       "h": "19:45",
       "j": "Lorient–Brest",
       "m": "Dupla hipótese: Lorient ou empate",
       "o": "1,37",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "no",
+      "x": "0-2"
      },
      {
       "h": "20:00",
       "j": "Newcastle vence o Everton",
       "m": "Resultado final",
       "o": "2,23",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "no",
+      "x": "0-1"
      }
     ]
    },
@@ -85,8 +219,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,80",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "20:00",
@@ -214,8 +348,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,71",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Newcastle–Everton (0-1) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "20:00",
@@ -223,7 +357,9 @@
       "j": "Newcastle–Everton",
       "m": "Dupla hipótese: Newcastle ou empate",
       "o": "1,37",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "20:15",
@@ -231,7 +367,9 @@
       "j": "Benfica–FC Alverca",
       "m": "Dupla hipótese: Benfica ou empate",
       "o": "1,06",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "22:30",
@@ -352,7 +490,7 @@
     "c": "t4",
     "total": "1,87",
     "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "15:15",
@@ -380,7 +518,9 @@
       "j": "SL Benfica vence o FC Alverca",
       "m": "Resultado final",
       "o": "1,14",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "22:30",
