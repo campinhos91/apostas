@@ -1,5 +1,135 @@
 [
  {
+  "dia": "2026-11-05",
+  "rotulo": "Quinta-feira · 5 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,13",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Atalanta vence o Kairat Almaty",
+      "m": "Resultado final",
+      "o": "1,13",
+      "comp": "Liga Conferência"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,76",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Crystal Palace–Hoffenheim",
+      "m": "Dupla hipótese: Crystal Palace ou empate",
+      "o": "1,25",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "17:45",
+      "j": "Anderlecht–Salzburgo",
+      "m": "Dupla hipótese: Anderlecht ou empate",
+      "o": "1,26",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "20:00",
+      "j": "Getafe–Brighton",
+      "m": "Dupla hipótese: Brighton ou empate",
+      "o": "1,12",
+      "comp": "Liga Conferência"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,45",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "FC Midtjylland–Ajax",
+      "m": "Dupla hipótese: Midtjylland ou empate",
+      "o": "1,51",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "j": "Real Sociedad–Lyon",
+      "m": "Dupla hipótese: Real Sociedad ou empate",
+      "o": "1,18",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "20:00",
+      "j": "Getafe–Brighton",
+      "m": "Mais de 1,5 golos",
+      "o": "1,23",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "j": "Sparta Praga–Bournemouth",
+      "m": "Dupla hipótese: Bournemouth ou empate",
+      "o": "1,12",
+      "comp": "Liga Europa"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,50",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "d": "SÁB",
+      "j": "RB Leipzig vence o Augsburgo",
+      "m": "Resultado final",
+      "o": "1,38",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "19:45",
+      "d": "SÁB",
+      "j": "Roma vence o Sassuolo",
+      "m": "Resultado final",
+      "o": "1,26",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:30",
+      "d": "SÁB",
+      "j": "Sporting CP vence o Moreirense",
+      "m": "Resultado final",
+      "o": "1,16",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "20:30",
+      "d": "DOM",
+      "j": "Benfica vence a Estrela Amadora",
+      "m": "Resultado final",
+      "o": "1,24",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-03",
   "rotulo": "Terça-feira · 3 de novembro de 2026",
   "boletins": [
