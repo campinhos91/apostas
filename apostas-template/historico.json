@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,18",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Villarreal–PSG (0-6)",
     "legs": [
      {
       "h": "20:00",
       "j": "Villarreal–PSG",
       "m": "Dupla hipótese: PSG ou empate",
       "o": "1,18",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "0-6"
      }
     ]
    },
@@ -23,29 +25,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,10",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)",
     "legs": [
      {
       "h": "17:45",
       "j": "Bodø/Glimt–Lille",
       "m": "Dupla hipótese: Bodø/Glimt ou empate",
       "o": "1,22",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "0-0"
      },
      {
       "h": "20:00",
       "j": "Manchester Utd–Roma",
       "m": "Dupla hipótese: Manchester Utd ou empate",
       "o": "1,38",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "20:00",
       "j": "Feyenoord–Inter",
       "m": "Dupla hipótese: Inter ou empate",
       "o": "1,25",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "0-3"
      }
     ]
    },
@@ -53,36 +61,44 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,36",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)",
     "legs": [
      {
       "h": "17:45",
       "j": "Galatasaray–Estugarda",
       "m": "Dupla hipótese: Galatasaray ou empate",
       "o": "1,37",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "20:00",
       "j": "Manchester Utd–Roma",
       "m": "Dupla hipótese: Manchester Utd ou empate",
       "o": "1,38",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "20:00",
       "j": "Feyenoord–Inter",
       "m": "Dupla hipótese: Inter ou empate",
       "o": "1,25",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "0-3"
      },
      {
       "h": "20:00",
       "j": "Atlético de Madrid–Bayern Munique",
       "m": "Dupla hipótese: Bayern Munique ou empate",
       "o": "1,42",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "0-2"
      }
     ]
    },
@@ -90,8 +106,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,74",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Rennes–Olympiacos (0-0) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "15:30",
@@ -99,7 +115,9 @@
       "j": "Rennes–Olympiacos",
       "m": "Resultado final",
       "o": "2,20",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "17:45",
@@ -130,7 +148,7 @@
     "c": "t1",
     "total": "1,16",
     "e": "ganho",
-    "d": "Todas as pernas certas: Benfica vence o FC Alverca (1-0)",
+    "d": "Todas as pernas certas: Villarreal–PSG (0-6)",
     "legs": [
      {
       "h": "20:15",
@@ -147,8 +165,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,38",
-    "e": "perdido",
-    "d": "Falhou: Atalanta vence o Parma (0-3); Newcastle–Everton (0-1) · 1 certa",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)",
     "legs": [
      {
       "h": "19:45",
@@ -183,8 +201,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,45",
-    "e": "perdido",
-    "d": "Falhou: Atalanta–Parma (0-3); Lorient–Brest (0-2); Newcastle vence o Everton (0-1) · 0 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)",
     "legs": [
      {
       "h": "19:45",
@@ -219,8 +237,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,80",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "20:00",
@@ -228,7 +246,9 @@
       "j": "Manchester United–Roma",
       "m": "Dupla hipótese: Manchester United ou empate",
       "o": "1,42",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "22:30",
@@ -236,7 +256,9 @@
       "j": "Flamengo vence o Grêmio",
       "m": "Resultado final",
       "o": "1,13",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "20:00",
@@ -349,7 +371,7 @@
     "c": "t4",
     "total": "1,71",
     "e": "perdido",
-    "d": "Falhou: Newcastle–Everton (0-1) · 1 certa, 2 por jogar",
+    "d": "Falhou: Newcastle–Everton (0-1) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "20:00",
@@ -377,7 +399,9 @@
       "j": "Flamengo–Grêmio",
       "m": "Dupla hipótese: Flamengo ou empate",
       "o": "1,03",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "17:45",
@@ -489,8 +513,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,87",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Racing Santander–Real Madrid (0-3); Liverpool–Arsenal (0-1); SL Benfica vence o FC Alverca (1-0); Flamengo vence o Grêmio (3-1)",
     "legs": [
      {
       "h": "15:15",
@@ -528,7 +552,9 @@
       "j": "Flamengo vence o Grêmio",
       "m": "Resultado final",
       "o": "1,13",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    }

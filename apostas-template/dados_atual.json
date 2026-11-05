@@ -4,48 +4,205 @@
  "link": "",
  "provisorio": false,
  "ontem": [
-  {"t": "Aposta simples segura", "e": "ganho", "d": "Todas as pernas certas: Benfica vence o FC Alverca (1-0)"},
-  {"t": "Múltipla segura", "e": "perdido", "d": "Falhou: Atalanta vence o Parma (0-3); Newcastle–Everton (0-1) · 1 certa"},
-  {"t": "Múltipla arriscada", "e": "perdido", "d": "Falhou: Atalanta–Parma (0-3); Lorient–Brest (0-2); Newcastle vence o Everton (0-1) · 0 certas"},
-  {"t": "Múltipla dos próximos dias", "e": "nao verificado", "d": "Ainda sem resultados dos jogos"}
+  {
+   "t": "Aposta simples segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Villarreal–PSG (0-6)"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)"
+  },
+  {
+   "t": "Múltipla dos próximos dias",
+   "e": "perdido",
+   "d": "Falhou: Rennes–Olympiacos (0-0) · 0 certas, 2 por jogar"
+  }
  ],
  "hoje": [
-  {"c": "t1", "t": "Aposta simples segura", "risco": "baixo", "legs": [
-    {"h": "20:00", "j": "Villarreal–PSG", "m": "Dupla hipótese: PSG ou empate", "o": "1,18", "comp": "Liga dos Campeões"}
-  ]},
-  {"c": "t2", "t": "Múltipla segura", "risco": "médio", "legs": [
-    {"h": "17:45", "j": "Bodø/Glimt–Lille", "m": "Dupla hipótese: Bodø/Glimt ou empate", "o": "1,22", "comp": "Liga dos Campeões"},
-    {"h": "20:00", "j": "Manchester Utd–Roma", "m": "Dupla hipótese: Manchester Utd ou empate", "o": "1,38", "comp": "Liga dos Campeões"},
-    {"h": "20:00", "j": "Feyenoord–Inter", "m": "Dupla hipótese: Inter ou empate", "o": "1,25", "comp": "Liga dos Campeões"}
-  ]},
-  {"c": "t3", "t": "Múltipla arriscada", "risco": "alto", "extra": "falhar uma perde tudo", "legs": [
-    {"h": "17:45", "j": "Galatasaray–Estugarda", "m": "Dupla hipótese: Galatasaray ou empate", "o": "1,37", "comp": "Liga dos Campeões"},
-    {"h": "20:00", "j": "Manchester Utd–Roma", "m": "Dupla hipótese: Manchester Utd ou empate", "o": "1,38", "comp": "Liga dos Campeões"},
-    {"h": "20:00", "j": "Feyenoord–Inter", "m": "Dupla hipótese: Inter ou empate", "o": "1,25", "comp": "Liga dos Campeões"},
-    {"h": "20:00", "j": "Atlético de Madrid–Bayern Munique", "m": "Dupla hipótese: Bayern Munique ou empate", "o": "1,42", "comp": "Liga dos Campeões"}
-  ]}
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "20:00",
+     "j": "Villarreal–PSG",
+     "m": "Dupla hipótese: PSG ou empate",
+     "o": "1,18",
+     "comp": "Liga dos Campeões"
+    }
+   ]
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "17:45",
+     "j": "Bodø/Glimt–Lille",
+     "m": "Dupla hipótese: Bodø/Glimt ou empate",
+     "o": "1,22",
+     "comp": "Liga dos Campeões"
+    },
+    {
+     "h": "20:00",
+     "j": "Manchester Utd–Roma",
+     "m": "Dupla hipótese: Manchester Utd ou empate",
+     "o": "1,38",
+     "comp": "Liga dos Campeões"
+    },
+    {
+     "h": "20:00",
+     "j": "Feyenoord–Inter",
+     "m": "Dupla hipótese: Inter ou empate",
+     "o": "1,25",
+     "comp": "Liga dos Campeões"
+    }
+   ]
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "extra": "falhar uma perde tudo",
+   "legs": [
+    {
+     "h": "17:45",
+     "j": "Galatasaray–Estugarda",
+     "m": "Dupla hipótese: Galatasaray ou empate",
+     "o": "1,37",
+     "comp": "Liga dos Campeões"
+    },
+    {
+     "h": "20:00",
+     "j": "Manchester Utd–Roma",
+     "m": "Dupla hipótese: Manchester Utd ou empate",
+     "o": "1,38",
+     "comp": "Liga dos Campeões"
+    },
+    {
+     "h": "20:00",
+     "j": "Feyenoord–Inter",
+     "m": "Dupla hipótese: Inter ou empate",
+     "o": "1,25",
+     "comp": "Liga dos Campeões"
+    },
+    {
+     "h": "20:00",
+     "j": "Atlético de Madrid–Bayern Munique",
+     "m": "Dupla hipótese: Bayern Munique ou empate",
+     "o": "1,42",
+     "comp": "Liga dos Campeões"
+    }
+   ]
+  }
  ],
  "proximos": [
-  {"c": "t4", "t": "Múltipla dos próximos dias", "risco": "médio", "legs": [
-    {"h": "15:30", "d": "QUA", "j": "Rennes–Olympiacos", "m": "Resultado final", "o": "2,20", "comp": "Liga Europa"},
-    {"h": "17:45", "d": "QUI", "j": "Atalanta–Kairat Almaty", "m": "Resultado final", "o": "1,12", "comp": "Liga Conferência"},
-    {"h": "20:00", "d": "QUI", "j": "Getafe–Brighton", "m": "Dupla hipótese: Brighton ou empate", "o": "1,11", "comp": "Liga Conferência"}
-  ]}
+  {
+   "c": "t4",
+   "t": "Múltipla dos próximos dias",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "15:30",
+     "d": "QUA",
+     "j": "Rennes–Olympiacos",
+     "m": "Resultado final",
+     "o": "2,20",
+     "comp": "Liga Europa"
+    },
+    {
+     "h": "17:45",
+     "d": "QUI",
+     "j": "Atalanta–Kairat Almaty",
+     "m": "Resultado final",
+     "o": "1,12",
+     "comp": "Liga Conferência"
+    },
+    {
+     "h": "20:00",
+     "d": "QUI",
+     "j": "Getafe–Brighton",
+     "m": "Dupla hipótese: Brighton ou empate",
+     "o": "1,11",
+     "comp": "Liga Conferência"
+    }
+   ]
+  }
  ],
  "amanha": [
-  {"h": "15:30", "d": "QUA", "j": "Rennes vence o Olympiacos", "m": "Resultado final", "o": "2,20", "comp": "Liga Europa", "n": "Rennes 21V5E9D em casa, Olympiacos vem de 6 vitórias seguidas fora; modelo dá 43% (odd justa 2,33), próximo da odd da casa"},
-  {"h": "22:30", "d": "QUA", "j": "Flamengo vence o Grêmio", "m": "Resultado final", "o": "1,16", "comp": "Primeira Liga (Brasil)", "n": "Flamengo 27V10E1D em casa nas últimas 2 épocas e vantagem no confronto direto (4V1E2D); Grêmio só 5V13E21D fora"},
-  {"h": "00:30", "d": "QUA", "j": "Internacional vence o Coritiba", "m": "Resultado final", "o": "1,60", "comp": "Primeira Liga (Brasil)", "n": "Internacional 16V11E12D em casa, Coritiba fraco fora (5V4E7D); modelo dá 53% (odd justa 1,88), perto da odd da casa"}
+  {
+   "h": "15:30",
+   "d": "QUA",
+   "j": "Rennes vence o Olympiacos",
+   "m": "Resultado final",
+   "o": "2,20",
+   "comp": "Liga Europa",
+   "n": "Rennes 21V5E9D em casa, Olympiacos vem de 6 vitórias seguidas fora; modelo dá 43% (odd justa 2,33), próximo da odd da casa"
+  },
+  {
+   "h": "22:30",
+   "d": "QUA",
+   "j": "Flamengo vence o Grêmio",
+   "m": "Resultado final",
+   "o": "1,16",
+   "comp": "Primeira Liga (Brasil)",
+   "n": "Flamengo 27V10E1D em casa nas últimas 2 épocas e vantagem no confronto direto (4V1E2D); Grêmio só 5V13E21D fora"
+  },
+  {
+   "h": "00:30",
+   "d": "QUA",
+   "j": "Internacional vence o Coritiba",
+   "m": "Resultado final",
+   "o": "1,60",
+   "comp": "Primeira Liga (Brasil)",
+   "n": "Internacional 16V11E12D em casa, Coritiba fraco fora (5V4E7D); modelo dá 53% (odd justa 1,88), perto da odd da casa"
+  }
  ],
  "fora": [
-  ["Barcelona vence o Aston Villa (1,24)", "modelo dá só 44% (odd justa 2,25) para o resultado final, bem menos do que a odd implica; tratado como duvidoso"],
-  ["AEK Atenas–Real Madrid: Real Madrid ou empate (1,06)", "modelo dá 82% (odd justa 1,23) para esse mercado, bem menos do que a odd implica; tratado como duvidoso"],
-  ["SL Benfica vence o Lech Poznan (1,11)", "modelo dá 71% (odd justa 1,40), bem menos do que a odd implica; tratado como duvidoso"],
-  ["Milan vence o Ferencváros (1,26)", "modelo dá 55% (odd justa 1,82), bem menos do que a odd implica; tratado como duvidoso"],
-  ["Shakhtar Donetsk–Sporting CP: Sporting ou empate (1,26)", "modelo dá 63% (odd justa 1,59), bem menos do que a odd implica; tratado como duvidoso"],
-  ["Everton vence o Coventry (1,62)", "AVISO do modelo: Coventry só tem 8 jogos recentes nos dados, estimativa pouco fiável"],
-  ["LASK Linz–Slovan Bratislava", "equipa sem dados no modelo (LASK Linz não encontrada)"],
-  ["Jogos da Liga Portugal Betclic, Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie", "só regressam a 6-8 de novembro, fora da janela de hoje e da múltipla dos próximos dias"],
-  ["Cobertura da Betclic", "betclic.pt deu jogos e odds normalmente (sem 403); consultadas Liga dos Campeões, Liga Europa, Liga Conferência, Liga Portugal Betclic, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1, Eredivisie, Taça de Portugal (sem jogos na página), Brasil Série A, Argentina Primera, MLS e Escócia Premiership; não foram consultadas as ligas da Bélgica, Turquia, Suíça, Áustria, países nórdicos, Japão, Austrália, Sérvia, Roménia e Liga MX"]
+  [
+   "Barcelona vence o Aston Villa (1,24)",
+   "modelo dá só 44% (odd justa 2,25) para o resultado final, bem menos do que a odd implica; tratado como duvidoso"
+  ],
+  [
+   "AEK Atenas–Real Madrid: Real Madrid ou empate (1,06)",
+   "modelo dá 82% (odd justa 1,23) para esse mercado, bem menos do que a odd implica; tratado como duvidoso"
+  ],
+  [
+   "SL Benfica vence o Lech Poznan (1,11)",
+   "modelo dá 71% (odd justa 1,40), bem menos do que a odd implica; tratado como duvidoso"
+  ],
+  [
+   "Milan vence o Ferencváros (1,26)",
+   "modelo dá 55% (odd justa 1,82), bem menos do que a odd implica; tratado como duvidoso"
+  ],
+  [
+   "Shakhtar Donetsk–Sporting CP: Sporting ou empate (1,26)",
+   "modelo dá 63% (odd justa 1,59), bem menos do que a odd implica; tratado como duvidoso"
+  ],
+  [
+   "Everton vence o Coventry (1,62)",
+   "AVISO do modelo: Coventry só tem 8 jogos recentes nos dados, estimativa pouco fiável"
+  ],
+  [
+   "LASK Linz–Slovan Bratislava",
+   "equipa sem dados no modelo (LASK Linz não encontrada)"
+  ],
+  [
+   "Jogos da Liga Portugal Betclic, Premier League, LaLiga, Serie A, Bundesliga, Ligue 1 e Eredivisie",
+   "só regressam a 6-8 de novembro, fora da janela de hoje e da múltipla dos próximos dias"
+  ],
+  [
+   "Cobertura da Betclic",
+   "betclic.pt deu jogos e odds normalmente (sem 403); consultadas Liga dos Campeões, Liga Europa, Liga Conferência, Liga Portugal Betclic, Premier League, Championship, LaLiga, Serie A, Bundesliga, Ligue 1, Eredivisie, Taça de Portugal (sem jogos na página), Brasil Série A, Argentina Primera, MLS e Escócia Premiership; não foram consultadas as ligas da Bélgica, Turquia, Suíça, Áustria, países nórdicos, Japão, Austrália, Sérvia, Roménia e Liga MX"
+  ]
  ]
 }

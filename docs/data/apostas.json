@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-02T23:23:50+00:00",
+ "atualizado": "2026-11-05T00:39:32+00:00",
  "dia": "2026-11-03",
  "rotulo": "Terça-feira · 3 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -14,22 +14,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Benfica vence o FC Alverca (1-0)"
+   "d": "Todas as pernas certas: Villarreal–PSG (0-6)"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: Atalanta vence o Parma (0-3); Newcastle–Everton (0-1) · 1 certa"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Atalanta–Parma (0-3); Lorient–Brest (0-2); Newcastle vence o Everton (0-1) · 0 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Rennes–Olympiacos (0-0) · 0 certas, 2 por jogar"
   }
  ],
  "hoje": [
@@ -228,15 +228,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,18",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Villarreal–PSG (0-6)",
      "legs": [
       {
        "h": "20:00",
        "j": "Villarreal–PSG",
        "m": "Dupla hipótese: PSG ou empate",
        "o": "1,18",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "0-6"
       }
      ]
     },
@@ -244,29 +246,35 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,10",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)",
      "legs": [
       {
        "h": "17:45",
        "j": "Bodø/Glimt–Lille",
        "m": "Dupla hipótese: Bodø/Glimt ou empate",
        "o": "1,22",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "0-0"
       },
       {
        "h": "20:00",
        "j": "Manchester Utd–Roma",
        "m": "Dupla hipótese: Manchester Utd ou empate",
        "o": "1,38",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "20:00",
        "j": "Feyenoord–Inter",
        "m": "Dupla hipótese: Inter ou empate",
        "o": "1,25",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "0-3"
       }
      ]
     },
@@ -274,36 +282,44 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,36",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)",
      "legs": [
       {
        "h": "17:45",
        "j": "Galatasaray–Estugarda",
        "m": "Dupla hipótese: Galatasaray ou empate",
        "o": "1,37",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "20:00",
        "j": "Manchester Utd–Roma",
        "m": "Dupla hipótese: Manchester Utd ou empate",
        "o": "1,38",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "20:00",
        "j": "Feyenoord–Inter",
        "m": "Dupla hipótese: Inter ou empate",
        "o": "1,25",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "0-3"
       },
       {
        "h": "20:00",
        "j": "Atlético de Madrid–Bayern Munique",
        "m": "Dupla hipótese: Bayern Munique ou empate",
        "o": "1,42",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "0-2"
       }
      ]
     },
@@ -311,8 +327,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,74",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Rennes–Olympiacos (0-0) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "15:30",
@@ -320,7 +336,9 @@
        "j": "Rennes–Olympiacos",
        "m": "Resultado final",
        "o": "2,20",
-       "comp": "Liga Europa"
+       "comp": "Liga Europa",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "17:45",
@@ -351,7 +369,7 @@
      "c": "t1",
      "total": "1,16",
      "e": "ganho",
-     "d": "Todas as pernas certas: Benfica vence o FC Alverca (1-0)",
+     "d": "Todas as pernas certas: Villarreal–PSG (0-6)",
      "legs": [
       {
        "h": "20:15",
@@ -368,8 +386,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,38",
-     "e": "perdido",
-     "d": "Falhou: Atalanta vence o Parma (0-3); Newcastle–Everton (0-1) · 1 certa",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)",
      "legs": [
       {
        "h": "19:45",
@@ -404,8 +422,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,45",
-     "e": "perdido",
-     "d": "Falhou: Atalanta–Parma (0-3); Lorient–Brest (0-2); Newcastle vence o Everton (0-1) · 0 certas",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)",
      "legs": [
       {
        "h": "19:45",
@@ -440,8 +458,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,80",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "20:00",
@@ -449,7 +467,9 @@
        "j": "Manchester United–Roma",
        "m": "Dupla hipótese: Manchester United ou empate",
        "o": "1,42",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "22:30",
@@ -457,7 +477,9 @@
        "j": "Flamengo vence o Grêmio",
        "m": "Resultado final",
        "o": "1,13",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "20:00",
@@ -570,7 +592,7 @@
      "c": "t4",
      "total": "1,71",
      "e": "perdido",
-     "d": "Falhou: Newcastle–Everton (0-1) · 1 certa, 2 por jogar",
+     "d": "Falhou: Newcastle–Everton (0-1) · 2 certas, 1 por jogar",
      "legs": [
       {
        "h": "20:00",
@@ -598,7 +620,9 @@
        "j": "Flamengo–Grêmio",
        "m": "Dupla hipótese: Flamengo ou empate",
        "o": "1,03",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "17:45",
@@ -710,8 +734,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,87",
-     "e": "nao verificado",
-     "d": "3 de 4 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Racing Santander–Real Madrid (0-3); Liverpool–Arsenal (0-1); SL Benfica vence o FC Alverca (1-0); Flamengo vence o Grêmio (3-1)",
      "legs": [
       {
        "h": "15:15",
@@ -749,7 +773,9 @@
        "j": "Flamengo vence o Grêmio",
        "m": "Resultado final",
        "o": "1,13",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     }
@@ -5801,47 +5827,47 @@
   }
  ],
  "estatisticas": {
-  "decididos": 154,
-  "ganhos": 79,
-  "pernas": 271,
-  "pernas_ok": 178,
+  "decididos": 160,
+  "ganhos": 85,
+  "pernas": 281,
+  "pernas_ok": 187,
   "dias": 42,
-  "odd_media": "1,48",
+  "odd_media": "1,47",
   "tipos": [
    {
-    "ok": 33,
-    "dec": 40,
-    "pct": 82,
+    "ok": 34,
+    "dec": 41,
+    "pct": 83,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 22,
-    "dec": 39,
-    "pct": 56,
+    "ok": 24,
+    "dec": 40,
+    "pct": 60,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 12,
-    "dec": 38,
-    "pct": 32,
+    "ok": 14,
+    "dec": 39,
+    "pct": 36,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 12,
-    "dec": 37,
+    "ok": 13,
+    "dec": 40,
     "pct": 32,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 1
    }
   ],
   "mercados": [
    {
-    "ok": 123,
-    "dec": 200,
-    "pct": 62,
+    "ok": 124,
+    "dec": 202,
+    "pct": 61,
     "nome": "Resultado final"
    },
    {
@@ -5866,6 +5892,30 @@
     "ok": 2,
     "dec": 2,
     "pct": 100,
+    "nome": "Dupla hipótese: PSG ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
+    "nome": "Dupla hipótese: Inter ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
+    "nome": "Dupla hipótese: Galatasaray ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
+    "nome": "Dupla hipótese: Bayern Munique ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
     "nome": "Dupla hipótese: Arsenal ou empate"
    },
    {
@@ -5873,6 +5923,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Benfica ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
+    "nome": "Dupla hipótese: Flamengo ou empate"
    },
    {
     "ok": 2,
@@ -5891,6 +5947,18 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Bodø/Glimt ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Manchester Utd ou empate"
    },
    {
     "ok": 0,
@@ -5915,6 +5983,12 @@
     "dec": 1,
     "pct": 0,
     "nome": "Dupla hipótese: Lorient ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Manchester United ou empate"
    },
    {
     "ok": 1,
@@ -5945,12 +6019,6 @@
     "dec": 1,
     "pct": 0,
     "nome": "Dupla hipótese: West Ham ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
-    "nome": "Dupla hipótese: Bayern Munique ou empate"
    },
    {
     "ok": 1,
@@ -5995,12 +6063,6 @@
     "nome": "Dupla hipótese: Atlético-MG ou empate"
    },
    {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
-    "nome": "Dupla hipótese: Flamengo ou empate"
-   },
-   {
     "ok": 0,
     "dec": 1,
     "pct": 0,
@@ -6040,12 +6102,6 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
-    "nome": "Dupla hipótese: Galatasaray ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
     "nome": "Dupla hipótese: Craiova ou empate"
    },
    {
@@ -6070,12 +6126,6 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
-    "nome": "Dupla hipótese: PSG ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
     "nome": "Dupla hipótese: Dortmund ou empate"
    },
    {
@@ -6083,12 +6133,6 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Porto ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
-    "nome": "Dupla hipótese: Inter ou empate"
    },
    {
     "ok": 0,
@@ -6183,38 +6227,38 @@
   ],
   "faixas": [
    {
-    "ok": 68,
-    "dec": 84,
-    "pct": 81,
+    "ok": 73,
+    "dec": 89,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 54,
-    "dec": 74,
-    "pct": 73,
+    "ok": 58,
+    "dec": 78,
+    "pct": 74,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
     "ok": 56,
-    "dec": 113,
-    "pct": 50,
+    "dec": 114,
+    "pct": 49,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Terça-feira, 3 de novembro",
-    "pend": 4
+    "pend": 0
    },
    {
-    "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Segunda-feira, 2 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
@@ -6224,11 +6268,11 @@
     "pend": 0
    },
    {
-    "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
     "nome": "Sábado, 31 de outubro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
