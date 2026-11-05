@@ -137,8 +137,8 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,13",
-    "e": "perdido",
-    "d": "Falhou: Atalanta vence o Kairat Almaty (1-1) · 0 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Villarreal–PSG (0-6)",
     "legs": [
      {
       "h": "17:45",
@@ -156,7 +156,7 @@
     "c": "t2",
     "total": "1,76",
     "e": "ganho",
-    "d": "Todas as pernas certas: Crystal Palace–Hoffenheim (1-1); Anderlecht–Salzburgo (2-0); Getafe–Brighton (0-1)",
+    "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)",
     "legs": [
      {
       "h": "17:45",
@@ -191,8 +191,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,45",
-    "e": "perdido",
-    "d": "Falhou: FC Midtjylland–Ajax (1-6); Getafe–Brighton (0-1) · 2 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)",
     "legs": [
      {
       "h": "17:45",
@@ -236,8 +236,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,50",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Rennes–Olympiacos (0-0); Atalanta–Kairat Almaty (1-1) · 1 certa",
     "legs": [
      {
       "h": "14:30",
@@ -546,7 +546,9 @@
       "j": "Benfica vence o Lech Poznan",
       "m": "Resultado final",
       "o": "1,12",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    }

@@ -5,23 +5,23 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: Atalanta vence o Kairat Almaty (1-1) · 0 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Villarreal–PSG (0-6)"
   },
   {
    "t": "Múltipla segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Crystal Palace–Hoffenheim (1-1); Anderlecht–Salzburgo (2-0); Getafe–Brighton (0-1)"
+   "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: FC Midtjylland–Ajax (1-6); Getafe–Brighton (0-1) · 2 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Rennes–Olympiacos (0-0); Atalanta–Kairat Almaty (1-1) · 1 certa"
   }
  ],
  "hoje": [
