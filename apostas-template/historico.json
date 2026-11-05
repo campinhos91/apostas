@@ -1,5 +1,135 @@
 [
  {
+  "dia": "2026-11-06",
+  "rotulo": "Sexta-feira · 6 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,28",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:45",
+      "j": "Famalicão–Arouca",
+      "m": "Dupla hipótese: Famalicão ou empate",
+      "o": "1,28",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,39",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:30",
+      "j": "Hamburgo–M'gladbach",
+      "m": "Dupla hipótese: Hamburgo ou empate",
+      "o": "1,41",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:00",
+      "j": "Derby–Bolton",
+      "m": "Dupla hipótese: Derby ou empate",
+      "o": "1,40",
+      "comp": "Championship"
+     },
+     {
+      "h": "20:00",
+      "j": "Sevilha–Alavés",
+      "m": "Dupla hipótese: Sevilha ou empate",
+      "o": "1,21",
+      "comp": "La Liga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,19",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Willem II–Zwolle",
+      "m": "Dupla hipótese: Zwolle ou empate",
+      "o": "1,37",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "19:45",
+      "j": "Toulouse–Estrasburgo",
+      "m": "Dupla hipótese: Toulouse ou empate",
+      "o": "1,30",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "20:00",
+      "j": "Derby–Bolton",
+      "m": "Dupla hipótese: Derby ou empate",
+      "o": "1,40",
+      "comp": "Championship"
+     },
+     {
+      "h": "20:45",
+      "j": "Famalicão–Arouca",
+      "m": "Dupla hipótese: Famalicão ou empate",
+      "o": "1,28",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,58",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "d": "SÁB",
+      "j": "RB Leipzig vence o Augsburgo",
+      "m": "Resultado final",
+      "o": "1,41",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "19:45",
+      "d": "SÁB",
+      "j": "Roma vence o Sassuolo",
+      "m": "Resultado final",
+      "o": "1,27",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:30",
+      "d": "SÁB",
+      "j": "Sporting CP vence o Moreirense",
+      "m": "Resultado final",
+      "o": "1,16",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "20:30",
+      "d": "DOM",
+      "j": "Benfica vence a Estrela Amadora",
+      "m": "Resultado final",
+      "o": "1,24",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-05",
   "rotulo": "Quinta-feira · 5 de novembro de 2026",
   "boletins": [
@@ -25,8 +155,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,76",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Crystal Palace–Hoffenheim (1-1); Anderlecht–Salzburgo (2-0); Getafe–Brighton (0-1)",
     "legs": [
      {
       "h": "17:45",
@@ -51,7 +181,9 @@
       "j": "Getafe–Brighton",
       "m": "Dupla hipótese: Brighton ou empate",
       "o": "1,12",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "ok",
+      "x": "0-1"
      }
     ]
    },
@@ -60,7 +192,7 @@
     "c": "t3",
     "total": "2,45",
     "e": "perdido",
-    "d": "Falhou: FC Midtjylland–Ajax (1-6) · 2 certas, 1 por jogar",
+    "d": "Falhou: FC Midtjylland–Ajax (1-6); Getafe–Brighton (0-1) · 2 certas",
     "legs": [
      {
       "h": "17:45",
@@ -85,7 +217,9 @@
       "j": "Getafe–Brighton",
       "m": "Mais de 1,5 golos",
       "o": "1,23",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "17:45",
@@ -102,8 +236,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,50",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "14:30",
@@ -249,7 +383,7 @@
     "c": "t4",
     "total": "2,74",
     "e": "perdido",
-    "d": "Falhou: Rennes–Olympiacos (0-0); Atalanta–Kairat Almaty (1-1) · 0 certas, 1 por jogar",
+    "d": "Falhou: Rennes–Olympiacos (0-0); Atalanta–Kairat Almaty (1-1) · 1 certa",
     "legs": [
      {
       "h": "15:30",
@@ -277,7 +411,9 @@
       "j": "Getafe–Brighton",
       "m": "Dupla hipótese: Brighton ou empate",
       "o": "1,11",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "ok",
+      "x": "0-1"
      }
     ]
    }
