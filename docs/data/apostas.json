@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-05T23:55:29+00:00",
- "dia": "2026-11-06",
- "rotulo": "Sexta-feira · 6 de novembro de 2026",
+ "atualizado": "2026-11-06T23:24:43+00:00",
+ "dia": "2026-11-07",
+ "rotulo": "Sábado · 7 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
@@ -14,22 +14,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Villarreal–PSG (0-6)"
+   "d": "Todas as pernas certas: Famalicão–Arouca (1-0)"
   },
   {
    "t": "Múltipla segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Bodø/Glimt–Lille (0-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3)"
+   "d": "Todas as pernas certas: Hamburgo–M'gladbach (3-1); Derby–Bolton (3-1); Sevilha–Alavés (0-0)"
   },
   {
    "t": "Múltipla arriscada",
    "e": "ganho",
-   "d": "Todas as pernas certas: Galatasaray–Estugarda (2-0); Manchester Utd–Roma (3-2); Feyenoord–Inter (0-3); Atlético de Madrid–Bayern Munique (0-2)"
+   "d": "Todas as pernas certas: Willem II–Zwolle (1-1); Toulouse–Estrasburgo (3-1); Derby–Bolton (3-1); Famalicão–Arouca (1-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "perdido",
-   "d": "Falhou: Rennes–Olympiacos (0-0); Atalanta–Kairat Almaty (1-1) · 1 certa"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -39,14 +39,14 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "20:45",
-     "j": "Famalicão–Arouca",
-     "m": "Dupla hipótese: Famalicão ou empate",
-     "o": "1,28",
+     "h": "20:30",
+     "j": "Sporting CP vence o Moreirense",
+     "m": "Resultado final",
+     "o": "1,16",
      "comp": "Liga Portugal Betclic"
     }
    ],
-   "total": "1,28",
+   "total": "1,16",
    "rodape": "Uma seleção"
   },
   {
@@ -55,28 +55,28 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "19:30",
-     "j": "Hamburgo–M'gladbach",
-     "m": "Dupla hipótese: Hamburgo ou empate",
-     "o": "1,41",
+     "h": "14:00",
+     "j": "Torino–Lecce",
+     "m": "Dupla hipótese: Torino ou empate",
+     "o": "1,17",
+     "comp": "Superliga (Itália)"
+    },
+    {
+     "h": "14:30",
+     "j": "RB Leipzig–Augsburgo",
+     "m": "Dupla hipótese: RB Leipzig ou empate",
+     "o": "1,13",
      "comp": "Bundesliga"
     },
     {
-     "h": "20:00",
-     "j": "Derby–Bolton",
-     "m": "Dupla hipótese: Derby ou empate",
-     "o": "1,40",
+     "h": "15:00",
+     "j": "Birmingham–Swansea",
+     "m": "Dupla hipótese: Birmingham ou empate",
+     "o": "1,20",
      "comp": "Championship"
-    },
-    {
-     "h": "20:00",
-     "j": "Sevilha–Alavés",
-     "m": "Dupla hipótese: Sevilha ou empate",
-     "o": "1,21",
-     "comp": "La Liga"
     }
    ],
-   "total": "2,39",
+   "total": "1,59",
    "rodape": "3 seleções"
   },
   {
@@ -85,35 +85,35 @@
    "risco": "alto",
    "legs": [
     {
-     "h": "19:00",
-     "j": "Willem II–Zwolle",
-     "m": "Dupla hipótese: Zwolle ou empate",
-     "o": "1,37",
-     "comp": "Eredivisie"
-    },
-    {
-     "h": "19:45",
-     "j": "Toulouse–Estrasburgo",
-     "m": "Dupla hipótese: Toulouse ou empate",
-     "o": "1,30",
-     "comp": "Ligue 1"
-    },
-    {
-     "h": "20:00",
-     "j": "Derby–Bolton",
-     "m": "Dupla hipótese: Derby ou empate",
+     "h": "14:30",
+     "j": "RB Leipzig vence o Augsburgo",
+     "m": "Resultado final",
      "o": "1,40",
+     "comp": "Bundesliga"
+    },
+    {
+     "h": "15:00",
+     "j": "QPR–Lincoln",
+     "m": "Dupla hipótese: QPR ou empate",
+     "o": "1,16",
      "comp": "Championship"
     },
     {
-     "h": "20:45",
-     "j": "Famalicão–Arouca",
-     "m": "Dupla hipótese: Famalicão ou empate",
-     "o": "1,28",
-     "comp": "Liga Portugal Betclic"
+     "h": "15:00",
+     "j": "Birmingham–Swansea",
+     "m": "Dupla hipótese: Birmingham ou empate",
+     "o": "1,20",
+     "comp": "Championship"
+    },
+    {
+     "h": "19:45",
+     "j": "Roma vence o Sassuolo",
+     "m": "Resultado final",
+     "o": "1,25",
+     "comp": "Superliga (Itália)"
     }
    ],
-   "total": "3,19",
+   "total": "2,44",
    "rodape": "4 seleções · falhar uma perde tudo"
   }
  ],
@@ -124,27 +124,19 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "14:30",
-     "d": "SÁB",
-     "j": "RB Leipzig vence o Augsburgo",
+     "h": "18:00",
+     "d": "DOM",
+     "j": "FC Porto vence o Vitória SC",
      "m": "Resultado final",
-     "o": "1,41",
-     "comp": "Bundesliga"
-    },
-    {
-     "h": "19:45",
-     "d": "SÁB",
-     "j": "Roma vence o Sassuolo",
-     "m": "Resultado final",
-     "o": "1,27",
-     "comp": "Superliga (Itália)"
+     "o": "1,60",
+     "comp": "Liga Portugal Betclic"
     },
     {
      "h": "20:30",
-     "d": "SÁB",
-     "j": "Sporting CP vence o Moreirense",
+     "d": "DOM",
+     "j": "SC Braga vence o Rio Ave",
      "m": "Resultado final",
-     "o": "1,16",
+     "o": "1,54",
      "comp": "Liga Portugal Betclic"
     },
     {
@@ -152,78 +144,213 @@
      "d": "DOM",
      "j": "Benfica vence a Estrela Amadora",
      "m": "Resultado final",
-     "o": "1,24",
+     "o": "1,25",
      "comp": "Liga Portugal Betclic"
     }
    ],
-   "total": "2,58",
-   "rodape": "4 seleções · sábado e domingo"
+   "total": "3,08",
+   "rodape": "3 seleções · todas no domingo"
   }
  ],
  "amanha": [
   {
-   "h": "17:30",
-   "d": "SÁB",
-   "j": "Estugarda vence o Werder Bremen",
+   "h": "13:30",
+   "d": "DOM",
+   "j": "Twente vence o Ajax",
    "m": "Resultado final",
-   "o": "1,60",
-   "n": "Estugarda favorito em casa com 60% de probabilidade histórica (odd justa 1,68), muito próximo do que a odd implica; Werder Bremen só venceu 2 dos últimos 8 confrontos diretos",
-   "comp": "Bundesliga"
+   "o": "2,10",
+   "n": "Twente tem 20V 7E 7D em casa nas últimas 2 épocas (forma recente VVEDVV); mesmo o Ajax sendo mais forte fora, o modelo também dá vantagem ao Twente (42% a 33%)",
+   "comp": "Eredivisie"
   },
   {
-   "h": "17:00",
-   "d": "SÁB",
-   "j": "Torino vence o Lecce",
+   "h": "17:30",
+   "d": "DOM",
+   "j": "Villarreal vence o Getafe",
    "m": "Resultado final",
-   "o": "1,74",
-   "n": "Torino favorito em casa com 48% de probabilidade histórica (odd justa 2,09); venceu 5 dos últimos 8 confrontos diretos com o Lecce",
+   "o": "1,40",
+   "n": "Villarreal 23V 7E 8D em casa nas últimas 2 épocas, com 2,3 golos marcados por jogo; Getafe fora só marca 0,8 e já perdeu 3 dos últimos 4 confrontos diretos",
+   "comp": "La Liga"
+  },
+  {
+   "h": "19:45",
+   "d": "DOM",
+   "j": "Juventus vence a Fiorentina",
+   "m": "Resultado final",
+   "o": "1,97",
+   "n": "Juventus fora tem 15V 13E 10D nas últimas 2 épocas e ganhou 2 dos últimos 4 confrontos diretos; Fiorentina em casa só venceu 13 de 38 jogos",
    "comp": "Superliga (Itália)"
   },
   {
-   "h": "18:00",
-   "d": "SÁB",
-   "j": "FC Alverca vence o Casa Pia",
+   "h": "14:00",
+   "d": "DOM",
+   "j": "Chelsea vence o Sunderland",
    "m": "Resultado final",
-   "o": "1,75",
-   "n": "Alverca favorito em casa com 49% de probabilidade histórica (odd justa 2,04); venceu os 2 últimos confrontos diretos com o Casa Pia",
-   "comp": "Liga Portugal Betclic"
+   "o": "1,84",
+   "n": "Chelsea fora cria mais golos (1,5 marcados-1,5 sofridos) e ganhou os 2 confrontos diretos mais recentes; Sunderland em casa só tem 39% de jogos com mais de 2,5 golos",
+   "comp": "Premier League"
   }
  ],
  "fora": [
   [
-   "Everton–Coventry (1,67 / Dupla hipótese 1,17)",
-   "modelo dá 48% de vitória do Everton e 75% de 1X, bem abaixo dos 60%/85% implícitos nas odds; Coventry só tem 9 jogos recentes nos dados: dados fracos e discrepância"
+   "Arsenal–Hull (1,13)",
+   "o modelo dá só 64% ao Arsenal, bem abaixo do odd implícito de 88%: tratamos como seleção duvidosa"
   ],
   [
-   "Venezia–Udinese (Dupla hipótese: empate ou Udinese 1,57)",
-   "modelo e odd contraditórios: o modelo dá mais probabilidade ao Udinese (70%) do que a odd oferece (64%), sinal que o modelo não confirma com segurança"
+   "CD Nacional–Académico Viseu",
+   "Académico Viseu só tem 10 jogos recentes nos dados: estimativa pouco fiável"
   ],
   [
-   "Rapid Viena–Wolfsberger (1,19 / Dupla hipótese 1,05)",
-   "dados fracos (só jogos europeus nos dados para a Bundesliga austríaca) e modelo dá só 53% de vitória do Rapid Viena, bem abaixo dos 84% implícitos na odd: seleção tratada como duvidosa"
+   "Cagliari–Frosinone",
+   "Frosinone só tem 4 jogos recentes nos dados: estimativa pouco fiável"
   ],
   [
-   "Valência–Real Madrid (1,25)",
-   "modelo dá 57% de vitória do Real Madrid, bem abaixo dos 80% implícitos na odd: seleção tratada como duvidosa"
+   "Málaga–Racing Santander",
+   "as duas equipas só têm 5 jogos recentes nos dados: estimativa muito pouco fiável"
   ],
   [
-   "Arsenal–Hull (1,15)",
-   "modelo dá 64% de vitória do Arsenal, bem abaixo dos 87% implícitos na odd, e Hull só tem 9 jogos recentes nos dados: dados fracos e discrepância"
+   "Paderborn–Eintracht Frankfurt",
+   "Paderborn só tem 4 jogos recentes nos dados: estimativa pouco fiável"
   ],
   [
-   "Osasuna–Athletic Bilbao (La Liga)",
-   "jogo muito equilibrado no modelo (36% / 29% / 36%), sem favorito claro"
+   "Auxerre–Paris FC",
+   "jogo equilibrado, nenhuma seleção passa de 41% de probabilidade histórica"
   ],
   [
-   "Paderborn–Eintracht Frankfurt (Bundesliga)",
-   "dados fracos: Paderborn só tem 8 jogos recentes nos dados"
+   "Den Haag–Sparta Rotterdam",
+   "Den Haag só tem 11 jogos recentes nos dados: estimativa pouco fiável"
+  ],
+  [
+   "Atlético de Madrid–Barcelona, domingo (3,55 / 1,79)",
+   "o modelo dá só 41% ao Barcelona fora, bem abaixo do odd implícito de 56%: clássico sem seleção segura"
   ],
   [
    "Cobertura da Betclic",
-   "consultadas em betclic.pt, sem bloqueio: Liga Portugal Betclic, La Liga, Bundesliga, Ligue 1, Superliga (Itália), Championship, Eredivisie, Premier League, Bundesliga (Áustria), Brasil Série A, Primeira Liga (Escócia) e Superliga (Grécia); competições de seleções e taças europeias sem jogos hoje; restantes ligas da lista (sul-americanas exceto Brasil, MLS, Liga MX, asiáticas, etc.) não foram consultadas"
+   "consultadas Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1 e Eredivisie, diretamente em betclic.pt (sem bloqueio); a página da Taça de Portugal não mostrou jogos nesta jornada; Espanhol–Deportivo ficou fora por não se confirmar o nome exato da equipa visitante nos dados; Liga Portugal 2 e as restantes ligas secundárias não foram consultadas por haver jogos suficientes nas principais."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-11-07",
+   "rotulo": "Sábado · 7 de novembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,16",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "20:30",
+       "j": "Sporting CP vence o Moreirense",
+       "m": "Resultado final",
+       "o": "1,16",
+       "comp": "Liga Portugal Betclic"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,59",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "14:00",
+       "j": "Torino–Lecce",
+       "m": "Dupla hipótese: Torino ou empate",
+       "o": "1,17",
+       "comp": "Superliga (Itália)"
+      },
+      {
+       "h": "14:30",
+       "j": "RB Leipzig–Augsburgo",
+       "m": "Dupla hipótese: RB Leipzig ou empate",
+       "o": "1,13",
+       "comp": "Bundesliga"
+      },
+      {
+       "h": "15:00",
+       "j": "Birmingham–Swansea",
+       "m": "Dupla hipótese: Birmingham ou empate",
+       "o": "1,20",
+       "comp": "Championship"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "2,44",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "14:30",
+       "j": "RB Leipzig vence o Augsburgo",
+       "m": "Resultado final",
+       "o": "1,40",
+       "comp": "Bundesliga"
+      },
+      {
+       "h": "15:00",
+       "j": "QPR–Lincoln",
+       "m": "Dupla hipótese: QPR ou empate",
+       "o": "1,16",
+       "comp": "Championship"
+      },
+      {
+       "h": "15:00",
+       "j": "Birmingham–Swansea",
+       "m": "Dupla hipótese: Birmingham ou empate",
+       "o": "1,20",
+       "comp": "Championship"
+      },
+      {
+       "h": "19:45",
+       "j": "Roma vence o Sassuolo",
+       "m": "Resultado final",
+       "o": "1,25",
+       "comp": "Superliga (Itália)"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "3,08",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "18:00",
+       "d": "DOM",
+       "j": "FC Porto vence o Vitória SC",
+       "m": "Resultado final",
+       "o": "1,60",
+       "comp": "Liga Portugal Betclic"
+      },
+      {
+       "h": "20:30",
+       "d": "DOM",
+       "j": "SC Braga vence o Rio Ave",
+       "m": "Resultado final",
+       "o": "1,54",
+       "comp": "Liga Portugal Betclic"
+      },
+      {
+       "h": "20:30",
+       "d": "DOM",
+       "j": "Benfica vence a Estrela Amadora",
+       "m": "Resultado final",
+       "o": "1,25",
+       "comp": "Liga Portugal Betclic"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-11-06",
    "rotulo": "Sexta-feira · 6 de novembro de 2026",
@@ -232,15 +359,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,28",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Famalicão–Arouca (1-0)",
      "legs": [
       {
        "h": "20:45",
        "j": "Famalicão–Arouca",
        "m": "Dupla hipótese: Famalicão ou empate",
        "o": "1,28",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -248,29 +377,35 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,39",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Hamburgo–M'gladbach (3-1); Derby–Bolton (3-1); Sevilha–Alavés (0-0)",
      "legs": [
       {
        "h": "19:30",
        "j": "Hamburgo–M'gladbach",
        "m": "Dupla hipótese: Hamburgo ou empate",
        "o": "1,41",
-       "comp": "Bundesliga"
+       "comp": "Bundesliga",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "20:00",
        "j": "Derby–Bolton",
        "m": "Dupla hipótese: Derby ou empate",
        "o": "1,40",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "20:00",
        "j": "Sevilha–Alavés",
        "m": "Dupla hipótese: Sevilha ou empate",
        "o": "1,21",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "0-0"
       }
      ]
     },
@@ -278,36 +413,44 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,19",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Willem II–Zwolle (1-1); Toulouse–Estrasburgo (3-1); Derby–Bolton (3-1); Famalicão–Arouca (1-0)",
      "legs": [
       {
        "h": "19:00",
        "j": "Willem II–Zwolle",
        "m": "Dupla hipótese: Zwolle ou empate",
        "o": "1,37",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "ok",
+       "x": "1-1"
       },
       {
        "h": "19:45",
        "j": "Toulouse–Estrasburgo",
        "m": "Dupla hipótese: Toulouse ou empate",
        "o": "1,30",
-       "comp": "Ligue 1"
+       "comp": "Ligue 1",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "20:00",
        "j": "Derby–Bolton",
        "m": "Dupla hipótese: Derby ou empate",
        "o": "1,40",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "ok",
+       "x": "3-1"
       },
       {
        "h": "20:45",
        "j": "Famalicão–Arouca",
        "m": "Dupla hipótese: Famalicão ou empate",
        "o": "1,28",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -315,8 +458,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,58",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "14:30",
@@ -6115,31 +6258,31 @@
   }
  ],
  "estatisticas": {
-  "decididos": 164,
-  "ganhos": 88,
-  "pernas": 291,
-  "pernas_ok": 193,
-  "dias": 44,
+  "decididos": 167,
+  "ganhos": 91,
+  "pernas": 297,
+  "pernas_ok": 199,
+  "dias": 45,
   "odd_media": "1,46",
   "tipos": [
    {
-    "ok": 35,
-    "dec": 42,
-    "pct": 83,
+    "ok": 36,
+    "dec": 43,
+    "pct": 84,
     "nome": "Aposta simples segura",
     "pend": 1
    },
    {
-    "ok": 25,
-    "dec": 41,
-    "pct": 61,
+    "ok": 26,
+    "dec": 42,
+    "pct": 62,
     "nome": "Múltipla segura",
     "pend": 1
    },
    {
-    "ok": 15,
-    "dec": 40,
-    "pct": 38,
+    "ok": 16,
+    "dec": 41,
+    "pct": 39,
     "nome": "Múltipla arriscada",
     "pend": 1
    },
@@ -6148,7 +6291,7 @@
     "dec": 41,
     "pct": 32,
     "nome": "Múltipla dos próximos dias",
-    "pend": 2
+    "pend": 3
    }
   ],
   "mercados": [
@@ -6235,6 +6378,42 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Famalicão ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Hamburgo ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Derby ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Sevilha ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Zwolle ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Toulouse ou empate"
    },
    {
     "ok": 1,
@@ -6551,15 +6730,15 @@
   ],
   "faixas": [
    {
-    "ok": 78,
-    "dec": 97,
-    "pct": 80,
+    "ok": 79,
+    "dec": 98,
+    "pct": 81,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 59,
-    "dec": 79,
-    "pct": 75,
+    "ok": 64,
+    "dec": 84,
+    "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
@@ -6574,8 +6753,15 @@
     "ok": 0,
     "dec": 0,
     "pct": null,
-    "nome": "Sexta-feira, 6 de novembro",
+    "nome": "Sábado, 7 de novembro",
     "pend": 4
+   },
+   {
+    "ok": 3,
+    "dec": 3,
+    "pct": 100,
+    "nome": "Sexta-feira, 6 de novembro",
+    "pend": 1
    },
    {
     "ok": 3,

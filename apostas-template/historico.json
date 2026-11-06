@@ -1,20 +1,20 @@
 [
  {
-  "dia": "2026-11-06",
-  "rotulo": "Sexta-feira · 6 de novembro de 2026",
+  "dia": "2026-11-07",
+  "rotulo": "Sábado · 7 de novembro de 2026",
   "boletins": [
    {
     "t": "Aposta simples segura",
     "c": "t1",
-    "total": "1,28",
+    "total": "1,16",
     "e": "pendente",
     "d": "",
     "legs": [
      {
-      "h": "20:45",
-      "j": "Famalicão–Arouca",
-      "m": "Dupla hipótese: Famalicão ou empate",
-      "o": "1,28",
+      "h": "20:30",
+      "j": "Sporting CP vence o Moreirense",
+      "m": "Resultado final",
+      "o": "1,16",
       "comp": "Liga Portugal Betclic"
      }
     ]
@@ -22,30 +22,160 @@
    {
     "t": "Múltipla segura",
     "c": "t2",
-    "total": "2,39",
+    "total": "1,59",
     "e": "pendente",
     "d": "",
+    "legs": [
+     {
+      "h": "14:00",
+      "j": "Torino–Lecce",
+      "m": "Dupla hipótese: Torino ou empate",
+      "o": "1,17",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "14:30",
+      "j": "RB Leipzig–Augsburgo",
+      "m": "Dupla hipótese: RB Leipzig ou empate",
+      "o": "1,13",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "15:00",
+      "j": "Birmingham–Swansea",
+      "m": "Dupla hipótese: Birmingham ou empate",
+      "o": "1,20",
+      "comp": "Championship"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,44",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "j": "RB Leipzig vence o Augsburgo",
+      "m": "Resultado final",
+      "o": "1,40",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "15:00",
+      "j": "QPR–Lincoln",
+      "m": "Dupla hipótese: QPR ou empate",
+      "o": "1,16",
+      "comp": "Championship"
+     },
+     {
+      "h": "15:00",
+      "j": "Birmingham–Swansea",
+      "m": "Dupla hipótese: Birmingham ou empate",
+      "o": "1,20",
+      "comp": "Championship"
+     },
+     {
+      "h": "19:45",
+      "j": "Roma vence o Sassuolo",
+      "m": "Resultado final",
+      "o": "1,25",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "3,08",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "d": "DOM",
+      "j": "FC Porto vence o Vitória SC",
+      "m": "Resultado final",
+      "o": "1,60",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "20:30",
+      "d": "DOM",
+      "j": "SC Braga vence o Rio Ave",
+      "m": "Resultado final",
+      "o": "1,54",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "20:30",
+      "d": "DOM",
+      "j": "Benfica vence a Estrela Amadora",
+      "m": "Resultado final",
+      "o": "1,25",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "dia": "2026-11-06",
+  "rotulo": "Sexta-feira · 6 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,28",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Famalicão–Arouca (1-0)",
+    "legs": [
+     {
+      "h": "20:45",
+      "j": "Famalicão–Arouca",
+      "m": "Dupla hipótese: Famalicão ou empate",
+      "o": "1,28",
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,39",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Hamburgo–M'gladbach (3-1); Derby–Bolton (3-1); Sevilha–Alavés (0-0)",
     "legs": [
      {
       "h": "19:30",
       "j": "Hamburgo–M'gladbach",
       "m": "Dupla hipótese: Hamburgo ou empate",
       "o": "1,41",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "20:00",
       "j": "Derby–Bolton",
       "m": "Dupla hipótese: Derby ou empate",
       "o": "1,40",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "20:00",
       "j": "Sevilha–Alavés",
       "m": "Dupla hipótese: Sevilha ou empate",
       "o": "1,21",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "0-0"
      }
     ]
    },
@@ -53,36 +183,44 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,19",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Willem II–Zwolle (1-1); Toulouse–Estrasburgo (3-1); Derby–Bolton (3-1); Famalicão–Arouca (1-0)",
     "legs": [
      {
       "h": "19:00",
       "j": "Willem II–Zwolle",
       "m": "Dupla hipótese: Zwolle ou empate",
       "o": "1,37",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "19:45",
       "j": "Toulouse–Estrasburgo",
       "m": "Dupla hipótese: Toulouse ou empate",
       "o": "1,30",
-      "comp": "Ligue 1"
+      "comp": "Ligue 1",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "20:00",
       "j": "Derby–Bolton",
       "m": "Dupla hipótese: Derby ou empate",
       "o": "1,40",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "ok",
+      "x": "3-1"
      },
      {
       "h": "20:45",
       "j": "Famalicão–Arouca",
       "m": "Dupla hipótese: Famalicão ou empate",
       "o": "1,28",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -90,8 +228,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,58",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "14:30",

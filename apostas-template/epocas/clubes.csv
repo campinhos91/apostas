@@ -1,5 +1,4 @@
 liga,data,casa,fora,gc,gf,o1,ox,o2
-ARG,2022-07-18,Velez Sarsfield,River Plate,2,2,2.6,3.08,2.83
 ARG,2022-07-19,Atl. Tucuman,Sarmiento Junin,1,0,1.83,3.25,4.81
 ARG,2022-07-19,Colon Santa Fe,Aldosivi,1,1,1.48,4.37,6.35
 ARG,2022-07-19,Platense,Central Cordoba,2,0,2.12,3.09,3.74
@@ -2418,6 +2417,8 @@ ARG,2026-11-02,Defensa y Justicia,Independiente,1,1,2.26,3.17,3.13
 ARG,2026-11-02,Platense,Central Cordoba,2,0,1.42,4.16,7.64
 ARG,2026-11-03,Atl. Tucuman,Argentinos Jrs,1,2,2.78,2.96,2.61
 ARG,2026-11-03,Ind. Rivadavia,Banfield,3,1,1.58,3.83,5.3
+ARG,2026-11-05,Aldosivi,River Plate,0,2,7.78,4.56,1.36
+ARG,2026-11-05,Gimnasia L.P.,Belgrano,2,1,2.76,3.17,2.49
 AUT,2022-07-22,Salzburg,Austria Vienna,3,0,1.31,5.47,8.58
 AUT,2022-07-23,LASK,A. Klagenfurt,3,1,1.43,4.7,6.53
 AUT,2022-07-23,Wolfsberger AC,Sturm Graz,1,1,2.92,3.5,2.29
@@ -6271,6 +6272,14 @@ BRA,2026-10-30,Corinthians,Mirassol,2,0,1.83,3.46,4.14
 BRA,2026-10-30,Gremio,Athletico-PR,2,0,2.24,3.38,3.02
 BRA,2026-10-31,Coritiba,Vitoria,2,0,2.07,3.37,3.41
 BRA,2026-11-02,Bragantino,Santos,2,1,2,3.77,3.23
+BRA,2026-11-03,Chapecoense-SC,Mirassol,1,2,3.7,3.57,1.91
+BRA,2026-11-04,Athletico-PR,Vasco,1,3,2.43,3.33,2.77
+BRA,2026-11-04,Flamengo RJ,Gremio,3,1,1.13,8.45,15.75
+BRA,2026-11-04,Internacional,Coritiba,1,0,1.53,4.13,5.62
+BRA,2026-11-05,Botafogo RJ,Atletico-MG,1,0,1.6,3.99,5.11
+BRA,2026-11-05,Palmeiras,Remo,6,1,1.22,6.15,10.83
+BRA,2026-11-05,Sao Paulo,Corinthians,0,0,2.48,3.03,2.94
+BRA,2026-11-06,Cruzeiro,Bahia,3,2,1.75,3.9,4.04
 CHN,2022-08-05,Hebei,Chengdu Rongcheng,0,1,10.88,4.76,1.3
 CHN,2022-08-05,Shanghai Shenhua,Changchun Yatai,0,0,2.51,3.24,2.73
 CHN,2022-08-05,Shenzhen,Zhejiang Professional,0,2,4.92,3.8,1.65
@@ -10040,7 +10049,6 @@ D2,2026-10-31,Wolfsburg,Osnabruck,2,0,1.53,4.44,4.78
 D2,2026-11-01,Greuther Furth,Holstein Kiel,1,0,2.44,3.6,2.49
 D2,2026-11-01,Hannover,Dresden,2,1,2.1,3.64,2.96
 D2,2026-11-01,St Pauli,Nurnberg,1,3,2.1,3.54,3.03
-DNK,2022-07-18,Odense,Nordsjaelland,0,2,2.32,3.41,2.93
 DNK,2022-07-22,Midtjylland,Silkeborg,1,3,1.98,3.63,3.56
 DNK,2022-07-24,Aalborg,FC Copenhagen,1,3,4.27,3.81,1.78
 DNK,2022-07-24,Aarhus,Viborg,3,1,2.79,3.26,2.53
@@ -17718,7 +17726,6 @@ F2,2026-10-31,Annecy,Montpellier,0,3,2.86,3.33,2.24
 F2,2026-10-31,Guingamp,St Etienne,3,0,3.61,3.55,1.87
 F2,2026-11-02,Red Star,Nancy,1,4,2.23,3.25,2.91
 F2,2026-11-02,Reims,Sochaux,2,0,1.7,3.63,4.3
-FIN,2022-07-18,Haka,Inter Turku,3,2,2.14,3.34,3.3
 FIN,2022-07-23,AC Oulu,Mariehamn,3,1,2.95,3.44,2.28
 FIN,2022-07-23,Ilves,HJK,1,2,4.33,3.66,1.77
 FIN,2022-07-23,VPS,Haka,3,3,2.53,3.33,2.67
@@ -24842,7 +24849,6 @@ JPN,2026-11-01,Chiba,Avispa Fukuoka,3,0,2.69,3.13,2.54
 JPN,2026-11-01,Machida,Gamba Osaka,0,0,1.77,3.62,4.04
 JPN,2026-11-01,V-Varen Nagasaki,Verdy,1,2,2.48,3.14,2.73
 JPN,2026-11-01,Yokohama F. Marinos,Kawasaki Frontale,4,2,3.09,3.71,2.03
-MEX,2022-07-18,Tigres UANL,Club Tijuana,1,0,1.43,4.37,6.95
 MEX,2022-07-19,Pachuca,Mazatlan FC,1,1,1.39,4.6,7.52
 MEX,2022-07-21,Guadalajara Chivas,Club Leon,0,0,2.11,3.34,3.35
 MEX,2022-07-22,Queretaro,Monterrey,0,3,3.11,3.28,2.24
@@ -29999,7 +30005,6 @@ P1,2026-11-01,Maritimo,Santa Clara,0,2,3.25,3.08,2.24
 P1,2026-11-01,Sp Braga,Famalicao,3,0,1.77,3.38,4.56
 P1,2026-11-02,Benfica,Alverca,1,0,1.16,7.23,13.22
 P1,2026-11-02,Gil Vicente,Guimaraes,0,0,2.8,3.13,2.46
-POL,2022-07-18,Gornik Z.,Cracovia,0,2,2.44,3.23,2.85
 POL,2022-07-22,Jagiellonia,Widzew Lodz,0,2,1.91,3.47,3.89
 POL,2022-07-22,Warta Poznan,Wisla Plock,0,4,2.5,3.07,2.89
 POL,2022-07-23,Cracovia,Korona Kielce,2,0,1.6,3.83,5.36
@@ -31330,8 +31335,6 @@ POL,2026-10-31,Wisla Plock,Piast Gliwice,2,2,2.08,3.45,3.1
 POL,2026-11-02,Radomiak Radom,Slask Wroclaw,3,1,1.91,3.58,3.45
 POL,2026-11-02,Rakow,Pogon Szczecin,3,1,1.91,3.54,3.48
 POL,2026-11-02,Zaglebie,Korona Kielce,1,0,2.53,3.19,2.57
-ROU,2022-07-18,FC Botosani,Chindia Targoviste,3,2,2.23,2.87,3.52
-ROU,2022-07-18,Petrolul,FC Voluntari,0,1,2.45,2.91,3.01
 ROU,2022-07-22,Mioveni,Farul Constanta,0,2,3.39,2.98,2.23
 ROU,2022-07-23,FC Voluntari,FC Botosani,0,1,2.27,2.94,3.31
 ROU,2022-07-24,FC Rapid Bucuresti,FCSB,2,0,3.06,3.13,2.29
@@ -38279,8 +38282,6 @@ SP2,2026-11-01,Eldense,Granada,0,2,2.22,3.3,2.95
 SP2,2026-11-02,Mallorca,Cadiz,2,1,1.46,4.01,6.17
 SP2,2026-11-02,Oviedo,Las Palmas,2,3,1.71,3.58,4.37
 SP2,2026-11-02,Valladolid,Leganes,4,3,1.77,3.49,4.07
-SWE,2022-07-18,Sundsvall,Hacken,1,5,5.3,4.68,1.52
-SWE,2022-07-18,Varberg,Helsingborg,0,0,2.31,3.23,3.12
 SWE,2022-07-23,Malmo FF,Sirius,3,1,1.41,4.87,6.92
 SWE,2022-07-23,Mjallby,Degerfors,2,1,1.63,3.86,5.27
 SWE,2022-07-24,Hacken,Djurgarden,1,2,2.23,3.65,2.95
@@ -39346,6 +39347,7 @@ SWE,2026-11-01,Malmo FF,Hammarby,1,2,4.38,3.98,1.65
 SWE,2026-11-01,Vasteras SK,Brommapojkarna,1,0,1.85,3.69,3.64
 SWE,2026-11-02,GAIS,AIK,2,1,1.75,3.74,4.02
 SWE,2026-11-02,Mjallby,Kalmar,0,0,2.53,3.22,2.63
+SWE,2026-11-03,Sirius,Halmstad,2,0,1.27,5.58,8.71
 T1,2022-08-05,Istanbulspor,Trabzonspor,0,2,4.66,3.8,1.71
 T1,2022-08-06,Besiktas,Kayserispor,1,0,1.5,4.39,6.04
 T1,2022-08-06,Sivasspor,Gaziantep,1,1,2,3.56,3.56
@@ -40806,11 +40808,6 @@ T1,2026-11-01,Buyuksehyr,Samsunspor,5,2,1.78,3.74,3.88
 T1,2026-11-01,Kasimpasa,Besiktas,2,2,4.99,4.09,1.56
 T1,2026-11-01,Trabzonspor,Gaziantep,2,0,1.32,5.24,7.12
 T1,2026-11-02,Genclerbirligi,Alanyaspor,5,0,2.61,3.22,2.54
-USA,2022-07-18,Columbus Crew,FC Cincinnati,2,0,1.8,3.86,4.02
-USA,2022-07-18,Nashville SC,Los Angeles FC,1,2,2.45,3.35,2.81
-USA,2022-07-18,Portland Timbers,Vancouver Whitecaps,1,1,1.66,4.07,4.71
-USA,2022-07-18,Real Salt Lake,Sporting Kansas City,3,0,1.77,3.64,4.47
-USA,2022-07-18,San Jose Earthquakes,Houston Dynamo,1,2,2.17,3.73,3
 USA,2022-07-24,Columbus Crew,New England Revolution,0,0,2.03,3.55,3.46
 USA,2022-07-24,DC United,CF Montreal,1,2,3.01,3.5,2.25
 USA,2022-07-24,FC Cincinnati,Nashville SC,1,1,2.47,3.33,2.79
