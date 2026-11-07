@@ -1,11 +1,4 @@
 liga,epoca,data,casa,fora,gc,gf,neutro,casa_fs,fora_fs
-UCL,2022-2023,2022-07-19,Din. Zagreb,Shkupi,2,2,0,Din. Zagreb (Cro),Shkupi (Mkd)
-UCL,2022-2023,2022-07-19,Linfield,Bodo/Glimt,1,0,0,Linfield (Nir),Bodo/Glimt (Nor)
-UCL,2022-2023,2022-07-19,Ludogorets,Shamrock Rovers,3,0,0,Ludogorets (Bul),Shamrock Rovers (Irl)
-UCL,2022-2023,2022-07-19,Midtjylland,AEK Larnaca,1,1,0,Midtjylland (Den),AEK Larnaca (Cyp)
-UCL,2022-2023,2022-07-19,Pyunik Yerevan,Dudelange,0,1,0,Pyunik Yerevan (Arm),Dudelange (Lux)
-UCL,2022-2023,2022-07-19,Qarabag,Zurich,3,2,0,Qarabag (Aze),Zurich (Sui)
-UCL,2022-2023,2022-07-19,Zalgiris,Malmo FF,1,0,0,Zalgiris (Ltu),Malmo FF (Swe)
 UCL,2022-2023,2022-07-20,Dyn. Kyiv,Fenerbahce,0,0,0,Dyn. Kyiv (Ukr),Fenerbahce (Tur)
 UCL,2022-2023,2022-07-20,Ferencvaros,Slovan Bratislava,1,2,0,Ferencvaros (Hun),Slovan Bratislava (Svk)
 UCL,2022-2023,2022-07-20,HJK,Plzen,1,2,0,HJK (Fin),Plzen (Cze)
@@ -1069,9 +1062,6 @@ UCL,2026-2027,2026-11-04,Porto,Napoli,4,1,0,FC Porto,Napoli
 UCL,2026-2027,2026-11-04,RB Leipzig,Man City,2,3,0,RB Leipzig,Manchester City
 UCL,2026-2027,2026-11-04,Slavia Prague,Arsenal,1,2,0,Slavia Prague,Arsenal
 UCL,2026-2027,2026-11-04,Viking,Sabah FC,4,1,0,Viking,Sabah FC
-UECL,2022-2023,2022-07-19,Hibernians,Levadia,3,2,0,Hibernians (Mlt),Levadia (Est)
-UECL,2022-2023,2022-07-19,KF Tirana,Zrinjski,0,1,0,KF Tirana (Alb),Zrinjski (Bih)
-UECL,2022-2023,2022-07-19,La Fiorita,FC Ballkani,0,4,0,La Fiorita (San),FC Ballkani (Kos)
 UECL,2022-2023,2022-07-20,Botev Plovdiv,APOEL,0,0,0,Botev Plovdiv (Bul),APOEL (Cyp)
 UECL,2022-2023,2022-07-20,Sutjeska,Klaksvik,0,0,0,Sutjeska (Mne),Klaksvik (Fai)
 UECL,2022-2023,2022-07-20,Vikingur,Dun. Streda,0,2,0,Vikingur (Fai),Dun. Streda (Svk)

@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-11-08",
+  "rotulo": "Domingo · 8 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,13",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "j": "Vitória SC–FC Porto",
+      "m": "Dupla hipótese: FC Porto ou empate",
+      "o": "1,13",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,64",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:30",
+      "j": "Estrela Amadora–Benfica",
+      "m": "Dupla hipótese: Benfica ou empate",
+      "o": "1,05",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "19:45",
+      "j": "Fiorentina–Juventus",
+      "m": "Dupla hipótese: Juventus ou empate",
+      "o": "1,28",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "14:00",
+      "j": "Ipswich–Bournemouth",
+      "m": "Dupla hipótese: Bournemouth ou empate",
+      "o": "1,22",
+      "comp": "Premier League"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,16",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "j": "FC Porto vence o Vitória SC",
+      "m": "Resultado final",
+      "o": "1,60",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "20:30",
+      "j": "SC Braga vence o Rio Ave",
+      "m": "Resultado final",
+      "o": "1,53",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "14:00",
+      "j": "Monza–Atalanta",
+      "m": "Dupla hipótese: Atalanta ou empate",
+      "o": "1,29",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,22",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Inglaterra–Croácia",
+      "m": "Dupla hipótese: Inglaterra ou empate",
+      "o": "1,04",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Chéquia–Espanha",
+      "m": "Dupla hipótese: Espanha ou empate",
+      "o": "1,06",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "São Marino–Bielorrússia",
+      "m": "Dupla hipótese: Bielorrússia ou empate",
+      "o": "1,04",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Montenegro–Letónia",
+      "m": "Dupla hipótese: Montenegro ou empate",
+      "o": "1,06",
+      "comp": "Liga das Nações"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-07",
   "rotulo": "Sábado · 7 de novembro de 2026",
   "boletins": [
@@ -7,15 +130,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,16",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Sporting CP vence o Moreirense (1-0)",
     "legs": [
      {
       "h": "20:30",
       "j": "Sporting CP vence o Moreirense",
       "m": "Resultado final",
       "o": "1,16",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -59,8 +184,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,44",
-    "e": "pendente",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: RB Leipzig vence o Augsburgo (5-2); QPR–Lincoln (2-1); Birmingham–Swansea (2-1); Roma vence o Sassuolo (3-0)",
     "legs": [
      {
       "h": "14:30",
@@ -94,7 +219,9 @@
       "j": "Roma vence o Sassuolo",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-0"
      }
     ]
    },
@@ -102,8 +229,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,08",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "18:00",
@@ -241,7 +368,7 @@
     "c": "t4",
     "total": "2,58",
     "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "14:30",
@@ -259,7 +386,9 @@
       "j": "Roma vence o Sassuolo",
       "m": "Resultado final",
       "o": "1,27",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "20:30",
@@ -267,7 +396,9 @@
       "j": "Sporting CP vence o Moreirense",
       "m": "Resultado final",
       "o": "1,16",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "20:30",
@@ -407,7 +538,9 @@
       "j": "Roma vence o Sassuolo",
       "m": "Resultado final",
       "o": "1,26",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "20:30",
@@ -415,7 +548,9 @@
       "j": "Sporting CP vence o Moreirense",
       "m": "Resultado final",
       "o": "1,16",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "20:30",
