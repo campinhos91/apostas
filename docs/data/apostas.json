@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T16:54:56+00:00",
+ "atualizado": "2026-11-07T19:55:25+00:00",
  "dia": "2026-11-07",
  "rotulo": "Sábado · 7 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -253,8 +253,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,59",
-     "e": "pendente",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Torino–Lecce (1-1); RB Leipzig–Augsburgo (5-2); Birmingham–Swansea (2-1)",
      "legs": [
       {
        "h": "14:00",
@@ -279,7 +279,9 @@
        "j": "Birmingham–Swansea",
        "m": "Dupla hipótese: Birmingham ou empate",
        "o": "1,20",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     },
@@ -288,7 +290,7 @@
      "c": "t3",
      "total": "2,44",
      "e": "pendente",
-     "d": "1 de 4 pernas certas até agora",
+     "d": "3 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "14:30",
@@ -304,14 +306,18 @@
        "j": "QPR–Lincoln",
        "m": "Dupla hipótese: QPR ou empate",
        "o": "1,16",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "15:00",
        "j": "Birmingham–Swansea",
        "m": "Dupla hipótese: Birmingham ou empate",
        "o": "1,20",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "19:45",
@@ -6268,10 +6274,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 167,
-  "ganhos": 91,
-  "pernas": 300,
-  "pernas_ok": 202,
+  "decididos": 168,
+  "ganhos": 92,
+  "pernas": 302,
+  "pernas_ok": 204,
   "dias": 45,
   "odd_media": "1,46",
   "tipos": [
@@ -6283,11 +6289,11 @@
     "pend": 1
    },
    {
-    "ok": 26,
-    "dec": 42,
-    "pct": 62,
+    "ok": 27,
+    "dec": 43,
+    "pct": 63,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 16,
@@ -6400,6 +6406,18 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: RB Leipzig ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Birmingham ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: QPR ou empate"
    },
    {
     "ok": 1,
@@ -6746,8 +6764,8 @@
   ],
   "faixas": [
    {
-    "ok": 81,
-    "dec": 100,
+    "ok": 83,
+    "dec": 102,
     "pct": 81,
     "nome": "Odd até 1,25"
    },
@@ -6766,11 +6784,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Sábado, 7 de novembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 3,

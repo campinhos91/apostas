@@ -23,8 +23,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,59",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Torino–Lecce (1-1); RB Leipzig–Augsburgo (5-2); Birmingham–Swansea (2-1)",
     "legs": [
      {
       "h": "14:00",
@@ -49,7 +49,9 @@
       "j": "Birmingham–Swansea",
       "m": "Dupla hipótese: Birmingham ou empate",
       "o": "1,20",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -58,7 +60,7 @@
     "c": "t3",
     "total": "2,44",
     "e": "pendente",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "14:30",
@@ -74,14 +76,18 @@
       "j": "QPR–Lincoln",
       "m": "Dupla hipótese: QPR ou empate",
       "o": "1,16",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "15:00",
       "j": "Birmingham–Swansea",
       "m": "Dupla hipótese: Birmingham ou empate",
       "o": "1,20",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "19:45",
