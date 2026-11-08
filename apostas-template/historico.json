@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,13",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Vitória SC–FC Porto (1-2)",
     "legs": [
      {
       "h": "18:00",
       "j": "Vitória SC–FC Porto",
       "m": "Dupla hipótese: FC Porto ou empate",
       "o": "1,13",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-2"
      }
     ]
    },
@@ -23,22 +25,26 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,64",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Estrela Amadora–Benfica (2-3); Fiorentina–Juventus (2-2); Ipswich–Bournemouth (1-2)",
     "legs": [
      {
       "h": "20:30",
       "j": "Estrela Amadora–Benfica",
       "m": "Dupla hipótese: Benfica ou empate",
       "o": "1,05",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "2-3"
      },
      {
       "h": "19:45",
       "j": "Fiorentina–Juventus",
       "m": "Dupla hipótese: Juventus ou empate",
       "o": "1,28",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "14:00",
@@ -55,22 +61,26 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,16",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: FC Porto vence o Vitória SC (2-1); SC Braga vence o Rio Ave (1-0); Monza–Atalanta (0-1)",
     "legs": [
      {
       "h": "18:00",
       "j": "FC Porto vence o Vitória SC",
       "m": "Resultado final",
       "o": "1,60",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "20:30",
       "j": "SC Braga vence o Rio Ave",
       "m": "Resultado final",
       "o": "1,53",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "14:00",
@@ -233,8 +243,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,08",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "ganho",
+    "d": "Todas as pernas certas: FC Porto vence o Vitória SC (2-1); SC Braga vence o Rio Ave (1-0); Benfica vence a Estrela Amadora (3-2)",
     "legs": [
      {
       "h": "18:00",
@@ -242,7 +252,9 @@
       "j": "FC Porto vence o Vitória SC",
       "m": "Resultado final",
       "o": "1,60",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "20:30",
@@ -250,7 +262,9 @@
       "j": "SC Braga vence o Rio Ave",
       "m": "Resultado final",
       "o": "1,54",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "20:30",
@@ -258,7 +272,9 @@
       "j": "Benfica vence a Estrela Amadora",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    }
@@ -371,8 +387,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,58",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: RB Leipzig vence o Augsburgo (5-2); Roma vence o Sassuolo (3-0); Sporting CP vence o Moreirense (1-0); Benfica vence a Estrela Amadora (3-2)",
     "legs": [
      {
       "h": "14:30",
@@ -410,7 +426,9 @@
       "j": "Benfica vence a Estrela Amadora",
       "m": "Resultado final",
       "o": "1,24",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    }
@@ -562,7 +580,9 @@
       "j": "Benfica vence a Estrela Amadora",
       "m": "Resultado final",
       "o": "1,24",
-      "comp": "Liga Portugal Betclic"
+      "comp": "Liga Portugal Betclic",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    }

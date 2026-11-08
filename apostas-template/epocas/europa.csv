@@ -1,9 +1,4 @@
 liga,epoca,data,casa,fora,gc,gf,neutro,casa_fs,fora_fs
-UCL,2022-2023,2022-07-20,Dyn. Kyiv,Fenerbahce,0,0,0,Dyn. Kyiv (Ukr),Fenerbahce (Tur)
-UCL,2022-2023,2022-07-20,Ferencvaros,Slovan Bratislava,1,2,0,Ferencvaros (Hun),Slovan Bratislava (Svk)
-UCL,2022-2023,2022-07-20,HJK,Plzen,1,2,0,HJK (Fin),Plzen (Cze)
-UCL,2022-2023,2022-07-20,Maccabi Haifa,Olympiakos,1,1,0,Maccabi Haifa (Isr),Olympiacos Piraeus (Gre)
-UCL,2022-2023,2022-07-20,Maribor,Sheriff Tiraspol,0,0,0,Maribor (Slo),Sheriff Tiraspol (Mda)
 UCL,2022-2023,2022-07-26,Dudelange,Pyunik Yerevan,1,4,0,Dudelange (Lux),Pyunik Yerevan (Arm)
 UCL,2022-2023,2022-07-26,Plzen,HJK,5,0,0,Plzen (Cze),HJK (Fin)
 UCL,2022-2023,2022-07-26,Shamrock Rovers,Ludogorets,2,1,0,Shamrock Rovers (Irl),Ludogorets (Bul)
@@ -1062,9 +1057,6 @@ UCL,2026-2027,2026-11-04,Porto,Napoli,4,1,0,FC Porto,Napoli
 UCL,2026-2027,2026-11-04,RB Leipzig,Man City,2,3,0,RB Leipzig,Manchester City
 UCL,2026-2027,2026-11-04,Slavia Prague,Arsenal,1,2,0,Slavia Prague,Arsenal
 UCL,2026-2027,2026-11-04,Viking,Sabah FC,4,1,0,Viking,Sabah FC
-UECL,2022-2023,2022-07-20,Botev Plovdiv,APOEL,0,0,0,Botev Plovdiv (Bul),APOEL (Cyp)
-UECL,2022-2023,2022-07-20,Sutjeska,Klaksvik,0,0,0,Sutjeska (Mne),Klaksvik (Fai)
-UECL,2022-2023,2022-07-20,Vikingur,Dun. Streda,0,2,0,Vikingur (Fai),Dun. Streda (Svk)
 UECL,2022-2023,2022-07-21,AZ Alkmaar,Tuzla City,1,0,0,AZ Alkmaar (Ned),Tuzla City (Bih)
 UECL,2022-2023,2022-07-21,Antwerp,Drita,0,0,0,Antwerp (Bel),Drita (Kos)
 UECL,2022-2023,2022-07-21,Ararat-Armenia,Paide,0,0,0,Ararat-Armenia (Arm),Paide (Est)
