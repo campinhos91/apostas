@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-07T23:23:39+00:00",
+ "atualizado": "2026-11-08T16:54:51+00:00",
  "dia": "2026-11-08",
  "rotulo": "Domingo · 8 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -218,7 +218,7 @@
      "c": "t2",
      "total": "1,64",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "20:30",
@@ -239,7 +239,9 @@
        "j": "Ipswich–Bournemouth",
        "m": "Dupla hipótese: Bournemouth ou empate",
        "o": "1,22",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "1-2"
       }
      ]
     },
@@ -248,7 +250,7 @@
      "c": "t3",
      "total": "3,16",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "18:00",
@@ -269,7 +271,9 @@
        "j": "Monza–Atalanta",
        "m": "Dupla hipótese: Atalanta ou empate",
        "o": "1,29",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "0-1"
       }
      ]
     },
@@ -6375,10 +6379,10 @@
  "estatisticas": {
   "decididos": 170,
   "ganhos": 94,
-  "pernas": 304,
-  "pernas_ok": 206,
+  "pernas": 306,
+  "pernas_ok": 208,
   "dias": 46,
-  "odd_media": "1,46",
+  "odd_media": "1,45",
   "tipos": [
    {
     "ok": 37,
@@ -6433,6 +6437,18 @@
     "dec": 3,
     "pct": 67,
     "nome": "Dupla hipótese: Juventus ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
+    "nome": "Dupla hipótese: Bournemouth ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Dupla hipótese: Atalanta ou empate"
    },
    {
     "ok": 2,
@@ -6588,12 +6604,6 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
-    "nome": "Dupla hipótese: Bournemouth ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
     "nome": "Dupla hipótese: Bodø/Glimt ou empate"
    },
    {
@@ -6613,12 +6623,6 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Portland Timbers ou empate"
-   },
-   {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
-    "nome": "Dupla hipótese: Atalanta ou empate"
    },
    {
     "ok": 0,
@@ -6863,14 +6867,14 @@
   ],
   "faixas": [
    {
-    "ok": 84,
-    "dec": 103,
+    "ok": 85,
+    "dec": 104,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 66,
-    "dec": 86,
+    "ok": 67,
+    "dec": 87,
     "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },

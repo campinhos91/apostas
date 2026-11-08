@@ -24,7 +24,7 @@
     "c": "t2",
     "total": "1,64",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "20:30",
@@ -45,7 +45,9 @@
       "j": "Ipswich–Bournemouth",
       "m": "Dupla hipótese: Bournemouth ou empate",
       "o": "1,22",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "1-2"
      }
     ]
    },
@@ -54,7 +56,7 @@
     "c": "t3",
     "total": "3,16",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "18:00",
@@ -75,7 +77,9 @@
       "j": "Monza–Atalanta",
       "m": "Dupla hipótese: Atalanta ou empate",
       "o": "1,29",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "0-1"
      }
     ]
    },
