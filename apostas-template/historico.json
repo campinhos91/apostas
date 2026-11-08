@@ -1,5 +1,68 @@
 [
  {
+  "dia": "2026-11-09",
+  "rotulo": "Segunda-feira · 9 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,59",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "d": "QUI",
+      "j": "Navalcarnero–Betis",
+      "m": "Dupla hipótese: Betis ou empate",
+      "o": "1,01",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "18:00",
+      "d": "QUI",
+      "j": "Levante vence o CD Tarancón",
+      "m": "Resultado final",
+      "o": "1,05",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Inglaterra–Croácia",
+      "m": "Dupla hipótese: Inglaterra ou empate",
+      "o": "1,05",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Chéquia–Espanha",
+      "m": "Dupla hipótese: Espanha ou empate",
+      "o": "1,02",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Montenegro–Letónia",
+      "m": "Dupla hipótese: Montenegro ou empate",
+      "o": "1,06",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "20:00",
+      "d": "SEX",
+      "j": "Celta Vigo vence o Salmantino",
+      "m": "Resultado final",
+      "o": "1,32",
+      "comp": "Taça de Rei de Espanha"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-08",
   "rotulo": "Domingo · 8 de novembro de 2026",
   "boletins": [
@@ -97,8 +160,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,22",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "19:45",

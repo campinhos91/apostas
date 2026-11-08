@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-11-08T16:54:51+00:00",
- "dia": "2026-11-08",
- "rotulo": "Domingo · 8 de novembro de 2026",
+ "atualizado": "2026-11-08T23:34:39+00:00",
+ "dia": "2026-11-09",
+ "rotulo": "Segunda-feira · 9 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "",
+ "pausa": "As principais ligas europeias (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie) estão em pausa para a janela de seleções; a maioria volta a partir de 20-21 de novembro.",
  "casa": {
   "nome": "Betclic",
   "url": "https://www.betclic.pt/futebol-s1"
@@ -14,17 +14,17 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Sporting CP vence o Moreirense (1-0)"
+   "d": "Todas as pernas certas: Vitória SC–FC Porto (1-2)"
   },
   {
    "t": "Múltipla segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Torino–Lecce (1-1); RB Leipzig–Augsburgo (5-2); Birmingham–Swansea (2-1)"
+   "d": "Todas as pernas certas: Estrela Amadora–Benfica (2-3); Fiorentina–Juventus (2-2); Ipswich–Bournemouth (1-2)"
   },
   {
    "t": "Múltipla arriscada",
    "e": "ganho",
-   "d": "Todas as pernas certas: RB Leipzig vence o Augsburgo (5-2); QPR–Lincoln (2-1); Birmingham–Swansea (2-1); Roma vence o Sassuolo (3-0)"
+   "d": "Todas as pernas certas: FC Porto vence o Vitória SC (2-1); SC Braga vence o Rio Ave (1-0); Monza–Atalanta (0-1)"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -32,84 +32,7 @@
    "d": "Ainda sem resultados dos jogos"
   }
  ],
- "hoje": [
-  {
-   "c": "t1",
-   "t": "Aposta simples segura",
-   "risco": "baixo",
-   "legs": [
-    {
-     "h": "18:00",
-     "j": "Vitória SC–FC Porto",
-     "m": "Dupla hipótese: FC Porto ou empate",
-     "o": "1,13",
-     "comp": "Liga Portugal Betclic"
-    }
-   ],
-   "total": "1,13",
-   "rodape": "Uma seleção"
-  },
-  {
-   "c": "t2",
-   "t": "Múltipla segura",
-   "risco": "médio",
-   "legs": [
-    {
-     "h": "20:30",
-     "j": "Estrela Amadora–Benfica",
-     "m": "Dupla hipótese: Benfica ou empate",
-     "o": "1,05",
-     "comp": "Liga Portugal Betclic"
-    },
-    {
-     "h": "19:45",
-     "j": "Fiorentina–Juventus",
-     "m": "Dupla hipótese: Juventus ou empate",
-     "o": "1,28",
-     "comp": "Superliga (Itália)"
-    },
-    {
-     "h": "14:00",
-     "j": "Ipswich–Bournemouth",
-     "m": "Dupla hipótese: Bournemouth ou empate",
-     "o": "1,22",
-     "comp": "Premier League"
-    }
-   ],
-   "total": "1,64",
-   "rodape": "3 seleções"
-  },
-  {
-   "c": "t3",
-   "t": "Múltipla arriscada",
-   "risco": "alto",
-   "legs": [
-    {
-     "h": "18:00",
-     "j": "FC Porto vence o Vitória SC",
-     "m": "Resultado final",
-     "o": "1,60",
-     "comp": "Liga Portugal Betclic"
-    },
-    {
-     "h": "20:30",
-     "j": "SC Braga vence o Rio Ave",
-     "m": "Resultado final",
-     "o": "1,53",
-     "comp": "Liga Portugal Betclic"
-    },
-    {
-     "h": "14:00",
-     "j": "Monza–Atalanta",
-     "m": "Dupla hipótese: Atalanta ou empate",
-     "o": "1,29",
-     "comp": "Superliga (Itália)"
-    }
-   ],
-   "total": "3,16",
-   "rodape": "3 seleções · falhar uma perde tudo"
-  }
- ],
+ "hoje": [],
  "proximos": [
   {
    "c": "t4",
@@ -117,11 +40,27 @@
    "risco": "médio",
    "legs": [
     {
+     "h": "18:00",
+     "d": "QUI",
+     "j": "Navalcarnero–Betis",
+     "m": "Dupla hipótese: Betis ou empate",
+     "o": "1,01",
+     "comp": "Taça de Rei de Espanha"
+    },
+    {
+     "h": "18:00",
+     "d": "QUI",
+     "j": "Levante vence o CD Tarancón",
+     "m": "Resultado final",
+     "o": "1,05",
+     "comp": "Taça de Rei de Espanha"
+    },
+    {
      "h": "19:45",
      "d": "QUI",
      "j": "Inglaterra–Croácia",
      "m": "Dupla hipótese: Inglaterra ou empate",
-     "o": "1,04",
+     "o": "1,05",
      "comp": "Liga das Nações"
     },
     {
@@ -129,15 +68,7 @@
      "d": "QUI",
      "j": "Chéquia–Espanha",
      "m": "Dupla hipótese: Espanha ou empate",
-     "o": "1,06",
-     "comp": "Liga das Nações"
-    },
-    {
-     "h": "19:45",
-     "d": "QUI",
-     "j": "São Marino–Bielorrússia",
-     "m": "Dupla hipótese: Bielorrússia ou empate",
-     "o": "1,04",
+     "o": "1,02",
      "comp": "Liga das Nações"
     },
     {
@@ -147,52 +78,131 @@
      "m": "Dupla hipótese: Montenegro ou empate",
      "o": "1,06",
      "comp": "Liga das Nações"
+    },
+    {
+     "h": "20:00",
+     "d": "SEX",
+     "j": "Celta Vigo vence o Salmantino",
+     "m": "Resultado final",
+     "o": "1,32",
+     "comp": "Taça de Rei de Espanha"
     }
    ],
-   "total": "1,22",
-   "rodape": "4 seleções · todas no quinta"
+   "total": "1,59",
+   "rodape": "6 seleções · quinta e sexta"
   }
  ],
- "amanha": [],
+ "amanha": [
+  {
+   "h": "19:00",
+   "d": "TER",
+   "j": "Leganés vence o CF Trival Valderas Alcorcón",
+   "m": "Resultado final",
+   "o": "1,13",
+   "comp": "Taça de Rei de Espanha",
+   "n": "Leganés (2ª divisão espanhola) visita um clube regional amador; sem dados de épocas passadas, mas diferença de nível clara."
+  },
+  {
+   "h": "19:00",
+   "d": "TER",
+   "j": "CP Mijas-Las Lagunas–Real Jaén",
+   "m": "Dupla hipótese: Real Jaén ou empate",
+   "o": "1,23",
+   "comp": "Taça de Rei de Espanha",
+   "n": "Real Jaén (3ª divisão) visita um clube amador andaluz; sem dados de épocas passadas no modelo."
+  },
+  {
+   "h": "20:00",
+   "d": "TER",
+   "j": "Valência vence o Tavernes",
+   "m": "Resultado final",
+   "o": "1,01",
+   "comp": "Taça de Rei de Espanha",
+   "n": "Valência (La Liga) visita um clube amador da 5ª divisão regional; odd de 1,01 reflete favoritismo quase total."
+  }
+ ],
  "fora": [
   [
-   "Crystal Palace–Liverpool (1,52)",
-   "o modelo dá ao Liverpool fora só 49%, bem abaixo dos 66% implícitos pela odd: seleção duvidosa"
+   "Napredak–Bor 1919 (1,53)",
+   "Prva Liga (Sérvia, 2ª divisão): sem dados de épocas passadas no epocas.py e odd não suficientemente baixa para seleção de baixo risco"
   ],
   [
-   "Atlético de Madrid–Barcelona (1,80)",
-   "o modelo dá ao Barcelona fora só 41%, bem abaixo dos 56% implícitos pela odd: clássico sem seleção segura"
+   "Javor–TSC Bačka Topola (2,17)",
+   "mesma liga sérvia, sem dados históricos, jogo equilibrado pelas odds"
   ],
   [
-   "Elche–Betis (1,97)",
-   "o modelo dá ao Betis fora só 36%, bem abaixo dos 51% implícitos pela odd: seleção duvidosa"
-  ],
-  [
-   "AZ–Groningen (1,45)",
-   "o modelo dá ao AZ só 50%, bem abaixo dos 69% implícitos pela odd: seleção duvidosa"
-  ],
-  [
-   "Hoffenheim–Schalke 04 (1,57)",
-   "Schalke 04 só tem 8 jogos recentes nos dados: estimativa pouco fiável"
-  ],
-  [
-   "Cambuur–PSV Eindhoven (1,34)",
-   "Cambuur só tem 11 jogos recentes nos dados: estimativa pouco fiável"
-  ],
-  [
-   "Le Mans–Mónaco (1,62)",
-   "Le Mans só tem 9 jogos recentes nos dados: estimativa pouco fiável"
-  ],
-  [
-   "Arménia–Chipre",
-   "jogo equilibrado, nenhuma seleção passa de 41% de probabilidade histórica"
+   "Botoşani–Oţelul Galaţi (2,05)",
+   "Liga 1 da Romênia: sem dados de épocas passadas, jogo equilibrado"
   ],
   [
    "Cobertura da Betclic",
-   "consultadas diretamente em betclic.pt (sem bloqueio): Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie e Liga das Nações; a Championship já tinha esgotado a jornada do fim de semana (só restavam jogos de 21/11); Taça de Portugal e amigáveis de seleções não mostraram jogos com data fiável nesta janela de pausa internacional (clubes só voltam depois de 20/11)."
+   "consultadas diretamente em betclic.com (sem bloqueio nesta execução): Liga das Nações, Taça de Rei de Espanha, Prva Liga (Sérvia), Liga 1 (Romênia); as ligas principais de clubes (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie, Ligue 2, Taça dos Países Baixos, 3.Liga alemã, Série C italiana) confirmaram zero jogos até 19-20/11 (pausa internacional); não foi possível confirmar as odds da liga colombiana (Primera A) para o jogo tardio Alianza Valledupar–Llaneros."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-11-09",
+   "rotulo": "Segunda-feira · 9 de novembro de 2026",
+   "boletins": [
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "1,59",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "18:00",
+       "d": "QUI",
+       "j": "Navalcarnero–Betis",
+       "m": "Dupla hipótese: Betis ou empate",
+       "o": "1,01",
+       "comp": "Taça de Rei de Espanha"
+      },
+      {
+       "h": "18:00",
+       "d": "QUI",
+       "j": "Levante vence o CD Tarancón",
+       "m": "Resultado final",
+       "o": "1,05",
+       "comp": "Taça de Rei de Espanha"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Inglaterra–Croácia",
+       "m": "Dupla hipótese: Inglaterra ou empate",
+       "o": "1,05",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Chéquia–Espanha",
+       "m": "Dupla hipótese: Espanha ou empate",
+       "o": "1,02",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Montenegro–Letónia",
+       "m": "Dupla hipótese: Montenegro ou empate",
+       "o": "1,06",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "20:00",
+       "d": "SEX",
+       "j": "Celta Vigo vence o Salmantino",
+       "m": "Resultado final",
+       "o": "1,32",
+       "comp": "Taça de Rei de Espanha"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-11-08",
    "rotulo": "Domingo · 8 de novembro de 2026",
@@ -201,15 +211,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,13",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Vitória SC–FC Porto (1-2)",
      "legs": [
       {
        "h": "18:00",
        "j": "Vitória SC–FC Porto",
        "m": "Dupla hipótese: FC Porto ou empate",
        "o": "1,13",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "1-2"
       }
      ]
     },
@@ -217,22 +229,26 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,64",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Estrela Amadora–Benfica (2-3); Fiorentina–Juventus (2-2); Ipswich–Bournemouth (1-2)",
      "legs": [
       {
        "h": "20:30",
        "j": "Estrela Amadora–Benfica",
        "m": "Dupla hipótese: Benfica ou empate",
        "o": "1,05",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "2-3"
       },
       {
        "h": "19:45",
        "j": "Fiorentina–Juventus",
        "m": "Dupla hipótese: Juventus ou empate",
        "o": "1,28",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "2-2"
       },
       {
        "h": "14:00",
@@ -249,22 +265,26 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,16",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: FC Porto vence o Vitória SC (2-1); SC Braga vence o Rio Ave (1-0); Monza–Atalanta (0-1)",
      "legs": [
       {
        "h": "18:00",
        "j": "FC Porto vence o Vitória SC",
        "m": "Resultado final",
        "o": "1,60",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "20:30",
        "j": "SC Braga vence o Rio Ave",
        "m": "Resultado final",
        "o": "1,53",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "14:00",
@@ -281,8 +301,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,22",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "19:45",
@@ -427,8 +447,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "3,08",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "ganho",
+     "d": "Todas as pernas certas: FC Porto vence o Vitória SC (2-1); SC Braga vence o Rio Ave (1-0); Benfica vence a Estrela Amadora (3-2)",
      "legs": [
       {
        "h": "18:00",
@@ -436,7 +456,9 @@
        "j": "FC Porto vence o Vitória SC",
        "m": "Resultado final",
        "o": "1,60",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "20:30",
@@ -444,7 +466,9 @@
        "j": "SC Braga vence o Rio Ave",
        "m": "Resultado final",
        "o": "1,54",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "20:30",
@@ -452,7 +476,9 @@
        "j": "Benfica vence a Estrela Amadora",
        "m": "Resultado final",
        "o": "1,25",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "3-2"
       }
      ]
     }
@@ -565,8 +591,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,58",
-     "e": "nao verificado",
-     "d": "3 de 4 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: RB Leipzig vence o Augsburgo (5-2); Roma vence o Sassuolo (3-0); Sporting CP vence o Moreirense (1-0); Benfica vence a Estrela Amadora (3-2)",
      "legs": [
       {
        "h": "14:30",
@@ -604,7 +630,9 @@
        "j": "Benfica vence a Estrela Amadora",
        "m": "Resultado final",
        "o": "1,24",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "3-2"
       }
      ]
     }
@@ -756,7 +784,9 @@
        "j": "Benfica vence a Estrela Amadora",
        "m": "Resultado final",
        "o": "1,24",
-       "comp": "Liga Portugal Betclic"
+       "comp": "Liga Portugal Betclic",
+       "r": "ok",
+       "x": "3-2"
       }
      ]
     }
@@ -6377,46 +6407,46 @@
   }
  ],
  "estatisticas": {
-  "decididos": 170,
-  "ganhos": 94,
-  "pernas": 306,
-  "pernas_ok": 208,
-  "dias": 46,
+  "decididos": 175,
+  "ganhos": 99,
+  "pernas": 312,
+  "pernas_ok": 214,
+  "dias": 47,
   "odd_media": "1,45",
   "tipos": [
    {
-    "ok": 37,
-    "dec": 44,
+    "ok": 38,
+    "dec": 45,
     "pct": 84,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 27,
-    "dec": 43,
-    "pct": 63,
+    "ok": 28,
+    "dec": 44,
+    "pct": 64,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 17,
-    "dec": 42,
-    "pct": 40,
+    "ok": 18,
+    "dec": 43,
+    "pct": 42,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 13,
-    "dec": 41,
-    "pct": 32,
+    "ok": 15,
+    "dec": 43,
+    "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
    {
-    "ok": 128,
-    "dec": 208,
+    "ok": 131,
+    "dec": 211,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -6430,13 +6460,19 @@
     "ok": 3,
     "dec": 4,
     "pct": 75,
+    "nome": "Dupla hipótese: Juventus ou empate"
+   },
+   {
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Mais de 1,5 golos"
    },
    {
-    "ok": 2,
+    "ok": 3,
     "dec": 3,
-    "pct": 67,
-    "nome": "Dupla hipótese: Juventus ou empate"
+    "pct": 100,
+    "nome": "Dupla hipótese: Benfica ou empate"
    },
    {
     "ok": 2,
@@ -6490,12 +6526,6 @@
     "ok": 2,
     "dec": 2,
     "pct": 100,
-    "nome": "Dupla hipótese: Benfica ou empate"
-   },
-   {
-    "ok": 2,
-    "dec": 2,
-    "pct": 100,
     "nome": "Dupla hipótese: Flamengo ou empate"
    },
    {
@@ -6515,6 +6545,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: FC Porto ou empate"
    },
    {
     "ok": 1,
@@ -6867,21 +6903,21 @@
   ],
   "faixas": [
    {
-    "ok": 85,
-    "dec": 104,
+    "ok": 88,
+    "dec": 107,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 67,
-    "dec": 87,
+    "ok": 68,
+    "dec": 88,
     "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 56,
-    "dec": 115,
-    "pct": 49,
+    "ok": 58,
+    "dec": 117,
+    "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
@@ -6890,22 +6926,29 @@
     "ok": 0,
     "dec": 0,
     "pct": null,
-    "nome": "Domingo, 8 de novembro",
-    "pend": 4
+    "nome": "Segunda-feira, 9 de novembro",
+    "pend": 1
    },
    {
     "ok": 3,
     "dec": 3,
+    "pct": 100,
+    "nome": "Domingo, 8 de novembro",
+    "pend": 1
+   },
+   {
+    "ok": 4,
+    "dec": 4,
     "pct": 100,
     "nome": "Sábado, 7 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 3,
-    "dec": 3,
+    "ok": 4,
+    "dec": 4,
     "pct": 100,
     "nome": "Sexta-feira, 6 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 3,
