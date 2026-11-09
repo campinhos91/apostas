@@ -1,5 +1,151 @@
 [
  {
+  "dia": "2026-11-10",
+  "rotulo": "Terça-feira · 10 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,01",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Valência vence o Tavernes",
+      "m": "Resultado final",
+      "o": "1,01",
+      "comp": "Taça de Rei de Espanha"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,51",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "j": "Eibar vence o CD Pamplona",
+      "m": "Resultado final",
+      "o": "1,16",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "19:00",
+      "j": "Leganés vence o CF Trival Valderas Alcorcón",
+      "m": "Resultado final",
+      "o": "1,10",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "19:00",
+      "j": "CP Mijas-Las Lagunas–Real Jaén",
+      "m": "Dupla hipótese: Real Jaén ou empate",
+      "o": "1,18",
+      "comp": "Taça de Rei de Espanha"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,21",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Amorebieta–UD Logroñés",
+      "m": "Resultado final",
+      "o": "2,03",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "18:00",
+      "j": "CD Pamplona–Eibar",
+      "m": "Mais de 1,5 golos",
+      "o": "1,13",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "19:00",
+      "j": "CF Trival Valderas Alcorcón–Leganés",
+      "m": "Mais de 1,5 golos",
+      "o": "1,11",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "19:00",
+      "j": "CP Mijas-Las Lagunas–Real Jaén",
+      "m": "Mais de 1,5 golos",
+      "o": "1,26",
+      "comp": "Taça de Rei de Espanha"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,71",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "d": "QUI",
+      "j": "CD Tarancón–Levante",
+      "m": "Mais de 2,5 golos",
+      "o": "1,27",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Inglaterra–Croácia",
+      "m": "Dupla hipótese: Inglaterra ou empate",
+      "o": "1,05",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Chéquia–Espanha",
+      "m": "Dupla hipótese: Espanha ou empate",
+      "o": "1,04",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "SEX",
+      "j": "Eslováquia–Ilhas Faroé",
+      "m": "Dupla hipótese: Eslováquia ou empate",
+      "o": "1,05",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "20:00",
+      "d": "SEX",
+      "j": "Salmantino–Celta Vigo",
+      "m": "Dupla hipótese: Celta Vigo ou empate",
+      "o": "1,06",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "23:00",
+      "d": "SEX",
+      "j": "Argentina–Uruguai",
+      "m": "Dupla hipótese: Argentina ou empate",
+      "o": "1,11",
+      "comp": "Particular de Seleções"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-09",
   "rotulo": "Segunda-feira · 9 de novembro de 2026",
   "boletins": [
@@ -7,8 +153,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,59",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "18:00",
