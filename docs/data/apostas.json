@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-10T19:55:17+00:00",
- "dia": "2026-11-10",
- "rotulo": "Terça-feira · 10 de novembro de 2026",
+ "atualizado": "2026-11-10T23:25:32+00:00",
+ "dia": "2026-11-11",
+ "rotulo": "Quarta-feira · 11 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
@@ -12,96 +12,27 @@
  },
  "ontem": [
   {
+   "t": "Aposta simples segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Valência vence o Tavernes (0-6)"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Eibar vence o CD Pamplona (0-3); Leganés vence o CF Trival Valderas Alcorcón (0-1); CP Mijas-Las Lagunas–Real Jaén (1-2)"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "perdido",
+   "d": "Falhou: CF Trival Valderas Alcorcón–Leganés (0-1) · 3 certas"
+  },
+  {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
    "d": "Ainda sem resultados dos jogos"
   }
  ],
- "hoje": [
-  {
-   "c": "t1",
-   "t": "Aposta simples segura",
-   "risco": "baixo",
-   "legs": [
-    {
-     "h": "20:00",
-     "j": "Valência vence o Tavernes",
-     "m": "Resultado final",
-     "o": "1,01",
-     "comp": "Taça de Rei de Espanha"
-    }
-   ],
-   "total": "1,01",
-   "rodape": "Uma seleção"
-  },
-  {
-   "c": "t2",
-   "t": "Múltipla segura",
-   "risco": "médio",
-   "legs": [
-    {
-     "h": "18:00",
-     "j": "Eibar vence o CD Pamplona",
-     "m": "Resultado final",
-     "o": "1,16",
-     "comp": "Taça de Rei de Espanha"
-    },
-    {
-     "h": "19:00",
-     "j": "Leganés vence o CF Trival Valderas Alcorcón",
-     "m": "Resultado final",
-     "o": "1,10",
-     "comp": "Taça de Rei de Espanha"
-    },
-    {
-     "h": "19:00",
-     "j": "CP Mijas-Las Lagunas–Real Jaén",
-     "m": "Dupla hipótese: Real Jaén ou empate",
-     "o": "1,18",
-     "comp": "Taça de Rei de Espanha"
-    }
-   ],
-   "total": "1,51",
-   "rodape": "3 seleções"
-  },
-  {
-   "c": "t3",
-   "t": "Múltipla arriscada",
-   "risco": "alto",
-   "legs": [
-    {
-     "h": "19:00",
-     "j": "Amorebieta–UD Logroñés",
-     "m": "Resultado final",
-     "o": "2,03",
-     "comp": "Taça de Rei de Espanha"
-    },
-    {
-     "h": "18:00",
-     "j": "CD Pamplona–Eibar",
-     "m": "Mais de 1,5 golos",
-     "o": "1,13",
-     "comp": "Taça de Rei de Espanha"
-    },
-    {
-     "h": "19:00",
-     "j": "CF Trival Valderas Alcorcón–Leganés",
-     "m": "Mais de 1,5 golos",
-     "o": "1,11",
-     "comp": "Taça de Rei de Espanha"
-    },
-    {
-     "h": "19:00",
-     "j": "CP Mijas-Las Lagunas–Real Jaén",
-     "m": "Mais de 1,5 golos",
-     "o": "1,26",
-     "comp": "Taça de Rei de Espanha"
-    }
-   ],
-   "total": "3,21",
-   "rodape": "4 seleções · falhar uma perde tudo"
-  }
- ],
+ "hoje": [],
  "proximos": [
   {
    "c": "t4",
@@ -111,9 +42,9 @@
     {
      "h": "18:00",
      "d": "QUI",
-     "j": "CD Tarancón–Levante",
-     "m": "Mais de 2,5 golos",
-     "o": "1,27",
+     "j": "Bétis vence o Navalcarnero",
+     "m": "Resultado final",
+     "o": "1,08",
      "comp": "Taça de Rei de Espanha"
     },
     {
@@ -134,73 +65,169 @@
     },
     {
      "h": "19:45",
-     "d": "SEX",
-     "j": "Eslováquia–Ilhas Faroé",
-     "m": "Dupla hipótese: Eslováquia ou empate",
+     "d": "QUI",
+     "j": "Montenegro–Letónia",
+     "m": "Dupla hipótese: Montenegro ou empate",
      "o": "1,05",
      "comp": "Liga das Nações"
     },
     {
-     "h": "20:00",
-     "d": "SEX",
-     "j": "Salmantino–Celta Vigo",
-     "m": "Dupla hipótese: Celta Vigo ou empate",
-     "o": "1,06",
-     "comp": "Taça de Rei de Espanha"
+     "h": "19:45",
+     "d": "QUI",
+     "j": "São Marino–Bielorrússia",
+     "m": "Mais de 1,5 golos",
+     "o": "1,13",
+     "comp": "Liga das Nações"
     },
     {
-     "h": "23:00",
+     "h": "19:45",
      "d": "SEX",
-     "j": "Argentina–Uruguai",
-     "m": "Dupla hipótese: Argentina ou empate",
-     "o": "1,11",
-     "comp": "Particular de Seleções"
+     "j": "Eslováquia–Ilhas Faroé",
+     "m": "Dupla hipótese: Eslováquia ou empate",
+     "o": "1,06",
+     "comp": "Liga das Nações"
     }
    ],
-   "total": "1,71",
+   "total": "1,48",
    "rodape": "6 seleções · quinta e sexta"
   }
  ],
- "amanha": [],
+ "amanha": [
+  {
+   "h": "18:00",
+   "d": "QUI",
+   "j": "Bétis vence o Navalcarnero",
+   "m": "Resultado final",
+   "o": "1,08",
+   "comp": "Taça de Rei de Espanha",
+   "n": "Bétis (La Liga) folga em casa de uma equipa amadora de 4ª divisão; sem dados históricos para o adversário, mas odd da casa (13,50/7,25/1,08) reflete favoritismo esmagador"
+  },
+  {
+   "h": "19:45",
+   "d": "QUI",
+   "j": "Inglaterra vence o Croácia",
+   "m": "Resultado final",
+   "o": "1,22",
+   "comp": "Liga das Nações",
+   "n": "Inglaterra goleou a Croácia 7-0 em outubro e venceu 4 dos últimos 6 confrontos diretos; modelo dá 68% de vitória e 87% para vitória ou empate"
+  },
+  {
+   "h": "19:45",
+   "d": "QUI",
+   "j": "Espanha vence o Chéquia",
+   "m": "Resultado final",
+   "o": "1,18",
+   "comp": "Liga das Nações",
+   "n": "Espanha venceu 35 de 45 jogos nos últimos 3 anos (78%) e bateu a Chéquia 3-1 em outubro; modelo dá 67% de vitória fora e 87% para vitória ou empate"
+  },
+  {
+   "h": "19:45",
+   "d": "QUI",
+   "j": "Bielorrússia vence o São Marino",
+   "m": "Resultado final",
+   "o": "1,11",
+   "comp": "Liga das Nações",
+   "n": "São Marino perdeu os 3 confrontos diretos por goleada, incluindo 4-0 em outubro; modelo dá 75% de vitória à Bielorrússia"
+  }
+ ],
  "fora": [
   [
-   "São Marino–Bielorrússia (1,12)",
-   "Liga das Nações já representada por outras seleções na múltipla; segura (92% dupla hipótese), mas fica de fora por diversidade"
+   "Turquia–Bélgica (1,79 fora)",
+   "sem favorito claro: modelo dá só 49% à Bélgica apesar da odd implicar favorita"
   ],
   [
-   "Montenegro–Letónia (1,31)",
-   "mesmo motivo: Liga das Nações já representada; segura (82% dupla hipótese) mas repetida"
+   "Itália–França (1,68 fora)",
+   "sem favorito claro: modelo dá só 43% à França"
   ],
   [
-   "Moldávia–Cazaquistão (2,55/3,08/2,82)",
-   "sem favorito claro (Cazaquistão 41% segundo o modelo), jogo equilibrado"
+   "Arménia–Chipre (2,20/3,20/3,00)",
+   "jogo equilibrado, sem seleção de confiança suficiente (41%/26%/33% segundo o modelo)"
   ],
   [
-   "Turquia–Bélgica (3,48/3,85/1,91)",
-   "sem favorito claro (Bélgica 49% segundo o modelo)"
+   "Moldávia–Cazaquistão (2,50/2,95/2,70)",
+   "sem favorito claro (modelo dá 41% ao Cazaquistão)"
   ],
   [
-   "Albânia–Finlândia (1,88/3,33/4,20)",
+   "Albânia–Finlândia (1,87/3,23/3,93)",
    "sem favorito claro (44%/28%/28% segundo o modelo)"
   ],
   [
-   "Arménia–Chipre (2,23/3,33/3,10)",
-   "jogo equilibrado, sem seleção de confiança suficiente"
+   "CD Tarancón–Levante (1,07)",
+   "Levante claramente favorito mas o adversário é amador e está fora do epocas.py; sem dados fiáveis para confirmar, fica de fora por segurança"
   ],
   [
-   "Anaitasuna–Alavés (1,03)",
-   "imprensa espanhola aponta rotação do Alavés, incluindo guarda-redes; risco de surpresa apesar da diferença de nível"
-  ],
-  [
-   "Vietname–Taipé Chinês (1,09)",
-   "sem dados fiáveis no epocas.py (seleções fora do modelo)"
+   "Salmantino–Celta Vigo (1,25/1,10 dupla hipótese)",
+   "mesmo motivo: adversário de categoria regional sem dados no epocas.py"
   ],
   [
    "Cobertura da Betclic",
-   "odds lidas em betclic.com (betclic.pt deu 403); confirmadas Taça de Rei de Espanha, Liga das Nações e Particular de Seleções; as ligas principais de clubes (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie) sem jogos até 20-21/11 (pausa internacional); Prva Liga (Sérvia), Liga 1 (Roménia, só a partir de 20/11), Taça de Portugal, Primeira Liga (Argentina) e Primeira Liga (Escócia, só a partir de 21/11) sem jogos nesta janela; Série A do Brasil só a partir de 14/11, fora da janela da múltipla dos próximos dias"
+   "consultadas em betclic.pt sem bloqueio nesta execução: Taça de Rei de Espanha, Liga das Nações, amigáveis de seleções, Sérvia, Roménia, Argentina, Brasil, MLS, Liga MX, Arábia Saudita (só mercado de vencedor da liga, sem jogos), Libertadores, Sul-Americana, J-League 2, Peru, Chile, Colômbia, Equador, Portugal (Taça e Campeonato Nacional, sem jogos carregados), USL, NWSL, Costa Rica, Guatemala, Honduras (sem jogos carregados), Grécia, Bulgária, Dinamarca, Irlanda, Geórgia, Áustria; nenhuma competição tem jogos a 11/11 (quarta-feira): janela de seleções sem jornada nesta data e ligas principais de clubes paradas até 20-21/11"
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-11-11",
+   "rotulo": "Quarta-feira · 11 de novembro de 2026",
+   "boletins": [
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "1,48",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "18:00",
+       "d": "QUI",
+       "j": "Bétis vence o Navalcarnero",
+       "m": "Resultado final",
+       "o": "1,08",
+       "comp": "Taça de Rei de Espanha"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Inglaterra–Croácia",
+       "m": "Dupla hipótese: Inglaterra ou empate",
+       "o": "1,05",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Chéquia–Espanha",
+       "m": "Dupla hipótese: Espanha ou empate",
+       "o": "1,04",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "Montenegro–Letónia",
+       "m": "Dupla hipótese: Montenegro ou empate",
+       "o": "1,05",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "19:45",
+       "d": "QUI",
+       "j": "São Marino–Bielorrússia",
+       "m": "Mais de 1,5 golos",
+       "o": "1,13",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "19:45",
+       "d": "SEX",
+       "j": "Eslováquia–Ilhas Faroé",
+       "m": "Dupla hipótese: Eslováquia ou empate",
+       "o": "1,06",
+       "comp": "Liga das Nações"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-11-10",
    "rotulo": "Terça-feira · 10 de novembro de 2026",
@@ -209,15 +236,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,01",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Valência vence o Tavernes (0-6)",
      "legs": [
       {
        "h": "20:00",
        "j": "Valência vence o Tavernes",
        "m": "Resultado final",
        "o": "1,01",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "0-6"
       }
      ]
     },
@@ -225,8 +254,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,51",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Eibar vence o CD Pamplona (0-3); Leganés vence o CF Trival Valderas Alcorcón (0-1); CP Mijas-Las Lagunas–Real Jaén (1-2)",
      "legs": [
       {
        "h": "18:00",
@@ -242,14 +271,18 @@
        "j": "Leganés vence o CF Trival Valderas Alcorcón",
        "m": "Resultado final",
        "o": "1,10",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "0-1"
       },
       {
        "h": "19:00",
        "j": "CP Mijas-Las Lagunas–Real Jaén",
        "m": "Dupla hipótese: Real Jaén ou empate",
        "o": "1,18",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "1-2"
       }
      ]
     },
@@ -257,15 +290,17 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,21",
-     "e": "pendente",
-     "d": "1 de 4 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: CF Trival Valderas Alcorcón–Leganés (0-1) · 3 certas",
      "legs": [
       {
        "h": "19:00",
        "j": "Amorebieta–UD Logroñés",
        "m": "Resultado final",
        "o": "2,03",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "18:00",
@@ -281,14 +316,18 @@
        "j": "CF Trival Valderas Alcorcón–Leganés",
        "m": "Mais de 1,5 golos",
        "o": "1,11",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "no",
+       "x": "0-1"
       },
       {
        "h": "19:00",
        "j": "CP Mijas-Las Lagunas–Real Jaén",
        "m": "Mais de 1,5 golos",
        "o": "1,26",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "1-2"
       }
      ]
     },
@@ -296,8 +335,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,71",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "18:00",
@@ -6618,60 +6657,60 @@
   }
  ],
  "estatisticas": {
-  "decididos": 175,
-  "ganhos": 99,
-  "pernas": 314,
-  "pernas_ok": 216,
-  "dias": 48,
+  "decididos": 178,
+  "ganhos": 101,
+  "pernas": 320,
+  "pernas_ok": 221,
+  "dias": 49,
   "odd_media": "1,45",
   "tipos": [
    {
-    "ok": 38,
-    "dec": 45,
-    "pct": 84,
+    "ok": 39,
+    "dec": 46,
+    "pct": 85,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 28,
-    "dec": 44,
+    "ok": 29,
+    "dec": 45,
     "pct": 64,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 18,
-    "dec": 43,
-    "pct": 42,
+    "dec": 44,
+    "pct": 41,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 15,
     "dec": 43,
     "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 5
    }
   ],
   "mercados": [
    {
-    "ok": 132,
-    "dec": 212,
-    "pct": 62,
+    "ok": 135,
+    "dec": 215,
+    "pct": 63,
     "nome": "Resultado final"
    },
    {
     "ok": 5,
     "dec": 7,
     "pct": 71,
-    "nome": "Ambas marcam"
+    "nome": "Mais de 1,5 golos"
    },
    {
-    "ok": 4,
-    "dec": 5,
-    "pct": 80,
-    "nome": "Mais de 1,5 golos"
+    "ok": 5,
+    "dec": 7,
+    "pct": 71,
+    "nome": "Ambas marcam"
    },
    {
     "ok": 3,
@@ -6756,6 +6795,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Real Jaén ou empate"
    },
    {
     "ok": 1,
@@ -7114,20 +7159,20 @@
   ],
   "faixas": [
    {
-    "ok": 90,
-    "dec": 109,
-    "pct": 83,
+    "ok": 93,
+    "dec": 113,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 68,
-    "dec": 88,
-    "pct": 77,
+    "ok": 69,
+    "dec": 89,
+    "pct": 78,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 58,
-    "dec": 117,
+    "ok": 59,
+    "dec": 118,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
@@ -7137,8 +7182,15 @@
     "ok": 0,
     "dec": 0,
     "pct": null,
+    "nome": "Quarta-feira, 11 de novembro",
+    "pend": 1
+   },
+   {
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Terça-feira, 10 de novembro",
-    "pend": 4
+    "pend": 1
    },
    {
     "ok": 0,

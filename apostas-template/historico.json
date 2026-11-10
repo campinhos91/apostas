@@ -1,5 +1,68 @@
 [
  {
+  "dia": "2026-11-11",
+  "rotulo": "Quarta-feira · 11 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,48",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "18:00",
+      "d": "QUI",
+      "j": "Bétis vence o Navalcarnero",
+      "m": "Resultado final",
+      "o": "1,08",
+      "comp": "Taça de Rei de Espanha"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Inglaterra–Croácia",
+      "m": "Dupla hipótese: Inglaterra ou empate",
+      "o": "1,05",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Chéquia–Espanha",
+      "m": "Dupla hipótese: Espanha ou empate",
+      "o": "1,04",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "Montenegro–Letónia",
+      "m": "Dupla hipótese: Montenegro ou empate",
+      "o": "1,05",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "QUI",
+      "j": "São Marino–Bielorrússia",
+      "m": "Mais de 1,5 golos",
+      "o": "1,13",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "d": "SEX",
+      "j": "Eslováquia–Ilhas Faroé",
+      "m": "Dupla hipótese: Eslováquia ou empate",
+      "o": "1,06",
+      "comp": "Liga das Nações"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-10",
   "rotulo": "Terça-feira · 10 de novembro de 2026",
   "boletins": [
@@ -7,15 +70,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,01",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Valência vence o Tavernes (0-6)",
     "legs": [
      {
       "h": "20:00",
       "j": "Valência vence o Tavernes",
       "m": "Resultado final",
       "o": "1,01",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "ok",
+      "x": "0-6"
      }
     ]
    },
@@ -23,8 +88,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,51",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Eibar vence o CD Pamplona (0-3); Leganés vence o CF Trival Valderas Alcorcón (0-1); CP Mijas-Las Lagunas–Real Jaén (1-2)",
     "legs": [
      {
       "h": "18:00",
@@ -40,14 +105,18 @@
       "j": "Leganés vence o CF Trival Valderas Alcorcón",
       "m": "Resultado final",
       "o": "1,10",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "ok",
+      "x": "0-1"
      },
      {
       "h": "19:00",
       "j": "CP Mijas-Las Lagunas–Real Jaén",
       "m": "Dupla hipótese: Real Jaén ou empate",
       "o": "1,18",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "ok",
+      "x": "1-2"
      }
     ]
    },
@@ -55,15 +124,17 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,21",
-    "e": "pendente",
-    "d": "1 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: CF Trival Valderas Alcorcón–Leganés (0-1) · 3 certas",
     "legs": [
      {
       "h": "19:00",
       "j": "Amorebieta–UD Logroñés",
       "m": "Resultado final",
       "o": "2,03",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "18:00",
@@ -79,14 +150,18 @@
       "j": "CF Trival Valderas Alcorcón–Leganés",
       "m": "Mais de 1,5 golos",
       "o": "1,11",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "19:00",
       "j": "CP Mijas-Las Lagunas–Real Jaén",
       "m": "Mais de 1,5 golos",
       "o": "1,26",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "ok",
+      "x": "1-2"
      }
     ]
    },
@@ -94,8 +169,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,71",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "18:00",
