@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T23:25:32+00:00",
+ "atualizado": "2026-11-10T19:55:17+00:00",
  "dia": "2026-11-10",
  "rotulo": "Terça-feira · 10 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -226,14 +226,16 @@
      "c": "t2",
      "total": "1,51",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "18:00",
        "j": "Eibar vence o CD Pamplona",
        "m": "Resultado final",
        "o": "1,16",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "0-3"
       },
       {
        "h": "19:00",
@@ -256,7 +258,7 @@
      "c": "t3",
      "total": "3,21",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "19:00",
@@ -270,7 +272,9 @@
        "j": "CD Pamplona–Eibar",
        "m": "Mais de 1,5 golos",
        "o": "1,13",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "0-3"
       },
       {
        "h": "19:00",
@@ -6616,8 +6620,8 @@
  "estatisticas": {
   "decididos": 175,
   "ganhos": 99,
-  "pernas": 312,
-  "pernas_ok": 214,
+  "pernas": 314,
+  "pernas_ok": 216,
   "dias": 48,
   "odd_media": "1,45",
   "tipos": [
@@ -6652,8 +6656,8 @@
   ],
   "mercados": [
    {
-    "ok": 131,
-    "dec": 211,
+    "ok": 132,
+    "dec": 212,
     "pct": 62,
     "nome": "Resultado final"
    },
@@ -6664,16 +6668,16 @@
     "nome": "Ambas marcam"
    },
    {
-    "ok": 3,
-    "dec": 4,
-    "pct": 75,
-    "nome": "Dupla hipótese: Juventus ou empate"
+    "ok": 4,
+    "dec": 5,
+    "pct": 80,
+    "nome": "Mais de 1,5 golos"
    },
    {
     "ok": 3,
     "dec": 4,
     "pct": 75,
-    "nome": "Mais de 1,5 golos"
+    "nome": "Dupla hipótese: Juventus ou empate"
    },
    {
     "ok": 3,
@@ -7110,9 +7114,9 @@
   ],
   "faixas": [
    {
-    "ok": 88,
-    "dec": 107,
-    "pct": 82,
+    "ok": 90,
+    "dec": 109,
+    "pct": 83,
     "nome": "Odd até 1,25"
    },
    {
