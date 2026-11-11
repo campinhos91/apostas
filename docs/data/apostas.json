@@ -1,55 +1,90 @@
 {
- "atualizado": "2026-11-10T23:25:32+00:00",
- "dia": "2026-11-11",
- "rotulo": "Quarta-feira · 11 de novembro de 2026",
+ "atualizado": "2026-11-11T23:25:18+00:00",
+ "dia": "2026-11-12",
+ "rotulo": "Quinta-feira · 12 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As principais ligas europeias (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie) continuam em pausa para a janela de seleções; a maioria volta a partir de 20-21 de novembro.",
+ "pausa": "As principais ligas europeias (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie) continuam em pausa para a janela de seleções; voltam a partir de 20-21 de novembro. Os boletins de hoje usam jogos da Liga das Nações, amigáveis de seleções e da Taça de Rei de Espanha.",
  "casa": {
   "nome": "Betclic",
   "url": "https://www.betclic.pt/futebol-s1"
  },
  "ontem": [
   {
-   "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Valência vence o Tavernes (0-6)"
-  },
-  {
-   "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Eibar vence o CD Pamplona (0-3); Leganés vence o CF Trival Valderas Alcorcón (0-1); CP Mijas-Las Lagunas–Real Jaén (1-2)"
-  },
-  {
-   "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: CF Trival Valderas Alcorcón–Leganés (0-1) · 3 certas"
-  },
-  {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
    "d": "Ainda sem resultados dos jogos"
   }
  ],
- "hoje": [],
- "proximos": [
+ "hoje": [
   {
-   "c": "t4",
-   "t": "Múltipla dos próximos dias",
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "19:45",
+     "j": "Bielorrússia vence o São Marino",
+     "m": "Resultado final",
+     "o": "1,11",
+     "comp": "Liga das Nações"
+    }
+   ],
+   "total": "1,11",
+   "rodape": "Uma seleção"
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
    "risco": "médio",
    "legs": [
     {
      "h": "18:00",
-     "d": "QUI",
      "j": "Bétis vence o Navalcarnero",
      "m": "Resultado final",
-     "o": "1,08",
+     "o": "1,10",
+     "comp": "Taça de Rei de Espanha"
+    },
+    {
+     "h": "18:00",
+     "j": "Levante vence o CD Tarancón",
+     "m": "Resultado final",
+     "o": "1,07",
      "comp": "Taça de Rei de Espanha"
     },
     {
      "h": "19:45",
-     "d": "QUI",
+     "j": "Chéquia–Espanha",
+     "m": "Dupla hipótese: Espanha ou empate",
+     "o": "1,05",
+     "comp": "Liga das Nações"
+    }
+   ],
+   "total": "1,24",
+   "rodape": "3 seleções"
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "legs": [
+    {
+     "h": "17:00",
+     "j": "Arménia–Chipre",
+     "m": "Dupla hipótese: Chipre ou empate",
+     "o": "1,54",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "17:00",
+     "j": "Turquia–Bélgica",
+     "m": "Dupla hipótese: Bélgica ou empate",
+     "o": "1,24",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "19:45",
      "j": "Inglaterra–Croácia",
      "m": "Dupla hipótese: Inglaterra ou empate",
      "o": "1,05",
@@ -57,114 +92,269 @@
     },
     {
      "h": "19:45",
-     "d": "QUI",
-     "j": "Chéquia–Espanha",
-     "m": "Dupla hipótese: Espanha ou empate",
-     "o": "1,04",
-     "comp": "Liga das Nações"
-    },
-    {
-     "h": "19:45",
-     "d": "QUI",
      "j": "Montenegro–Letónia",
      "m": "Dupla hipótese: Montenegro ou empate",
-     "o": "1,05",
-     "comp": "Liga das Nações"
-    },
-    {
-     "h": "19:45",
-     "d": "QUI",
-     "j": "São Marino–Bielorrússia",
-     "m": "Mais de 1,5 golos",
-     "o": "1,13",
-     "comp": "Liga das Nações"
-    },
-    {
-     "h": "19:45",
-     "d": "SEX",
-     "j": "Eslováquia–Ilhas Faroé",
-     "m": "Dupla hipótese: Eslováquia ou empate",
      "o": "1,06",
      "comp": "Liga das Nações"
     }
    ],
-   "total": "1,48",
-   "rodape": "6 seleções · quinta e sexta"
+   "total": "2,13",
+   "rodape": "4 seleções · falhar uma perde tudo"
+  }
+ ],
+ "proximos": [
+  {
+   "c": "t4",
+   "t": "Múltipla dos próximos dias",
+   "risco": "médio",
+   "legs": [
+    {
+     "d": "SEX",
+     "h": "19:45",
+     "j": "Eslováquia–Ilhas Faroé",
+     "m": "Dupla hipótese: Eslováquia ou empate",
+     "o": "1,08",
+     "comp": "Liga das Nações"
+    },
+    {
+     "d": "SEX",
+     "h": "20:00",
+     "j": "Salmantino–Celta Vigo",
+     "m": "Dupla hipótese: Celta Vigo ou empate",
+     "o": "1,10",
+     "comp": "Taça de Rei de Espanha"
+    },
+    {
+     "d": "SEX",
+     "h": "23:00",
+     "j": "Argentina–Uruguai",
+     "m": "Dupla hipótese: Argentina ou empate",
+     "o": "1,14",
+     "comp": "Particular de Seleções"
+    },
+    {
+     "d": "SÁB",
+     "h": "00:00",
+     "j": "Colômbia–Chile",
+     "m": "Dupla hipótese: Colômbia ou empate",
+     "o": "1,08",
+     "comp": "Particular de Seleções"
+    },
+    {
+     "d": "SÁB",
+     "h": "21:30",
+     "j": "Mirassol–Atlético Mineiro",
+     "m": "Dupla hipótese: Mirassol ou empate",
+     "o": "1,22",
+     "comp": "Primeira Liga (Brasil)"
+    }
+   ],
+   "total": "1,78",
+   "rodape": "5 seleções · sexta e sábado"
   }
  ],
  "amanha": [
   {
-   "h": "18:00",
-   "d": "QUI",
-   "j": "Bétis vence o Navalcarnero",
+   "h": "14:10",
+   "d": "SEX",
+   "j": "Emirados Árabes Unidos vence o Honduras",
    "m": "Resultado final",
-   "o": "1,08",
-   "comp": "Taça de Rei de Espanha",
-   "n": "Bétis (La Liga) folga em casa de uma equipa amadora de 4ª divisão; sem dados históricos para o adversário, mas odd da casa (13,50/7,25/1,08) reflete favoritismo esmagador"
+   "o": "2,08",
+   "comp": "Particular de Seleções",
+   "n": "EAU em casa: 17V 12E 11D nos últimos 3 anos, só 0,9 golos sofridos por jogo; único confronto direto (2018) terminou 1-1."
   },
   {
-   "h": "19:45",
-   "d": "QUI",
-   "j": "Inglaterra vence o Croácia",
+   "h": "14:30",
+   "d": "SEX",
+   "j": "Coreia do Sul vence a Arábia Saudita",
    "m": "Resultado final",
-   "o": "1,22",
-   "comp": "Liga das Nações",
-   "n": "Inglaterra goleou a Croácia 7-0 em outubro e venceu 4 dos últimos 6 confrontos diretos; modelo dá 68% de vitória e 87% para vitória ou empate"
+   "o": "1,87",
+   "comp": "Particular de Seleções",
+   "n": "Coreia do Sul nunca perdeu este confronto direto desde 2015 (2V 2E); modelo dá-lhe 37% a 35% da Arábia Saudita."
   },
   {
-   "h": "19:45",
-   "d": "QUI",
-   "j": "Espanha vence o Chéquia",
+   "h": "14:45",
+   "d": "SEX",
+   "j": "Austrália vence o Catar",
    "m": "Resultado final",
-   "o": "1,18",
-   "comp": "Liga das Nações",
-   "n": "Espanha venceu 35 de 45 jogos nos últimos 3 anos (78%) e bateu a Chéquia 3-1 em outubro; modelo dá 67% de vitória fora e 87% para vitória ou empate"
-  },
-  {
-   "h": "19:45",
-   "d": "QUI",
-   "j": "Bielorrússia vence o São Marino",
-   "m": "Resultado final",
-   "o": "1,11",
-   "comp": "Liga das Nações",
-   "n": "São Marino perdeu os 3 confrontos diretos por goleada, incluindo 4-0 em outubro; modelo dá 75% de vitória à Bielorrússia"
+   "o": "2,13",
+   "comp": "Particular de Seleções",
+   "n": "Austrália (21V 9E 8D, só 0,7 golos sofridos por jogo) claramente mais forte que o Catar nos últimos 3 anos; sem confrontos diretos recentes nos dados."
   }
  ],
  "fora": [
   [
-   "Turquia–Bélgica (1,79 fora)",
-   "sem favorito claro: modelo dá só 49% à Bélgica apesar da odd implicar favorita"
+   "Moldávia–Cazaquistão (2,55/2,95/2,80)",
+   "sem favorito claro: mercado e modelo equilibrados (33%/26%/41% para o modelo)"
   ],
   [
-   "Itália–França (1,68 fora)",
-   "sem favorito claro: modelo dá só 43% à França"
+   "Albânia–Finlândia (1,96)",
+   "modelo dá só 44% à Albânia, a odd implica 51% — sem vantagem clara"
   ],
   [
-   "Arménia–Chipre (2,20/3,20/3,00)",
-   "jogo equilibrado, sem seleção de confiança suficiente (41%/26%/33% segundo o modelo)"
+   "Uzbequistão–Rússia (1,93 para a Rússia)",
+   "mercado dá 52% à Rússia mas o modelo só 37% — divergência grande, trata-se como duvidoso"
   ],
   [
-   "Moldávia–Cazaquistão (2,50/2,95/2,70)",
-   "sem favorito claro (modelo dá 41% ao Cazaquistão)"
+   "Malta–Essuatíni (1,53 para Malta)",
+   "dados fracos da Essuatíni (só 20 jogos) e divergência grande com a odd (65% vs 37% do modelo)"
   ],
   [
-   "Albânia–Finlândia (1,87/3,23/3,93)",
-   "sem favorito claro (44%/28%/28% segundo o modelo)"
+   "Lituânia–Suriname (2,73/3,12/2,47)",
+   "jogo equilibrado, sem favorito claro"
   ],
   [
-   "CD Tarancón–Levante (1,07)",
-   "Levante claramente favorito mas o adversário é amador e está fora do epocas.py; sem dados fiáveis para confirmar, fica de fora por segurança"
+   "Singapura–Paraguai (1,06 para o Paraguai)",
+   "modelo só dá 53% ao Paraguai, a odd implica 94% — divergência grande, trata-se como duvidoso"
   ],
   [
-   "Salmantino–Celta Vigo (1,25/1,10 dupla hipótese)",
-   "mesmo motivo: adversário de categoria regional sem dados no epocas.py"
+   "Calvo Sotelo Puertollano–Albacete (Taça de Rei)",
+   "não encontrado no Flashscore para confirmar hora; sem dados históricos (equipas de categorias baixas)"
   ],
   [
    "Cobertura da Betclic",
-   "consultadas em betclic.pt sem bloqueio nesta execução: Taça de Rei de Espanha, Liga das Nações, amigáveis de seleções, Sérvia, Roménia, Argentina, Brasil, MLS, Liga MX, Arábia Saudita (só mercado de vencedor da liga, sem jogos), Libertadores, Sul-Americana, J-League 2, Peru, Chile, Colômbia, Equador, Portugal (Taça e Campeonato Nacional, sem jogos carregados), USL, NWSL, Costa Rica, Guatemala, Honduras (sem jogos carregados), Grécia, Bulgária, Dinamarca, Irlanda, Geórgia, Áustria; nenhuma competição tem jogos a 11/11 (quarta-feira): janela de seleções sem jornada nesta data e ligas principais de clubes paradas até 20-21/11"
+   "betclic.pt respondeu normalmente para a Taça de Rei de Espanha (sem 403); as restantes competições vieram de betclic.com. Cobertura focada em Liga das Nações, amigáveis de seleções, Taça de Rei de Espanha e Brasileirão; não foram consultadas as restantes ligas sul-americanas, africanas, asiáticas (exceto Arábia Saudita/seleções) nem a maioria das ligas menores da lista."
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-11-12",
+   "rotulo": "Quinta-feira · 12 de novembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,11",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "j": "Bielorrússia vence o São Marino",
+       "m": "Resultado final",
+       "o": "1,11",
+       "comp": "Liga das Nações"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,24",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "18:00",
+       "j": "Bétis vence o Navalcarnero",
+       "m": "Resultado final",
+       "o": "1,10",
+       "comp": "Taça de Rei de Espanha"
+      },
+      {
+       "h": "18:00",
+       "j": "Levante vence o CD Tarancón",
+       "m": "Resultado final",
+       "o": "1,07",
+       "comp": "Taça de Rei de Espanha"
+      },
+      {
+       "h": "19:45",
+       "j": "Chéquia–Espanha",
+       "m": "Dupla hipótese: Espanha ou empate",
+       "o": "1,05",
+       "comp": "Liga das Nações"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "2,13",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:00",
+       "j": "Arménia–Chipre",
+       "m": "Dupla hipótese: Chipre ou empate",
+       "o": "1,54",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "17:00",
+       "j": "Turquia–Bélgica",
+       "m": "Dupla hipótese: Bélgica ou empate",
+       "o": "1,24",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "19:45",
+       "j": "Inglaterra–Croácia",
+       "m": "Dupla hipótese: Inglaterra ou empate",
+       "o": "1,05",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "19:45",
+       "j": "Montenegro–Letónia",
+       "m": "Dupla hipótese: Montenegro ou empate",
+       "o": "1,06",
+       "comp": "Liga das Nações"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "1,78",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "d": "SEX",
+       "j": "Eslováquia–Ilhas Faroé",
+       "m": "Dupla hipótese: Eslováquia ou empate",
+       "o": "1,08",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "20:00",
+       "d": "SEX",
+       "j": "Salmantino–Celta Vigo",
+       "m": "Dupla hipótese: Celta Vigo ou empate",
+       "o": "1,10",
+       "comp": "Taça de Rei de Espanha"
+      },
+      {
+       "h": "23:00",
+       "d": "SEX",
+       "j": "Argentina–Uruguai",
+       "m": "Dupla hipótese: Argentina ou empate",
+       "o": "1,14",
+       "comp": "Particular de Seleções"
+      },
+      {
+       "h": "00:00",
+       "d": "SÁB",
+       "j": "Colômbia–Chile",
+       "m": "Dupla hipótese: Colômbia ou empate",
+       "o": "1,08",
+       "comp": "Particular de Seleções"
+      },
+      {
+       "h": "21:30",
+       "d": "SÁB",
+       "j": "Mirassol–Atlético Mineiro",
+       "m": "Dupla hipótese: Mirassol ou empate",
+       "o": "1,22",
+       "comp": "Primeira Liga (Brasil)"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-11-11",
    "rotulo": "Quarta-feira · 11 de novembro de 2026",
@@ -173,8 +363,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,48",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "18:00",
@@ -6661,7 +6851,7 @@
   "ganhos": 101,
   "pernas": 320,
   "pernas_ok": 221,
-  "dias": 49,
+  "dias": 50,
   "odd_media": "1,45",
   "tipos": [
    {
@@ -6669,28 +6859,28 @@
     "dec": 46,
     "pct": 85,
     "nome": "Aposta simples segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 29,
     "dec": 45,
     "pct": 64,
     "nome": "Múltipla segura",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 18,
     "dec": 44,
     "pct": 41,
     "nome": "Múltipla arriscada",
-    "pend": 0
+    "pend": 1
    },
    {
     "ok": 15,
     "dec": 43,
     "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 5
+    "pend": 6
    }
   ],
   "mercados": [
@@ -7178,6 +7368,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Quinta-feira, 12 de novembro",
+    "pend": 4
+   },
    {
     "ok": 0,
     "dec": 0,
