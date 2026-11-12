@@ -54,21 +54,25 @@
     "c": "t3",
     "total": "2,13",
     "e": "pendente",
-    "d": "",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "17:00",
       "j": "Arménia–Chipre",
       "m": "Dupla hipótese: Chipre ou empate",
       "o": "1,54",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "17:00",
       "j": "Turquia–Bélgica",
       "m": "Dupla hipótese: Bélgica ou empate",
       "o": "1,24",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "1-2"
      },
      {
       "h": "19:45",
