@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T23:27:53+00:00",
+ "atualizado": "2026-11-12T23:55:04+00:00",
  "dia": "2026-11-13",
  "rotulo": "Sexta-feira · 13 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -12,24 +12,9 @@
  },
  "ontem": [
   {
-   "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
-  },
-  {
-   "t": "Múltipla segura",
-   "e": "nao verificado",
-   "d": "1 de 3 pernas certas até agora"
-  },
-  {
-   "t": "Múltipla arriscada",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
-  },
-  {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "4 de 6 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -468,7 +453,7 @@
      "c": "t4",
      "total": "1,78",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "4 de 6 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
@@ -523,7 +508,7 @@
      "c": "t4",
      "total": "1,48",
      "e": "nao verificado",
-     "d": "3 de 6 pernas certas até agora",
+     "d": "4 de 6 pernas certas até agora",
      "legs": [
       {
        "h": "18:00",
@@ -569,7 +554,9 @@
        "j": "São Marino–Bielorrússia",
        "m": "Mais de 1,5 golos",
        "o": "1,13",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "0-2"
       },
       {
        "h": "19:45",
@@ -916,8 +903,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,22",
-     "e": "nao verificado",
-     "d": "3 de 4 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Inglaterra–Croácia (2-1); Chéquia–Espanha (0-2); São Marino–Bielorrússia (0-2); Montenegro–Letónia (2-1)",
      "legs": [
       {
        "h": "19:45",
@@ -945,7 +932,9 @@
        "j": "São Marino–Bielorrússia",
        "m": "Dupla hipótese: Bielorrússia ou empate",
        "o": "1,04",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "0-2"
       },
       {
        "h": "19:45",
@@ -7028,10 +7017,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 180,
-  "ganhos": 103,
-  "pernas": 326,
-  "pernas_ok": 227,
+  "decididos": 181,
+  "ganhos": 104,
+  "pernas": 328,
+  "pernas_ok": 229,
   "dias": 51,
   "odd_media": "1,44",
   "tipos": [
@@ -7057,11 +7046,11 @@
     "pend": 1
    },
    {
-    "ok": 15,
-    "dec": 43,
-    "pct": 35,
+    "ok": 16,
+    "dec": 44,
+    "pct": 36,
     "nome": "Múltipla dos próximos dias",
-    "pend": 7
+    "pend": 6
    }
   ],
   "mercados": [
@@ -7072,9 +7061,9 @@
     "nome": "Resultado final"
    },
    {
-    "ok": 5,
-    "dec": 7,
-    "pct": 71,
+    "ok": 6,
+    "dec": 8,
+    "pct": 75,
     "nome": "Mais de 1,5 golos"
    },
    {
@@ -7208,6 +7197,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: FC Porto ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Bielorrússia ou empate"
    },
    {
     "ok": 1,
@@ -7560,8 +7555,8 @@
   ],
   "faixas": [
    {
-    "ok": 98,
-    "dec": 118,
+    "ok": 100,
+    "dec": 120,
     "pct": 83,
     "nome": "Odd até 1,25"
    },
@@ -7615,11 +7610,11 @@
     "pend": 1
    },
    {
-    "ok": 3,
-    "dec": 3,
+    "ok": 4,
+    "dec": 4,
     "pct": 100,
     "nome": "Domingo, 8 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 4,

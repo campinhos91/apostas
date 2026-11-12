@@ -240,7 +240,7 @@
     "c": "t4",
     "total": "1,78",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "4 de 6 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
@@ -295,7 +295,7 @@
     "c": "t4",
     "total": "1,48",
     "e": "nao verificado",
-    "d": "3 de 6 pernas certas até agora",
+    "d": "4 de 6 pernas certas até agora",
     "legs": [
      {
       "h": "18:00",
@@ -341,7 +341,9 @@
       "j": "São Marino–Bielorrússia",
       "m": "Mais de 1,5 golos",
       "o": "1,13",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "0-2"
      },
      {
       "h": "19:45",
@@ -688,8 +690,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,22",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Inglaterra–Croácia (2-1); Chéquia–Espanha (0-2); São Marino–Bielorrússia (0-2); Montenegro–Letónia (2-1)",
     "legs": [
      {
       "h": "19:45",
@@ -717,7 +719,9 @@
       "j": "São Marino–Bielorrússia",
       "m": "Dupla hipótese: Bielorrússia ou empate",
       "o": "1,04",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "0-2"
      },
      {
       "h": "19:45",
