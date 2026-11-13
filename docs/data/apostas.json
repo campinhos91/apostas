@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T23:26:15+00:00",
+ "atualizado": "2026-11-13T23:55:37+00:00",
  "dia": "2026-11-14",
  "rotulo": "Sábado · 14 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -13,23 +13,23 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
   },
   {
    "t": "Múltipla segura",
-   "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "e": "perdido",
+   "d": "Falhou: Bétis vence o Navalcarnero (2-2); Levante vence o CD Tarancón (1-1) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Liechtenstein–Azerbaijão (0-1) · 3 certas, 1 por jogar"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 5 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -367,8 +367,8 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,53",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)",
      "legs": [
       {
        "h": "23:00",
@@ -383,7 +383,7 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,52",
-     "e": "nao verificado",
+     "e": "perdido",
      "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
@@ -417,8 +417,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,29",
-     "e": "perdido",
-     "d": "Falhou: Liechtenstein–Azerbaijão (0-1) · 3 certas, 1 por jogar",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)",
      "legs": [
       {
        "h": "19:45",
@@ -470,7 +470,7 @@
      "c": "t4",
      "total": "1,65",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "2 de 5 pernas certas até agora",
      "legs": [
       {
        "h": "00:00",
@@ -922,7 +922,7 @@
      "c": "t4",
      "total": "1,59",
      "e": "perdido",
-     "d": "Falhou: Levante vence o CD Tarancón (1-1) · 4 certas, 1 por jogar",
+     "d": "Falhou: Levante vence o CD Tarancón (1-1) · 5 certas",
      "legs": [
       {
        "h": "18:00",
@@ -980,7 +980,9 @@
        "j": "Celta Vigo vence o Salmantino",
        "m": "Resultado final",
        "o": "1,32",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "5-0"
       }
      ]
     }
@@ -7198,31 +7200,31 @@
   }
  ],
  "estatisticas": {
-  "decididos": 186,
-  "ganhos": 104,
-  "pernas": 339,
-  "pernas_ok": 236,
+  "decididos": 188,
+  "ganhos": 106,
+  "pernas": 340,
+  "pernas_ok": 237,
   "dias": 52,
   "odd_media": "1,43",
   "tipos": [
    {
-    "ok": 40,
-    "dec": 47,
+    "ok": 41,
+    "dec": 48,
     "pct": 85,
     "nome": "Aposta simples segura",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 29,
-    "dec": 46,
-    "pct": 63,
+    "dec": 47,
+    "pct": 62,
     "nome": "Múltipla segura",
-    "pend": 2
+    "pend": 1
    },
    {
-    "ok": 19,
+    "ok": 20,
     "dec": 46,
-    "pct": 41,
+    "pct": 43,
     "nome": "Múltipla arriscada",
     "pend": 1
    },
@@ -7236,9 +7238,9 @@
   ],
   "mercados": [
    {
-    "ok": 136,
-    "dec": 218,
-    "pct": 62,
+    "ok": 137,
+    "dec": 219,
+    "pct": 63,
     "nome": "Resultado final"
    },
    {
@@ -7766,8 +7768,8 @@
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 69,
-    "dec": 91,
+    "ok": 70,
+    "dec": 92,
     "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
@@ -7787,11 +7789,11 @@
     "pend": 4
    },
    {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Sexta-feira, 13 de novembro",
-    "pend": 3
+    "pend": 1
    },
    {
     "ok": 2,

@@ -6,23 +6,23 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
   },
   {
    "t": "Múltipla segura",
-   "e": "nao verificado",
-   "d": "2 de 3 pernas certas até agora"
+   "e": "perdido",
+   "d": "Falhou: Bétis vence o Navalcarnero (2-2); Levante vence o CD Tarancón (1-1) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Liechtenstein–Azerbaijão (0-1) · 3 certas, 1 por jogar"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 5 pernas certas até agora"
   }
  ],
  "hoje": [
