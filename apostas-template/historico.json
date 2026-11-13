@@ -162,22 +162,26 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,24",
-    "e": "nao verificado",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Bétis vence o Navalcarnero (2-2); Levante vence o CD Tarancón (1-1) · 1 certa",
     "legs": [
      {
       "h": "18:00",
       "j": "Bétis vence o Navalcarnero",
       "m": "Resultado final",
       "o": "1,10",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "18:00",
       "j": "Levante vence o CD Tarancón",
       "m": "Resultado final",
       "o": "1,07",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "19:45",
@@ -294,8 +298,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,48",
-    "e": "nao verificado",
-    "d": "4 de 6 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Bétis vence o Navalcarnero (2-2) · 4 certas, 1 por jogar",
     "legs": [
      {
       "h": "18:00",
@@ -303,7 +307,9 @@
       "j": "Bétis vence o Navalcarnero",
       "m": "Resultado final",
       "o": "1,08",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "19:45",
@@ -464,8 +470,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,71",
-    "e": "nao verificado",
-    "d": "2 de 6 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: CD Tarancón–Levante (1-1) · 2 certas, 3 por jogar",
     "legs": [
      {
       "h": "18:00",
@@ -473,7 +479,9 @@
       "j": "CD Tarancón–Levante",
       "m": "Mais de 2,5 golos",
       "o": "1,27",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "19:45",
@@ -531,8 +539,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,59",
-    "e": "nao verificado",
-    "d": "3 de 6 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Levante vence o CD Tarancón (1-1) · 4 certas, 1 por jogar",
     "legs": [
      {
       "h": "18:00",
@@ -540,7 +548,9 @@
       "j": "Navalcarnero–Betis",
       "m": "Dupla hipótese: Betis ou empate",
       "o": "1,01",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "18:00",
@@ -548,7 +558,9 @@
       "j": "Levante vence o CD Tarancón",
       "m": "Resultado final",
       "o": "1,05",
-      "comp": "Taça de Rei de Espanha"
+      "comp": "Taça de Rei de Espanha",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "19:45",

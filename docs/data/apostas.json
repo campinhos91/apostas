@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-12T23:55:04+00:00",
+ "atualizado": "2026-11-13T10:56:00+00:00",
  "dia": "2026-11-13",
  "rotulo": "Sexta-feira · 13 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -11,6 +11,21 @@
   "url": "https://www.betclic.pt/futebol-s1"
  },
  "ontem": [
+  {
+   "t": "Aposta simples segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "perdido",
+   "d": "Falhou: Bétis vence o Navalcarnero (2-2); Levante vence o CD Tarancón (1-1) · 1 certa"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
+  },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
@@ -375,22 +390,26 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,24",
-     "e": "nao verificado",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Bétis vence o Navalcarnero (2-2); Levante vence o CD Tarancón (1-1) · 1 certa",
      "legs": [
       {
        "h": "18:00",
        "j": "Bétis vence o Navalcarnero",
        "m": "Resultado final",
        "o": "1,10",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "18:00",
        "j": "Levante vence o CD Tarancón",
        "m": "Resultado final",
        "o": "1,07",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "19:45",
@@ -507,8 +526,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,48",
-     "e": "nao verificado",
-     "d": "4 de 6 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Bétis vence o Navalcarnero (2-2) · 4 certas, 1 por jogar",
      "legs": [
       {
        "h": "18:00",
@@ -516,7 +535,9 @@
        "j": "Bétis vence o Navalcarnero",
        "m": "Resultado final",
        "o": "1,08",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "19:45",
@@ -677,8 +698,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,71",
-     "e": "nao verificado",
-     "d": "2 de 6 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: CD Tarancón–Levante (1-1) · 2 certas, 3 por jogar",
      "legs": [
       {
        "h": "18:00",
@@ -686,7 +707,9 @@
        "j": "CD Tarancón–Levante",
        "m": "Mais de 2,5 golos",
        "o": "1,27",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "19:45",
@@ -744,8 +767,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,59",
-     "e": "nao verificado",
-     "d": "3 de 6 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Levante vence o CD Tarancón (1-1) · 4 certas, 1 por jogar",
      "legs": [
       {
        "h": "18:00",
@@ -753,7 +776,9 @@
        "j": "Navalcarnero–Betis",
        "m": "Dupla hipótese: Betis ou empate",
        "o": "1,01",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "ok",
+       "x": "2-2"
       },
       {
        "h": "18:00",
@@ -761,7 +786,9 @@
        "j": "Levante vence o CD Tarancón",
        "m": "Resultado final",
        "o": "1,05",
-       "comp": "Taça de Rei de Espanha"
+       "comp": "Taça de Rei de Espanha",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "19:45",
@@ -7017,10 +7044,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 181,
+  "decididos": 185,
   "ganhos": 104,
-  "pernas": 328,
-  "pernas_ok": 229,
+  "pernas": 332,
+  "pernas_ok": 230,
   "dias": 51,
   "odd_media": "1,44",
   "tipos": [
@@ -7033,10 +7060,10 @@
    },
    {
     "ok": 29,
-    "dec": 45,
-    "pct": 64,
+    "dec": 46,
+    "pct": 63,
     "nome": "Múltipla segura",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 19,
@@ -7047,17 +7074,17 @@
    },
    {
     "ok": 16,
-    "dec": 44,
-    "pct": 36,
+    "dec": 47,
+    "pct": 34,
     "nome": "Múltipla dos próximos dias",
-    "pend": 6
+    "pend": 3
    }
   ],
   "mercados": [
    {
     "ok": 136,
-    "dec": 216,
-    "pct": 63,
+    "dec": 218,
+    "pct": 62,
     "nome": "Resultado final"
    },
    {
@@ -7083,6 +7110,12 @@
     "dec": 3,
     "pct": 100,
     "nome": "Dupla hipótese: Benfica ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Mais de 2,5 golos"
    },
    {
     "ok": 2,
@@ -7191,6 +7224,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Real Jaén ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Betis ou empate"
    },
    {
     "ok": 1,
@@ -7545,25 +7584,19 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Levante ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
-    "nome": "Mais de 2,5 golos"
    }
   ],
   "faixas": [
    {
-    "ok": 100,
-    "dec": 120,
-    "pct": 83,
+    "ok": 101,
+    "dec": 123,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
     "ok": 69,
-    "dec": 89,
-    "pct": 78,
+    "dec": 90,
+    "pct": 77,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
@@ -7583,31 +7616,31 @@
    },
    {
     "ok": 2,
-    "dec": 2,
-    "pct": 100,
+    "dec": 3,
+    "pct": 67,
     "nome": "Quinta-feira, 12 de novembro",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Quarta-feira, 11 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "dec": 4,
+    "pct": 50,
     "nome": "Terça-feira, 10 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Segunda-feira, 9 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 4,

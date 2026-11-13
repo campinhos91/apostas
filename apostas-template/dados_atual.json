@@ -5,6 +5,21 @@
  "pausa": "As principais ligas europeias (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie) continuam em pausa para a janela de seleções; voltam a partir de 20-21 de novembro. Os boletins de hoje usam jogos da Liga das Nações, amigáveis de seleções, Taça do Rei de Espanha e Brasileirão.",
  "ontem": [
   {
+   "t": "Aposta simples segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "perdido",
+   "d": "Falhou: Bétis vence o Navalcarnero (2-2); Levante vence o CD Tarancón (1-1) · 1 certa"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
+  },
+  {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
    "d": "4 de 6 pernas certas até agora"
