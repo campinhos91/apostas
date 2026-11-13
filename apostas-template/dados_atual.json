@@ -1,53 +1,53 @@
 {
- "data": "Sexta-feira · 13 de novembro de 2026",
+ "data": "Sábado · 14 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
- "pausa": "As principais ligas europeias (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie) continuam em pausa para a janela de seleções; voltam a partir de 20-21 de novembro. Os boletins de hoje usam jogos da Liga das Nações, amigáveis de seleções, Taça do Rei de Espanha e Brasileirão.",
+ "pausa": "As principais ligas europeias (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie) continuam em pausa para a janela de seleções; voltam a partir de 20-21 de novembro. Os boletins de hoje usam jogos da Liga das Nações, amigáveis de seleções, Taça de Rei de Espanha e Primeira Liga do Brasil.",
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: Bétis vence o Navalcarnero (2-2); Levante vence o CD Tarancón (1-1) · 1 certa"
+   "e": "nao verificado",
+   "d": "2 de 3 pernas certas até agora"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
+   "e": "perdido",
+   "d": "Falhou: Liechtenstein–Azerbaijão (0-1) · 3 certas, 1 por jogar"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "4 de 6 pernas certas até agora"
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
   {
    "c": "t1", "t": "Aposta simples segura", "risco": "baixo",
    "legs": [
-    {"h": "23:00", "j": "Argentina vence o Uruguai", "m": "Resultado final", "o": "1,53", "comp": "Particular de Seleções"}
+    {"h": "00:00", "j": "Colômbia vence o Chile", "m": "Resultado final", "o": "1,40", "comp": "Particular de Seleções"}
    ]
   },
   {
    "c": "t2", "t": "Múltipla segura", "risco": "médio",
    "legs": [
-    {"h": "23:00", "j": "Argentina–Uruguai", "m": "Mais de 1,5 golos", "o": "1,27", "comp": "Particular de Seleções"},
-    {"h": "19:45", "j": "Países Baixos–Grécia", "m": "Dupla hipótese: Países Baixos ou empate", "o": "1,13", "comp": "Liga das Nações"},
-    {"h": "20:00", "j": "Salmantino–Celta Vigo", "m": "Dupla hipótese: Celta Vigo ou empate", "o": "1,06", "comp": "Taça de Rei de Espanha"}
+    {"h": "19:45", "j": "Suécia–Bósnia e Herzegovina", "m": "Dupla hipótese: Suécia ou empate", "o": "1,12", "comp": "Liga das Nações"},
+    {"h": "19:45", "j": "Portugal–Dinamarca", "m": "Dupla hipótese: Portugal ou empate", "o": "1,12", "comp": "Liga das Nações"},
+    {"h": "21:30", "j": "Mirassol–Atlético-MG", "m": "Dupla hipótese: Mirassol ou empate", "o": "1,25", "comp": "Primeira Liga (Brasil)"}
    ]
   },
   {
    "c": "t3", "t": "Múltipla arriscada", "risco": "alto", "extra": "falhar uma perde tudo",
    "legs": [
-    {"h": "19:45", "j": "Eslováquia–Ilhas Faroé", "m": "Mais de 1,5 golos", "o": "1,20", "comp": "Liga das Nações"},
-    {"h": "19:45", "j": "Escócia–Macedónia do Norte", "m": "Mais de 1,5 golos", "o": "1,17", "comp": "Liga das Nações"},
-    {"h": "19:45", "j": "Liechtenstein–Azerbaijão", "m": "Mais de 1,5 golos", "o": "1,29", "comp": "Liga das Nações"},
-    {"h": "19:45", "j": "Países Baixos–Grécia", "m": "Mais de 1,5 golos", "o": "1,14", "comp": "Liga das Nações"},
-    {"h": "23:00", "j": "Argentina–Uruguai", "m": "Dupla hipótese: Argentina ou empate", "o": "1,11", "comp": "Particular de Seleções"}
+    {"h": "01:00", "j": "Peru–Bolívia", "m": "Mais de 1,5 golos", "o": "1,31", "comp": "Particular de Seleções"},
+    {"h": "14:00", "j": "Kosovo–Israel", "m": "Mais de 1,5 golos", "o": "1,22", "comp": "Liga das Nações"},
+    {"h": "19:45", "j": "Áustria–Irlanda", "m": "Mais de 1,5 golos", "o": "1,20", "comp": "Liga das Nações"},
+    {"h": "19:45", "j": "Roménia–Polónia", "m": "Mais de 1,5 golos", "o": "1,18", "comp": "Liga das Nações"},
+    {"h": "19:45", "j": "Suécia–Bósnia e Herzegovina", "m": "Mais de 1,5 golos", "o": "1,13", "comp": "Liga das Nações"}
    ]
   }
  ],
@@ -55,25 +55,25 @@
   {
    "c": "t4", "t": "Múltipla dos próximos dias", "risco": "médio",
    "legs": [
-    {"d": "SÁB", "h": "00:00", "j": "Colômbia–Chile", "m": "Dupla hipótese: Colômbia ou empate", "o": "1,08", "comp": "Particular de Seleções"},
-    {"d": "SÁB", "h": "01:00", "j": "Peru–Bolívia", "m": "Dupla hipótese: Peru ou empate", "o": "1,11", "comp": "Particular de Seleções"},
-    {"d": "SÁB", "h": "21:30", "j": "Mirassol–Atlético-MG", "m": "Dupla hipótese: Mirassol ou empate", "o": "1,23", "comp": "Primeira Liga (Brasil)"},
-    {"d": "SÁB", "h": "23:30", "j": "Chapecoense SC–Vasco da Gama", "m": "Mais de 1,5 golos", "o": "1,12", "comp": "Primeira Liga (Brasil)"}
+    {"d": "QUA", "h": "22:30", "j": "Coritiba–Santos", "m": "Dupla hipótese: Coritiba ou empate", "o": "1,56", "comp": "Primeira Liga (Brasil)"},
+    {"d": "QUA", "h": "23:00", "j": "Remo–Chapecoense", "m": "Dupla hipótese: Remo ou empate", "o": "1,14", "comp": "Primeira Liga (Brasil)"},
+    {"d": "QUA", "h": "23:30", "j": "Flamengo–Athletico Paranaense", "m": "Dupla hipótese: Flamengo ou empate", "o": "1,04", "comp": "Primeira Liga (Brasil)"},
+    {"d": "QUI", "h": "22:30", "j": "Vasco da Gama–Internacional", "m": "Dupla hipótese: Vasco da Gama ou empate", "o": "1,13", "comp": "Primeira Liga (Brasil)"}
    ]
   }
  ],
  "amanha": [
-  {"h": "00:00", "d": "SÁB", "j": "Equador vence a Costa Rica", "m": "Resultado final", "o": "1,17", "comp": "Particular de Seleções", "n": "Equador 14V 17E 7D nos últimos 3 anos, apenas 0,6 golos sofridos por jogo; único confronto direto (2023) terminou 3-1 para o Equador."},
-  {"h": "10:15", "d": "SÁB", "j": "Brasil vence o Japão", "m": "Resultado final", "o": "1,82", "comp": "Particular de Seleções", "n": "Brasil venceu 3 dos últimos 4 confrontos diretos (incl. 2026), mas o Japão está em grande forma em casa (26V 7E 5D em 3 anos); o modelo dá só 27% ao Brasil fora, bem abaixo da odd implícita (55%)."},
-  {"h": "23:00", "d": "SÁB", "j": "Nacional Montevideo vence o Albion", "m": "Resultado final", "o": "1,35", "comp": "Primeira Liga (Uruguai)", "n": "Nacional em 2º lugar do Clausura uruguaio (23 pontos em 11 jornadas); a liga não está nos dados do modelo, mas a odd reflete um favoritismo claro em casa."}
+  {"h": "03:00", "d": "DOM", "j": "Nova Zelândia vence a Índia", "m": "Resultado final", "o": "1,31", "comp": "Particular de Seleções", "n": "Nova Zelândia 13V 7E 15D nos últimos 3 anos com 2,0 golos marcados por jogo; o modelo dá exatamente os 76% que a odd implica, e a Índia marcou só 0,5 golos por jogo no período; único confronto direto (2018) foi vitória neozelandesa."},
+  {"h": "19:30", "d": "DOM", "j": "Liverpool Montevideo vence o Danúbio", "m": "Resultado final", "o": "1,71", "comp": "Primeira Liga (Uruguai)", "n": "Liga não coberta pelo modelo (sem dados históricos); a odd reflete o Liverpool Montevideo como claro favorito fora de casa, mas sem confirmação de forma recente nesta execução."}
  ],
  "fora": [
-  ["Moldávia–Cazaquistão (2,55/2,90/2,75)", "sem favorito claro: o modelo dá 33%/26%/41% às três hipóteses"],
-  ["Luxemburgo–Estónia (2,22/3,05/3,10)", "sem favorito claro: o modelo dá 40%/29%/31%"],
-  ["Sérvia–Alemanha (1,24 para a Alemanha)", "divergência grande: o modelo só dá 51% à Alemanha fora, a odd implica 81%"],
-  ["Bulgária–Islândia (1,80 para a Islândia)", "o modelo dá só 41% à Islândia fora, a odd implica 56% — divergência moderada"],
-  ["Eslovénia–Suíça (1,68 para a Suíça)", "o modelo dá só 47% à Suíça fora, a odd implica 60% — divergência moderada"],
-  ["Singapura–Paraguai (1,05 para o Paraguai)", "divergência grande: o modelo dá só 53% ao Paraguai fora, a odd implica quase 100%"],
-  ["Cobertura da Betclic", "betclic.pt respondeu normalmente (sem 403) em todas as competições consultadas: Liga das Nações, Taça do Rei de Espanha, amigáveis de seleções, Brasileirão e Primeira Liga do Uruguai. Não foram consultadas as restantes ligas da lista (africanas, a maioria das asiáticas, MLS, Liga MX, etc.). Os jogos da Liga das Nações de sábado (Noruega–País de Gales, Suécia–Bósnia-Herzegovina, Portugal–Dinamarca, Roménia–Polónia) apareceram sem odds 1X2 disponíveis nesta execução."]
+  ["Equador–Costa Rica (1,20 para o Equador)", "divergência grande: o modelo só dá 53% de vitória ao Equador em casa, a odd implica 83%"],
+  ["Japão–Brasil (1,85 para o Brasil)", "divergência grande: o modelo dá só 27% de vitória ao Brasil fora, a odd implica 54%"],
+  ["Geórgia–Hungria (2,92/2,95/2,40)", "sem favorito claro: o modelo dá 43%/27%/30%, com alguma divergência na hipótese da Hungria"],
+  ["Irlanda do Norte–Ucrânia (2,45/2,85/2,93)", "sem favorito claro: o modelo dá 41%/28%/31% às três hipóteses"],
+  ["Roménia–Polónia (3,75/3,60/1,80 no 1X2)", "sem favorito claro no resultado final (37%/26%/37% no modelo), apesar de usada só no mercado de golos na múltipla arriscada"],
+  ["Deportivo Maldonado–CA Cerro e Central Español–Boston River (Uruguai)", "sem dados fiáveis: liga não coberta pelo modelo"],
+  ["Basque Country–Venezuela (1,55 para a Basque Country)", "sem dados fiáveis: seleção regional sem histórico no modelo"],
+  ["Cobertura da Betclic", "betclic.pt respondeu normalmente na Liga das Nações, Taça de Rei de Espanha, amigáveis de seleções, Primeira Liga do Brasil e Primeira Liga do Uruguai; deu 403 mais tarde nas consultas à Primeira Liga da Colômbia, Primeira Liga do Equador, MLS e Superliga da Grécia, que por isso não foram cobertas; as restantes ligas da lista (africanas, a maioria das asiáticas, Liga MX, etc.) também não foram consultadas."]
  ]
 }
