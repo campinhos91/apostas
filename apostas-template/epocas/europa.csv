@@ -1,9 +1,4 @@
 liga,epoca,data,casa,fora,gc,gf,neutro,casa_fs,fora_fs
-UCL,2022-2023,2022-07-26,Dudelange,Pyunik Yerevan,1,4,0,Dudelange (Lux),Pyunik Yerevan (Arm)
-UCL,2022-2023,2022-07-26,Plzen,HJK,5,0,0,Plzen (Cze),HJK (Fin)
-UCL,2022-2023,2022-07-26,Shamrock Rovers,Ludogorets,2,1,0,Shamrock Rovers (Irl),Ludogorets (Bul)
-UCL,2022-2023,2022-07-26,Sheriff Tiraspol,Maribor,1,0,0,Sheriff Tiraspol (Mda),Maribor (Slo)
-UCL,2022-2023,2022-07-26,Shkupi,Din. Zagreb,0,1,0,Shkupi (Mkd),Din. Zagreb (Cro)
 UCL,2022-2023,2022-07-27,Bodo/Glimt,Linfield,8,0,0,Bodo/Glimt (Nor),Linfield (Nir)
 UCL,2022-2023,2022-07-27,Malmo FF,Zalgiris,0,2,0,Malmo FF (Swe),Zalgiris (Ltu)
 UCL,2022-2023,2022-07-27,Olympiakos,Maccabi Haifa,0,4,0,Olympiacos Piraeus (Gre),Maccabi Haifa (Isr)
@@ -1057,9 +1052,6 @@ UCL,2026-2027,2026-11-04,Porto,Napoli,4,1,0,FC Porto,Napoli
 UCL,2026-2027,2026-11-04,RB Leipzig,Man City,2,3,0,RB Leipzig,Manchester City
 UCL,2026-2027,2026-11-04,Slavia Prague,Arsenal,1,2,0,Slavia Prague,Arsenal
 UCL,2026-2027,2026-11-04,Viking,Sabah FC,4,1,0,Viking,Sabah FC
-UECL,2022-2023,2022-07-26,FC Ballkani,La Fiorita,6,0,0,FC Ballkani (Kos),La Fiorita (San)
-UECL,2022-2023,2022-07-26,Lincoln Red Imps,Tobol,0,1,0,Lincoln Red Imps (Gib),Tobol (Kaz)
-UECL,2022-2023,2022-07-26,TNS,Vikingur Reykjavik,0,0,0,TNS (Wal),Vikingur Reykjavik (Ice)
 UECL,2022-2023,2022-07-27,FC Gomel,Aris,1,2,0,FC Gomel (Blr),Aris (Gre)
 UECL,2022-2023,2022-07-27,Inter Escaldes,CFR Cluj,1,1,0,Inter Escaldes (And),CFR Cluj (Rou)
 UECL,2022-2023,2022-07-27,Klaksvik,Sutjeska,1,0,0,Klaksvik (Fai),Sutjeska (Mne)

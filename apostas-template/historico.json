@@ -1,5 +1,158 @@
 [
  {
+  "dia": "2026-11-15",
+  "rotulo": "Domingo · 15 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,19",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "França vence o Turquia",
+      "m": "Resultado final",
+      "o": "1,19",
+      "comp": "Liga das Nações"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,39",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "03:10",
+      "j": "Nova Zelândia–Índia",
+      "m": "Dupla hipótese: Nova Zelândia ou empate",
+      "o": "1,03",
+      "comp": "Particular de Seleções"
+     },
+     {
+      "h": "19:45",
+      "j": "Croácia–Chéquia",
+      "m": "Dupla hipótese: Croácia ou empate",
+      "o": "1,13",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Espanha–Inglaterra",
+      "m": "Dupla hipótese: Espanha ou empate",
+      "o": "1,19",
+      "comp": "Liga das Nações"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,31",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "03:10",
+      "j": "Nova Zelândia–Índia",
+      "m": "Mais de 1,5 golos",
+      "o": "1,09",
+      "comp": "Particular de Seleções"
+     },
+     {
+      "h": "19:45",
+      "j": "França–Turquia",
+      "m": "Mais de 1,5 golos",
+      "o": "1,06",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Croácia–Chéquia",
+      "m": "Mais de 1,5 golos",
+      "o": "1,16",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Espanha–Inglaterra",
+      "m": "Mais de 1,5 golos",
+      "o": "1,14",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Bélgica–Itália",
+      "m": "Mais de 2,5 golos",
+      "o": "1,51",
+      "comp": "Liga das Nações"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,14",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "d": "SEG",
+      "j": "Ilhas Faroé–Moldávia",
+      "m": "Dupla hipótese: Ilhas Faroé ou empate",
+      "o": "1,17",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "15:00",
+      "d": "SEG",
+      "j": "Cazaquistão–Eslováquia",
+      "m": "Dupla hipótese: Eslováquia ou empate",
+      "o": "1,19",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "23:00",
+      "d": "TER",
+      "j": "Argentina vence a Costa Rica",
+      "m": "Resultado final",
+      "o": "1,11",
+      "comp": "Particular de Seleções"
+     },
+     {
+      "h": "23:30",
+      "d": "QUA",
+      "j": "Flamengo–Athletico Paranaense",
+      "m": "Dupla hipótese: Flamengo ou empate",
+      "o": "1,04",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "00:30",
+      "d": "QUI",
+      "j": "Corinthians–Botafogo",
+      "m": "Dupla hipótese: Corinthians ou empate",
+      "o": "1,18",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "22:30",
+      "d": "QUI",
+      "j": "Vasco da Gama–Internacional",
+      "m": "Dupla hipótese: Vasco da Gama ou empate",
+      "o": "1,13",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-14",
   "rotulo": "Sábado · 14 de novembro de 2026",
   "boletins": [
@@ -25,22 +178,26 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,57",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Portugal–Dinamarca (1-4) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "19:45",
       "j": "Suécia–Bósnia e Herzegovina",
       "m": "Dupla hipótese: Suécia ou empate",
       "o": "1,12",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "19:45",
       "j": "Portugal–Dinamarca",
       "m": "Dupla hipótese: Portugal ou empate",
       "o": "1,12",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "no",
+      "x": "1-4"
      },
      {
       "h": "21:30",
@@ -56,7 +213,7 @@
     "c": "t3",
     "total": "2,56",
     "e": "perdido",
-    "d": "Falhou: Kosovo–Israel (0-0) · 1 certa, 3 por jogar",
+    "d": "Falhou: Kosovo–Israel (0-0); Áustria–Irlanda (1-0) · 3 certas",
     "legs": [
      {
       "h": "01:00",
@@ -81,21 +238,27 @@
       "j": "Áustria–Irlanda",
       "m": "Mais de 1,5 golos",
       "o": "1,20",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "no",
+      "x": "1-0"
      },
      {
       "h": "19:45",
       "j": "Roménia–Polónia",
       "m": "Mais de 1,5 golos",
       "o": "1,18",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "19:45",
       "j": "Suécia–Bósnia e Herzegovina",
       "m": "Mais de 1,5 golos",
       "o": "1,13",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    },
@@ -103,8 +266,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,09",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "22:30",
