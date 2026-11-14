@@ -55,8 +55,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,56",
-    "e": "pendente",
-    "d": "1 de 5 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Kosovo–Israel (0-0) · 1 certa, 3 por jogar",
     "legs": [
      {
       "h": "01:00",
@@ -72,7 +72,9 @@
       "j": "Kosovo–Israel",
       "m": "Mais de 1,5 golos",
       "o": "1,22",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "no",
+      "x": "0-0"
      },
      {
       "h": "19:45",

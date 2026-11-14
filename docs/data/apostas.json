@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T10:55:45+00:00",
+ "atualizado": "2026-11-14T16:55:14+00:00",
  "dia": "2026-11-14",
  "rotulo": "Sábado · 14 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -278,8 +278,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,56",
-     "e": "pendente",
-     "d": "1 de 5 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Kosovo–Israel (0-0) · 1 certa, 3 por jogar",
      "legs": [
       {
        "h": "01:00",
@@ -295,7 +295,9 @@
        "j": "Kosovo–Israel",
        "m": "Mais de 1,5 golos",
        "o": "1,22",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "no",
+       "x": "0-0"
       },
       {
        "h": "19:45",
@@ -7220,9 +7222,9 @@
   }
  ],
  "estatisticas": {
-  "decididos": 190,
+  "decididos": 191,
   "ganhos": 107,
-  "pernas": 347,
+  "pernas": 348,
   "pernas_ok": 242,
   "dias": 52,
   "odd_media": "1,43",
@@ -7243,10 +7245,10 @@
    },
    {
     "ok": 20,
-    "dec": 46,
+    "dec": 47,
     "pct": 43,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 16,
@@ -7265,8 +7267,8 @@
    },
    {
     "ok": 11,
-    "dec": 14,
-    "pct": 79,
+    "dec": 15,
+    "pct": 73,
     "nome": "Mais de 1,5 golos"
    },
    {
@@ -7801,8 +7803,8 @@
   "faixas": [
    {
     "ok": 109,
-    "dec": 132,
-    "pct": 83,
+    "dec": 133,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
@@ -7821,10 +7823,10 @@
   "por_dia": [
    {
     "ok": 1,
-    "dec": 1,
-    "pct": 100,
+    "dec": 2,
+    "pct": 50,
     "nome": "Sábado, 14 de novembro",
-    "pend": 3
+    "pend": 2
    },
    {
     "ok": 2,
