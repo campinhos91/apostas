@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,40",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Colômbia vence o Chile (1-0)",
     "legs": [
      {
       "h": "00:00",
       "j": "Colômbia vence o Chile",
       "m": "Resultado final",
       "o": "1,40",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -54,14 +56,16 @@
     "c": "t3",
     "total": "2,56",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 5 pernas certas até agora",
     "legs": [
      {
       "h": "01:00",
       "j": "Peru–Bolívia",
       "m": "Mais de 1,5 golos",
       "o": "1,31",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "14:00",
@@ -152,7 +156,9 @@
       "j": "Argentina vence o Uruguai",
       "m": "Resultado final",
       "o": "1,53",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    },
@@ -168,7 +174,9 @@
       "j": "Argentina–Uruguai",
       "m": "Mais de 1,5 golos",
       "o": "1,27",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "1-2"
      },
      {
       "h": "19:45",
@@ -238,7 +246,9 @@
       "j": "Argentina–Uruguai",
       "m": "Dupla hipótese: Argentina ou empate",
       "o": "1,11",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    },
@@ -247,7 +257,7 @@
     "c": "t4",
     "total": "1,65",
     "e": "nao verificado",
-    "d": "2 de 5 pernas certas até agora",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "00:00",
@@ -255,7 +265,9 @@
       "j": "Colômbia–Chile",
       "m": "Dupla hipótese: Colômbia ou empate",
       "o": "1,08",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "01:00",
@@ -263,7 +275,9 @@
       "j": "Peru–Bolívia",
       "m": "Dupla hipótese: Peru ou empate",
       "o": "1,11",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "21:30",
@@ -392,8 +406,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,78",
-    "e": "nao verificado",
-    "d": "2 de 5 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Argentina–Uruguai (1-2) · 3 certas, 1 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -421,7 +435,9 @@
       "j": "Argentina–Uruguai",
       "m": "Dupla hipótese: Argentina ou empate",
       "o": "1,14",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "00:00",
@@ -429,7 +445,9 @@
       "j": "Colômbia–Chile",
       "m": "Dupla hipótese: Colômbia ou empate",
       "o": "1,08",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "21:30",
@@ -626,7 +644,7 @@
     "c": "t4",
     "total": "1,71",
     "e": "perdido",
-    "d": "Falhou: CD Tarancón–Levante (1-1) · 4 certas, 1 por jogar",
+    "d": "Falhou: CD Tarancón–Levante (1-1); Argentina–Uruguai (1-2) · 4 certas",
     "legs": [
      {
       "h": "18:00",
@@ -684,7 +702,9 @@
       "j": "Argentina–Uruguai",
       "m": "Dupla hipótese: Argentina ou empate",
       "o": "1,11",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    }
