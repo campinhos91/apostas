@@ -161,7 +161,7 @@
     "c": "t1",
     "total": "1,40",
     "e": "ganho",
-    "d": "Todas as pernas certas: Colômbia vence o Chile (1-0)",
+    "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)",
     "legs": [
      {
       "h": "00:00",
@@ -179,7 +179,7 @@
     "c": "t2",
     "total": "1,57",
     "e": "perdido",
-    "d": "Falhou: Portugal–Dinamarca (1-4) · 1 certa, 1 por jogar",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
@@ -204,7 +204,9 @@
       "j": "Mirassol–Atlético-MG",
       "m": "Dupla hipótese: Mirassol ou empate",
       "o": "1,25",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "0-0"
      }
     ]
    },
@@ -212,8 +214,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,56",
-    "e": "perdido",
-    "d": "Falhou: Kosovo–Israel (0-0); Áustria–Irlanda (1-0) · 3 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)",
     "legs": [
      {
       "h": "01:00",
@@ -267,7 +269,7 @@
     "c": "t4",
     "total": "2,09",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "22:30",
@@ -422,7 +424,7 @@
     "c": "t4",
     "total": "1,65",
     "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "d": "3 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "00:00",
@@ -450,7 +452,9 @@
       "j": "Mirassol–Atlético-MG",
       "m": "Dupla hipótese: Mirassol ou empate",
       "o": "1,23",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "0-0"
      },
      {
       "h": "23:30",
@@ -572,7 +576,7 @@
     "c": "t4",
     "total": "1,78",
     "e": "perdido",
-    "d": "Falhou: Argentina–Uruguai (1-2) · 3 certas, 1 por jogar",
+    "d": "Falhou: Argentina–Uruguai (1-2) · 4 certas",
     "legs": [
      {
       "h": "19:45",
@@ -620,7 +624,9 @@
       "j": "Mirassol–Atlético Mineiro",
       "m": "Dupla hipótese: Mirassol ou empate",
       "o": "1,22",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "0-0"
      }
     ]
    }

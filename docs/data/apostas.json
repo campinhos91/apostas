@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T23:26:43+00:00",
+ "atualizado": "2026-11-14T23:55:06+00:00",
  "dia": "2026-11-15",
  "rotulo": "Domingo · 15 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -14,22 +14,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Colômbia vence o Chile (1-0)"
+   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Portugal–Dinamarca (1-4) · 1 certa, 1 por jogar"
+   "d": "2 de 3 pernas certas até agora"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Kosovo–Israel (0-0); Áustria–Irlanda (1-0) · 3 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "3 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -400,7 +400,7 @@
      "c": "t1",
      "total": "1,40",
      "e": "ganho",
-     "d": "Todas as pernas certas: Colômbia vence o Chile (1-0)",
+     "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)",
      "legs": [
       {
        "h": "00:00",
@@ -418,7 +418,7 @@
      "c": "t2",
      "total": "1,57",
      "e": "perdido",
-     "d": "Falhou: Portugal–Dinamarca (1-4) · 1 certa, 1 por jogar",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
@@ -443,7 +443,9 @@
        "j": "Mirassol–Atlético-MG",
        "m": "Dupla hipótese: Mirassol ou empate",
        "o": "1,25",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "0-0"
       }
      ]
     },
@@ -451,8 +453,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,56",
-     "e": "perdido",
-     "d": "Falhou: Kosovo–Israel (0-0); Áustria–Irlanda (1-0) · 3 certas",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)",
      "legs": [
       {
        "h": "01:00",
@@ -506,7 +508,7 @@
      "c": "t4",
      "total": "2,09",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "3 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "22:30",
@@ -661,7 +663,7 @@
      "c": "t4",
      "total": "1,65",
      "e": "nao verificado",
-     "d": "2 de 4 pernas certas até agora",
+     "d": "3 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "00:00",
@@ -689,7 +691,9 @@
        "j": "Mirassol–Atlético-MG",
        "m": "Dupla hipótese: Mirassol ou empate",
        "o": "1,23",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "0-0"
       },
       {
        "h": "23:30",
@@ -811,7 +815,7 @@
      "c": "t4",
      "total": "1,78",
      "e": "perdido",
-     "d": "Falhou: Argentina–Uruguai (1-2) · 3 certas, 1 por jogar",
+     "d": "Falhou: Argentina–Uruguai (1-2) · 4 certas",
      "legs": [
       {
        "h": "19:45",
@@ -859,7 +863,9 @@
        "j": "Mirassol–Atlético Mineiro",
        "m": "Dupla hipótese: Mirassol ou empate",
        "o": "1,22",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "0-0"
       }
      ]
     }
@@ -7402,9 +7408,9 @@
  ],
  "estatisticas": {
   "decididos": 192,
-  "ganhos": 107,
-  "pernas": 353,
-  "pernas_ok": 245,
+  "ganhos": 108,
+  "pernas": 355,
+  "pernas_ok": 247,
   "dias": 53,
   "odd_media": "1,42",
   "tipos": [
@@ -7423,9 +7429,9 @@
     "pend": 1
    },
    {
-    "ok": 20,
+    "ok": 21,
     "dec": 47,
-    "pct": 43,
+    "pct": 45,
     "nome": "Múltipla arriscada",
     "pend": 1
    },
@@ -7467,6 +7473,12 @@
     "dec": 3,
     "pct": 100,
     "nome": "Dupla hipótese: Benfica ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
+    "nome": "Dupla hipótese: Mirassol ou empate"
    },
    {
     "ok": 1,
@@ -7993,8 +8005,8 @@
   ],
   "faixas": [
    {
-    "ok": 112,
-    "dec": 138,
+    "ok": 114,
+    "dec": 140,
     "pct": 81,
     "nome": "Odd até 1,25"
    },
@@ -8020,9 +8032,9 @@
     "pend": 4
    },
    {
-    "ok": 1,
+    "ok": 2,
     "dec": 3,
-    "pct": 33,
+    "pct": 67,
     "nome": "Sábado, 14 de novembro",
     "pend": 1
    },

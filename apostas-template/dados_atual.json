@@ -7,22 +7,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Colômbia vence o Chile (1-0)"
+   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Portugal–Dinamarca (1-4) · 1 certa, 1 por jogar"
+   "d": "2 de 3 pernas certas até agora"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Kosovo–Israel (0-0); Áustria–Irlanda (1-0) · 3 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "3 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
