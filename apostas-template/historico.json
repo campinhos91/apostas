@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "1,39",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "03:10",
       "j": "Nova Zelândia–Índia",
       "m": "Dupla hipótese: Nova Zelândia ou empate",
       "o": "1,03",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "19:45",
@@ -54,14 +56,16 @@
     "c": "t3",
     "total": "2,31",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 5 pernas certas até agora",
     "legs": [
      {
       "h": "03:10",
       "j": "Nova Zelândia–Índia",
       "m": "Mais de 1,5 golos",
       "o": "1,09",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "19:45",
@@ -423,8 +427,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,65",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Colômbia–Chile (1-0); Peru–Bolívia (2-0); Mirassol–Atlético-MG (0-0); Chapecoense SC–Vasco da Gama (0-2)",
     "legs": [
      {
       "h": "00:00",
@@ -462,7 +466,9 @@
       "j": "Chapecoense SC–Vasco da Gama",
       "m": "Mais de 1,5 golos",
       "o": "1,12",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "0-2"
      }
     ]
    }

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T23:55:06+00:00",
+ "atualizado": "2026-11-15T10:55:30+00:00",
  "dia": "2026-11-15",
  "rotulo": "Domingo · 15 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -263,14 +263,16 @@
      "c": "t2",
      "total": "1,39",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "03:10",
        "j": "Nova Zelândia–Índia",
        "m": "Dupla hipótese: Nova Zelândia ou empate",
        "o": "1,03",
-       "comp": "Particular de Seleções"
+       "comp": "Particular de Seleções",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "19:45",
@@ -293,14 +295,16 @@
      "c": "t3",
      "total": "2,31",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 5 pernas certas até agora",
      "legs": [
       {
        "h": "03:10",
        "j": "Nova Zelândia–Índia",
        "m": "Mais de 1,5 golos",
        "o": "1,09",
-       "comp": "Particular de Seleções"
+       "comp": "Particular de Seleções",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "19:45",
@@ -662,8 +666,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,65",
-     "e": "nao verificado",
-     "d": "3 de 4 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Colômbia–Chile (1-0); Peru–Bolívia (2-0); Mirassol–Atlético-MG (0-0); Chapecoense SC–Vasco da Gama (0-2)",
      "legs": [
       {
        "h": "00:00",
@@ -701,7 +705,9 @@
        "j": "Chapecoense SC–Vasco da Gama",
        "m": "Mais de 1,5 golos",
        "o": "1,12",
-       "comp": "Primeira Liga (Brasil)"
+       "comp": "Primeira Liga (Brasil)",
+       "r": "ok",
+       "x": "0-2"
       }
      ]
     }
@@ -7407,10 +7413,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 192,
-  "ganhos": 108,
-  "pernas": 355,
-  "pernas_ok": 247,
+  "decididos": 193,
+  "ganhos": 109,
+  "pernas": 358,
+  "pernas_ok": 250,
   "dias": 53,
   "odd_media": "1,42",
   "tipos": [
@@ -7436,11 +7442,11 @@
     "pend": 1
    },
    {
-    "ok": 16,
-    "dec": 48,
-    "pct": 33,
+    "ok": 17,
+    "dec": 49,
+    "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
@@ -7451,9 +7457,9 @@
     "nome": "Resultado final"
    },
    {
-    "ok": 13,
-    "dec": 18,
-    "pct": 72,
+    "ok": 15,
+    "dec": 20,
+    "pct": 75,
     "nome": "Mais de 1,5 golos"
    },
    {
@@ -7557,6 +7563,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Nova Zelândia ou empate"
    },
    {
     "ok": 1,
@@ -8005,9 +8017,9 @@
   ],
   "faixas": [
    {
-    "ok": 114,
-    "dec": 140,
-    "pct": 81,
+    "ok": 117,
+    "dec": 143,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
@@ -8039,11 +8051,11 @@
     "pend": 1
    },
    {
-    "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Sexta-feira, 13 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
