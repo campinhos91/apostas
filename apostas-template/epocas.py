@@ -482,7 +482,7 @@ def jogos_flashscore(pedidos, dia=None):
         try: todos.update(_fs_dia(d))
         except Exception as e: return [{"pedido": p, "erro": f"Flashscore indisponível: {e}"} for p in pedidos]
     jogos = [j for j in todos.values() if j["inicio"].astimezone(lx).date() == dia]
-    alias = carregar_alias()["clubes"]; res = []
+    _a = carregar_alias(); alias = {**_a["clubes"], **_a["selecoes"]}; res = []
     for p in pedidos:
         partes = re.split(r"\s+vence\s+(?:o|a|os|as)\s+|\s+(?:-|–|vs\.?|x)\s+|–", p, maxsplit=1)
         if len(partes) != 2: res.append({"pedido": p, "erro": 'escreve o jogo como "Casa - Fora"'}); continue

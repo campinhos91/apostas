@@ -1,8 +1,4 @@
 liga,epoca,data,casa,fora,gc,gf,neutro,casa_fs,fora_fs
-UCL,2022-2023,2022-07-27,Bodo/Glimt,Linfield,8,0,0,Bodo/Glimt (Nor),Linfield (Nir)
-UCL,2022-2023,2022-07-27,Malmo FF,Zalgiris,0,2,0,Malmo FF (Swe),Zalgiris (Ltu)
-UCL,2022-2023,2022-07-27,Olympiakos,Maccabi Haifa,0,4,0,Olympiacos Piraeus (Gre),Maccabi Haifa (Isr)
-UCL,2022-2023,2022-07-27,Slovan Bratislava,Ferencvaros,1,4,0,Slovan Bratislava (Svk),Ferencvaros (Hun)
 UCL,2022-2023,2022-08-02,Benfica,Midtjylland,4,1,0,Benfica (Por),Midtjylland (Den)
 UCL,2022-2023,2022-08-02,Ludogorets,Din. Zagreb,1,2,0,Ludogorets (Bul),Din. Zagreb (Cro)
 UCL,2022-2023,2022-08-02,Monaco,PSV Eindhoven,1,1,0,Monaco (Fra),PSV (Ned)
@@ -1052,9 +1048,6 @@ UCL,2026-2027,2026-11-04,Porto,Napoli,4,1,0,FC Porto,Napoli
 UCL,2026-2027,2026-11-04,RB Leipzig,Man City,2,3,0,RB Leipzig,Manchester City
 UCL,2026-2027,2026-11-04,Slavia Prague,Arsenal,1,2,0,Slavia Prague,Arsenal
 UCL,2026-2027,2026-11-04,Viking,Sabah FC,4,1,0,Viking,Sabah FC
-UECL,2022-2023,2022-07-27,FC Gomel,Aris,1,2,0,FC Gomel (Blr),Aris (Gre)
-UECL,2022-2023,2022-07-27,Inter Escaldes,CFR Cluj,1,1,0,Inter Escaldes (And),CFR Cluj (Rou)
-UECL,2022-2023,2022-07-27,Klaksvik,Sutjeska,1,0,0,Klaksvik (Fai),Sutjeska (Mne)
 UECL,2022-2023,2022-07-28,APOEL,Botev Plovdiv,2,0,0,APOEL (Cyp),Botev Plovdiv (Bul)
 UECL,2022-2023,2022-07-28,Brondby,Pogon Szczecin,4,0,0,Brondby (Den),Pogon Szczecin (Pol)
 UECL,2022-2023,2022-07-28,Buducnost,Breidablik,2,1,0,Buducnost (Mne),Breidablik (Ice)

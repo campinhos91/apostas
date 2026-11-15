@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-11-15T10:55:30+00:00",
- "dia": "2026-11-15",
- "rotulo": "Domingo · 15 de novembro de 2026",
+ "atualizado": "2026-11-15T23:25:22+00:00",
+ "dia": "2026-11-16",
+ "rotulo": "Segunda-feira · 16 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As principais ligas europeias (Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie) continuam em pausa para a janela de seleções; voltam a partir de 20-21 de novembro. Os boletins de hoje usam jogos da Liga das Nações, amigáveis de seleções, Primeira Liga do Brasil, Primeira Liga do Uruguai e Liga 1 do Peru.",
+ "pausa": "",
  "casa": {
   "nome": "Betclic",
   "url": "https://www.betclic.pt/futebol-s1"
@@ -14,22 +14,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Bielorrússia vence o São Marino (0-2)"
+   "d": "Todas as pernas certas: França vence o Turquia (2-1)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "2 de 3 pernas certas até agora"
+   "d": "Falhou: Espanha–Inglaterra (2-3) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
    "e": "ganho",
-   "d": "Todas as pernas certas: Arménia–Chipre (1-1); Turquia–Bélgica (1-2); Inglaterra–Croácia (2-1); Montenegro–Letónia (2-1)"
+   "d": "Todas as pernas certas: Nova Zelândia–Índia (3-0); França–Turquia (2-1); Croácia–Chéquia (2-1); Espanha–Inglaterra (2-3); Bélgica–Itália (4-1)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "3 de 4 pernas certas até agora"
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -40,8 +40,8 @@
    "legs": [
     {
      "h": "19:45",
-     "j": "França vence o Turquia",
-     "m": "Resultado final",
+     "j": "Suíça–Escócia",
+     "m": "Dupla hipótese: Suíça ou empate",
      "o": "1,19",
      "comp": "Liga das Nações"
     }
@@ -55,28 +55,28 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "03:10",
-     "j": "Nova Zelândia–Índia",
-     "m": "Dupla hipótese: Nova Zelândia ou empate",
-     "o": "1,03",
-     "comp": "Particular de Seleções"
-    },
-    {
      "h": "19:45",
-     "j": "Croácia–Chéquia",
-     "m": "Dupla hipótese: Croácia ou empate",
-     "o": "1,13",
+     "j": "Alemanha–Países Baixos",
+     "m": "Dupla hipótese: Alemanha ou empate",
+     "o": "1,27",
      "comp": "Liga das Nações"
     },
     {
-     "h": "19:45",
-     "j": "Espanha–Inglaterra",
-     "m": "Dupla hipótese: Espanha ou empate",
-     "o": "1,19",
+     "h": "15:00",
+     "j": "Cazaquistão–Eslováquia",
+     "m": "Dupla hipótese: Eslováquia ou empate",
+     "o": "1,26",
+     "comp": "Liga das Nações"
+    },
+    {
+     "h": "15:00",
+     "j": "Ilhas Faroé–Moldávia",
+     "m": "Dupla hipótese: Ilhas Faroé ou empate",
+     "o": "1,17",
      "comp": "Liga das Nações"
     }
    ],
-   "total": "1,39",
+   "total": "1,87",
    "rodape": "3 seleções"
   },
   {
@@ -85,43 +85,29 @@
    "risco": "alto",
    "legs": [
     {
-     "h": "03:10",
-     "j": "Nova Zelândia–Índia",
-     "m": "Mais de 1,5 golos",
-     "o": "1,09",
-     "comp": "Particular de Seleções"
-    },
-    {
      "h": "19:45",
-     "j": "França–Turquia",
-     "m": "Mais de 1,5 golos",
-     "o": "1,06",
+     "j": "Suíça vence a Escócia",
+     "m": "Resultado final",
+     "o": "1,76",
      "comp": "Liga das Nações"
     },
     {
-     "h": "19:45",
-     "j": "Croácia–Chéquia",
+     "h": "15:00",
+     "j": "Cazaquistão–Eslováquia",
      "m": "Mais de 1,5 golos",
-     "o": "1,16",
+     "o": "1,23",
      "comp": "Liga das Nações"
     },
     {
-     "h": "19:45",
-     "j": "Espanha–Inglaterra",
+     "h": "15:00",
+     "j": "Ilhas Faroé–Moldávia",
      "m": "Mais de 1,5 golos",
-     "o": "1,14",
-     "comp": "Liga das Nações"
-    },
-    {
-     "h": "19:45",
-     "j": "Bélgica–Itália",
-     "m": "Mais de 2,5 golos",
-     "o": "1,51",
+     "o": "1,32",
      "comp": "Liga das Nações"
     }
    ],
-   "total": "2,31",
-   "rodape": "5 seleções · falhar uma perde tudo"
+   "total": "2,86",
+   "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
  "proximos": [
@@ -131,116 +117,105 @@
    "risco": "médio",
    "legs": [
     {
-     "d": "SEG",
-     "h": "15:00",
-     "j": "Ilhas Faroé–Moldávia",
-     "m": "Dupla hipótese: Ilhas Faroé ou empate",
-     "o": "1,17",
-     "comp": "Liga das Nações"
-    },
-    {
-     "d": "SEG",
-     "h": "15:00",
-     "j": "Cazaquistão–Eslováquia",
-     "m": "Dupla hipótese: Eslováquia ou empate",
-     "o": "1,19",
-     "comp": "Liga das Nações"
-    },
-    {
+     "h": "13:10",
      "d": "TER",
+     "j": "Japão vence o Paraguai",
+     "m": "Resultado final",
+     "o": "1,71",
+     "comp": "Particular de Seleções"
+    },
+    {
      "h": "23:00",
+     "d": "TER",
      "j": "Argentina vence a Costa Rica",
      "m": "Resultado final",
      "o": "1,11",
      "comp": "Particular de Seleções"
     },
     {
+     "h": "23:00",
      "d": "QUA",
-     "h": "23:30",
-     "j": "Flamengo–Athletico Paranaense",
-     "m": "Dupla hipótese: Flamengo ou empate",
-     "o": "1,04",
-     "comp": "Primeira Liga (Brasil)"
-    },
-    {
-     "d": "QUI",
-     "h": "00:30",
-     "j": "Corinthians–Botafogo",
-     "m": "Dupla hipótese: Corinthians ou empate",
-     "o": "1,18",
-     "comp": "Primeira Liga (Brasil)"
-    },
-    {
-     "d": "QUI",
-     "h": "22:30",
-     "j": "Vasco da Gama–Internacional",
-     "m": "Dupla hipótese: Vasco da Gama ou empate",
-     "o": "1,13",
+     "j": "Remo vence o Chapecoense",
+     "m": "Resultado final",
+     "o": "1,59",
      "comp": "Primeira Liga (Brasil)"
     }
    ],
-   "total": "2,14",
-   "rodape": "6 seleções · segunda, terça, quarta e quinta"
+   "total": "3,02",
+   "rodape": "3 seleções · terça e quarta"
   }
  ],
  "amanha": [
   {
-   "h": "15:00",
-   "d": "SEG",
-   "j": "Ilhas Faroé vence a Moldávia",
+   "h": "13:10",
+   "d": "TER",
+   "j": "Japão vence o Paraguai",
    "m": "Resultado final",
-   "o": "1,74",
-   "comp": "Liga das Nações",
-   "n": "Ilhas Faroé 9V 8E 12D em 3 anos; o modelo dá 57% de vitória às Faroé, muito próximo dos 57% implícitos pela odd; confronto direto favorável (1V 3E 1D nos últimos 5 jogos)."
+   "o": "1,71",
+   "comp": "Particular de Seleções",
+   "n": "Japão venceu 26 de 38 jogos nos últimos 3 anos (forma VEDVEV) e 3 dos últimos 4 confrontos directos com o Paraguai, incluindo 4-1 e 4-2; o modelo dá 67% de vitória do Japão, mais do que os 58% implícitos na odd."
   },
   {
-   "h": "15:00",
-   "d": "SEG",
-   "j": "Eslováquia vence o Cazaquistão",
+   "h": "16:00",
+   "d": "TER",
+   "j": "Rússia vence a Venezuela",
    "m": "Resultado final",
-   "o": "1,73",
-   "comp": "Liga das Nações",
-   "n": "Eslováquia tem melhor forma (18V 6E 10D em 3 anos, forma VEVVEV) mas o modelo só lhe dá 48% fora, abaixo dos 58% implícitos pela odd; o Cazaquistão venceu os 2 confrontos diretos mais recentes."
+   "o": "1,52",
+   "comp": "Particular de Seleções",
+   "n": "Rússia ganhou 16 de 23 jogos nos últimos 3 anos com médias de golos 2,9–0,6 (forma DVVVVE); o modelo dá 60% de vitória da Rússia, perto dos 66% implícitos na odd."
+  },
+  {
+   "h": "23:00",
+   "d": "TER",
+   "j": "Argentina vence a Costa Rica",
+   "m": "Resultado final",
+   "o": "1,11",
+   "comp": "Particular de Seleções",
+   "n": "Argentina venceu 35 de 43 jogos nos últimos 3 anos (forma VDVVVV) e já bateu a Costa Rica 3-1 em 2024; o modelo dá 78% de vitória da Argentina, abaixo dos 90% implícitos na odd mas ainda confortável."
   }
  ],
  "fora": [
   [
-   "Chipre–Montenegro (3,03/3,25/2,17)",
-   "sem favorito claro: o modelo dá 37%/27%/36%"
+   "Macedónia do Norte–Eslovénia: Empate ou Eslovénia (1,11)",
+   "modelo dá 72% para esse resultado quando a odd implica 90%: diferença grande, fica de fora"
   ],
   [
-   "Letónia–Arménia (3,02/3,08/2,25)",
-   "sem favorito claro: o modelo dá 43%/27%/30%"
+   "Gibraltar–Malta: Empate ou Malta (1,09)",
+   "modelo dá 71% quando a odd implica 92%: diferença grande, fica de fora"
   ],
   [
-   "Bielorrússia–Albânia (4,10/3,17/1,85)",
-   "sem favorito claro: o modelo dá só 36%/29%/35%, apesar de a odd favorecer claramente a Albânia"
+   "Catar–Coreia do Sul: Coreia do Sul vence o Catar (1,45)",
+   "modelo dá 51% para a vitória da Coreia do Sul quando a odd implica 69%: diferença grande, fica de fora"
   ],
   [
-   "Comerciantes Unidos–Sport Boys e Juan Pablo II–Deportivo Garcilaso (Peru)",
-   "sem dados fiáveis: liga não coberta pelo modelo"
+   "Estónia–Bulgária",
+   "sem favorito claro: modelo dá 38%/28%/34% para 1/X/2, jogo equilibrado sem seleção de baixo risco"
   ],
   [
-   "Danubio–Liverpool Montevideo e Defensor Sporting–Penarol (Uruguai)",
-   "sem dados fiáveis: liga não coberta pelo modelo"
+   "Andorra–Azerbaijão",
+   "Andorra venceu só 2 de 31 jogos nos últimos 3 anos mas o confronto direto está equilibrado (0V1E0D) e o modelo não dá favorito claro (27%/29%/44%)"
   ],
   [
-   "Cruzeiro–Palmeiras, Grémio–Bahia e Vitória–Bragantino (Brasil, quinta-feira)",
-   "sem favorito claro: o modelo não dá mais de 41% à equipa da casa em nenhum dos três"
+   "Islândia vence o Luxemburgo (1,23)",
+   "modelo dá 65% quando a odd implica 81%: diferença grande para confiar na vitória isolada"
   ],
   [
-   "Taça do Rei de Espanha (5 jogos de quarta-feira, 1ª ronda)",
-   "sem dados fiáveis: clubes de divisões inferiores sem histórico no modelo"
+   "Grécia vence a Sérvia (1,38)",
+   "modelo dá 55% quando a odd implica 72%: fica de fora da vitória isolada"
+  ],
+  [
+   "Singapura–Brasil",
+   "Brasil tão favorito (odd 1,01) que não há valor para os boletins"
   ],
   [
    "Cobertura da Betclic",
-   "betclic.pt respondeu normalmente em todas as competições consultadas (Liga das Nações, amigáveis de seleções, Taça de Rei de Espanha, Primeira Liga do Brasil, Primeira Liga do Uruguai, Liga 1 do Peru, Argentina, MLS, Liga MX, Chile, Dinamarca, Grécia, Costa Rica); as principais ligas europeias estão em pausa; as restantes ligas da lista (africanas, a maioria das asiáticas, nórdicas, etc.) não foram consultadas"
+   "betclic.pt deu 403 (habitual na nuvem); usadas as páginas de competição e de jogo em betclic.com (Liga das Nações e Particular de Seleções); as ligas de clubes europeias (Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Liga Portugal, etc.) estão paradas pela pausa internacional e não tinham jogos"
   ]
  ],
  "historico": [
   {
-   "dia": "2026-11-15",
-   "rotulo": "Domingo · 15 de novembro de 2026",
+   "dia": "2026-11-16",
+   "rotulo": "Segunda-feira · 16 de novembro de 2026",
    "boletins": [
     {
      "t": "Aposta simples segura",
@@ -251,8 +226,8 @@
      "legs": [
       {
        "h": "19:45",
-       "j": "França vence o Turquia",
-       "m": "Resultado final",
+       "j": "Suíça–Escócia",
+       "m": "Dupla hipótese: Suíça ou empate",
        "o": "1,19",
        "comp": "Liga das Nações"
       }
@@ -261,9 +236,126 @@
     {
      "t": "Múltipla segura",
      "c": "t2",
-     "total": "1,39",
+     "total": "1,87",
      "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "j": "Alemanha–Países Baixos",
+       "m": "Dupla hipótese: Alemanha ou empate",
+       "o": "1,27",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "15:00",
+       "j": "Cazaquistão–Eslováquia",
+       "m": "Dupla hipótese: Eslováquia ou empate",
+       "o": "1,26",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "15:00",
+       "j": "Ilhas Faroé–Moldávia",
+       "m": "Dupla hipótese: Ilhas Faroé ou empate",
+       "o": "1,17",
+       "comp": "Liga das Nações"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "2,86",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:45",
+       "j": "Suíça vence a Escócia",
+       "m": "Resultado final",
+       "o": "1,76",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "15:00",
+       "j": "Cazaquistão–Eslováquia",
+       "m": "Mais de 1,5 golos",
+       "o": "1,23",
+       "comp": "Liga das Nações"
+      },
+      {
+       "h": "15:00",
+       "j": "Ilhas Faroé–Moldávia",
+       "m": "Mais de 1,5 golos",
+       "o": "1,32",
+       "comp": "Liga das Nações"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "3,02",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "13:10",
+       "d": "TER",
+       "j": "Japão vence o Paraguai",
+       "m": "Resultado final",
+       "o": "1,71",
+       "comp": "Particular de Seleções"
+      },
+      {
+       "h": "23:00",
+       "d": "TER",
+       "j": "Argentina vence a Costa Rica",
+       "m": "Resultado final",
+       "o": "1,11",
+       "comp": "Particular de Seleções"
+      },
+      {
+       "h": "23:00",
+       "d": "QUA",
+       "j": "Remo vence o Chapecoense",
+       "m": "Resultado final",
+       "o": "1,59",
+       "comp": "Primeira Liga (Brasil)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "dia": "2026-11-15",
+   "rotulo": "Domingo · 15 de novembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,19",
+     "e": "ganho",
+     "d": "Todas as pernas certas: França vence o Turquia (2-1)",
+     "legs": [
+      {
+       "h": "19:45",
+       "j": "França vence o Turquia",
+       "m": "Resultado final",
+       "o": "1,19",
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "2-1"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,39",
+     "e": "perdido",
+     "d": "Falhou: Espanha–Inglaterra (2-3) · 2 certas",
      "legs": [
       {
        "h": "03:10",
@@ -279,14 +371,18 @@
        "j": "Croácia–Chéquia",
        "m": "Dupla hipótese: Croácia ou empate",
        "o": "1,13",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "19:45",
        "j": "Espanha–Inglaterra",
        "m": "Dupla hipótese: Espanha ou empate",
        "o": "1,19",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "no",
+       "x": "2-3"
       }
      ]
     },
@@ -294,8 +390,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,31",
-     "e": "pendente",
-     "d": "1 de 5 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Nova Zelândia–Índia (3-0); França–Turquia (2-1); Croácia–Chéquia (2-1); Espanha–Inglaterra (2-3); Bélgica–Itália (4-1)",
      "legs": [
       {
        "h": "03:10",
@@ -311,28 +407,36 @@
        "j": "França–Turquia",
        "m": "Mais de 1,5 golos",
        "o": "1,06",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "19:45",
        "j": "Croácia–Chéquia",
        "m": "Mais de 1,5 golos",
        "o": "1,16",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "19:45",
        "j": "Espanha–Inglaterra",
        "m": "Mais de 1,5 golos",
        "o": "1,14",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "2-3"
       },
       {
        "h": "19:45",
        "j": "Bélgica–Itália",
        "m": "Mais de 2,5 golos",
        "o": "1,51",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "4-1"
       }
      ]
     },
@@ -340,8 +444,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,14",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "15:00",
@@ -7413,31 +7517,31 @@
   }
  ],
  "estatisticas": {
-  "decididos": 193,
-  "ganhos": 109,
-  "pernas": 358,
-  "pernas_ok": 250,
-  "dias": 53,
-  "odd_media": "1,42",
+  "decididos": 196,
+  "ganhos": 111,
+  "pernas": 365,
+  "pernas_ok": 256,
+  "dias": 54,
+  "odd_media": "1,41",
   "tipos": [
    {
-    "ok": 42,
-    "dec": 49,
+    "ok": 43,
+    "dec": 50,
     "pct": 86,
     "nome": "Aposta simples segura",
     "pend": 1
    },
    {
     "ok": 29,
-    "dec": 48,
-    "pct": 60,
+    "dec": 49,
+    "pct": 59,
     "nome": "Múltipla segura",
     "pend": 1
    },
    {
-    "ok": 21,
-    "dec": 47,
-    "pct": 45,
+    "ok": 22,
+    "dec": 48,
+    "pct": 46,
     "nome": "Múltipla arriscada",
     "pend": 1
    },
@@ -7446,20 +7550,20 @@
     "dec": 49,
     "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 3
+    "pend": 4
    }
   ],
   "mercados": [
    {
-    "ok": 138,
-    "dec": 221,
-    "pct": 62,
+    "ok": 139,
+    "dec": 222,
+    "pct": 63,
     "nome": "Resultado final"
    },
    {
-    "ok": 15,
-    "dec": 20,
-    "pct": 75,
+    "ok": 18,
+    "dec": 23,
+    "pct": 78,
     "nome": "Mais de 1,5 golos"
    },
    {
@@ -7475,22 +7579,28 @@
     "nome": "Dupla hipótese: Juventus ou empate"
    },
    {
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
+    "nome": "Mais de 2,5 golos"
+   },
+   {
     "ok": 3,
     "dec": 3,
     "pct": 100,
     "nome": "Dupla hipótese: Benfica ou empate"
    },
    {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Dupla hipótese: Espanha ou empate"
+   },
+   {
     "ok": 2,
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Mirassol ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 2,
-    "pct": 50,
-    "nome": "Mais de 2,5 golos"
    },
    {
     "ok": 2,
@@ -7574,6 +7684,12 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
+    "nome": "Dupla hipótese: Croácia ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Dupla hipótese: Suécia ou empate"
    },
    {
@@ -7611,12 +7727,6 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Peru ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
-    "nome": "Dupla hipótese: Espanha ou empate"
    },
    {
     "ok": 1,
@@ -8017,8 +8127,8 @@
   ],
   "faixas": [
    {
-    "ok": 117,
-    "dec": 143,
+    "ok": 122,
+    "dec": 149,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
@@ -8029,8 +8139,8 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 60,
-    "dec": 120,
+    "ok": 61,
+    "dec": 121,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
@@ -8040,8 +8150,15 @@
     "ok": 0,
     "dec": 0,
     "pct": null,
-    "nome": "Domingo, 15 de novembro",
+    "nome": "Segunda-feira, 16 de novembro",
     "pend": 4
+   },
+   {
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
+    "nome": "Domingo, 15 de novembro",
+    "pend": 1
    },
    {
     "ok": 2,
