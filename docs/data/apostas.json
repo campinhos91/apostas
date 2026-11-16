@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T16:55:13+00:00",
+ "atualizado": "2026-11-16T19:54:57+00:00",
  "dia": "2026-11-16",
  "rotulo": "Segunda-feira · 16 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -29,7 +29,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "1 de 6 pernas certas até agora"
+   "d": "2 de 6 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -238,7 +238,7 @@
      "c": "t2",
      "total": "1,87",
      "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "d": "2 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
@@ -252,7 +252,9 @@
        "j": "Cazaquistão–Eslováquia",
        "m": "Dupla hipótese: Eslováquia ou empate",
        "o": "1,26",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "2-2"
       },
       {
        "h": "15:00",
@@ -270,7 +272,7 @@
      "c": "t3",
      "total": "2,86",
      "e": "perdido",
-     "d": "Falhou: Ilhas Faroé–Moldávia (1-0) · 0 certas, 2 por jogar",
+     "d": "Falhou: Ilhas Faroé–Moldávia (1-0) · 1 certa, 1 por jogar",
      "legs": [
       {
        "h": "19:45",
@@ -284,7 +286,9 @@
        "j": "Cazaquistão–Eslováquia",
        "m": "Mais de 1,5 golos",
        "o": "1,23",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "2-2"
       },
       {
        "h": "15:00",
@@ -449,7 +453,7 @@
      "c": "t4",
      "total": "2,14",
      "e": "nao verificado",
-     "d": "1 de 6 pernas certas até agora",
+     "d": "2 de 6 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
@@ -467,7 +471,9 @@
        "j": "Cazaquistão–Eslováquia",
        "m": "Dupla hipótese: Eslováquia ou empate",
        "o": "1,19",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "2-2"
       },
       {
        "h": "23:00",
@@ -7525,8 +7531,8 @@
  "estatisticas": {
   "decididos": 197,
   "ganhos": 111,
-  "pernas": 367,
-  "pernas_ok": 257,
+  "pernas": 369,
+  "pernas_ok": 259,
   "dias": 54,
   "odd_media": "1,41",
   "tipos": [
@@ -7567,9 +7573,9 @@
     "nome": "Resultado final"
    },
    {
-    "ok": 18,
-    "dec": 24,
-    "pct": 75,
+    "ok": 19,
+    "dec": 25,
+    "pct": 76,
     "nome": "Mais de 1,5 golos"
    },
    {
@@ -7595,6 +7601,12 @@
     "dec": 3,
     "pct": 100,
     "nome": "Dupla hipótese: Benfica ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
+    "nome": "Dupla hipótese: Eslováquia ou empate"
    },
    {
     "ok": 1,
@@ -7763,12 +7775,6 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Montenegro ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
-    "nome": "Dupla hipótese: Eslováquia ou empate"
    },
    {
     "ok": 1,
@@ -8139,8 +8145,8 @@
   ],
   "faixas": [
    {
-    "ok": 123,
-    "dec": 150,
+    "ok": 125,
+    "dec": 152,
     "pct": 82,
     "nome": "Odd até 1,25"
    },

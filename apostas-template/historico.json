@@ -24,7 +24,7 @@
     "c": "t2",
     "total": "1,87",
     "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
@@ -38,7 +38,9 @@
       "j": "Cazaquistão–Eslováquia",
       "m": "Dupla hipótese: Eslováquia ou empate",
       "o": "1,26",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "15:00",
@@ -56,7 +58,7 @@
     "c": "t3",
     "total": "2,86",
     "e": "perdido",
-    "d": "Falhou: Ilhas Faroé–Moldávia (1-0) · 0 certas, 2 por jogar",
+    "d": "Falhou: Ilhas Faroé–Moldávia (1-0) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -70,7 +72,9 @@
       "j": "Cazaquistão–Eslováquia",
       "m": "Mais de 1,5 golos",
       "o": "1,23",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "15:00",
@@ -235,7 +239,7 @@
     "c": "t4",
     "total": "2,14",
     "e": "nao verificado",
-    "d": "1 de 6 pernas certas até agora",
+    "d": "2 de 6 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -253,7 +257,9 @@
       "j": "Cazaquistão–Eslováquia",
       "m": "Dupla hipótese: Eslováquia ou empate",
       "o": "1,19",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "23:00",
