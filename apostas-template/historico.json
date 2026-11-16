@@ -1,5 +1,150 @@
 [
  {
+  "dia": "2026-11-17",
+  "rotulo": "Terça-feira · 17 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,15",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "13:10",
+      "j": "Japão vence o Paraguai",
+      "m": "Dupla hipótese: Japão ou empate",
+      "o": "1,15",
+      "comp": "Particular de Seleções"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,43",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:45",
+      "j": "País de Gales–Portugal",
+      "m": "Dupla hipótese: Portugal ou empate",
+      "o": "1,10",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Dinamarca–Noruega",
+      "m": "Mais de 1,5 golos",
+      "o": "1,08",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Hungria–Irlanda do Norte",
+      "m": "Dupla hipótese: Hungria ou empate",
+      "o": "1,20",
+      "comp": "Liga das Nações"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,41",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "13:10",
+      "j": "Japão vence o Paraguai",
+      "m": "Resultado final",
+      "o": "1,61",
+      "comp": "Particular de Seleções"
+     },
+     {
+      "h": "19:45",
+      "j": "Bósnia e Herzegovina–Roménia",
+      "m": "Dupla hipótese: Bósnia e Herzegovina ou empate",
+      "o": "1,23",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Israel–Áustria",
+      "m": "Dupla hipótese: Áustria ou empate",
+      "o": "1,21",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Ucrânia–Geórgia",
+      "m": "Dupla hipótese: Ucrânia ou empate",
+      "o": "1,26",
+      "comp": "Liga das Nações"
+     },
+     {
+      "h": "19:45",
+      "j": "Polónia–Suécia",
+      "m": "Mais de 1,5 golos",
+      "o": "1,13",
+      "comp": "Liga das Nações"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,18",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "23:00",
+      "d": "QUA",
+      "j": "Remo–Chapecoense SC",
+      "m": "Mais de 1,5 golos",
+      "o": "1,11",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "23:30",
+      "d": "QUA",
+      "j": "Flamengo–Athletico Paranaense",
+      "m": "Dupla hipótese: Flamengo ou empate",
+      "o": "1,04",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "00:30",
+      "d": "QUI",
+      "j": "Corinthians–Botafogo",
+      "m": "Dupla hipótese: Corinthians ou empate",
+      "o": "1,18",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "12:30",
+      "d": "SÁB",
+      "j": "Manchester City–Fulham",
+      "m": "Dupla hipótese: Manchester City ou empate",
+      "o": "1,08",
+      "comp": "Premier League"
+     },
+     {
+      "h": "17:30",
+      "d": "SÁB",
+      "j": "Arsenal vence o Newcastle",
+      "m": "Resultado final",
+      "o": "1,48",
+      "comp": "Premier League"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-16",
   "rotulo": "Segunda-feira · 16 de novembro de 2026",
   "boletins": [
@@ -7,15 +152,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,19",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Suíça–Escócia (4-0)",
     "legs": [
      {
       "h": "19:45",
       "j": "Suíça–Escócia",
       "m": "Dupla hipótese: Suíça ou empate",
       "o": "1,19",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "4-0"
      }
     ]
    },
@@ -23,15 +170,17 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,87",
-    "e": "pendente",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Alemanha–Países Baixos (5-0); Cazaquistão–Eslováquia (2-2); Ilhas Faroé–Moldávia (1-0)",
     "legs": [
      {
       "h": "19:45",
       "j": "Alemanha–Países Baixos",
       "m": "Dupla hipótese: Alemanha ou empate",
       "o": "1,27",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "5-0"
      },
      {
       "h": "15:00",
@@ -58,14 +207,16 @@
     "c": "t3",
     "total": "2,86",
     "e": "perdido",
-    "d": "Falhou: Ilhas Faroé–Moldávia (1-0) · 1 certa, 1 por jogar",
+    "d": "Falhou: Ilhas Faroé–Moldávia (1-0) · 2 certas",
     "legs": [
      {
       "h": "19:45",
       "j": "Suíça vence a Escócia",
       "m": "Resultado final",
       "o": "1,76",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "15:00",
@@ -91,8 +242,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,02",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "13:10",
