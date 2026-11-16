@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T23:25:22+00:00",
+ "atualizado": "2026-11-16T16:55:13+00:00",
  "dia": "2026-11-16",
  "rotulo": "Segunda-feira · 16 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -29,7 +29,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "1 de 6 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -238,7 +238,7 @@
      "c": "t2",
      "total": "1,87",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "19:45",
@@ -259,7 +259,9 @@
        "j": "Ilhas Faroé–Moldávia",
        "m": "Dupla hipótese: Ilhas Faroé ou empate",
        "o": "1,17",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -267,8 +269,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,86",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Ilhas Faroé–Moldávia (1-0) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "19:45",
@@ -289,7 +291,9 @@
        "j": "Ilhas Faroé–Moldávia",
        "m": "Mais de 1,5 golos",
        "o": "1,32",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "no",
+       "x": "1-0"
       }
      ]
     },
@@ -445,7 +449,7 @@
      "c": "t4",
      "total": "2,14",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "1 de 6 pernas certas até agora",
      "legs": [
       {
        "h": "15:00",
@@ -453,7 +457,9 @@
        "j": "Ilhas Faroé–Moldávia",
        "m": "Dupla hipótese: Ilhas Faroé ou empate",
        "o": "1,17",
-       "comp": "Liga das Nações"
+       "comp": "Liga das Nações",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "15:00",
@@ -7517,10 +7523,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 196,
+  "decididos": 197,
   "ganhos": 111,
-  "pernas": 365,
-  "pernas_ok": 256,
+  "pernas": 367,
+  "pernas_ok": 257,
   "dias": 54,
   "odd_media": "1,41",
   "tipos": [
@@ -7540,10 +7546,10 @@
    },
    {
     "ok": 22,
-    "dec": 48,
-    "pct": 46,
+    "dec": 49,
+    "pct": 45,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 17,
@@ -7562,8 +7568,8 @@
    },
    {
     "ok": 18,
-    "dec": 23,
-    "pct": 78,
+    "dec": 24,
+    "pct": 75,
     "nome": "Mais de 1,5 golos"
    },
    {
@@ -7673,6 +7679,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Ilhas Faroé ou empate"
    },
    {
     "ok": 1,
@@ -8127,15 +8139,15 @@
   ],
   "faixas": [
    {
-    "ok": 122,
-    "dec": 149,
+    "ok": 123,
+    "dec": 150,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
     "ok": 73,
-    "dec": 95,
-    "pct": 77,
+    "dec": 96,
+    "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
@@ -8148,10 +8160,10 @@
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 1,
+    "pct": 0,
     "nome": "Segunda-feira, 16 de novembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 2,

@@ -24,7 +24,7 @@
     "c": "t2",
     "total": "1,87",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "19:45",
@@ -45,7 +45,9 @@
       "j": "Ilhas Faroé–Moldávia",
       "m": "Dupla hipótese: Ilhas Faroé ou empate",
       "o": "1,17",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -53,8 +55,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,86",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Ilhas Faroé–Moldávia (1-0) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "19:45",
@@ -75,7 +77,9 @@
       "j": "Ilhas Faroé–Moldávia",
       "m": "Mais de 1,5 golos",
       "o": "1,32",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "no",
+      "x": "1-0"
      }
     ]
    },
@@ -231,7 +235,7 @@
     "c": "t4",
     "total": "2,14",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 6 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -239,7 +243,9 @@
       "j": "Ilhas Faroé–Moldávia",
       "m": "Dupla hipótese: Ilhas Faroé ou empate",
       "o": "1,17",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "15:00",
