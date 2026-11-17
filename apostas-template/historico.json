@@ -1,5 +1,120 @@
 [
  {
+  "dia": "2026-11-18",
+  "rotulo": "Quarta-feira · 18 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,23",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "23:30",
+      "j": "Flamengo vence o Atlético Paranaense",
+      "m": "Resultado final",
+      "o": "1,23",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,87",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "22:30",
+      "j": "Coritiba–Santos",
+      "m": "Mais de 1,5 golos",
+      "o": "1,19",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "23:00",
+      "j": "Remo–Chapecoense",
+      "m": "Dupla hipótese: Remo ou empate",
+      "o": "1,13",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "23:30",
+      "j": "Cruzeiro–Palmeiras",
+      "m": "Dupla hipótese: Palmeiras ou empate",
+      "o": "1,39",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,09",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "22:30",
+      "j": "Coritiba–Santos",
+      "m": "Dupla hipótese: Coritiba ou empate",
+      "o": "1,62",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "23:00",
+      "j": "Remo vence o Chapecoense",
+      "m": "Resultado final",
+      "o": "1,55",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "23:30",
+      "j": "Flamengo vence o Atlético Paranaense",
+      "m": "Resultado final",
+      "o": "1,23",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,14",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "d": "QUI",
+      "j": "Corinthians–Botafogo",
+      "m": "Mais de 1,5 golos",
+      "o": "1,24",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "03:00",
+      "d": "SEX",
+      "j": "Seattle Sounders–Real Salt Lake",
+      "m": "Dupla hipótese: Seattle Sounders ou empate",
+      "o": "1,26",
+      "comp": "MLS"
+     },
+     {
+      "h": "17:30",
+      "d": "DOM",
+      "j": "PAOK vence o Kifisias",
+      "m": "Resultado final",
+      "o": "1,37",
+      "comp": "Superliga (Grécia)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-17",
   "rotulo": "Terça-feira · 17 de novembro de 2026",
   "boletins": [
@@ -25,29 +140,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,43",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: País de Gales–Portugal (2-3); Dinamarca–Noruega (2-3); Hungria–Irlanda do Norte (1-1)",
     "legs": [
      {
       "h": "19:45",
       "j": "País de Gales–Portugal",
       "m": "Dupla hipótese: Portugal ou empate",
       "o": "1,10",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "2-3"
      },
      {
       "h": "19:45",
       "j": "Dinamarca–Noruega",
       "m": "Mais de 1,5 golos",
       "o": "1,08",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "2-3"
      },
      {
       "h": "19:45",
       "j": "Hungria–Irlanda do Norte",
       "m": "Dupla hipótese: Hungria ou empate",
       "o": "1,20",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "1-1"
      }
     ]
    },
@@ -56,7 +177,7 @@
     "c": "t3",
     "total": "3,41",
     "e": "perdido",
-    "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas, 4 por jogar",
+    "d": "Falhou: Japão vence o Paraguai (1-2) · 4 certas",
     "legs": [
      {
       "h": "13:10",
@@ -72,28 +193,36 @@
       "j": "Bósnia e Herzegovina–Roménia",
       "m": "Dupla hipótese: Bósnia e Herzegovina ou empate",
       "o": "1,23",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "19:45",
       "j": "Israel–Áustria",
       "m": "Dupla hipótese: Áustria ou empate",
       "o": "1,21",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "19:45",
       "j": "Ucrânia–Geórgia",
       "m": "Dupla hipótese: Ucrânia ou empate",
       "o": "1,26",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "1-0"
      },
      {
       "h": "19:45",
       "j": "Polónia–Suécia",
       "m": "Mais de 1,5 golos",
       "o": "1,13",
-      "comp": "Liga das Nações"
+      "comp": "Liga das Nações",
+      "r": "ok",
+      "x": "1-1"
      }
     ]
    },
@@ -101,8 +230,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,18",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "23:00",

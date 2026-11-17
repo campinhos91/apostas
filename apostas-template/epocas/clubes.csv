@@ -3244,7 +3244,6 @@ AUT,2026-11-07,Ried,LASK,2,4,5.29,4.39,1.49
 AUT,2026-11-08,Hartberg,Altach,3,0,2.41,3.38,2.64
 AUT,2026-11-08,Sturm Graz,Salzburg,3,4,2.49,3.63,2.42
 AUT,2026-11-08,Tirol,Austria Vienna,1,1,2.49,3.37,2.57
-B1,2022-07-29,St. Gilloise,Charleroi,1,0,1.68,3.87,4.88
 B1,2022-07-30,Cercle Brugge,Anderlecht,1,0,3.62,3.53,1.99
 B1,2022-07-30,Gent,St Truiden,1,1,1.54,4.08,6.04
 B1,2022-07-30,Oostende,Mechelen,2,1,2.71,3.5,2.44
@@ -10033,7 +10032,6 @@ D2,2026-11-07,Osnabruck,Kaiserslautern,0,1,2.56,3.54,2.4
 D2,2026-11-08,Bochum,Karlsruhe,3,2,1.79,3.84,3.73
 D2,2026-11-08,Heidenheim,Hannover,2,2,2.02,3.73,3.07
 D2,2026-11-08,Magdeburg,St Pauli,4,1,2.3,3.5,2.69
-DNK,2022-07-29,Odense,Midtjylland,1,5,3.54,3.6,1.99
 DNK,2022-07-31,Aalborg,Horsens,0,0,2.24,3.4,3.09
 DNK,2022-07-31,Aarhus,Randers FC,0,0,2.37,3.41,2.89
 DNK,2022-07-31,Silkeborg,Brondby,2,0,1.68,4.04,4.61
@@ -12495,7 +12493,6 @@ E0,2026-11-08,Crystal Palace,Liverpool,1,3,5.15,4.27,1.57
 E0,2026-11-08,Ipswich,Bournemouth,1,2,3.72,3.69,1.9
 E0,2026-11-08,Man United,Aston Villa,4,4,2.13,3.68,3.07
 E0,2026-11-08,Sunderland,Chelsea,1,0,3.68,3.6,1.93
-E1,2022-07-29,Huddersfield,Burnley,0,1,2.95,3.2,2.5
 E1,2022-07-30,Blackburn,QPR,1,0,2.05,3.49,3.6
 E1,2022-07-30,Blackpool,Reading,1,0,1.99,3.49,3.8
 E1,2022-07-30,Cardiff,Norwich,1,0,3.03,3.32,2.37
@@ -17750,7 +17747,6 @@ F2,2026-11-06,Nancy,Sochaux,1,0,1.59,3.7,5.09
 F2,2026-11-07,Clermont,Rodez,1,0,2.96,3.37,2.17
 F2,2026-11-07,Pau FC,Nantes,0,2,2.89,3.21,2.29
 F2,2026-11-07,St Etienne,Laval,2,0,1.33,4.76,7.52
-FIN,2022-07-29,Lahti,Ilves,1,1,3.14,3.56,2.13
 FIN,2022-07-30,HJK,Mariehamn,1,0,1.31,5.54,8.22
 FIN,2022-07-30,Honka,VPS,4,0,1.76,3.57,4.53
 FIN,2022-07-31,Haka,KuPS,2,1,3.01,3.33,2.29
@@ -30070,8 +30066,6 @@ P1,2026-11-08,Guimaraes,Porto,1,2,4.83,3.85,1.63
 P1,2026-11-08,Nacional,Academico Viseu,1,0,2.94,3.27,2.33
 P1,2026-11-08,Rio Ave,Sp Braga,0,1,5.66,4.1,1.52
 P1,2026-11-08,Santa Clara,Gil Vicente,1,2,2.2,3.05,3.36
-POL,2022-07-29,Cracovia,Legia,3,0,2.74,3.05,2.64
-POL,2022-07-29,Piast Gliwice,Zaglebie,0,1,2.06,3.24,3.6
 POL,2022-07-30,Legnica,Warta Poznan,1,2,2.41,2.99,3.1
 POL,2022-07-30,Radomiak Radom,Gornik Z.,0,3,2.36,3.3,2.9
 POL,2022-07-31,Lech Poznan,Wisla Plock,1,3,1.78,3.73,4.12
@@ -31403,8 +31397,6 @@ POL,2026-11-07,Widzew Lodz,Pogon Szczecin,3,0,1.88,3.47,3.66
 POL,2026-11-08,Jagiellonia,GKS Katowice,1,0,1.88,3.76,3.37
 POL,2026-11-08,Lech Poznan,Zaglebie,2,2,1.45,4.37,5.76
 POL,2026-11-08,Legia,Rakow,2,4,2,3.44,3.31
-ROU,2022-07-29,FC Arges,U. Cluj,3,1,2.78,2.87,2.69
-ROU,2022-07-29,Farul Constanta,Chindia Targoviste,0,0,1.89,3.06,4.47
 ROU,2022-07-30,CFR Cluj,Mioveni,4,2,1.27,4.97,11.06
 ROU,2022-07-30,FC Voluntari,UTA Arad,3,0,3.15,2.85,2.43
 ROU,2022-07-31,FCSB,U Craiova 1948,1,1,1.68,3.82,4.4
@@ -32785,7 +32777,6 @@ ROU,2026-11-07,Farul Constanta,FC Rapid Bucuresti,1,1,2.85,3.19,2.29
 ROU,2026-11-08,CFR Cluj,Univ. Craiova,0,0,5.74,4.09,1.47
 ROU,2026-11-08,Sepsi Sf. Gheorghe,FC Voluntari,2,1,1.97,3.29,3.48
 ROU,2026-11-09,FC Botosani,Otelul,1,1,2.23,3.25,2.93
-RUS,2022-07-29,Ural,Krasnodar,1,3,2.65,3.26,2.74
 RUS,2022-07-30,Fakel Voronezh,Dynamo Moscow,3,3,3.3,3.46,2.19
 RUS,2022-07-30,Sochi,Akhmat Grozny,2,1,2,3.54,3.75
 RUS,2022-07-30,Zenit,Lokomotiv Moscow,5,0,1.27,6.35,9.88
