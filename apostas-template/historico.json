@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,15",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas",
     "legs": [
      {
       "h": "13:10",
       "j": "Japão vence o Paraguai",
       "m": "Dupla hipótese: Japão ou empate",
       "o": "1,15",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "no",
+      "x": "1-2"
      }
     ]
    },
@@ -53,15 +55,17 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,41",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas, 4 por jogar",
     "legs": [
      {
       "h": "13:10",
       "j": "Japão vence o Paraguai",
       "m": "Resultado final",
       "o": "1,61",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "19:45",
@@ -242,8 +246,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,02",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas, 2 por jogar",
     "legs": [
      {
       "h": "13:10",
@@ -251,7 +255,9 @@
       "j": "Japão vence o Paraguai",
       "m": "Resultado final",
       "o": "1,71",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "no",
+      "x": "1-2"
      },
      {
       "h": "23:00",

@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-16T23:24:38+00:00",
+ "atualizado": "2026-11-17T16:54:59+00:00",
  "dia": "2026-11-17",
  "rotulo": "Terça-feira · 17 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -28,8 +28,8 @@
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas, 2 por jogar"
   }
  ],
  "hoje": [
@@ -251,15 +251,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,15",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas",
      "legs": [
       {
        "h": "13:10",
        "j": "Japão vence o Paraguai",
        "m": "Dupla hipótese: Japão ou empate",
        "o": "1,15",
-       "comp": "Particular de Seleções"
+       "comp": "Particular de Seleções",
+       "r": "no",
+       "x": "1-2"
       }
      ]
     },
@@ -297,15 +299,17 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,41",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas, 4 por jogar",
      "legs": [
       {
        "h": "13:10",
        "j": "Japão vence o Paraguai",
        "m": "Resultado final",
        "o": "1,61",
-       "comp": "Particular de Seleções"
+       "comp": "Particular de Seleções",
+       "r": "no",
+       "x": "1-2"
       },
       {
        "h": "19:45",
@@ -486,8 +490,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "3,02",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas, 2 por jogar",
      "legs": [
       {
        "h": "13:10",
@@ -495,7 +499,9 @@
        "j": "Japão vence o Paraguai",
        "m": "Resultado final",
        "o": "1,71",
-       "comp": "Particular de Seleções"
+       "comp": "Particular de Seleções",
+       "r": "no",
+       "x": "1-2"
       },
       {
        "h": "23:00",
@@ -7710,19 +7716,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 199,
+  "decididos": 202,
   "ganhos": 113,
-  "pernas": 371,
+  "pernas": 373,
   "pernas_ok": 261,
   "dias": 55,
   "odd_media": "1,41",
   "tipos": [
    {
     "ok": 44,
-    "dec": 51,
-    "pct": 86,
+    "dec": 52,
+    "pct": 85,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 30,
@@ -7733,24 +7739,24 @@
    },
    {
     "ok": 22,
-    "dec": 49,
-    "pct": 45,
+    "dec": 50,
+    "pct": 44,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 17,
-    "dec": 49,
-    "pct": 35,
+    "dec": 50,
+    "pct": 34,
     "nome": "Múltipla dos próximos dias",
-    "pend": 5
+    "pend": 4
    }
   ],
   "mercados": [
    {
     "ok": 139,
-    "dec": 222,
-    "pct": 63,
+    "dec": 223,
+    "pct": 62,
     "nome": "Resultado final"
    },
    {
@@ -7872,6 +7878,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 0,
+    "dec": 1,
+    "pct": 0,
+    "nome": "Dupla hipótese: Japão ou empate"
    },
    {
     "ok": 1,
@@ -8339,7 +8351,7 @@
   "faixas": [
    {
     "ok": 126,
-    "dec": 153,
+    "dec": 154,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
@@ -8351,7 +8363,7 @@
    },
    {
     "ok": 61,
-    "dec": 121,
+    "dec": 122,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
@@ -8359,17 +8371,17 @@
   "por_dia": [
    {
     "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "dec": 2,
+    "pct": 0,
     "nome": "Terça-feira, 17 de novembro",
-    "pend": 4
+    "pend": 2
    },
    {
     "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "dec": 4,
+    "pct": 50,
     "nome": "Segunda-feira, 16 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,
