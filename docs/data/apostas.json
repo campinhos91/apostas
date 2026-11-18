@@ -1,11 +1,11 @@
 {
- "atualizado": "2026-11-18T10:55:08+00:00",
- "dia": "2026-11-18",
- "rotulo": "Quarta-feira · 18 de novembro de 2026",
+ "atualizado": "2026-11-18T23:24:20+00:00",
+ "dia": "2026-11-19",
+ "rotulo": "Quinta-feira · 19 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
- "pausa": "As principais ligas de clubes europeias, incluindo a Liga Portugal Betclic, continuam em pausa pela janela internacional de novembro; a Liga Portugal Betclic volta a 27 de novembro.",
+ "pausa": "A Liga Portugal Betclic continua em pausa pela janela internacional de novembro e só volta a 27 de novembro; as outras principais ligas de clubes europeias (Premier League, Championship, Escócia, Grécia, Noruega, Suécia, etc.) retomam já este fim de semana, 20 a 23 de novembro.",
  "casa": {
   "nome": "Betclic",
   "url": "https://www.betclic.pt/futebol-s1"
@@ -13,18 +13,18 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: País de Gales–Portugal (2-3); Dinamarca–Noruega (2-3); Hungria–Irlanda do Norte (1-1)"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Japão vence o Paraguai (1-2) · 4 certas"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -39,14 +39,14 @@
    "risco": "baixo",
    "legs": [
     {
-     "h": "23:30",
-     "j": "Flamengo vence o Atlético Paranaense",
-     "m": "Resultado final",
-     "o": "1,23",
-     "comp": "Primeira Liga (Brasil)"
+     "h": "19:30",
+     "j": "Peñarol–Cerro Largo",
+     "m": "Dupla hipótese: Peñarol ou empate",
+     "o": "1,07",
+     "comp": "Primeira Liga (Uruguai)"
     }
    ],
-   "total": "1,23",
+   "total": "1,07",
    "rodape": "Uma seleção"
   },
   {
@@ -55,28 +55,28 @@
    "risco": "médio",
    "legs": [
     {
+     "h": "19:30",
+     "j": "Peñarol–Cerro Largo",
+     "m": "Dupla hipótese: Peñarol ou empate",
+     "o": "1,07",
+     "comp": "Primeira Liga (Uruguai)"
+    },
+    {
+     "h": "19:30",
+     "j": "Boston River–Deportivo Maldonado",
+     "m": "Dupla hipótese: Deportivo Maldonado ou empate",
+     "o": "1,17",
+     "comp": "Primeira Liga (Uruguai)"
+    },
+    {
      "h": "22:30",
-     "j": "Coritiba–Santos",
-     "m": "Mais de 1,5 golos",
-     "o": "1,19",
-     "comp": "Primeira Liga (Brasil)"
-    },
-    {
-     "h": "23:00",
-     "j": "Remo–Chapecoense",
-     "m": "Dupla hipótese: Remo ou empate",
-     "o": "1,13",
-     "comp": "Primeira Liga (Brasil)"
-    },
-    {
-     "h": "23:30",
-     "j": "Cruzeiro–Palmeiras",
-     "m": "Dupla hipótese: Palmeiras ou empate",
-     "o": "1,39",
+     "j": "Vitória–Bragantino",
+     "m": "Dupla hipótese: Vitória ou empate",
+     "o": "1,43",
      "comp": "Primeira Liga (Brasil)"
     }
    ],
-   "total": "1,87",
+   "total": "1,79",
    "rodape": "3 seleções"
   },
   {
@@ -85,28 +85,28 @@
    "risco": "alto",
    "legs": [
     {
+     "h": "00:30",
+     "j": "Corinthians–Botafogo",
+     "m": "Mais de 1,5 golos",
+     "o": "1,21",
+     "comp": "Primeira Liga (Brasil)"
+    },
+    {
      "h": "22:30",
-     "j": "Coritiba–Santos",
-     "m": "Dupla hipótese: Coritiba ou empate",
-     "o": "1,62",
+     "j": "Vasco–Internacional",
+     "m": "Mais de 1,5 golos",
+     "o": "1,16",
      "comp": "Primeira Liga (Brasil)"
     },
     {
-     "h": "23:00",
-     "j": "Remo vence o Chapecoense",
-     "m": "Resultado final",
-     "o": "1,55",
-     "comp": "Primeira Liga (Brasil)"
-    },
-    {
-     "h": "23:30",
-     "j": "Flamengo vence o Atlético Paranaense",
-     "m": "Resultado final",
-     "o": "1,23",
+     "h": "22:30",
+     "j": "Vitória–Bragantino",
+     "m": "Dupla hipótese: Vitória ou empate",
+     "o": "1,43",
      "comp": "Primeira Liga (Brasil)"
     }
    ],
-   "total": "3,09",
+   "total": "2,01",
    "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
@@ -117,14 +117,6 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "00:30",
-     "d": "QUI",
-     "j": "Corinthians–Botafogo",
-     "m": "Mais de 1,5 golos",
-     "o": "1,24",
-     "comp": "Primeira Liga (Brasil)"
-    },
-    {
      "h": "03:00",
      "d": "SEX",
      "j": "Seattle Sounders–Real Salt Lake",
@@ -133,87 +125,229 @@
      "comp": "MLS"
     },
     {
+     "h": "23:00",
+     "d": "SEX",
+     "j": "Vélez Sarsfield–Belgrano",
+     "m": "Dupla hipótese: Vélez Sarsfield ou empate",
+     "o": "1,25",
+     "comp": "Primeira Liga (Argentina)"
+    },
+    {
+     "h": "12:30",
+     "d": "SÁB",
+     "j": "Manchester City–Fulham",
+     "m": "Dupla hipótese: Manchester City ou empate",
+     "o": "1,08",
+     "comp": "Premier League"
+    },
+    {
      "h": "17:30",
+     "d": "SÁB",
+     "j": "Newcastle–Arsenal",
+     "m": "Dupla hipótese: Arsenal ou empate",
+     "o": "1,11",
+     "comp": "Premier League"
+    },
+    {
+     "h": "22:00",
      "d": "DOM",
-     "j": "PAOK vence o Kifisias",
-     "m": "Resultado final",
-     "o": "1,37",
-     "comp": "Superliga (Grécia)"
+     "j": "River Plate–Lanús",
+     "m": "Dupla hipótese: River Plate ou empate",
+     "o": "1,10",
+     "comp": "Primeira Liga (Argentina)"
     }
    ],
-   "total": "2,14",
-   "rodape": "3 seleções · quinta, sexta e domingo"
+   "total": "2,08",
+   "rodape": "5 seleções · sexta, sábado e domingo"
   }
  ],
  "amanha": [
   {
    "h": "00:30",
-   "d": "QUI",
-   "j": "Corinthians vence o Botafogo",
-   "m": "Resultado final",
-   "o": "1,81",
+   "d": "SEX",
+   "j": "São Paulo–Fluminense",
+   "m": "Dupla hipótese: São Paulo ou empate",
+   "o": "1,33",
    "comp": "Primeira Liga (Brasil)",
-   "n": "Corinthians tem casa irregular nas últimas 2 épocas (17V 10E 12D, forma DDEDVE) e o confronto direto é equilibrado, até ligeiramente a favor do Botafogo (2V 2E 4D); o modelo dá só 41% de vitória do Corinthians, bem abaixo dos 55% implícitos na odd."
+   "n": "São Paulo ganhou 20 de 38 jogos em casa nas últimas 2 épocas (forma DVVEDE), mas o confronto direto pesa para o Fluminense (5V 0E 3D nos últimos 8); o modelo dá 68% de dupla hipótese, perto dos 75% implícitos na odd — alinhamento razoável."
   },
   {
    "h": "00:30",
-   "d": "QUI",
-   "j": "Grémio vence a Bahia",
-   "m": "Resultado final",
-   "o": "2,20",
-   "comp": "Primeira Liga (Brasil)",
-   "n": "Grémio ganhou 18 de 39 jogos em casa nas últimas 2 épocas e o confronto direto é equilibrado (3V 1E 3D); o modelo dá 41% de vitória do Grémio, perto dos 45% implícitos na odd — alinhamento razoável."
+   "d": "SEX",
+   "j": "Orlando City–FC Cincinnati",
+   "m": "Dupla hipótese: Orlando City ou empate",
+   "o": "1,22",
+   "comp": "MLS",
+   "n": "Orlando City ganhou 19 de 36 jogos em casa nas últimas 2 épocas (forma EVEEDV) e o confronto direto é equilibrado (2V 3E 3D a favor do Orlando); o modelo dá 70% de dupla hipótese, abaixo dos 82% implícitos na odd — diferença moderada, mas ambas as equipas marcam em mais de 60% dos jogos."
   },
   {
-   "h": "22:30",
-   "d": "QUI",
-   "j": "Vasco vence o Internacional",
-   "m": "Resultado final",
-   "o": "1,62",
-   "comp": "Primeira Liga (Brasil)",
-   "n": "Vasco ganhou só 17 de 39 jogos em casa nas últimas 2 épocas (forma EDVDVV) e o Internacional é fraco fora (7V 11E 21D); mesmo assim o modelo dá 46% de vitória do Vasco, bem abaixo dos 62% implícitos na odd — seleção arriscada."
-  },
-  {
-   "h": "22:30",
-   "d": "QUI",
-   "j": "Vitória vence o Bragantino",
-   "m": "Resultado final",
-   "o": "2,62",
-   "comp": "Primeira Liga (Brasil)",
-   "n": "Vitória ganhou 20 de 38 jogos em casa nas últimas 2 épocas e o confronto direto favorece-o (2V 0E 3D, mas com derrotas pesadas recentes); o modelo dá 38% de vitória do Vitória, quase igual aos 38% implícitos na odd — alinhamento muito bom."
+   "h": "17:30",
+   "d": "SEX",
+   "j": "Al Ahli–Al Nassr",
+   "m": "Dupla hipótese: Empate ou Al-Nassr",
+   "o": "1,30",
+   "comp": "Primeira Liga (Arábia Saudita)",
+   "n": "Sem dados de épocas passadas para a Arábia Saudita no modelo; o Al-Nassr é 3º (28 pontos) e o Al Ahli 6º (21), com o Al Ahli a lidar com cerca de 6 desfalques e o defesa do Al-Nassr Al-Amri já recuperado de uma entorse ligeira — contexto favorece o Al-Nassr mesmo fora."
   }
  ],
  "fora": [
   [
-   "Panathinaikos vence o OFI Crete (1,21)",
-   "modelo dá 66% quando a odd implica 83%: diferença grande, fica de fora da vitória isolada"
+   "Independiente Medellín ou empate vs Santa Fe (1,23)",
+   "sem dados de épocas passadas para a Primeira Liga (Colômbia) no modelo"
   ],
   [
-   "Olympiakos vence o Iraklis (1,15)",
-   "AVISO: Iraklis só tem 10 jogos recentes nos dados, estimativa pouco fiável, e o modelo (69%) já fica bem abaixo dos 87% implícitos na odd"
+   "Atlético Bucaramanga ou empate vs América de Cali (1,32)",
+   "sem dados de épocas passadas para a Primeira Liga (Colômbia) no modelo"
   ],
   [
-   "River Plate vence o Lanús (1,59)",
-   "jogo de play-off; modelo dá 47% quando a odd implica 63%: diferença grande, fica de fora da vitória isolada"
+   "Dínamo Bucareste vence o Petrolul (1,30)",
+   "sem dados de épocas passadas para a Primeira Liga (Roménia) no modelo"
   ],
   [
-   "Celtic vence o St Mirren (1,15)",
-   "modelo dá 76% quando a odd implica 87%: diferença grande, fica de fora da vitória isolada"
+   "Corinthians vence o Botafogo (1,61)",
+   "modelo dá só 41% de vitória do Corinthians quando a odd implica 62%: diferença grande, preferimos 'mais de 1,5 golos' no boletim arriscado em vez da vitória isolada"
   ],
   [
-   "Dinamo Bucareste vence o Petrolul (1,38)",
-   "sem dados de épocas passadas para a Liga Romena no modelo"
-  ],
-  [
-   "Argentina–Costa Rica, Chile–Colômbia, Uruguai–Rep. Dominicana e Equador–Bolívia",
-   "amigáveis sul-americanos de seleções: os dois primeiros já estavam a decorrer e os outros sem dados fiáveis de seleções menores"
+   "Vasco vence o Internacional (1,59)",
+   "modelo dá 46% de vitória do Vasco quando a odd implica 63%: diferença grande, fica de fora da vitória isolada"
   ],
   [
    "Cobertura da Betclic",
-   "betclic.pt respondeu 403 (habitual na nuvem); usámos betclic.com, que listou normalmente Liga das Nações (sem jogos agendados hoje/amanhã), Brasil Série A, Argentina Primera, MLS, México Liga MX, Liga Portugal Betclic (pausa até 27/11), Escócia, Sérvia, Roménia, Arábia Saudita, Grécia, Japão J-League 2, Coreia do Sul e Amigáveis de Seleções; não foram consultadas as restantes ligas da lista"
+   "consultámos betclic.pt (sem bloqueio 403 hoje) em Brasil Série A, Uruguai Primera, MLS, Argentina Primera, Colômbia Primera A, Arábia Saudita, Roménia Liga 1, Liga Portugal Betclic (pausa até 27/11), Liga dos Campeões, Liga Europa, Liga Conferência, Liga das Nações, Amigáveis Seleções, Premier League, Championship, Escócia, Sérvia, Grécia, Noruega, Suécia e Argélia; o dia 19/11 só teve jogos reais no Brasil Série A e no Uruguai Primera por causa da pausa internacional; não foram consultadas as restantes ligas da lista (Bélgica, Suíça, Áustria, Países Baixos, Bulgária, Finlândia, Geórgia, Chile, Peru, Costa Rica, Guatemala, Honduras, Japão, Coreia do Sul, Uzbequistão, Angola)"
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-11-19",
+   "rotulo": "Quinta-feira · 19 de novembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,07",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:30",
+       "j": "Peñarol–Cerro Largo",
+       "m": "Dupla hipótese: Peñarol ou empate",
+       "o": "1,07",
+       "comp": "Primeira Liga (Uruguai)"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,79",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "19:30",
+       "j": "Peñarol–Cerro Largo",
+       "m": "Dupla hipótese: Peñarol ou empate",
+       "o": "1,07",
+       "comp": "Primeira Liga (Uruguai)"
+      },
+      {
+       "h": "19:30",
+       "j": "Boston River–Deportivo Maldonado",
+       "m": "Dupla hipótese: Deportivo Maldonado ou empate",
+       "o": "1,17",
+       "comp": "Primeira Liga (Uruguai)"
+      },
+      {
+       "h": "22:30",
+       "j": "Vitória–Bragantino",
+       "m": "Dupla hipótese: Vitória ou empate",
+       "o": "1,43",
+       "comp": "Primeira Liga (Brasil)"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "2,01",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "00:30",
+       "j": "Corinthians–Botafogo",
+       "m": "Mais de 1,5 golos",
+       "o": "1,21",
+       "comp": "Primeira Liga (Brasil)"
+      },
+      {
+       "h": "22:30",
+       "j": "Vasco–Internacional",
+       "m": "Mais de 1,5 golos",
+       "o": "1,16",
+       "comp": "Primeira Liga (Brasil)"
+      },
+      {
+       "h": "22:30",
+       "j": "Vitória–Bragantino",
+       "m": "Dupla hipótese: Vitória ou empate",
+       "o": "1,43",
+       "comp": "Primeira Liga (Brasil)"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "2,08",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "03:00",
+       "d": "SEX",
+       "j": "Seattle Sounders–Real Salt Lake",
+       "m": "Dupla hipótese: Seattle Sounders ou empate",
+       "o": "1,26",
+       "comp": "MLS"
+      },
+      {
+       "h": "23:00",
+       "d": "SEX",
+       "j": "Vélez Sarsfield–Belgrano",
+       "m": "Dupla hipótese: Vélez Sarsfield ou empate",
+       "o": "1,25",
+       "comp": "Primeira Liga (Argentina)"
+      },
+      {
+       "h": "12:30",
+       "d": "SÁB",
+       "j": "Manchester City–Fulham",
+       "m": "Dupla hipótese: Manchester City ou empate",
+       "o": "1,08",
+       "comp": "Premier League"
+      },
+      {
+       "h": "17:30",
+       "d": "SÁB",
+       "j": "Newcastle–Arsenal",
+       "m": "Dupla hipótese: Arsenal ou empate",
+       "o": "1,11",
+       "comp": "Premier League"
+      },
+      {
+       "h": "22:00",
+       "d": "DOM",
+       "j": "River Plate–Lanús",
+       "m": "Dupla hipótese: River Plate ou empate",
+       "o": "1,10",
+       "comp": "Primeira Liga (Argentina)"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-11-18",
    "rotulo": "Quarta-feira · 18 de novembro de 2026",
@@ -222,8 +356,8 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,23",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "23:30",
@@ -238,8 +372,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,87",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "22:30",
@@ -268,8 +402,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,09",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "22:30",
@@ -298,8 +432,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,14",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "00:30",
@@ -7824,7 +7958,7 @@
   "ganhos": 114,
   "pernas": 381,
   "pernas_ok": 269,
-  "dias": 56,
+  "dias": 57,
   "odd_media": "1,41",
   "tipos": [
    {
@@ -7832,28 +7966,28 @@
     "dec": 52,
     "pct": 85,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 2
    },
    {
     "ok": 31,
     "dec": 51,
     "pct": 61,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 2
    },
    {
     "ok": 22,
     "dec": 50,
     "pct": 44,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 2
    },
    {
     "ok": 17,
     "dec": 50,
     "pct": 34,
     "nome": "Múltipla dos próximos dias",
-    "pend": 5
+    "pend": 6
    }
   ],
   "mercados": [
@@ -8497,6 +8631,13 @@
    }
   ],
   "por_dia": [
+   {
+    "ok": 0,
+    "dec": 0,
+    "pct": null,
+    "nome": "Quinta-feira, 19 de novembro",
+    "pend": 4
+   },
    {
     "ok": 0,
     "dec": 0,

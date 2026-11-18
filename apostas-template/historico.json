@@ -1,5 +1,136 @@
 [
  {
+  "dia": "2026-11-19",
+  "rotulo": "Quinta-feira · 19 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,07",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:30",
+      "j": "Peñarol–Cerro Largo",
+      "m": "Dupla hipótese: Peñarol ou empate",
+      "o": "1,07",
+      "comp": "Primeira Liga (Uruguai)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,79",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:30",
+      "j": "Peñarol–Cerro Largo",
+      "m": "Dupla hipótese: Peñarol ou empate",
+      "o": "1,07",
+      "comp": "Primeira Liga (Uruguai)"
+     },
+     {
+      "h": "19:30",
+      "j": "Boston River–Deportivo Maldonado",
+      "m": "Dupla hipótese: Deportivo Maldonado ou empate",
+      "o": "1,17",
+      "comp": "Primeira Liga (Uruguai)"
+     },
+     {
+      "h": "22:30",
+      "j": "Vitória–Bragantino",
+      "m": "Dupla hipótese: Vitória ou empate",
+      "o": "1,43",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,01",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "j": "Corinthians–Botafogo",
+      "m": "Mais de 1,5 golos",
+      "o": "1,21",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "22:30",
+      "j": "Vasco–Internacional",
+      "m": "Mais de 1,5 golos",
+      "o": "1,16",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "22:30",
+      "j": "Vitória–Bragantino",
+      "m": "Dupla hipótese: Vitória ou empate",
+      "o": "1,43",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,08",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "03:00",
+      "d": "SEX",
+      "j": "Seattle Sounders–Real Salt Lake",
+      "m": "Dupla hipótese: Seattle Sounders ou empate",
+      "o": "1,26",
+      "comp": "MLS"
+     },
+     {
+      "h": "23:00",
+      "d": "SEX",
+      "j": "Vélez Sarsfield–Belgrano",
+      "m": "Dupla hipótese: Vélez Sarsfield ou empate",
+      "o": "1,25",
+      "comp": "Primeira Liga (Argentina)"
+     },
+     {
+      "h": "12:30",
+      "d": "SÁB",
+      "j": "Manchester City–Fulham",
+      "m": "Dupla hipótese: Manchester City ou empate",
+      "o": "1,08",
+      "comp": "Premier League"
+     },
+     {
+      "h": "17:30",
+      "d": "SÁB",
+      "j": "Newcastle–Arsenal",
+      "m": "Dupla hipótese: Arsenal ou empate",
+      "o": "1,11",
+      "comp": "Premier League"
+     },
+     {
+      "h": "22:00",
+      "d": "DOM",
+      "j": "River Plate–Lanús",
+      "m": "Dupla hipótese: River Plate ou empate",
+      "o": "1,10",
+      "comp": "Primeira Liga (Argentina)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-18",
   "rotulo": "Quarta-feira · 18 de novembro de 2026",
   "boletins": [
@@ -7,8 +138,8 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,23",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "23:30",
@@ -23,8 +154,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,87",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "22:30",
@@ -53,8 +184,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,09",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "22:30",
@@ -83,8 +214,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,14",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "00:30",
