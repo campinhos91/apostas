@@ -376,7 +376,7 @@
     "c": "t4",
     "total": "3,02",
     "e": "perdido",
-    "d": "Falhou: Japão vence o Paraguai (1-2) · 0 certas, 2 por jogar",
+    "d": "Falhou: Japão vence o Paraguai (1-2) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "13:10",
@@ -394,7 +394,9 @@
       "j": "Argentina vence a Costa Rica",
       "m": "Resultado final",
       "o": "1,11",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "7-0"
      },
      {
       "h": "23:00",
@@ -525,7 +527,7 @@
     "c": "t4",
     "total": "2,14",
     "e": "nao verificado",
-    "d": "2 de 6 pernas certas até agora",
+    "d": "3 de 6 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -553,7 +555,9 @@
       "j": "Argentina vence a Costa Rica",
       "m": "Resultado final",
       "o": "1,11",
-      "comp": "Particular de Seleções"
+      "comp": "Particular de Seleções",
+      "r": "ok",
+      "x": "7-0"
      },
      {
       "h": "23:30",
