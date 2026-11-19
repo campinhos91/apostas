@@ -1,31 +1,4 @@
 data,casa,fora,gc,gf,torneio,neutro
-2014-11-18,Austria,Brazil,1,2,Friendly,0
-2014-11-18,Belarus,Mexico,3,2,Friendly,0
-2014-11-18,Bolivia,Venezuela,3,2,Friendly,0
-2014-11-18,Chile,Uruguay,1,2,Friendly,0
-2014-11-18,China,Honduras,0,0,Friendly,0
-2014-11-18,Cuba,Haiti,1,2,CFU Caribbean Cup,1
-2014-11-18,Estonia,Jordan,1,0,Friendly,0
-2014-11-18,France,Sweden,1,0,Friendly,0
-2014-11-18,Greece,Serbia,0,2,Friendly,0
-2014-11-18,Hungary,Russia,1,2,Friendly,0
-2014-11-18,Iran,South Korea,1,0,Friendly,0
-2014-11-18,Italy,Albania,1,0,Friendly,0
-2014-11-18,Jamaica,Trinidad and Tobago,0,0,CFU Caribbean Cup,0
-2014-11-18,Japan,Australia,2,1,Friendly,0
-2014-11-18,Nicaragua,El Salvador,0,2,Friendly,0
-2014-11-18,Panama,Canada,0,0,Friendly,0
-2014-11-18,Peru,Paraguay,2,1,Friendly,0
-2014-11-18,Poland,Switzerland,2,2,Friendly,0
-2014-11-18,Portugal,Argentina,1,0,Friendly,1
-2014-11-18,Republic of Ireland,United States,4,1,Friendly,0
-2014-11-18,Romania,Denmark,2,0,Friendly,0
-2014-11-18,Scotland,England,1,3,Friendly,0
-2014-11-18,Slovakia,Finland,2,1,Friendly,0
-2014-11-18,Slovenia,Colombia,0,1,Friendly,0
-2014-11-18,Spain,Germany,0,1,Friendly,0
-2014-11-18,Thailand,New Zealand,2,0,Friendly,0
-2014-11-18,Ukraine,Lithuania,0,0,Friendly,0
 2014-11-19,Bahrain,Qatar,0,0,Gulf Cup,1
 2014-11-19,Burkina Faso,Angola,1,1,African Cup of Nations qualification,0
 2014-11-19,DR Congo,Sierra Leone,3,1,African Cup of Nations qualification,0
@@ -6819,7 +6792,6 @@ data,casa,fora,gc,gf,torneio,neutro
 2022-04-27,Mexico,Guatemala,0,0,Friendly,1
 2022-05-12,Bahamas,Turks and Caicos Islands,4,2,Friendly,0
 2022-05-12,Dominica,Saint Vincent and the Grenadines,2,1,Friendly,0
-2022-05-13,Guernsey,Jersey,1,2,Muratti Vase,0
 2022-05-14,Bahamas,Turks and Caicos Islands,1,2,Friendly,0
 2022-05-15,Dominica,Saint Vincent and the Grenadines,3,1,Friendly,0
 2022-05-21,Jersey,Guernsey,1,0,Muratti Vase,0
@@ -7721,6 +7693,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2023-03-29,Rwanda,Benin,1,1,African Cup of Nations qualification,0
 2023-03-31,Nepal,Laos,2,1,Tri Nation Tournament,0
 2023-04-19,United States,Mexico,1,1,Friendly,0
+2023-05-13,Guernsey,Jersey,1,2,Muratti Vase,0
 2023-06-07,Mexico,Guatemala,2,0,Friendly,0
 2023-06-09,India,Mongolia,2,0,Intercontinental Cup,0
 2023-06-09,Lebanon,Vanuatu,3,1,Intercontinental Cup,1

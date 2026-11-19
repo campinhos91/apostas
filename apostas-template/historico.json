@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-11-20",
+  "rotulo": "Sexta-feira · 20 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,05",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:30",
+      "j": "Bayern Munique vence o Colónia",
+      "m": "Resultado final",
+      "o": "1,05",
+      "comp": "Bundesliga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,78",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "j": "Orlando City–FC Cincinnati",
+      "m": "Dupla hipótese: Orlando City ou empate",
+      "o": "1,42",
+      "comp": "MLS"
+     },
+     {
+      "h": "23:00",
+      "j": "Vélez Sarsfield–Belgrano",
+      "m": "Dupla hipótese: Vélez Sarsfield ou empate",
+      "o": "1,25",
+      "comp": "Primeira Liga (Argentina)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,39",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "00:30",
+      "j": "Orlando City–FC Cincinnati",
+      "m": "Dupla hipótese: Orlando City ou empate",
+      "o": "1,42",
+      "comp": "MLS"
+     },
+     {
+      "h": "03:00",
+      "j": "Seattle Sounders–Real Salt Lake",
+      "m": "Dupla hipótese: Seattle Sounders ou empate",
+      "o": "1,28",
+      "comp": "MLS"
+     },
+     {
+      "h": "19:30",
+      "j": "Bayern Munique vence o Colónia",
+      "m": "Resultado final",
+      "o": "1,05",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "23:00",
+      "j": "Vélez Sarsfield–Belgrano",
+      "m": "Dupla hipótese: Vélez Sarsfield ou empate",
+      "o": "1,25",
+      "comp": "Primeira Liga (Argentina)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,12",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "d": "SÁB",
+      "j": "Feyenoord vence o Excelsior",
+      "m": "Resultado final",
+      "o": "1,17",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "20:00",
+      "d": "SÁB",
+      "j": "Real Madrid vence o Celta Vigo",
+      "m": "Resultado final",
+      "o": "1,16",
+      "comp": "La Liga"
+     },
+     {
+      "h": "11:30",
+      "d": "DOM",
+      "j": "Juventus vence o Venezia",
+      "m": "Resultado final",
+      "o": "1,30",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "13:00",
+      "d": "DOM",
+      "j": "Barcelona vence o Villarreal",
+      "m": "Resultado final",
+      "o": "1,20",
+      "comp": "La Liga"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-19",
   "rotulo": "Quinta-feira · 19 de novembro de 2026",
   "boletins": [
@@ -7,15 +130,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,07",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Peñarol–Cerro Largo (3-0)",
     "legs": [
      {
       "h": "19:30",
       "j": "Peñarol–Cerro Largo",
       "m": "Dupla hipótese: Peñarol ou empate",
       "o": "1,07",
-      "comp": "Primeira Liga (Uruguai)"
+      "comp": "Primeira Liga (Uruguai)",
+      "r": "ok",
+      "x": "3-0"
      }
     ]
    },
@@ -23,22 +148,26 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,79",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Boston River–Deportivo Maldonado (1-0) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "19:30",
       "j": "Peñarol–Cerro Largo",
       "m": "Dupla hipótese: Peñarol ou empate",
       "o": "1,07",
-      "comp": "Primeira Liga (Uruguai)"
+      "comp": "Primeira Liga (Uruguai)",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "19:30",
       "j": "Boston River–Deportivo Maldonado",
       "m": "Dupla hipótese: Deportivo Maldonado ou empate",
       "o": "1,17",
-      "comp": "Primeira Liga (Uruguai)"
+      "comp": "Primeira Liga (Uruguai)",
+      "r": "no",
+      "x": "1-0"
      },
      {
       "h": "22:30",
@@ -53,7 +182,7 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,01",
-    "e": "pendente",
+    "e": "nao verificado",
     "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
@@ -85,8 +214,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,08",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "03:00",
