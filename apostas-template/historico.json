@@ -54,14 +54,16 @@
     "c": "t3",
     "total": "2,01",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "00:30",
       "j": "Corinthians–Botafogo",
       "m": "Mais de 1,5 golos",
       "o": "1,21",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "22:30",
@@ -138,15 +140,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,23",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Flamengo vence o Atlético Paranaense (2-1)",
     "legs": [
      {
       "h": "23:30",
       "j": "Flamengo vence o Atlético Paranaense",
       "m": "Resultado final",
       "o": "1,23",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -154,29 +158,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,87",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Coritiba–Santos (0-1); Cruzeiro–Palmeiras (2-1) · 1 certa",
     "legs": [
      {
       "h": "22:30",
       "j": "Coritiba–Santos",
       "m": "Mais de 1,5 golos",
       "o": "1,19",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "23:00",
       "j": "Remo–Chapecoense",
       "m": "Dupla hipótese: Remo ou empate",
       "o": "1,13",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "23:30",
       "j": "Cruzeiro–Palmeiras",
       "m": "Dupla hipótese: Palmeiras ou empate",
       "o": "1,39",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "2-1"
      }
     ]
    },
@@ -184,29 +194,35 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,09",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Coritiba–Santos (0-1) · 2 certas",
     "legs": [
      {
       "h": "22:30",
       "j": "Coritiba–Santos",
       "m": "Dupla hipótese: Coritiba ou empate",
       "o": "1,62",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "23:00",
       "j": "Remo vence o Chapecoense",
       "m": "Resultado final",
       "o": "1,55",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "23:30",
       "j": "Flamengo vence o Atlético Paranaense",
       "m": "Resultado final",
       "o": "1,23",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -215,7 +231,7 @@
     "c": "t4",
     "total": "2,14",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "00:30",
@@ -223,7 +239,9 @@
       "j": "Corinthians–Botafogo",
       "m": "Mais de 1,5 golos",
       "o": "1,24",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "03:00",
@@ -362,7 +380,7 @@
     "c": "t4",
     "total": "2,18",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "3 de 5 pernas certas até agora",
     "legs": [
      {
       "h": "23:00",
@@ -370,7 +388,9 @@
       "j": "Remo–Chapecoense SC",
       "m": "Mais de 1,5 golos",
       "o": "1,11",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "23:30",
@@ -378,7 +398,9 @@
       "j": "Flamengo–Athletico Paranaense",
       "m": "Dupla hipótese: Flamengo ou empate",
       "o": "1,04",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "00:30",
@@ -386,7 +408,9 @@
       "j": "Corinthians–Botafogo",
       "m": "Dupla hipótese: Corinthians ou empate",
       "o": "1,18",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "12:30",
@@ -507,7 +531,7 @@
     "c": "t4",
     "total": "3,02",
     "e": "perdido",
-    "d": "Falhou: Japão vence o Paraguai (1-2) · 1 certa, 1 por jogar",
+    "d": "Falhou: Japão vence o Paraguai (1-2) · 2 certas",
     "legs": [
      {
       "h": "13:10",
@@ -535,7 +559,9 @@
       "j": "Remo vence o Chapecoense",
       "m": "Resultado final",
       "o": "1,59",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    }
@@ -658,7 +684,7 @@
     "c": "t4",
     "total": "2,14",
     "e": "nao verificado",
-    "d": "3 de 6 pernas certas até agora",
+    "d": "5 de 6 pernas certas até agora",
     "legs": [
      {
       "h": "15:00",
@@ -696,7 +722,9 @@
       "j": "Flamengo–Athletico Paranaense",
       "m": "Dupla hipótese: Flamengo ou empate",
       "o": "1,04",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "00:30",
@@ -704,7 +732,9 @@
       "j": "Corinthians–Botafogo",
       "m": "Dupla hipótese: Corinthians ou empate",
       "o": "1,18",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "22:30",
@@ -834,8 +864,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,09",
-    "e": "nao verificado",
-    "d": "3 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Coritiba–Santos (0-1) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "22:30",
@@ -843,7 +873,9 @@
       "j": "Coritiba–Santos",
       "m": "Dupla hipótese: Coritiba ou empate",
       "o": "1,56",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "no",
+      "x": "0-1"
      },
      {
       "h": "23:00",
@@ -851,7 +883,9 @@
       "j": "Remo–Chapecoense",
       "m": "Dupla hipótese: Remo ou empate",
       "o": "1,14",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "23:30",
@@ -859,7 +893,9 @@
       "j": "Flamengo–Athletico Paranaense",
       "m": "Dupla hipótese: Flamengo ou empate",
       "o": "1,04",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "22:30",
