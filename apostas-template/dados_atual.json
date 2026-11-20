@@ -3,48 +3,216 @@
  "titulo": "Apostas de hoje",
  "pausa": "A Liga Portugal Betclic continua em pausa pela janela internacional de novembro e só volta a 27 de novembro; as outras ligas (Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie, Championship) jogam normalmente este fim de semana.",
  "ontem": [
-  {"t": "Aposta simples segura", "e": "ganho", "d": "Todas as pernas certas: Peñarol–Cerro Largo (3-0)"},
-  {"t": "Múltipla segura", "e": "perdido", "d": "Falhou: Boston River–Deportivo Maldonado (1-0) · 1 certa, 1 por jogar"},
-  {"t": "Múltipla arriscada", "e": "nao verificado", "d": "1 de 3 pernas certas até agora"},
-  {"t": "Múltipla dos próximos dias", "e": "nao verificado", "d": "Ainda sem resultados dos jogos"}
+  {
+   "t": "Aposta simples segura",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Peñarol–Cerro Largo (3-0)"
+  },
+  {
+   "t": "Múltipla segura",
+   "e": "perdido",
+   "d": "Falhou: Boston River–Deportivo Maldonado (1-0) · 2 certas"
+  },
+  {
+   "t": "Múltipla arriscada",
+   "e": "ganho",
+   "d": "Todas as pernas certas: Corinthians–Botafogo (4-0); Vasco–Internacional (2-1); Vitória–Bragantino (2-1)"
+  },
+  {
+   "t": "Múltipla dos próximos dias",
+   "e": "nao verificado",
+   "d": "1 de 5 pernas certas até agora"
+  }
  ],
  "hoje": [
-  {"c": "t1", "t": "Aposta simples segura", "risco": "baixo", "legs": [
-   {"h": "19:30", "j": "Bayern Munique vence o Colónia", "m": "Resultado final", "o": "1,05", "comp": "Bundesliga"}
-  ]},
-  {"c": "t2", "t": "Múltipla segura", "risco": "médio", "legs": [
-   {"h": "00:30", "j": "Orlando City–FC Cincinnati", "m": "Dupla hipótese: Orlando City ou empate", "o": "1,42", "comp": "MLS"},
-   {"h": "23:00", "j": "Vélez Sarsfield–Belgrano", "m": "Dupla hipótese: Vélez Sarsfield ou empate", "o": "1,25", "comp": "Primeira Liga (Argentina)"}
-  ]},
-  {"c": "t3", "t": "Múltipla arriscada", "risco": "alto", "extra": "falhar uma perde tudo", "legs": [
-   {"h": "00:30", "j": "Orlando City–FC Cincinnati", "m": "Dupla hipótese: Orlando City ou empate", "o": "1,42", "comp": "MLS"},
-   {"h": "03:00", "j": "Seattle Sounders–Real Salt Lake", "m": "Dupla hipótese: Seattle Sounders ou empate", "o": "1,28", "comp": "MLS"},
-   {"h": "19:30", "j": "Bayern Munique vence o Colónia", "m": "Resultado final", "o": "1,05", "comp": "Bundesliga"},
-   {"h": "23:00", "j": "Vélez Sarsfield–Belgrano", "m": "Dupla hipótese: Vélez Sarsfield ou empate", "o": "1,25", "comp": "Primeira Liga (Argentina)"}
-  ]}
+  {
+   "c": "t1",
+   "t": "Aposta simples segura",
+   "risco": "baixo",
+   "legs": [
+    {
+     "h": "19:30",
+     "j": "Bayern Munique vence o Colónia",
+     "m": "Resultado final",
+     "o": "1,05",
+     "comp": "Bundesliga"
+    }
+   ]
+  },
+  {
+   "c": "t2",
+   "t": "Múltipla segura",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "00:30",
+     "j": "Orlando City–FC Cincinnati",
+     "m": "Dupla hipótese: Orlando City ou empate",
+     "o": "1,42",
+     "comp": "MLS"
+    },
+    {
+     "h": "23:00",
+     "j": "Vélez Sarsfield–Belgrano",
+     "m": "Dupla hipótese: Vélez Sarsfield ou empate",
+     "o": "1,25",
+     "comp": "Primeira Liga (Argentina)"
+    }
+   ]
+  },
+  {
+   "c": "t3",
+   "t": "Múltipla arriscada",
+   "risco": "alto",
+   "extra": "falhar uma perde tudo",
+   "legs": [
+    {
+     "h": "00:30",
+     "j": "Orlando City–FC Cincinnati",
+     "m": "Dupla hipótese: Orlando City ou empate",
+     "o": "1,42",
+     "comp": "MLS"
+    },
+    {
+     "h": "03:00",
+     "j": "Seattle Sounders–Real Salt Lake",
+     "m": "Dupla hipótese: Seattle Sounders ou empate",
+     "o": "1,28",
+     "comp": "MLS"
+    },
+    {
+     "h": "19:30",
+     "j": "Bayern Munique vence o Colónia",
+     "m": "Resultado final",
+     "o": "1,05",
+     "comp": "Bundesliga"
+    },
+    {
+     "h": "23:00",
+     "j": "Vélez Sarsfield–Belgrano",
+     "m": "Dupla hipótese: Vélez Sarsfield ou empate",
+     "o": "1,25",
+     "comp": "Primeira Liga (Argentina)"
+    }
+   ]
+  }
  ],
  "proximos": [
-  {"c": "t4", "t": "Múltipla dos próximos dias", "risco": "médio", "legs": [
-   {"h": "17:45", "d": "SÁB", "j": "Feyenoord vence o Excelsior", "m": "Resultado final", "o": "1,17", "comp": "Eredivisie"},
-   {"h": "20:00", "d": "SÁB", "j": "Real Madrid vence o Celta Vigo", "m": "Resultado final", "o": "1,16", "comp": "La Liga"},
-   {"h": "11:30", "d": "DOM", "j": "Juventus vence o Venezia", "m": "Resultado final", "o": "1,30", "comp": "Superliga (Itália)"},
-   {"h": "13:00", "d": "DOM", "j": "Barcelona vence o Villarreal", "m": "Resultado final", "o": "1,20", "comp": "La Liga"}
-  ]}
+  {
+   "c": "t4",
+   "t": "Múltipla dos próximos dias",
+   "risco": "médio",
+   "legs": [
+    {
+     "h": "17:45",
+     "d": "SÁB",
+     "j": "Feyenoord vence o Excelsior",
+     "m": "Resultado final",
+     "o": "1,17",
+     "comp": "Eredivisie"
+    },
+    {
+     "h": "20:00",
+     "d": "SÁB",
+     "j": "Real Madrid vence o Celta Vigo",
+     "m": "Resultado final",
+     "o": "1,16",
+     "comp": "La Liga"
+    },
+    {
+     "h": "11:30",
+     "d": "DOM",
+     "j": "Juventus vence o Venezia",
+     "m": "Resultado final",
+     "o": "1,30",
+     "comp": "Superliga (Itália)"
+    },
+    {
+     "h": "13:00",
+     "d": "DOM",
+     "j": "Barcelona vence o Villarreal",
+     "m": "Resultado final",
+     "o": "1,20",
+     "comp": "La Liga"
+    }
+   ]
+  }
  ],
  "amanha": [
-  {"h": "12:30", "d": "SÁB", "j": "Manchester City vence o Fulham", "m": "Resultado final", "o": "1,36", "comp": "Premier League", "n": "Man City venceu os 8 confrontos diretos recentes com o Fulham e tem 27V5E6D em casa nas 2 últimas épocas; modelo dá 85% de 1X."},
-  {"h": "16:15", "d": "SÁB", "j": "PSG vence o Nice", "m": "Resultado final", "o": "1,38", "comp": "Ligue 1", "n": "PSG só perdeu 5 de 34 jogos fora nas 2 últimas épocas (forma VVVVVV) e o modelo dá 80% para empate ou PSG."},
-  {"h": "17:30", "d": "SÁB", "j": "Arsenal vence o Newcastle", "m": "Resultado final", "o": "1,55", "comp": "Premier League", "n": "Arsenal só perdeu 4 de 37 jogos fora nas 2 últimas épocas (forma DVVVVV) e o modelo dá 79% para empate ou Arsenal."},
-  {"h": "17:45", "d": "SÁB", "j": "Feyenoord vence o Excelsior", "m": "Resultado final", "o": "1,17", "comp": "Eredivisie", "n": "Feyenoord venceu os 6 confrontos diretos recentes e tem 21V8E5D em casa nas 2 últimas épocas; modelo dá 89% de 1X."},
-  {"h": "20:00", "d": "SÁB", "j": "Real Madrid vence o Celta Vigo", "m": "Resultado final", "o": "1,16", "comp": "La Liga", "n": "Real Madrid venceu 7 dos últimos 8 confrontos diretos com o Celta e tem 31V2E3D em casa nas 2 últimas épocas."}
+  {
+   "h": "12:30",
+   "d": "SÁB",
+   "j": "Manchester City vence o Fulham",
+   "m": "Resultado final",
+   "o": "1,36",
+   "comp": "Premier League",
+   "n": "Man City venceu os 8 confrontos diretos recentes com o Fulham e tem 27V5E6D em casa nas 2 últimas épocas; modelo dá 85% de 1X."
+  },
+  {
+   "h": "16:15",
+   "d": "SÁB",
+   "j": "PSG vence o Nice",
+   "m": "Resultado final",
+   "o": "1,38",
+   "comp": "Ligue 1",
+   "n": "PSG só perdeu 5 de 34 jogos fora nas 2 últimas épocas (forma VVVVVV) e o modelo dá 80% para empate ou PSG."
+  },
+  {
+   "h": "17:30",
+   "d": "SÁB",
+   "j": "Arsenal vence o Newcastle",
+   "m": "Resultado final",
+   "o": "1,55",
+   "comp": "Premier League",
+   "n": "Arsenal só perdeu 4 de 37 jogos fora nas 2 últimas épocas (forma DVVVVV) e o modelo dá 79% para empate ou Arsenal."
+  },
+  {
+   "h": "17:45",
+   "d": "SÁB",
+   "j": "Feyenoord vence o Excelsior",
+   "m": "Resultado final",
+   "o": "1,17",
+   "comp": "Eredivisie",
+   "n": "Feyenoord venceu os 6 confrontos diretos recentes e tem 21V8E5D em casa nas 2 últimas épocas; modelo dá 89% de 1X."
+  },
+  {
+   "h": "20:00",
+   "d": "SÁB",
+   "j": "Real Madrid vence o Celta Vigo",
+   "m": "Resultado final",
+   "o": "1,16",
+   "comp": "La Liga",
+   "n": "Real Madrid venceu 7 dos últimos 8 confrontos diretos com o Celta e tem 31V2E3D em casa nas 2 últimas épocas."
+  }
  ],
  "fora": [
-  ["Troyes–Le Havre (1,29)", "Troyes só tem 10 jogos recentes nos dados (equipa recém-subida) e o modelo dá 70% de 1X, bem abaixo dos ~78% implícitos pela odd — dados fracos e divergência odd/modelo"],
-  ["Bayer Leverkusen–Paderborn (1,64)", "Paderborn só tem 9 jogos recentes nos dados (recém-subida), AVISO de amostra pouco fiável"],
-  ["CA Cerro–Nacional Montevideo (1,18)", "Primeira Liga (Uruguai) sem dados de épocas passadas no modelo — sem dados fiáveis"],
-  ["Racing Montevideo–Central Español (1,21)", "Primeira Liga (Uruguai) sem dados de épocas passadas no modelo — sem dados fiáveis"],
-  ["Liverpool Montevideo–Montevideo Wanderers (1,21)", "Primeira Liga (Uruguai) sem dados de épocas passadas no modelo — sem dados fiáveis"],
-  ["Ajax–ADO Den Haag (1,15)", "ADO Den Haag só tem 6 jogos fora nos dados (recém-subida) — amostra insuficiente apesar da odd favorável"],
-  ["Cobertura da Betclic", "betclic.pt deu odds 1X2 sem bloqueio em Liga Portugal Betclic (pausa até 27/11), Bundesliga, Ligue 1, Premier League, La Liga, Serie A, Eredivisie, Championship, MLS, Primeira Liga (Argentina), Primeira Liga (Uruguai) e Brasil Série A; a partir de um certo número de pedidos as páginas de cada jogo (dupla hipótese, over/under, ambas marcam) passaram a responder 403, por isso os boletins de amanhã e dos próximos dias usam só 'Resultado final'; não foram consultadas as restantes ligas da lista (Bélgica, Escócia, Turquia, Suíça, Áustria, países nórdicos, Chile, Peru, Colômbia, Equador, México, Japão, Austrália, Sérvia, Roménia, etc.)"]
+  [
+   "Troyes–Le Havre (1,29)",
+   "Troyes só tem 10 jogos recentes nos dados (equipa recém-subida) e o modelo dá 70% de 1X, bem abaixo dos ~78% implícitos pela odd — dados fracos e divergência odd/modelo"
+  ],
+  [
+   "Bayer Leverkusen–Paderborn (1,64)",
+   "Paderborn só tem 9 jogos recentes nos dados (recém-subida), AVISO de amostra pouco fiável"
+  ],
+  [
+   "CA Cerro–Nacional Montevideo (1,18)",
+   "Primeira Liga (Uruguai) sem dados de épocas passadas no modelo — sem dados fiáveis"
+  ],
+  [
+   "Racing Montevideo–Central Español (1,21)",
+   "Primeira Liga (Uruguai) sem dados de épocas passadas no modelo — sem dados fiáveis"
+  ],
+  [
+   "Liverpool Montevideo–Montevideo Wanderers (1,21)",
+   "Primeira Liga (Uruguai) sem dados de épocas passadas no modelo — sem dados fiáveis"
+  ],
+  [
+   "Ajax–ADO Den Haag (1,15)",
+   "ADO Den Haag só tem 6 jogos fora nos dados (recém-subida) — amostra insuficiente apesar da odd favorável"
+  ],
+  [
+   "Cobertura da Betclic",
+   "betclic.pt deu odds 1X2 sem bloqueio em Liga Portugal Betclic (pausa até 27/11), Bundesliga, Ligue 1, Premier League, La Liga, Serie A, Eredivisie, Championship, MLS, Primeira Liga (Argentina), Primeira Liga (Uruguai) e Brasil Série A; a partir de um certo número de pedidos as páginas de cada jogo (dupla hipótese, over/under, ambas marcam) passaram a responder 403, por isso os boletins de amanhã e dos próximos dias usam só 'Resultado final'; não foram consultadas as restantes ligas da lista (Bélgica, Escócia, Turquia, Suíça, Áustria, países nórdicos, Chile, Peru, Colômbia, Equador, México, Japão, Austrália, Sérvia, Roménia, etc.)"
+  ]
  ]
 }

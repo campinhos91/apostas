@@ -23,15 +23,17 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,78",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Orlando City–FC Cincinnati (1-3) · 0 certas, 1 por jogar",
     "legs": [
      {
       "h": "00:30",
       "j": "Orlando City–FC Cincinnati",
       "m": "Dupla hipótese: Orlando City ou empate",
       "o": "1,42",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "no",
+      "x": "1-3"
      },
      {
       "h": "23:00",
@@ -46,22 +48,26 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,39",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Orlando City–FC Cincinnati (1-3) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "00:30",
       "j": "Orlando City–FC Cincinnati",
       "m": "Dupla hipótese: Orlando City ou empate",
       "o": "1,42",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "no",
+      "x": "1-3"
      },
      {
       "h": "03:00",
       "j": "Seattle Sounders–Real Salt Lake",
       "m": "Dupla hipótese: Seattle Sounders ou empate",
       "o": "1,28",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "19:30",
@@ -149,7 +155,7 @@
     "c": "t2",
     "total": "1,79",
     "e": "perdido",
-    "d": "Falhou: Boston River–Deportivo Maldonado (1-0) · 1 certa, 1 por jogar",
+    "d": "Falhou: Boston River–Deportivo Maldonado (1-0) · 2 certas",
     "legs": [
      {
       "h": "19:30",
@@ -174,7 +180,9 @@
       "j": "Vitória–Bragantino",
       "m": "Dupla hipótese: Vitória ou empate",
       "o": "1,43",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -182,8 +190,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,01",
-    "e": "nao verificado",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Corinthians–Botafogo (4-0); Vasco–Internacional (2-1); Vitória–Bragantino (2-1)",
     "legs": [
      {
       "h": "00:30",
@@ -199,14 +207,18 @@
       "j": "Vasco–Internacional",
       "m": "Mais de 1,5 golos",
       "o": "1,16",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "22:30",
       "j": "Vitória–Bragantino",
       "m": "Dupla hipótese: Vitória ou empate",
       "o": "1,43",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    },
@@ -215,7 +227,7 @@
     "c": "t4",
     "total": "2,08",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 5 pernas certas até agora",
     "legs": [
      {
       "h": "03:00",
@@ -223,7 +235,9 @@
       "j": "Seattle Sounders–Real Salt Lake",
       "m": "Dupla hipótese: Seattle Sounders ou empate",
       "o": "1,26",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "23:00",
@@ -360,7 +374,7 @@
     "c": "t4",
     "total": "2,14",
     "e": "nao verificado",
-    "d": "1 de 3 pernas certas até agora",
+    "d": "2 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "00:30",
@@ -378,7 +392,9 @@
       "j": "Seattle Sounders–Real Salt Lake",
       "m": "Dupla hipótese: Seattle Sounders ou empate",
       "o": "1,26",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "17:30",
@@ -812,8 +828,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,14",
-    "e": "nao verificado",
-    "d": "5 de 6 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Ilhas Faroé–Moldávia (1-0); Cazaquistão–Eslováquia (2-2); Argentina vence a Costa Rica (7-0); Flamengo–Athletico Paranaense (2-1); Corinthians–Botafogo (4-0); Vasco da Gama–Internacional (2-1)",
     "legs": [
      {
       "h": "15:00",
@@ -871,7 +887,9 @@
       "j": "Vasco da Gama–Internacional",
       "m": "Dupla hipótese: Vasco da Gama ou empate",
       "o": "1,13",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    }
@@ -994,7 +1012,7 @@
     "c": "t4",
     "total": "2,09",
     "e": "perdido",
-    "d": "Falhou: Coritiba–Santos (0-1) · 2 certas, 1 por jogar",
+    "d": "Falhou: Coritiba–Santos (0-1) · 3 certas",
     "legs": [
      {
       "h": "22:30",
@@ -1032,7 +1050,9 @@
       "j": "Vasco da Gama–Internacional",
       "m": "Dupla hipótese: Vasco da Gama ou empate",
       "o": "1,13",
-      "comp": "Primeira Liga (Brasil)"
+      "comp": "Primeira Liga (Brasil)",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    }
