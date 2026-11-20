@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-11-21",
+  "rotulo": "Sábado · 21 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,14",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "15:00",
+      "j": "Celtic vence o St Mirren",
+      "m": "Resultado final",
+      "o": "1,14",
+      "comp": "Primeira Liga (Escócia)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,11",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:00",
+      "j": "Lazio vence o Lecce",
+      "m": "Resultado final",
+      "o": "1,37",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "17:30",
+      "j": "Arsenal vence o Newcastle",
+      "m": "Resultado final",
+      "o": "1,54",
+      "comp": "Premier League"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,65",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "j": "Union Berlin–RB Leipzig",
+      "m": "Resultado final",
+      "o": "1,47",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "16:15",
+      "j": "Nice–Paris SG",
+      "m": "Resultado final",
+      "o": "1,41",
+      "comp": "Ligue 1"
+     },
+     {
+      "h": "17:45",
+      "j": "Feyenoord vence o Excelsior",
+      "m": "Resultado final",
+      "o": "1,15",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "19:45",
+      "j": "Napoli–Torino",
+      "m": "Dupla hipótese: Napoli ou empate",
+      "o": "1,11",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,16",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "13:30",
+      "d": "DOM",
+      "j": "Ajax vence o Den Haag",
+      "m": "Resultado final",
+      "o": "1,14",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Manchester City vence o Napoli",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Arsenal vence o Dortmund",
+      "m": "Resultado final",
+      "o": "1,33",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Rangers vence o Aberdeen",
+      "m": "Resultado final",
+      "o": "1,18",
+      "comp": "Primeira Liga (Escócia)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-20",
   "rotulo": "Sexta-feira · 20 de novembro de 2026",
   "boletins": [
@@ -7,15 +130,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,05",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Bayern Munique vence o Colónia (1-1) · 0 certas",
     "legs": [
      {
       "h": "19:30",
       "j": "Bayern Munique vence o Colónia",
       "m": "Resultado final",
       "o": "1,05",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    },
@@ -49,7 +174,7 @@
     "c": "t3",
     "total": "2,39",
     "e": "perdido",
-    "d": "Falhou: Orlando City–FC Cincinnati (1-3) · 1 certa, 2 por jogar",
+    "d": "Falhou: Orlando City–FC Cincinnati (1-3); Bayern Munique vence o Colónia (1-1) · 1 certa, 1 por jogar",
     "legs": [
      {
       "h": "00:30",
@@ -74,7 +199,9 @@
       "j": "Bayern Munique vence o Colónia",
       "m": "Resultado final",
       "o": "1,05",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "23:00",
@@ -89,8 +216,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,12",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "17:45",
