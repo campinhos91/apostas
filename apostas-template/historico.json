@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,14",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Celtic vence o St Mirren (4-1)",
     "legs": [
      {
       "h": "15:00",
       "j": "Celtic vence o St Mirren",
       "m": "Resultado final",
       "o": "1,14",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "ok",
+      "x": "4-1"
      }
     ]
    },
@@ -23,8 +25,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,11",
-    "e": "pendente",
-    "d": "1 de 2 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Arsenal vence o Newcastle (2-2) · 1 certa",
     "legs": [
      {
       "h": "14:00",
@@ -40,7 +42,9 @@
       "j": "Arsenal vence o Newcastle",
       "m": "Resultado final",
       "o": "1,54",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    },
@@ -48,15 +52,17 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,65",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "14:30",
       "j": "Union Berlin–RB Leipzig",
       "m": "Resultado final",
       "o": "1,47",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "1-5"
      },
      {
       "h": "16:15",
@@ -70,7 +76,9 @@
       "j": "Feyenoord vence o Excelsior",
       "m": "Resultado final",
       "o": "1,15",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "2-3"
      },
      {
       "h": "19:45",
@@ -222,8 +230,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,12",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "17:45",
@@ -231,7 +239,9 @@
       "j": "Feyenoord vence o Excelsior",
       "m": "Resultado final",
       "o": "1,17",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "2-3"
      },
      {
       "h": "20:00",
@@ -360,7 +370,7 @@
     "c": "t4",
     "total": "2,08",
     "e": "nao verificado",
-    "d": "3 de 5 pernas certas até agora",
+    "d": "4 de 5 pernas certas até agora",
     "legs": [
      {
       "h": "03:00",
@@ -398,7 +408,9 @@
       "j": "Newcastle–Arsenal",
       "m": "Dupla hipótese: Arsenal ou empate",
       "o": "1,11",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "22:00",
@@ -661,8 +673,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,18",
-    "e": "nao verificado",
-    "d": "4 de 5 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Arsenal vence o Newcastle (2-2) · 4 certas",
     "legs": [
      {
       "h": "23:00",
@@ -710,7 +722,9 @@
       "j": "Arsenal vence o Newcastle",
       "m": "Resultado final",
       "o": "1,48",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "no",
+      "x": "2-2"
      }
     ]
    }
