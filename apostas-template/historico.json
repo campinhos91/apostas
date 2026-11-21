@@ -219,8 +219,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,16",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "13:30",
@@ -357,7 +357,7 @@
     "c": "t4",
     "total": "2,12",
     "e": "perdido",
-    "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 0 certas, 3 por jogar",
+    "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "17:45",
@@ -375,7 +375,9 @@
       "j": "Real Madrid vence o Celta Vigo",
       "m": "Resultado final",
       "o": "1,16",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "11:30",
