@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T23:22:01+00:00",
+ "atualizado": "2026-11-21T10:55:32+00:00",
  "dia": "2026-11-21",
  "rotulo": "Sábado · 21 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -19,12 +19,12 @@
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Orlando City–FC Cincinnati (1-3) · 0 certas, 1 por jogar"
+   "d": "Falhou: Orlando City–FC Cincinnati (1-3) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Orlando City–FC Cincinnati (1-3); Bayern Munique vence o Colónia (1-1) · 1 certa, 1 por jogar"
+   "d": "Falhou: Orlando City–FC Cincinnati (1-3); Bayern Munique vence o Colónia (1-1) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -376,7 +376,7 @@
      "c": "t2",
      "total": "1,78",
      "e": "perdido",
-     "d": "Falhou: Orlando City–FC Cincinnati (1-3) · 0 certas, 1 por jogar",
+     "d": "Falhou: Orlando City–FC Cincinnati (1-3) · 1 certa",
      "legs": [
       {
        "h": "00:30",
@@ -392,7 +392,9 @@
        "j": "Vélez Sarsfield–Belgrano",
        "m": "Dupla hipótese: Vélez Sarsfield ou empate",
        "o": "1,25",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "1-1"
       }
      ]
     },
@@ -401,7 +403,7 @@
      "c": "t3",
      "total": "2,39",
      "e": "perdido",
-     "d": "Falhou: Orlando City–FC Cincinnati (1-3); Bayern Munique vence o Colónia (1-1) · 1 certa, 1 por jogar",
+     "d": "Falhou: Orlando City–FC Cincinnati (1-3); Bayern Munique vence o Colónia (1-1) · 2 certas",
      "legs": [
       {
        "h": "00:30",
@@ -435,7 +437,9 @@
        "j": "Vélez Sarsfield–Belgrano",
        "m": "Dupla hipótese: Vélez Sarsfield ou empate",
        "o": "1,25",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "1-1"
       }
      ]
     },
@@ -581,7 +585,7 @@
      "c": "t4",
      "total": "2,08",
      "e": "nao verificado",
-     "d": "1 de 5 pernas certas até agora",
+     "d": "2 de 5 pernas certas até agora",
      "legs": [
       {
        "h": "03:00",
@@ -599,7 +603,9 @@
        "j": "Vélez Sarsfield–Belgrano",
        "m": "Dupla hipótese: Vélez Sarsfield ou empate",
        "o": "1,25",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "1-1"
       },
       {
        "h": "12:30",
@@ -8277,8 +8283,8 @@
  "estatisticas": {
   "decididos": 214,
   "ganhos": 118,
-  "pernas": 399,
-  "pernas_ok": 281,
+  "pernas": 400,
+  "pernas_ok": 282,
   "dias": 59,
   "odd_media": "1,40",
   "tipos": [
@@ -8455,6 +8461,12 @@
     "dec": 1,
     "pct": 0,
     "nome": "Dupla hipótese: Orlando City ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Vélez Sarsfield ou empate"
    },
    {
     "ok": 1,
@@ -8987,8 +8999,8 @@
   ],
   "faixas": [
    {
-    "ok": 142,
-    "dec": 173,
+    "ok": 143,
+    "dec": 174,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
