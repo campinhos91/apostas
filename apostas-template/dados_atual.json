@@ -1,27 +1,26 @@
 {
- "data": "Sábado · 21 de novembro de 2026",
+ "data": "Domingo · 22 de novembro de 2026",
  "titulo": "Apostas de hoje",
- "pausa": "A Liga Portugal Betclic está parada este fim de semana (ronda da Taça de Portugal); volta a 27-30 de novembro.",
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: Bayern Munique vence o Colónia (1-1) · 0 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Celtic vence o St Mirren (4-1)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Orlando City–FC Cincinnati (1-3) · 1 certa"
+   "d": "Falhou: Arsenal vence o Newcastle (2-2) · 1 certa"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Orlando City–FC Cincinnati (1-3); Bayern Munique vence o Colónia (1-1) · 2 certas"
+   "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 3 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "perdido",
-   "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 0 certas, 3 por jogar"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -30,13 +29,7 @@
    "t": "Aposta simples segura",
    "risco": "baixo",
    "legs": [
-    {
-     "h": "15:00",
-     "j": "Celtic vence o St Mirren",
-     "m": "Resultado final",
-     "o": "1,14",
-     "comp": "Primeira Liga (Escócia)"
-    }
+    {"h": "13:00", "j": "Barcelona vence o Villarreal", "m": "Resultado final", "o": "1,21", "comp": "La Liga"}
    ]
   },
   {
@@ -44,20 +37,9 @@
    "t": "Múltipla segura",
    "risco": "médio",
    "legs": [
-    {
-     "h": "14:00",
-     "j": "Lazio vence o Lecce",
-     "m": "Resultado final",
-     "o": "1,37",
-     "comp": "Superliga (Itália)"
-    },
-    {
-     "h": "17:30",
-     "j": "Arsenal vence o Newcastle",
-     "m": "Resultado final",
-     "o": "1,54",
-     "comp": "Premier League"
-    }
+    {"h": "11:30", "j": "Juventus–Venezia", "m": "Dupla hipótese: Juventus ou empate", "o": "1,07", "comp": "Superliga (Itália)"},
+    {"h": "16:30", "j": "Liverpool–Manchester Utd", "m": "Dupla hipótese: Liverpool ou empate", "o": "1,18", "comp": "Premier League"},
+    {"h": "17:30", "j": "Osasuna vence o Málaga", "m": "Resultado final", "o": "1,82", "comp": "La Liga"}
    ]
   },
   {
@@ -66,34 +48,10 @@
    "risco": "alto",
    "extra": "falhar uma perde tudo",
    "legs": [
-    {
-     "h": "14:30",
-     "j": "Union Berlin–RB Leipzig",
-     "m": "Resultado final",
-     "o": "1,47",
-     "comp": "Bundesliga"
-    },
-    {
-     "h": "16:15",
-     "j": "Nice–Paris SG",
-     "m": "Resultado final",
-     "o": "1,41",
-     "comp": "Ligue 1"
-    },
-    {
-     "h": "17:45",
-     "j": "Feyenoord vence o Excelsior",
-     "m": "Resultado final",
-     "o": "1,15",
-     "comp": "Eredivisie"
-    },
-    {
-     "h": "19:45",
-     "j": "Napoli–Torino",
-     "m": "Dupla hipótese: Napoli ou empate",
-     "o": "1,11",
-     "comp": "Superliga (Itália)"
-    }
+    {"h": "11:30", "j": "Juventus–Venezia", "m": "Dupla hipótese: Juventus ou empate", "o": "1,07", "comp": "Superliga (Itália)"},
+    {"h": "12:00", "j": "Burnley vence o Blackburn", "m": "Resultado final", "o": "1,84", "comp": "Championship"},
+    {"h": "19:45", "j": "Atalanta–Inter", "m": "Dupla hipótese: Inter ou empate", "o": "1,15", "comp": "Superliga (Itália)"},
+    {"h": "20:00", "j": "Getafe–Atlético de Madrid", "m": "Dupla hipótese: Atlético de Madrid ou empate", "o": "1,09", "comp": "La Liga"}
    ]
   }
  ],
@@ -103,111 +61,25 @@
    "t": "Múltipla dos próximos dias",
    "risco": "médio",
    "legs": [
-    {
-     "h": "13:30",
-     "d": "DOM",
-     "j": "Ajax vence o Den Haag",
-     "m": "Resultado final",
-     "o": "1,14",
-     "comp": "Eredivisie"
-    },
-    {
-     "h": "20:00",
-     "d": "TER",
-     "j": "Manchester City vence o Napoli",
-     "m": "Resultado final",
-     "o": "1,21",
-     "comp": "Liga dos Campeões"
-    },
-    {
-     "h": "20:00",
-     "d": "TER",
-     "j": "Arsenal vence o Dortmund",
-     "m": "Resultado final",
-     "o": "1,33",
-     "comp": "Liga dos Campeões"
-    },
-    {
-     "h": "20:00",
-     "d": "TER",
-     "j": "Rangers vence o Aberdeen",
-     "m": "Resultado final",
-     "o": "1,18",
-     "comp": "Primeira Liga (Escócia)"
-    }
+    {"h": "20:00", "d": "SEG", "j": "Brentford–Everton", "m": "Dupla hipótese: Brentford ou empate", "o": "1,29", "comp": "Premier League"},
+    {"h": "20:00", "d": "TER", "j": "Wolves vence o Derby", "m": "Resultado final", "o": "1,25", "comp": "Championship"},
+    {"h": "19:45", "d": "TER", "j": "Middlesbrough vence o Swansea", "m": "Resultado final", "o": "1,40", "comp": "Championship"}
    ]
   }
  ],
  "amanha": [
-  {
-   "h": "11:15",
-   "d": "DOM",
-   "j": "Twente vence o Willem II",
-   "m": "Resultado final",
-   "o": "1,06",
-   "n": "Confronto direto 2V 0E para o Twente e o Willem II não ganhou nenhum dos últimos 6 jogos fora (0V 4E 2D)",
-   "comp": "Eredivisie"
-  },
-  {
-   "h": "11:30",
-   "d": "DOM",
-   "j": "Juventus vence o Venezia",
-   "m": "Resultado final",
-   "o": "1,31",
-   "n": "Venezia ainda sem vencer fora em 2 épocas (0V 7E 10D) e a Juventus ganhou o único confronto direto recente",
-   "comp": "Superliga (Itália)"
-  },
-  {
-   "h": "13:00",
-   "d": "DOM",
-   "j": "Barcelona vence o Villarreal",
-   "m": "Resultado final",
-   "o": "1,21",
-   "n": "Barcelona 33V 1E 5D em casa nas últimas 2 épocas e 6V 0E 2D no confronto direto",
-   "comp": "La Liga"
-  },
-  {
-   "h": "19:45",
-   "d": "DOM",
-   "j": "Internazionale vence o Atalanta",
-   "m": "Resultado final",
-   "o": "1,52",
-   "n": "Inter ganhou 7 dos últimos 8 confrontos diretos e vem de 5 vitórias nos últimos 6 jogos",
-   "comp": "Superliga (Itália)"
-  }
+  {"h": "01:30", "d": "SEG", "j": "Vancouver Whitecaps vence o Real Salt Lake", "m": "Resultado final", "o": "1,45", "comp": "MLS", "n": "Vancouver venceu 22 dos 36 jogos em casa nas últimas 2 épocas (golos 2,5-1,1); Real Salt Lake só venceu 6 dos 35 jogos fora"},
+  {"h": "19:45", "d": "SEG", "j": "Fiorentina vence o Monza", "m": "Resultado final", "o": "1,85", "comp": "Superliga (Itália)", "n": "Monza só venceu 3 dos 17 jogos em casa (12 derrotas); Fiorentina vem em forma melhor, confronto direto equilibrado (2V 2E 2D)"},
+  {"h": "20:00", "d": "SEG", "j": "Brentford–Everton", "m": "Dupla hipótese: Brentford ou empate", "o": "1,29", "comp": "Premier League", "n": "sem favorito claro no modelo (46% Brentford, 27% empate, 27% Everton); dupla hipótese em casa dá 73%"}
  ],
  "fora": [
-  [
-   "Real Madrid–Celta Vigo (1,16)",
-   "modelo dá só 68% ao Real Madrid quando a odd implica 86%: diferença grande, seleção tratada como duvidosa"
-  ],
-  [
-   "Manchester City–Fulham (1,36)",
-   "Man City perdeu os últimos 3 jogos (forma VVVDDD): quebra de forma recente apesar da odd baixa"
-  ],
-  [
-   "Bayer Leverkusen–Paderborn (1,23)",
-   "Paderborn só tem 9 jogos recentes nos dados (AVISO de poucos jogos) e ainda não venceu fora (0V 3E 1D)"
-  ],
-  [
-   "Monaco–Auxerre (1,36)",
-   "Monaco só venceu 1 dos últimos 6 jogos (forma VEDEDE): forma recente fraca"
-  ],
-  [
-   "Motherwell–Rangers (1,48)",
-   "confronto direto equilibrado (2V 3E 3D para o Motherwell) e o modelo dá só 46% ao Rangers quando a odd implica 68%"
-  ],
-  [
-   "Getafe–Atlético de Madrid (1,53)",
-   "o Getafe venceu ou empatou 3 dos últimos 4 confrontos diretos com o Atlético: histórico desfavorável ao favorito"
-  ],
-  [
-   "Sporting CP–União da Serra (1,01)",
-   "sem dados de épocas passadas para a Taça de Portugal; adversário de divisão inferior sem registo fiável"
-  ],
-  [
-   "Cobertura da Betclic",
-   "betclic.pt respondeu sem bloqueios, sem necessidade de betclic.com, Betano ou Bwin; não foram analisados em detalhe os jogos da Argentina, Brasil, MLS e ligas asiáticas além dos candidatos considerados"
-  ]
+  ["Twente–Willem II (1,06)", "modelo dá só 79% ao Twente quando a odd implica 94%; tratado como duvidoso apesar do odd baixo"],
+  ["Ajax–Den Haag (1,13)", "modelo dá 66% ao Ajax quando a odd implica 88%; Den Haag quase sem vitórias fora (0V 2E 4D em 6 jogos)"],
+  ["Paris FC–Angers (1,26)", "modelo dá 61% ao Paris FC quando a odd implica 79%"],
+  ["Hull–Brighton, Brighton a vencer (1,45)", "só 10 jogos recentes do Hull nos dados; modelo dá 40% ao Brighton quando a odd implica 69%"],
+  ["Milan–Frosinone (1,50)", "só 11 jogos recentes do Frosinone nos dados; modelo dá 48% ao Milan quando a odd implica 67%"],
+  ["Marselha–Le Mans (1,42)", "só 10 jogos recentes do Le Mans nos dados"],
+  ["Juventus–Venezia, Juventus a vencer (1,30)", "Cambiaso e Nico González em dúvida; preferida a dupla hipótese (1,07) em vez do resultado seco"],
+  ["Competições não consultadas", "Liga dos Campeões, Liga Europa, Liga Conferência e Primeira Liga (Escócia): sem jogos devolvidos pela Betclic nesta execução"]
  ]
 }
