@@ -24,14 +24,16 @@
     "c": "t2",
     "total": "2,11",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 2 pernas certas até agora",
     "legs": [
      {
       "h": "14:00",
       "j": "Lazio vence o Lecce",
       "m": "Resultado final",
       "o": "1,37",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "17:30",
@@ -358,7 +360,7 @@
     "c": "t4",
     "total": "2,08",
     "e": "nao verificado",
-    "d": "2 de 5 pernas certas até agora",
+    "d": "3 de 5 pernas certas até agora",
     "legs": [
      {
       "h": "03:00",
@@ -386,7 +388,9 @@
       "j": "Manchester City–Fulham",
       "m": "Dupla hipótese: Manchester City ou empate",
       "o": "1,08",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "17:30",
@@ -658,7 +662,7 @@
     "c": "t4",
     "total": "2,18",
     "e": "nao verificado",
-    "d": "3 de 5 pernas certas até agora",
+    "d": "4 de 5 pernas certas até agora",
     "legs": [
      {
       "h": "23:00",
@@ -696,7 +700,9 @@
       "j": "Manchester City–Fulham",
       "m": "Dupla hipótese: Manchester City ou empate",
       "o": "1,08",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "17:30",

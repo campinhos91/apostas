@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T10:55:32+00:00",
+ "atualizado": "2026-11-21T16:55:55+00:00",
  "dia": "2026-11-21",
  "rotulo": "Sábado · 21 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -251,14 +251,16 @@
      "c": "t2",
      "total": "2,11",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 2 pernas certas até agora",
      "legs": [
       {
        "h": "14:00",
        "j": "Lazio vence o Lecce",
        "m": "Resultado final",
        "o": "1,37",
-       "comp": "Superliga (Itália)"
+       "comp": "Superliga (Itália)",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "17:30",
@@ -585,7 +587,7 @@
      "c": "t4",
      "total": "2,08",
      "e": "nao verificado",
-     "d": "2 de 5 pernas certas até agora",
+     "d": "3 de 5 pernas certas até agora",
      "legs": [
       {
        "h": "03:00",
@@ -613,7 +615,9 @@
        "j": "Manchester City–Fulham",
        "m": "Dupla hipótese: Manchester City ou empate",
        "o": "1,08",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "1-1"
       },
       {
        "h": "17:30",
@@ -885,7 +889,7 @@
      "c": "t4",
      "total": "2,18",
      "e": "nao verificado",
-     "d": "3 de 5 pernas certas até agora",
+     "d": "4 de 5 pernas certas até agora",
      "legs": [
       {
        "h": "23:00",
@@ -923,7 +927,9 @@
        "j": "Manchester City–Fulham",
        "m": "Dupla hipótese: Manchester City ou empate",
        "o": "1,08",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "1-1"
       },
       {
        "h": "17:30",
@@ -8283,8 +8289,8 @@
  "estatisticas": {
   "decididos": 214,
   "ganhos": 118,
-  "pernas": 400,
-  "pernas_ok": 282,
+  "pernas": 402,
+  "pernas_ok": 284,
   "dias": 59,
   "odd_media": "1,40",
   "tipos": [
@@ -8319,8 +8325,8 @@
   ],
   "mercados": [
    {
-    "ok": 142,
-    "dec": 227,
+    "ok": 143,
+    "dec": 228,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -8359,6 +8365,12 @@
     "dec": 3,
     "pct": 100,
     "nome": "Dupla hipótese: Benfica ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Dupla hipótese: Manchester City ou empate"
    },
    {
     "ok": 1,
@@ -8802,12 +8814,6 @@
     "ok": 0,
     "dec": 1,
     "pct": 0,
-    "nome": "Dupla hipótese: Manchester City ou empate"
-   },
-   {
-    "ok": 0,
-    "dec": 1,
-    "pct": 0,
     "nome": "Dupla hipótese: West Ham ou empate"
    },
    {
@@ -8999,15 +9005,15 @@
   ],
   "faixas": [
    {
-    "ok": 143,
-    "dec": 174,
+    "ok": 144,
+    "dec": 175,
     "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 77,
-    "dec": 102,
-    "pct": 75,
+    "ok": 78,
+    "dec": 103,
+    "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
