@@ -1,5 +1,135 @@
 [
  {
+  "dia": "2026-11-23",
+  "rotulo": "Segunda-feira · 23 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,12",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:30",
+      "j": "Vancouver Whitecaps–Real Salt Lake",
+      "m": "Dupla hipótese: Vancouver Whitecaps ou empate",
+      "o": "1,12",
+      "comp": "MLS"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,02",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Brentford–Everton",
+      "m": "Dupla hipótese: Brentford ou empate",
+      "o": "1,35",
+      "comp": "Premier League"
+     },
+     {
+      "h": "22:30",
+      "j": "Internacional–Vitória",
+      "m": "Dupla hipótese: Internacional ou empate",
+      "o": "1,14",
+      "comp": "Primeira Liga (Brasil)"
+     },
+     {
+      "h": "23:00",
+      "j": "Botafogo–São Paulo",
+      "m": "Dupla hipótese: Botafogo ou empate",
+      "o": "1,31",
+      "comp": "Primeira Liga (Brasil)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,31",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "01:30",
+      "j": "Vancouver Whitecaps–Real Salt Lake",
+      "m": "Dupla hipótese: Vancouver Whitecaps ou empate",
+      "o": "1,12",
+      "comp": "MLS"
+     },
+     {
+      "h": "19:45",
+      "j": "Monza–Fiorentina",
+      "m": "Dupla hipótese: Fiorentina ou empate",
+      "o": "1,26",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:00",
+      "j": "Levante–Elche",
+      "m": "Dupla hipótese: Levante ou empate",
+      "o": "1,32",
+      "comp": "La Liga"
+     },
+     {
+      "h": "20:00",
+      "j": "Gimnasia L.P.–Newell's Old Boys",
+      "m": "Dupla hipótese: Gimnasia L.P. ou empate",
+      "o": "1,24",
+      "comp": "Primeira Liga (Argentina)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,80",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Rangers–Aberdeen",
+      "m": "Dupla hipótese: Rangers ou empate",
+      "o": "1,05",
+      "comp": "Primeira Liga (Escócia)"
+     },
+     {
+      "h": "20:00",
+      "d": "TER",
+      "j": "Manchester City vence o Napoli",
+      "m": "Resultado final",
+      "o": "1,23",
+      "comp": "Liga dos Campeões"
+     },
+     {
+      "h": "17:45",
+      "d": "QUI",
+      "j": "Besiktas–Hapoel Beer Sheva",
+      "m": "Dupla hipótese: Besiktas ou empate",
+      "o": "1,04",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "19:00",
+      "d": "SEX",
+      "j": "Groningen vence o Willem II",
+      "m": "Resultado final",
+      "o": "1,34",
+      "comp": "Eredivisie"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-22",
   "rotulo": "Domingo · 22 de novembro de 2026",
   "boletins": [
@@ -62,7 +192,7 @@
     "c": "t3",
     "total": "2,47",
     "e": "perdido",
-    "d": "Falhou: Burnley vence o Blackburn (2-2) · 1 certa, 2 por jogar",
+    "d": "Falhou: Burnley vence o Blackburn (2-2) · 3 certas",
     "legs": [
      {
       "h": "11:30",
@@ -87,14 +217,18 @@
       "j": "Atalanta–Inter",
       "m": "Dupla hipótese: Inter ou empate",
       "o": "1,15",
-      "comp": "Superliga (Itália)"
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "4-4"
      },
      {
       "h": "20:00",
       "j": "Getafe–Atlético de Madrid",
       "m": "Dupla hipótese: Atlético de Madrid ou empate",
       "o": "1,09",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "0-3"
      }
     ]
    },
@@ -102,8 +236,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,26",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "20:00",

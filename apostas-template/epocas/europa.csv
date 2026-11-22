@@ -1,9 +1,4 @@
 liga,epoca,data,casa,fora,gc,gf,neutro,casa_fs,fora_fs
-UCL,2022-2023,2022-08-03,Bodo/Glimt,Zalgiris,5,0,0,Bodo/Glimt (Nor),Zalgiris (Ltu)
-UCL,2022-2023,2022-08-03,Crvena zvezda,Pyunik Yerevan,5,0,0,Crvena zvezda (Srb),Pyunik Yerevan (Arm)
-UCL,2022-2023,2022-08-03,Dyn. Kyiv,Sturm Graz,1,0,0,Dyn. Kyiv (Ukr),Sturm Graz (Aut)
-UCL,2022-2023,2022-08-03,Maccabi Haifa,Apollon,4,0,0,Maccabi Haifa (Isr),Apollon (Cyp)
-UCL,2022-2023,2022-08-03,Qarabag,Ferencvaros,1,1,0,Qarabag (Aze),Ferencvaros (Hun)
 UCL,2022-2023,2022-08-09,Apollon,Maccabi Haifa,2,0,0,Apollon (Cyp),Maccabi Haifa (Isr)
 UCL,2022-2023,2022-08-09,Din. Zagreb,Ludogorets,4,2,0,Din. Zagreb (Cro),Ludogorets (Bul)
 UCL,2022-2023,2022-08-09,Ferencvaros,Qarabag,1,3,0,Ferencvaros (Hun),Qarabag (Aze)
@@ -1043,10 +1038,6 @@ UCL,2026-2027,2026-11-04,Porto,Napoli,4,1,0,FC Porto,Napoli
 UCL,2026-2027,2026-11-04,RB Leipzig,Man City,2,3,0,RB Leipzig,Manchester City
 UCL,2026-2027,2026-11-04,Slavia Prague,Arsenal,1,2,0,Slavia Prague,Arsenal
 UCL,2026-2027,2026-11-04,Viking,Sabah FC,4,1,0,Viking,Sabah FC
-UECL,2022-2023,2022-08-03,Dun. Streda,FCSB,0,1,0,Dun. Streda (Svk),FCSB (Rou)
-UECL,2022-2023,2022-08-03,Riga FC,Gil Vicente,1,1,0,Riga FC (Lat),Gil Vicente (Por)
-UECL,2022-2023,2022-08-03,Viborg,B36 Torshavn,3,0,0,Viborg (Den),B36 Torshavn (Fai)
-UECL,2022-2023,2022-08-03,Wolfsberger AC,Gzira,0,0,0,Wolfsberger AC (Aut),Gzira (Mlt)
 UECL,2022-2023,2022-08-04,AIK,Shkendija,1,1,0,AIK (Swe),Shkendija (Mkd)
 UECL,2022-2023,2022-08-04,APOEL,Kyzylzhar,1,0,0,APOEL (Cyp),Kyzylzhar (Kaz)
 UECL,2022-2023,2022-08-04,Breidablik,Buyuksehyr,1,3,0,Breidablik (Ice),Basaksehir (Tur)
