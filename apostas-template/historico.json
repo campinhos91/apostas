@@ -25,8 +25,8 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "2,30",
-    "e": "pendente",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Juventus–Venezia (4-0); Liverpool–Manchester Utd (4-0); Osasuna vence o Málaga (1-0)",
     "legs": [
      {
       "h": "11:30",
@@ -42,14 +42,18 @@
       "j": "Liverpool–Manchester Utd",
       "m": "Dupla hipótese: Liverpool ou empate",
       "o": "1,18",
-      "comp": "Premier League"
+      "comp": "Premier League",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "17:30",
       "j": "Osasuna vence o Málaga",
       "m": "Resultado final",
       "o": "1,82",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "1-0"
      }
     ]
    },
@@ -664,8 +668,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,14",
-    "e": "nao verificado",
-    "d": "2 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Corinthians–Botafogo (4-0); Seattle Sounders–Real Salt Lake (1-1); PAOK vence o Kifisias (4-0)",
     "legs": [
      {
       "h": "00:30",
@@ -693,7 +697,9 @@
       "j": "PAOK vence o Kifisias",
       "m": "Resultado final",
       "o": "1,37",
-      "comp": "Superliga (Grécia)"
+      "comp": "Superliga (Grécia)",
+      "r": "ok",
+      "x": "4-0"
      }
     ]
    }

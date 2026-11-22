@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T16:55:27+00:00",
+ "atualizado": "2026-11-22T19:55:26+00:00",
  "dia": "2026-11-22",
  "rotulo": "Domingo · 22 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -242,8 +242,8 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,30",
-     "e": "pendente",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Juventus–Venezia (4-0); Liverpool–Manchester Utd (4-0); Osasuna vence o Málaga (1-0)",
      "legs": [
       {
        "h": "11:30",
@@ -259,14 +259,18 @@
        "j": "Liverpool–Manchester Utd",
        "m": "Dupla hipótese: Liverpool ou empate",
        "o": "1,18",
-       "comp": "Premier League"
+       "comp": "Premier League",
+       "r": "ok",
+       "x": "4-0"
       },
       {
        "h": "17:30",
        "j": "Osasuna vence o Málaga",
        "m": "Resultado final",
        "o": "1,82",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "1-0"
       }
      ]
     },
@@ -881,8 +885,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,14",
-     "e": "nao verificado",
-     "d": "2 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Corinthians–Botafogo (4-0); Seattle Sounders–Real Salt Lake (1-1); PAOK vence o Kifisias (4-0)",
      "legs": [
       {
        "h": "00:30",
@@ -910,7 +914,9 @@
        "j": "PAOK vence o Kifisias",
        "m": "Resultado final",
        "o": "1,37",
-       "comp": "Superliga (Grécia)"
+       "comp": "Superliga (Grécia)",
+       "r": "ok",
+       "x": "4-0"
       }
      ]
     }
@@ -8433,10 +8439,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 222,
-  "ganhos": 120,
-  "pernas": 415,
-  "pernas_ok": 294,
+  "decididos": 224,
+  "ganhos": 122,
+  "pernas": 418,
+  "pernas_ok": 297,
   "dias": 60,
   "odd_media": "1,39",
   "tipos": [
@@ -8448,11 +8454,11 @@
     "pend": 0
    },
    {
-    "ok": 31,
-    "dec": 55,
-    "pct": 56,
+    "ok": 32,
+    "dec": 56,
+    "pct": 57,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 23,
@@ -8462,17 +8468,17 @@
     "pend": 0
    },
    {
-    "ok": 18,
-    "dec": 55,
-    "pct": 33,
+    "ok": 19,
+    "dec": 56,
+    "pct": 34,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
    {
-    "ok": 150,
-    "dec": 238,
+    "ok": 152,
+    "dec": 240,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -8613,6 +8619,12 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Liverpool ou empate"
    },
    {
     "ok": 1,
@@ -9157,31 +9169,31 @@
   ],
   "faixas": [
    {
-    "ok": 151,
-    "dec": 183,
+    "ok": 152,
+    "dec": 184,
     "pct": 83,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 80,
-    "dec": 105,
+    "ok": 81,
+    "dec": 106,
     "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 63,
-    "dec": 127,
+    "ok": 64,
+    "dec": 128,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 1,
-    "dec": 2,
-    "pct": 50,
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
     "nome": "Domingo, 22 de novembro",
-    "pend": 2
+    "pend": 1
    },
    {
     "ok": 1,
@@ -9205,11 +9217,11 @@
     "pend": 1
    },
    {
-    "ok": 1,
-    "dec": 3,
-    "pct": 33,
+    "ok": 2,
+    "dec": 4,
+    "pct": 50,
     "nome": "Quarta-feira, 18 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
