@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,21",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Barcelona vence o Villarreal (3-2)",
     "legs": [
      {
       "h": "13:00",
       "j": "Barcelona vence o Villarreal",
       "m": "Resultado final",
       "o": "1,21",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    },
@@ -55,8 +57,8 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,47",
-    "e": "pendente",
-    "d": "1 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Burnley vence o Blackburn (2-2) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "11:30",
@@ -72,7 +74,9 @@
       "j": "Burnley vence o Blackburn",
       "m": "Resultado final",
       "o": "1,84",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "19:45",
@@ -224,7 +228,7 @@
     "c": "t4",
     "total": "2,16",
     "e": "perdido",
-    "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 1 certa, 2 por jogar",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "13:30",
@@ -232,7 +236,9 @@
       "j": "Ajax vence o Den Haag",
       "m": "Resultado final",
       "o": "1,14",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "20:00",
@@ -361,7 +367,7 @@
     "c": "t4",
     "total": "2,12",
     "e": "perdido",
-    "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 2 certas, 1 por jogar",
+    "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 3 certas",
     "legs": [
      {
       "h": "17:45",
@@ -399,7 +405,9 @@
       "j": "Barcelona vence o Villarreal",
       "m": "Resultado final",
       "o": "1,20",
-      "comp": "La Liga"
+      "comp": "La Liga",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    }

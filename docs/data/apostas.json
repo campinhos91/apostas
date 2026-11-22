@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T13:54:48+00:00",
+ "atualizado": "2026-11-22T16:55:27+00:00",
  "dia": "2026-11-22",
  "rotulo": "Domingo · 22 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -29,7 +29,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "perdido",
-   "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 1 certa, 2 por jogar"
+   "d": "1 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -224,15 +224,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,21",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Barcelona vence o Villarreal (3-2)",
      "legs": [
       {
        "h": "13:00",
        "j": "Barcelona vence o Villarreal",
        "m": "Resultado final",
        "o": "1,21",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "3-2"
       }
      ]
     },
@@ -272,8 +274,8 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,47",
-     "e": "pendente",
-     "d": "1 de 4 pernas certas até agora",
+     "e": "perdido",
+     "d": "Falhou: Burnley vence o Blackburn (2-2) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "11:30",
@@ -289,7 +291,9 @@
        "j": "Burnley vence o Blackburn",
        "m": "Resultado final",
        "o": "1,84",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "19:45",
@@ -441,7 +445,7 @@
      "c": "t4",
      "total": "2,16",
      "e": "perdido",
-     "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 1 certa, 2 por jogar",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "13:30",
@@ -449,7 +453,9 @@
        "j": "Ajax vence o Den Haag",
        "m": "Resultado final",
        "o": "1,14",
-       "comp": "Eredivisie"
+       "comp": "Eredivisie",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "20:00",
@@ -578,7 +584,7 @@
      "c": "t4",
      "total": "2,12",
      "e": "perdido",
-     "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 2 certas, 1 por jogar",
+     "d": "Falhou: Feyenoord vence o Excelsior (2-3) · 3 certas",
      "legs": [
       {
        "h": "17:45",
@@ -616,7 +622,9 @@
        "j": "Barcelona vence o Villarreal",
        "m": "Resultado final",
        "o": "1,20",
-       "comp": "La Liga"
+       "comp": "La Liga",
+       "r": "ok",
+       "x": "3-2"
       }
      ]
     }
@@ -8425,19 +8433,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 220,
-  "ganhos": 119,
-  "pernas": 412,
-  "pernas_ok": 292,
+  "decididos": 222,
+  "ganhos": 120,
+  "pernas": 415,
+  "pernas_ok": 294,
   "dias": 60,
   "odd_media": "1,39",
   "tipos": [
    {
-    "ok": 47,
-    "dec": 56,
+    "ok": 48,
+    "dec": 57,
     "pct": 84,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 31,
@@ -8448,10 +8456,10 @@
    },
    {
     "ok": 23,
-    "dec": 54,
-    "pct": 43,
+    "dec": 55,
+    "pct": 42,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 18,
@@ -8463,8 +8471,8 @@
   ],
   "mercados": [
    {
-    "ok": 148,
-    "dec": 235,
+    "ok": 150,
+    "dec": 238,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -9149,9 +9157,9 @@
   ],
   "faixas": [
    {
-    "ok": 149,
-    "dec": 181,
-    "pct": 82,
+    "ok": 151,
+    "dec": 183,
+    "pct": 83,
     "nome": "Odd até 1,25"
    },
    {
@@ -9162,18 +9170,18 @@
    },
    {
     "ok": 63,
-    "dec": 126,
+    "dec": 127,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
     "nome": "Domingo, 22 de novembro",
-    "pend": 4
+    "pend": 2
    },
    {
     "ok": 1,
