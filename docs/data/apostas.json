@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T23:23:13+00:00",
+ "atualizado": "2026-11-23T10:55:44+00:00",
  "dia": "2026-11-23",
  "rotulo": "Segunda-feira · 23 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -232,15 +232,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,12",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Vancouver Whitecaps–Real Salt Lake (2-0)",
      "legs": [
       {
        "h": "01:30",
        "j": "Vancouver Whitecaps–Real Salt Lake",
        "m": "Dupla hipótese: Vancouver Whitecaps ou empate",
        "o": "1,12",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "2-0"
       }
      ]
     },
@@ -279,14 +281,16 @@
      "c": "t3",
      "total": "2,31",
      "e": "pendente",
-     "d": "",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "01:30",
        "j": "Vancouver Whitecaps–Real Salt Lake",
        "m": "Dupla hipótese: Vancouver Whitecaps ou empate",
        "o": "1,12",
-       "comp": "MLS"
+       "comp": "MLS",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "19:45",
@@ -874,8 +878,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,08",
-     "e": "nao verificado",
-     "d": "4 de 5 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Seattle Sounders–Real Salt Lake (1-1); Vélez Sarsfield–Belgrano (1-1); Manchester City–Fulham (1-1); Newcastle–Arsenal (2-2); River Plate–Lanús (3-1)",
      "legs": [
       {
        "h": "03:00",
@@ -923,7 +927,9 @@
        "j": "River Plate–Lanús",
        "m": "Dupla hipótese: River Plate ou empate",
        "o": "1,10",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     }
@@ -8581,19 +8587,19 @@
   }
  ],
  "estatisticas": {
-  "decididos": 224,
-  "ganhos": 122,
-  "pernas": 420,
-  "pernas_ok": 299,
+  "decididos": 226,
+  "ganhos": 124,
+  "pernas": 422,
+  "pernas_ok": 301,
   "dias": 61,
   "odd_media": "1,39",
   "tipos": [
    {
-    "ok": 48,
-    "dec": 57,
+    "ok": 49,
+    "dec": 58,
     "pct": 84,
     "nome": "Aposta simples segura",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 32,
@@ -8610,11 +8616,11 @@
     "pend": 1
    },
    {
-    "ok": 19,
-    "dec": 56,
-    "pct": 34,
+    "ok": 20,
+    "dec": 57,
+    "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 3
    }
   ],
   "mercados": [
@@ -8772,6 +8778,12 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
+    "nome": "Dupla hipótese: Vancouver Whitecaps ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Dupla hipótese: Liverpool ou empate"
    },
    {
@@ -8815,6 +8827,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Vitória ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: River Plate ou empate"
    },
    {
     "ok": 1,
@@ -9311,8 +9329,8 @@
   ],
   "faixas": [
    {
-    "ok": 154,
-    "dec": 186,
+    "ok": 156,
+    "dec": 188,
     "pct": 83,
     "nome": "Odd até 1,25"
    },
@@ -9331,11 +9349,11 @@
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
     "nome": "Segunda-feira, 23 de novembro",
-    "pend": 4
+    "pend": 3
    },
    {
     "ok": 2,
@@ -9359,11 +9377,11 @@
     "pend": 0
    },
    {
-    "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Quinta-feira, 19 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 2,

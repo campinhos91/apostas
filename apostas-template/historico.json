@@ -7,15 +7,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,12",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Vancouver Whitecaps–Real Salt Lake (2-0)",
     "legs": [
      {
       "h": "01:30",
       "j": "Vancouver Whitecaps–Real Salt Lake",
       "m": "Dupla hipótese: Vancouver Whitecaps ou empate",
       "o": "1,12",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -54,14 +56,16 @@
     "c": "t3",
     "total": "2,31",
     "e": "pendente",
-    "d": "",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "01:30",
       "j": "Vancouver Whitecaps–Real Salt Lake",
       "m": "Dupla hipótese: Vancouver Whitecaps ou empate",
       "o": "1,12",
-      "comp": "MLS"
+      "comp": "MLS",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "19:45",
@@ -649,8 +653,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,08",
-    "e": "nao verificado",
-    "d": "4 de 5 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Seattle Sounders–Real Salt Lake (1-1); Vélez Sarsfield–Belgrano (1-1); Manchester City–Fulham (1-1); Newcastle–Arsenal (2-2); River Plate–Lanús (3-1)",
     "legs": [
      {
       "h": "03:00",
@@ -698,7 +702,9 @@
       "j": "River Plate–Lanús",
       "m": "Dupla hipótese: River Plate ou empate",
       "o": "1,10",
-      "comp": "Primeira Liga (Argentina)"
+      "comp": "Primeira Liga (Argentina)",
+      "r": "ok",
+      "x": "3-1"
      }
     ]
    }
