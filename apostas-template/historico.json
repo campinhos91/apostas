@@ -137,8 +137,8 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,37",
-    "e": "perdido",
-    "d": "Falhou: Arsenal vence o Borussia Dortmund (1-1) · 0 certas",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Vancouver Whitecaps–Real Salt Lake (2-0)",
     "legs": [
      {
       "h": "20:00",
@@ -236,8 +236,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,13",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "00:00",
@@ -375,7 +375,7 @@
     "c": "t4",
     "total": "1,80",
     "e": "perdido",
-    "d": "Falhou: Manchester City vence o Napoli (2-2) · 0 certas, 3 por jogar",
+    "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar",
     "legs": [
      {
       "h": "20:00",
@@ -383,7 +383,9 @@
       "j": "Rangers–Aberdeen",
       "m": "Dupla hipótese: Rangers ou empate",
       "o": "1,05",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "20:00",
@@ -522,8 +524,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "2,26",
-    "e": "nao verificado",
-    "d": "1 de 3 pernas certas até agora",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Brentford–Everton (4-0); Wolves vence o Derby (3-0); Middlesbrough vence o Swansea (2-1)",
     "legs": [
      {
       "h": "20:00",
@@ -541,7 +543,9 @@
       "j": "Wolves vence o Derby",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "ok",
+      "x": "3-0"
      },
      {
       "h": "19:45",
@@ -549,7 +553,9 @@
       "j": "Middlesbrough vence o Swansea",
       "m": "Resultado final",
       "o": "1,40",
-      "comp": "Championship"
+      "comp": "Championship",
+      "r": "ok",
+      "x": "2-1"
      }
     ]
    }
@@ -682,7 +688,9 @@
       "j": "Arsenal vence o Dortmund",
       "m": "Resultado final",
       "o": "1,33",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "20:00",
@@ -690,7 +698,9 @@
       "j": "Rangers vence o Aberdeen",
       "m": "Resultado final",
       "o": "1,18",
-      "comp": "Primeira Liga (Escócia)"
+      "comp": "Primeira Liga (Escócia)",
+      "r": "ok",
+      "x": "3-2"
      }
     ]
    }

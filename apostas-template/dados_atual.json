@@ -4,23 +4,23 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: Arsenal vence o Borussia Dortmund (1-1) · 0 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Vancouver Whitecaps–Real Salt Lake (2-0)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Manchester City vence o Napoli (2-2) · 2 certas"
+   "d": "Falhou: Internacional–Vitória (2-5) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Manchester City vence o Napoli (2-2); Arsenal vence o Borussia Dortmund (1-1) · 2 certas"
+   "d": "Falhou: Monza–Fiorentina (3-0) · 3 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [

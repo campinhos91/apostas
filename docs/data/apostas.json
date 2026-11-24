@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T23:25:22+00:00",
+ "atualizado": "2026-11-24T23:54:45+00:00",
  "dia": "2026-11-25",
  "rotulo": "Quarta-feira · 25 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -13,23 +13,23 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "perdido",
-   "d": "Falhou: Arsenal vence o Borussia Dortmund (1-1) · 0 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Vancouver Whitecaps–Real Salt Lake (2-0)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Manchester City vence o Napoli (2-2) · 2 certas"
+   "d": "Falhou: Internacional–Vitória (2-5) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Manchester City vence o Napoli (2-2); Arsenal vence o Borussia Dortmund (1-1) · 2 certas"
+   "d": "Falhou: Monza–Fiorentina (3-0) · 3 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "e": "perdido",
+   "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar"
   }
  ],
  "hoje": [
@@ -362,8 +362,8 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,37",
-     "e": "perdido",
-     "d": "Falhou: Arsenal vence o Borussia Dortmund (1-1) · 0 certas",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Vancouver Whitecaps–Real Salt Lake (2-0)",
      "legs": [
       {
        "h": "20:00",
@@ -461,8 +461,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,13",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "00:00",
@@ -600,7 +600,7 @@
      "c": "t4",
      "total": "1,80",
      "e": "perdido",
-     "d": "Falhou: Manchester City vence o Napoli (2-2) · 0 certas, 3 por jogar",
+     "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar",
      "legs": [
       {
        "h": "20:00",
@@ -608,7 +608,9 @@
        "j": "Rangers–Aberdeen",
        "m": "Dupla hipótese: Rangers ou empate",
        "o": "1,05",
-       "comp": "Primeira Liga (Escócia)"
+       "comp": "Primeira Liga (Escócia)",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "20:00",
@@ -747,8 +749,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,26",
-     "e": "nao verificado",
-     "d": "1 de 3 pernas certas até agora",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Brentford–Everton (4-0); Wolves vence o Derby (3-0); Middlesbrough vence o Swansea (2-1)",
      "legs": [
       {
        "h": "20:00",
@@ -766,7 +768,9 @@
        "j": "Wolves vence o Derby",
        "m": "Resultado final",
        "o": "1,25",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "ok",
+       "x": "3-0"
       },
       {
        "h": "19:45",
@@ -774,7 +778,9 @@
        "j": "Middlesbrough vence o Swansea",
        "m": "Resultado final",
        "o": "1,40",
-       "comp": "Championship"
+       "comp": "Championship",
+       "r": "ok",
+       "x": "2-1"
       }
      ]
     }
@@ -907,7 +913,9 @@
        "j": "Arsenal vence o Dortmund",
        "m": "Resultado final",
        "o": "1,33",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "20:00",
@@ -915,7 +923,9 @@
        "j": "Rangers vence o Aberdeen",
        "m": "Resultado final",
        "o": "1,18",
-       "comp": "Primeira Liga (Escócia)"
+       "comp": "Primeira Liga (Escócia)",
+       "r": "ok",
+       "x": "3-2"
       }
      ]
     }
@@ -8873,17 +8883,17 @@
   }
  ],
  "estatisticas": {
-  "decididos": 232,
-  "ganhos": 124,
-  "pernas": 432,
-  "pernas_ok": 307,
+  "decididos": 234,
+  "ganhos": 126,
+  "pernas": 437,
+  "pernas_ok": 311,
   "dias": 63,
   "odd_media": "1,39",
   "tipos": [
    {
-    "ok": 49,
+    "ok": 50,
     "dec": 59,
-    "pct": 83,
+    "pct": 85,
     "nome": "Aposta simples segura",
     "pend": 1
    },
@@ -8902,17 +8912,17 @@
     "pend": 1
    },
    {
-    "ok": 20,
-    "dec": 58,
-    "pct": 34,
+    "ok": 21,
+    "dec": 60,
+    "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 4
+    "pend": 2
    }
   ],
   "mercados": [
    {
-    "ok": 154,
-    "dec": 244,
+    "ok": 157,
+    "dec": 248,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -9101,6 +9111,12 @@
     "dec": 1,
     "pct": 100,
     "nome": "Dupla hipótese: Gimnasia L.P. ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Rangers ou empate"
    },
    {
     "ok": 1,
@@ -9645,15 +9661,15 @@
   ],
   "faixas": [
    {
-    "ok": 158,
-    "dec": 192,
-    "pct": 82,
+    "ok": 161,
+    "dec": 195,
+    "pct": 83,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 85,
-    "dec": 112,
-    "pct": 76,
+    "ok": 86,
+    "dec": 114,
+    "pct": 75,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
@@ -9672,11 +9688,11 @@
     "pend": 4
    },
    {
-    "ok": 0,
-    "dec": 3,
-    "pct": 0,
+    "ok": 1,
+    "dec": 4,
+    "pct": 25,
     "nome": "Terça-feira, 24 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
@@ -9686,11 +9702,11 @@
     "pend": 0
    },
    {
-    "ok": 2,
-    "dec": 3,
-    "pct": 67,
+    "ok": 3,
+    "dec": 4,
+    "pct": 75,
     "nome": "Domingo, 22 de novembro",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 1,
