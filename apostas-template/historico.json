@@ -1,20 +1,20 @@
 [
  {
-  "dia": "2026-11-24",
-  "rotulo": "Terça-feira · 24 de novembro de 2026",
+  "dia": "2026-11-25",
+  "rotulo": "Quarta-feira · 25 de novembro de 2026",
   "boletins": [
    {
     "t": "Aposta simples segura",
     "c": "t1",
-    "total": "1,37",
+    "total": "1,12",
     "e": "pendente",
     "d": "",
     "legs": [
      {
       "h": "20:00",
-      "j": "Arsenal vence o Borussia Dortmund",
-      "m": "Resultado final",
-      "o": "1,37",
+      "j": "Paris Saint-Germain–Roma",
+      "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+      "o": "1,12",
       "comp": "Liga dos Campeões"
      }
     ]
@@ -22,29 +22,29 @@
    {
     "t": "Múltipla segura",
     "c": "t2",
-    "total": "2,03",
+    "total": "1,56",
     "e": "pendente",
     "d": "",
     "legs": [
      {
       "h": "20:00",
-      "j": "Manchester City vence o Napoli",
-      "m": "Resultado final",
-      "o": "1,25",
+      "j": "Paris Saint-Germain–Roma",
+      "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+      "o": "1,12",
       "comp": "Liga dos Campeões"
      },
      {
       "h": "20:00",
-      "j": "Como vence o AEK Atenas",
-      "m": "Resultado final",
-      "o": "1,21",
+      "j": "Lille–Bayern Munique",
+      "m": "Mais de 1,5 golos",
+      "o": "1,16",
       "comp": "Liga dos Campeões"
      },
      {
       "h": "20:00",
-      "j": "RB Leipzig vence o Lens",
-      "m": "Resultado final",
-      "o": "1,34",
+      "j": "Shakhtar Donetsk–Fenerbahce",
+      "m": "Mais de 1,5 golos",
+      "o": "1,20",
       "comp": "Liga dos Campeões"
      }
     ]
@@ -52,36 +52,36 @@
    {
     "t": "Múltipla arriscada",
     "c": "t3",
-    "total": "2,78",
+    "total": "2,77",
     "e": "pendente",
     "d": "",
     "legs": [
      {
       "h": "20:00",
-      "j": "Manchester City vence o Napoli",
-      "m": "Resultado final",
-      "o": "1,25",
+      "j": "Paris Saint-Germain–Roma",
+      "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+      "o": "1,12",
       "comp": "Liga dos Campeões"
      },
      {
       "h": "20:00",
-      "j": "Arsenal vence o Borussia Dortmund",
-      "m": "Resultado final",
-      "o": "1,37",
+      "j": "Inter–Stuttgart",
+      "m": "Dupla hipótese: Inter ou empate",
+      "o": "1,12",
       "comp": "Liga dos Campeões"
      },
      {
       "h": "20:00",
-      "j": "Como vence o AEK Atenas",
-      "m": "Resultado final",
-      "o": "1,21",
+      "j": "Sporting–Manchester United",
+      "m": "Dupla hipótese: Sporting ou empate",
+      "o": "1,46",
       "comp": "Liga dos Campeões"
      },
      {
       "h": "20:00",
-      "j": "RB Leipzig vence o Lens",
-      "m": "Resultado final",
-      "o": "1,34",
+      "j": "Shakhtar Donetsk–Fenerbahce",
+      "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
+      "o": "1,51",
       "comp": "Liga dos Campeões"
      }
     ]
@@ -89,9 +89,155 @@
    {
     "t": "Múltipla dos próximos dias",
     "c": "t4",
-    "total": "2,13",
+    "total": "3,09",
     "e": "pendente",
     "d": "",
+    "legs": [
+     {
+      "h": "00:00",
+      "d": "QUI",
+      "j": "Boca Juniors vence o Independiente Rivadavia",
+      "m": "Resultado final",
+      "o": "1,61",
+      "comp": "Primeira Liga (Argentina)"
+     },
+     {
+      "h": "17:45",
+      "d": "QUI",
+      "j": "Ajax vence o Thun",
+      "m": "Resultado final",
+      "o": "1,15",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "19:00",
+      "d": "SEX",
+      "j": "Groningen vence o Willem II",
+      "m": "Resultado final",
+      "o": "1,38",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "14:30",
+      "d": "SÁB",
+      "j": "Bayern Munique vence o Hamburger SV",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Bundesliga"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "dia": "2026-11-24",
+  "rotulo": "Terça-feira · 24 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,37",
+    "e": "perdido",
+    "d": "Falhou: Arsenal vence o Borussia Dortmund (1-1) · 0 certas",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Arsenal vence o Borussia Dortmund",
+      "m": "Resultado final",
+      "o": "1,37",
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "1-1"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "2,03",
+    "e": "perdido",
+    "d": "Falhou: Manchester City vence o Napoli (2-2) · 2 certas",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Manchester City vence o Napoli",
+      "m": "Resultado final",
+      "o": "1,25",
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "2-2"
+     },
+     {
+      "h": "20:00",
+      "j": "Como vence o AEK Atenas",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "1-0"
+     },
+     {
+      "h": "20:00",
+      "j": "RB Leipzig vence o Lens",
+      "m": "Resultado final",
+      "o": "1,34",
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "3-1"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "2,78",
+    "e": "perdido",
+    "d": "Falhou: Manchester City vence o Napoli (2-2); Arsenal vence o Borussia Dortmund (1-1) · 2 certas",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Manchester City vence o Napoli",
+      "m": "Resultado final",
+      "o": "1,25",
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "2-2"
+     },
+     {
+      "h": "20:00",
+      "j": "Arsenal vence o Borussia Dortmund",
+      "m": "Resultado final",
+      "o": "1,37",
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "1-1"
+     },
+     {
+      "h": "20:00",
+      "j": "Como vence o AEK Atenas",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "1-0"
+     },
+     {
+      "h": "20:00",
+      "j": "RB Leipzig vence o Lens",
+      "m": "Resultado final",
+      "o": "1,34",
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "3-1"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,13",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "00:00",
@@ -228,8 +374,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,80",
-    "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "e": "perdido",
+    "d": "Falhou: Manchester City vence o Napoli (2-2) · 0 certas, 3 por jogar",
     "legs": [
      {
       "h": "20:00",
@@ -245,7 +391,9 @@
       "j": "Manchester City vence o Napoli",
       "m": "Resultado final",
       "o": "1,23",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "17:45",
@@ -524,7 +672,9 @@
       "j": "Manchester City vence o Napoli",
       "m": "Resultado final",
       "o": "1,21",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "2-2"
      },
      {
       "h": "20:00",

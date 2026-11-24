@@ -1,10 +1,4 @@
 data,casa,fora,gc,gf,torneio,neutro
-2014-11-22,Philippines,Laos,4,1,AFF Championship,1
-2014-11-22,Vietnam,Indonesia,2,2,AFF Championship,0
-2014-11-23,Malaysia,Myanmar,0,0,AFF Championship,1
-2014-11-23,Oman,Qatar,1,3,Gulf Cup,1
-2014-11-23,Saudi Arabia,United Arab Emirates,3,2,Gulf Cup,0
-2014-11-23,Singapore,Thailand,1,2,AFF Championship,0
 2014-11-25,Philippines,Indonesia,4,0,AFF Championship,1
 2014-11-25,United Arab Emirates,Oman,1,0,Gulf Cup,1
 2014-11-25,Vietnam,Laos,3,0,AFF Championship,0
@@ -214,7 +208,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2015-03-29,Dominica,British Virgin Islands,0,0,FIFA World Cup qualification,0
 2015-03-29,France,Denmark,2,0,Friendly,0
 2015-03-29,Georgia,Germany,0,2,UEFA Euro qualification,0
-2015-03-29,Guyana,Grenada,2,0,Friendly,0
+2015-03-29,Guyana,Grenada,0,3,Friendly,0
 2015-03-29,Honduras,French Guiana,3,0,Gold Cup qualification,0
 2015-03-29,Hungary,Greece,0,0,UEFA Euro qualification,0
 2015-03-29,Ivory Coast,Equatorial Guinea,1,1,Friendly,0
@@ -330,7 +324,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2015-06-06,Burkina Faso,Cameroon,2,3,Friendly,1
 2015-06-06,Colombia,Costa Rica,1,0,Friendly,1
 2015-06-06,Ecuador,Panama,4,0,Friendly,0
-2015-06-06,Guinea,Chad,2,1,Friendly,1
+2015-06-06,Guinea,Chad,1,2,Friendly,1
 2015-06-06,Malaysia,Hong Kong,0,0,Friendly,0
 2015-06-06,Niger,Gabon,2,1,Friendly,0
 2015-06-06,Paraguay,Honduras,2,2,Friendly,0
@@ -1024,7 +1018,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2015-11-17,Taiwan,Iraq,0,2,FIFA World Cup qualification,0
 2015-11-17,Timor-Leste,Saudi Arabia,0,10,FIFA World Cup qualification,0
 2015-11-17,Tunisia,Mauritania,2,1,FIFA World Cup qualification,0
-2015-11-17,Turkey,Greece,0,0,Friendly,0
+2015-11-17,Turkey,Greece,3,0,Friendly,0
 2015-11-17,Turkmenistan,Oman,2,1,FIFA World Cup qualification,0
 2015-11-17,Uruguay,Chile,3,0,FIFA World Cup qualification,0
 2015-11-17,Venezuela,Ecuador,1,3,FIFA World Cup qualification,0
@@ -1236,7 +1230,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2016-03-29,Lebanon,Myanmar,1,1,FIFA World Cup qualification,0
 2016-03-29,Lesotho,Seychelles,2,1,African Cup of Nations qualification,0
 2016-03-29,Liberia,Djibouti,5,0,African Cup of Nations qualification,0
-2016-03-29,Luxembourg,Albania,0,2,Friendly,0
+2016-03-29,Luxembourg,Albania,3,0,Friendly,0
 2016-03-29,Malawi,Guinea,1,2,African Cup of Nations qualification,0
 2016-03-29,Malaysia,Macau,0,0,Friendly,0
 2016-03-29,Maldives,Bhutan,4,2,FIFA World Cup qualification,0
@@ -1311,7 +1305,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2016-05-29,Albania,Qatar,3,1,Friendly,1
 2016-05-29,Azerbaijan,North Macedonia,1,3,Friendly,1
 2016-05-29,Bosnia and Herzegovina,Spain,1,3,Friendly,1
-2016-05-29,Cambodia,Timor-Leste,2,0,Friendly,0
+2016-05-29,Cambodia,Timor-Leste,3,0,Friendly,0
 2016-05-29,Germany,Slovakia,1,3,Friendly,0
 2016-05-29,Iraqi Kurdistan,Székely Land,3,0,CONIFA World Football Cup,1
 2016-05-29,Italy,Scotland,1,0,Friendly,1
@@ -1423,7 +1417,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2016-06-04,United States Virgin Islands,Guyana,0,7,CFU Caribbean Cup qualification,0
 2016-06-05,Abkhazia,Panjab,1,1,CONIFA World Football Cup,0
 2016-06-05,Belgium,Norway,3,2,Friendly,0
-2016-06-05,Central African Republic,Angola,3,0,African Cup of Nations qualification,0
+2016-06-05,Central African Republic,Angola,3,1,African Cup of Nations qualification,0
 2016-06-05,Comoros,Burkina Faso,0,1,African Cup of Nations qualification,0
 2016-06-05,Czech Republic,South Korea,1,2,Friendly,0
 2016-06-05,Eswatini,Guinea,1,0,African Cup of Nations qualification,0
@@ -2471,7 +2465,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2017-07-09,Mexico,El Salvador,3,1,Gold Cup,1
 2017-07-09,Zambia,Zimbabwe,1,3,COSAFA Cup,1
 2017-07-11,Costa Rica,Canada,1,1,Gold Cup,1
-2017-07-11,Honduras,French Guiana,0,0,Gold Cup,1
+2017-07-11,Honduras,French Guiana,3,0,Gold Cup,1
 2017-07-12,Panama,Nicaragua,2,1,Gold Cup,1
 2017-07-12,United States,Martinique,3,2,Gold Cup,0
 2017-07-13,El Salvador,Curaçao,2,0,Gold Cup,1
@@ -2890,7 +2884,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2017-12-11,South Sudan,Burundi,0,0,CECAFA Cup,1
 2017-12-12,Fiji,Tonga,4,0,Pacific Mini Games,1
 2017-12-12,Japan,China,2,1,EAFF Championship,0
-2017-12-12,New Caledonia,Solomon Islands,0,0,Pacific Mini Games,1
+2017-12-12,New Caledonia,Solomon Islands,0,1,Pacific Mini Games,1
 2017-12-12,North Korea,South Korea,0,1,EAFF Championship,1
 2017-12-12,Vanuatu,Tuvalu,10,0,Pacific Mini Games,0
 2017-12-14,Kenya,Burundi,1,0,CECAFA Cup,0
@@ -6631,7 +6625,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2022-03-24,Lebanon,Syria,0,3,FIFA World Cup qualification,0
 2022-03-24,Liberia,Benin,0,4,Friendly,1
 2022-03-24,Maldives,Bangladesh,2,0,Friendly,0
-2022-03-24,Mauritius,São Tomé and Príncipe,3,0,African Cup of Nations qualification,0
+2022-03-24,Mauritius,São Tomé and Príncipe,3,3,African Cup of Nations qualification,0
 2022-03-24,Mexico,United States,0,0,FIFA World Cup qualification,0
 2022-03-24,Moldova,Kazakhstan,1,2,UEFA Nations League,0
 2022-03-24,New Zealand,New Caledonia,7,1,FIFA World Cup qualification,1
@@ -7654,7 +7648,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2023-03-28,Libya,Tunisia,0,1,African Cup of Nations qualification,0
 2023-03-28,Malawi,Egypt,0,4,African Cup of Nations qualification,0
 2023-03-28,Malaysia,Hong Kong,2,0,Friendly,0
-2023-03-28,Mauritania,DR Congo,1,1,African Cup of Nations qualification,0
+2023-03-28,Mauritania,DR Congo,0,3,African Cup of Nations qualification,0
 2023-03-28,Morocco,Peru,0,0,Friendly,1
 2023-03-28,Mozambique,Senegal,0,1,African Cup of Nations qualification,0
 2023-03-28,Namibia,Cameroon,2,1,African Cup of Nations qualification,1
@@ -7671,7 +7665,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2023-03-28,United States Virgin Islands,Sint Maarten,1,2,CONCACAF Nations League,0
 2023-03-28,Uzbekistan,Venezuela,1,1,Friendly,1
 2023-03-28,Wales,Latvia,1,0,UEFA Euro qualification,0
-2023-03-29,Rwanda,Benin,1,1,African Cup of Nations qualification,0
+2023-03-29,Rwanda,Benin,0,3,African Cup of Nations qualification,0
 2023-03-31,Nepal,Laos,2,1,Tri Nation Tournament,0
 2023-04-19,United States,Mexico,1,1,Friendly,0
 2023-05-13,Guernsey,Jersey,1,2,Muratti Vase,0
@@ -9128,7 +9122,6 @@ data,casa,fora,gc,gf,torneio,neutro
 2024-07-27,Jordan,North Korea,0,0,Friendly,0
 2024-08-29,Jordan,North Korea,2,1,Friendly,0
 2024-09-01,Guatemala,Uruguay,1,1,Friendly,1
-2024-09-02,Fiji,Hong Kong,1,1,Tri-Nations Series,0
 2024-09-02,Fiji,Solomon Islands,1,0,Tri-Nations Series,0
 2024-09-03,India,Mauritius,0,0,Intercontinental Cup,0
 2024-09-04,Cayman Islands,British Virgin Islands,1,0,CONCACAF Nations League,0
@@ -9234,6 +9227,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2024-09-08,Bulgaria,Northern Ireland,1,0,UEFA Nations League,0
 2024-09-08,Croatia,Poland,1,0,UEFA Nations League,0
 2024-09-08,Denmark,Serbia,2,0,UEFA Nations League,0
+2024-09-08,Fiji,Hong Kong,1,1,Tri-Nations Series,0
 2024-09-08,Gambia,Tunisia,1,2,African Cup of Nations qualification,1
 2024-09-08,Gibraltar,Liechtenstein,2,2,UEFA Nations League,0
 2024-09-08,Luxembourg,Belarus,0,1,UEFA Nations League,0
@@ -9573,8 +9567,8 @@ data,casa,fora,gc,gf,torneio,neutro
 2024-11-15,Peru,Chile,0,0,FIFA World Cup qualification,0
 2024-11-15,Portugal,Poland,5,1,UEFA Nations League,0
 2024-11-15,Puerto Rico,Aruba,5,1,CONCACAF Nations League,0
-2024-11-15,Romania,Kosovo,0,0,UEFA Nations League,0
-2024-11-15,Russia,Brunei,2,1,Friendly,0
+2024-11-15,Romania,Kosovo,3,0,UEFA Nations League,0
+2024-11-15,Russia,Brunei,11,0,Friendly,0
 2024-11-15,Saint Lucia,Grenada,0,4,CONCACAF Nations League,1
 2024-11-15,Samoa,Tahiti,0,3,FIFA World Cup qualification,1
 2024-11-15,San Marino,Gibraltar,1,1,UEFA Nations League,0
@@ -9915,7 +9909,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2025-03-25,Kyrgyzstan,Qatar,3,1,FIFA World Cup qualification,0
 2025-03-25,Lebanon,Brunei,5,0,AFC Asian Cup qualification,1
 2025-03-25,Liechtenstein,Kazakhstan,0,2,FIFA World Cup qualification,0
-2025-03-25,Malaysia,Nepal,2,0,AFC Asian Cup qualification,0
+2025-03-25,Malaysia,Nepal,0,3,AFC Asian Cup qualification,0
 2025-03-25,Martinique,Suriname,0,1,Gold Cup qualification,0
 2025-03-25,Mauritania,DR Congo,0,2,FIFA World Cup qualification,0
 2025-03-25,Moldova,Estonia,2,3,FIFA World Cup qualification,0
@@ -9953,7 +9947,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2025-05-27,Jamaica,Trinidad and Tobago,3,2,Unity Cup,1
 2025-05-28,Nigeria,Ghana,2,1,Unity Cup,1
 2025-05-28,Oman,Lebanon,1,0,Friendly,0
-2025-05-29,Malaysia,Cape Verde,1,1,Friendly,0
+2025-05-29,Malaysia,Cape Verde,0,3,Friendly,0
 2025-05-30,Saint Vincent and the Grenadines,British Virgin Islands,1,1,Friendly,0
 2025-05-30,Saudi Arabia,Jordan,2,0,Friendly,0
 2025-05-31,Jamaica,Nigeria,2,2,Unity Cup,1
@@ -9962,7 +9956,6 @@ data,casa,fora,gc,gf,torneio,neutro
 2025-06-01,Grenada,Anguilla,2,0,Friendly,0
 2025-06-01,Puerto Rico,Nicaragua,1,1,Friendly,1
 2025-06-02,Tunisia,Burkina Faso,2,0,Friendly,0
-2025-06-03,Malaysia,Cape Verde,0,3,Friendly,0
 2025-06-04,Bangladesh,Bhutan,2,0,Friendly,0
 2025-06-04,Barbados,Aruba,1,1,FIFA World Cup qualification,0
 2025-06-04,Bermuda,Cayman Islands,5,0,FIFA World Cup qualification,0
@@ -10094,7 +10087,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2025-06-10,Laos,Nepal,2,1,AFC Asian Cup qualification,0
 2025-06-10,Latvia,Albania,1,1,FIFA World Cup qualification,0
 2025-06-10,Luxembourg,Republic of Ireland,0,0,Friendly,0
-2025-06-10,Malaysia,Vietnam,4,0,AFC Asian Cup qualification,0
+2025-06-10,Malaysia,Vietnam,0,3,AFC Asian Cup qualification,0
 2025-06-10,Mexico,Turkey,1,0,Friendly,1
 2025-06-10,Myanmar,Pakistan,1,0,AFC Asian Cup qualification,0
 2025-06-10,Netherlands,Malta,8,0,FIFA World Cup qualification,0
@@ -10176,7 +10169,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2025-08-13,United States Virgin Islands,Turks and Caicos Islands,1,1,Outrigger Challenge Cup,1
 2025-08-14,Marshall Islands,United States Virgin Islands,0,4,Outrigger Challenge Cup,1
 2025-08-16,Turks and Caicos Islands,Marshall Islands,3,2,Outrigger Challenge Cup,1
-2025-08-24,Qatar,Lebanon,2,2,Friendly,0
+2025-08-24,Qatar,Lebanon,0,1,Friendly,0
 2025-09-03,Qatar,Bahrain,2,2,Friendly,0
 2025-09-03,Seychelles,Gabon,0,4,FIFA World Cup qualification,1
 2025-09-04,Algeria,Botswana,3,1,FIFA World Cup qualification,0
@@ -10197,7 +10190,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2025-09-04,Lithuania,Malta,1,1,FIFA World Cup qualification,0
 2025-09-04,Luxembourg,Northern Ireland,1,3,FIFA World Cup qualification,0
 2025-09-04,Madagascar,Central African Republic,2,0,FIFA World Cup qualification,1
-2025-09-04,Malaysia,Singapore,2,1,Friendly,0
+2025-09-04,Malaysia,Singapore,0,3,Friendly,0
 2025-09-04,Mali,Comoros,3,0,FIFA World Cup qualification,1
 2025-09-04,Mauritius,Cape Verde,0,2,FIFA World Cup qualification,0
 2025-09-04,Netherlands,Poland,1,1,FIFA World Cup qualification,0
@@ -10282,7 +10275,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2025-09-08,Libya,Eswatini,2,0,FIFA World Cup qualification,0
 2025-09-08,Madagascar,Chad,3,1,FIFA World Cup qualification,1
 2025-09-08,Malawi,Liberia,2,2,FIFA World Cup qualification,0
-2025-09-08,Malaysia,Palestine,1,0,Friendly,0
+2025-09-08,Malaysia,Palestine,0,3,Friendly,0
 2025-09-08,Mozambique,Botswana,2,0,FIFA World Cup qualification,0
 2025-09-08,Panama,Guatemala,1,1,FIFA World Cup qualification,0
 2025-09-08,Switzerland,Slovenia,3,0,FIFA World Cup qualification,0
@@ -10648,7 +10641,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2025-11-18,Lesotho,Malawi,0,1,Friendly,1
 2025-11-18,Malaysia,Nepal,1,0,AFC Asian Cup qualification,0
 2025-11-18,Maldives,Philippines,0,2,AFC Asian Cup qualification,0
-2025-11-18,Mali,Jordan,3,2,Friendly,1
+2025-11-18,Mali,Jordan,0,0,Friendly,1
 2025-11-18,Mexico,Paraguay,1,2,Friendly,1
 2025-11-18,Morocco,Uganda,4,0,Friendly,0
 2025-11-18,Oman,Ivory Coast,0,2,Friendly,0
@@ -10978,7 +10971,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2026-06-04,Andorra,Liechtenstein,2,0,Friendly,0
 2026-06-04,Cambodia,Bhutan,4,0,Friendly,0
 2026-06-04,France,Ivory Coast,1,2,Friendly,0
-2026-06-04,Guatemala,Czech Republic,1,5,Friendly,1
+2026-06-04,Guatemala,Czech Republic,1,3,Friendly,1
 2026-06-04,Iran,Mali,2,0,Friendly,1
 2026-06-04,Lesotho,Kenya,1,1,Friendly,1
 2026-06-04,Maldives,Pakistan,0,3,Diamond Jubilee International Football Tournament,0
@@ -11014,7 +11007,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2026-06-06,Armenia,Kazakhstan,1,1,Friendly,0
 2026-06-06,Australia,Switzerland,1,1,Friendly,1
 2026-06-06,Belgium,Tunisia,5,0,Friendly,0
-2026-06-06,Bermuda,Cape Verde,3,0,Friendly,1
+2026-06-06,Bermuda,Cape Verde,0,3,Friendly,1
 2026-06-06,Bolivia,Scotland,0,4,Friendly,1
 2026-06-06,Brazil,Egypt,2,1,Friendly,1
 2026-06-06,British Virgin Islands,Bonaire,2,0,Friendly,1
@@ -11024,7 +11017,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2026-06-06,Ethiopia,Malawi,1,0,Friendly,0
 2026-06-06,Gibraltar,Cayman Islands,4,1,Friendly,0
 2026-06-06,Greenland,Canton Ticino,3,2,CONIFA European Football Cup,1
-2026-06-06,Jamaica,South Africa,0,1,Friendly,1
+2026-06-06,Jamaica,South Africa,1,1,Friendly,1
 2026-06-06,Kyrgyzstan,Palestine,0,0,Friendly,0
 2026-06-06,Lithuania,Latvia,1,1,Baltic Cup,0
 2026-06-06,Myanmar,Guam,6,1,Tri-Nations Cup,1
@@ -11513,7 +11506,7 @@ data,casa,fora,gc,gf,torneio,neutro
 2026-10-05,Liechtenstein,Gibraltar,0,2,Friendly,0
 2026-10-05,Malaysia,Vietnam,1,0,FIFA ASEAN Cup,1
 2026-10-05,Martinique,El Salvador,1,1,CONCACAF Nations League,0
-2026-10-05,Mauritius,Sri Lanka,1,2,Friendly,0
+2026-10-05,Mauritius,Sri Lanka,2,3,Friendly,0
 2026-10-05,Montenegro,Armenia,0,0,UEFA Nations League,0
 2026-10-05,Northern Ireland,Georgia,0,0,UEFA Nations League,0
 2026-10-05,Romania,Sweden,0,1,UEFA Nations League,0

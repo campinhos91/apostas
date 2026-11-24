@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-24T10:54:46+00:00",
- "dia": "2026-11-24",
- "rotulo": "Terça-feira · 24 de novembro de 2026",
+ "atualizado": "2026-11-24T23:25:22+00:00",
+ "dia": "2026-11-25",
+ "rotulo": "Quarta-feira · 25 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
@@ -13,18 +13,18 @@
  "ontem": [
   {
    "t": "Aposta simples segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Vancouver Whitecaps–Real Salt Lake (2-0)"
+   "e": "perdido",
+   "d": "Falhou: Arsenal vence o Borussia Dortmund (1-1) · 0 certas"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Internacional–Vitória (2-5) · 2 certas"
+   "d": "Falhou: Manchester City vence o Napoli (2-2) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Monza–Fiorentina (3-0) · 3 certas"
+   "d": "Falhou: Manchester City vence o Napoli (2-2); Arsenal vence o Borussia Dortmund (1-1) · 2 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
@@ -40,13 +40,13 @@
    "legs": [
     {
      "h": "20:00",
-     "j": "Arsenal vence o Borussia Dortmund",
-     "m": "Resultado final",
-     "o": "1,37",
+     "j": "Paris Saint-Germain–Roma",
+     "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+     "o": "1,12",
      "comp": "Liga dos Campeões"
     }
    ],
-   "total": "1,37",
+   "total": "1,12",
    "rodape": "Uma seleção"
   },
   {
@@ -56,27 +56,27 @@
    "legs": [
     {
      "h": "20:00",
-     "j": "Manchester City vence o Napoli",
-     "m": "Resultado final",
-     "o": "1,25",
+     "j": "Paris Saint-Germain–Roma",
+     "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+     "o": "1,12",
      "comp": "Liga dos Campeões"
     },
     {
      "h": "20:00",
-     "j": "Como vence o AEK Atenas",
-     "m": "Resultado final",
-     "o": "1,21",
+     "j": "Lille–Bayern Munique",
+     "m": "Mais de 1,5 golos",
+     "o": "1,16",
      "comp": "Liga dos Campeões"
     },
     {
      "h": "20:00",
-     "j": "RB Leipzig vence o Lens",
-     "m": "Resultado final",
-     "o": "1,34",
+     "j": "Shakhtar Donetsk–Fenerbahce",
+     "m": "Mais de 1,5 golos",
+     "o": "1,20",
      "comp": "Liga dos Campeões"
     }
    ],
-   "total": "2,03",
+   "total": "1,56",
    "rodape": "3 seleções"
   },
   {
@@ -86,34 +86,34 @@
    "legs": [
     {
      "h": "20:00",
-     "j": "Manchester City vence o Napoli",
-     "m": "Resultado final",
-     "o": "1,25",
+     "j": "Paris Saint-Germain–Roma",
+     "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+     "o": "1,12",
      "comp": "Liga dos Campeões"
     },
     {
      "h": "20:00",
-     "j": "Arsenal vence o Borussia Dortmund",
-     "m": "Resultado final",
-     "o": "1,37",
+     "j": "Inter–Stuttgart",
+     "m": "Dupla hipótese: Inter ou empate",
+     "o": "1,12",
      "comp": "Liga dos Campeões"
     },
     {
      "h": "20:00",
-     "j": "Como vence o AEK Atenas",
-     "m": "Resultado final",
-     "o": "1,21",
+     "j": "Sporting–Manchester United",
+     "m": "Dupla hipótese: Sporting ou empate",
+     "o": "1,46",
      "comp": "Liga dos Campeões"
     },
     {
      "h": "20:00",
-     "j": "RB Leipzig vence o Lens",
-     "m": "Resultado final",
-     "o": "1,34",
+     "j": "Shakhtar Donetsk–Fenerbahce",
+     "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
+     "o": "1,51",
      "comp": "Liga dos Campeões"
     }
    ],
-   "total": "2,78",
+   "total": "2,77",
    "rodape": "4 seleções · falhar uma perde tudo"
   }
  ],
@@ -128,7 +128,7 @@
      "d": "QUI",
      "j": "Boca Juniors vence o Independiente Rivadavia",
      "m": "Resultado final",
-     "o": "1,52",
+     "o": "1,61",
      "comp": "Primeira Liga (Argentina)"
     },
     {
@@ -136,86 +136,224 @@
      "d": "QUI",
      "j": "Ajax vence o Thun",
      "m": "Resultado final",
-     "o": "1,25",
+     "o": "1,15",
      "comp": "Liga Conferência"
     },
     {
-     "h": "17:45",
-     "d": "QUI",
-     "j": "Brighton vence o Universitatea Craiova",
+     "h": "19:00",
+     "d": "SEX",
+     "j": "Groningen vence o Willem II",
      "m": "Resultado final",
-     "o": "1,12",
-     "comp": "Liga Conferência"
+     "o": "1,38",
+     "comp": "Eredivisie"
+    },
+    {
+     "h": "14:30",
+     "d": "SÁB",
+     "j": "Bayern Munique vence o Hamburger SV",
+     "m": "Resultado final",
+     "o": "1,21",
+     "comp": "Bundesliga"
     }
    ],
-   "total": "2,13",
-   "rodape": "3 seleções · todas no quinta"
+   "total": "3,09",
+   "rodape": "4 seleções · quinta, sexta e sábado"
   }
  ],
  "amanha": [
   {
-   "h": "23:00",
-   "d": "QUA",
-   "j": "Atlético Mineiro vence o Corinthians",
+   "h": "20:00",
+   "d": "QUI",
+   "j": "Ferencváros vence o Celje",
    "m": "Resultado final",
-   "o": "2,28",
-   "comp": "Primeira Liga (Brasil)",
-   "n": "Atlético-MG venceu 20 de 38 jogos em casa nas últimas 2 épocas (só 1,0 golos sofridos de média); Corinthians só venceu 9 de 38 jogos fora, com defesa instável"
+   "o": "1,34",
+   "comp": "Liga Europa",
+   "n": "Ferencváros venceu 14 dos últimos 18 jogos em casa nas últimas 2 épocas (6 vitórias seguidas); Celje só venceu 8 de 17 jogos fora, sofrendo 1,5 golos por jogo"
   },
   {
    "h": "17:45",
-   "d": "QUA",
-   "j": "Villarreal vence o Slavia Praga",
+   "d": "QUI",
+   "j": "Egnatia vence o Lincoln Red Imps",
    "m": "Resultado final",
-   "o": "2,07",
-   "comp": "Liga dos Campeões",
-   "n": "Slavia Praga não venceu nenhum dos últimos 9 jogos em casa nas competições europeias (0V-3E-6D); Villarreal venceu 16 de 44 jogos fora nas últimas 2 épocas"
+   "o": "1,52",
+   "comp": "Liga Conferência",
+   "n": "Egnatia não perdeu nenhum dos últimos 7 jogos em casa (4V-3E); Lincoln Red Imps perdeu 8 de 10 jogos fora, sofrendo 3,1 golos por jogo em média"
   },
   {
-   "h": "03:00",
-   "d": "QUA",
-   "j": "San Jose Earthquakes vence o Houston Dynamo",
+   "h": "20:00",
+   "d": "QUI",
+   "j": "Juventus vence o Omonia",
    "m": "Resultado final",
-   "o": "2,10",
-   "comp": "MLS",
-   "n": "San Jose lidera o confronto direto (3V-2E-3D em 8 jogos) mas só venceu 12 de 34 jogos em casa nas últimas 2 épocas; Houston só venceu 10 de 34 fora"
+   "o": "1,16",
+   "comp": "Liga Europa",
+   "n": "Juventus venceu 27 de 46 jogos em casa nas últimas 2 épocas, sofrendo só 0,9 golos por jogo; Omonia só venceu 4 de 13 jogos fora na Europa"
   }
  ],
  "fora": [
   [
-   "Real Madrid vence o PSV Eindhoven (1,14)",
-   "modelo dá 69% quando a odd implica 88%; dados fracos para esta seleção apesar do favoritismo"
+   "Sabah FK vence o Barcelona (1,06)",
+   "modelo dá 77% quando a odd implica 94%; só 11 jogos recentes nos dados do Sabah FK"
   ],
   [
-   "Wolverhampton vence o Derby (1,29)",
-   "modelo dá só 57% quando a odd implica 78%; só 7 jogos recentes em casa (equipa promovida)"
+   "Atlético Madrid vence o Viking FK (1,09)",
+   "modelo dá só 69% quando a odd implica 92%; dados europeus limitados para o Viking FK"
   ],
   [
-   "Middlesbrough vence o Swansea (1,42)",
-   "modelo dá 52% quando a odd implica 70%, apesar do bom confronto direto (6V em 8)"
+   "Club Brugge–Liverpool, Liverpool a vencer (1,60)",
+   "modelo dá só 41% quando a odd implica 63%; Liverpool com forma instável fora (24V-8E-17D nas últimas 2 épocas)"
   ],
   [
-   "Besiktas vence o Hapoel Beer Sheva (1,17)",
-   "modelo dá 63% quando a odd implica 85%; Hapoel só tem 6 jogos fora nos dados"
+   "Real Madrid vence o Alavés (1,13)",
+   "modelo dá 72% quando a odd implica 88%; valor suspeito, preferível não seguir"
   ],
   [
-   "Chapecoense–Palmeiras, Palmeiras a vencer (2,13)",
-   "modelo dá 66% quando a odd implica cerca de 41%; valor suspeito, preferível não seguir"
+   "Paris Saint-Germain vence o Lorient (1,18)",
+   "modelo dá 68% quando a odd implica 85%"
   ],
   [
-   "Portsmouth–West Ham (Portsmouth 3,85 / West Ham 1,84)",
-   "modelo não confirma favorito em nenhum sentido (30% vs 26% implícitos; 45% vs 54% implícitos)"
+   "Marseille vence o Levski Sófia (1,37)",
+   "modelo dá só 51% quando a odd implica 73%"
   ],
   [
-   "Sao Paulo vence o Remo (1,41)",
-   "modelo dá só 54% quando a odd implica 71%"
+   "Salzburgo vence o Ararat-Armenia (1,16)",
+   "modelo dá 69% quando a odd implica 86%"
   ],
   [
    "Cobertura da Betclic",
-   "odds 1X2 lidas em betclic.com (betclic.pt deu 403); as páginas de cada jogo deram 403 em todas as tentativas, por isso só entrou o mercado 'Resultado final' (sem dupla hipótese/golos/ambas marcam); La Liga, Bundesliga, Ligue 1, Serie A (Itália), Premier League, Liga Portugal Betclic e Eredivisie não têm jogos antes de sábado (fora da janela de hoje e dos próximos dias) e não foram aprofundadas"
+   "odds 1X2 lidas em betclic.com (betclic.pt deu 403); dupla hipótese, total de golos e ambas marcam confirmados por jogo para os candidatos da Liga dos Campeões de hoje; Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie e MLS não têm jogos adicionais relevantes antes de sexta/sábado"
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-11-25",
+   "rotulo": "Quarta-feira · 25 de novembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,12",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "20:00",
+       "j": "Paris Saint-Germain–Roma",
+       "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+       "o": "1,12",
+       "comp": "Liga dos Campeões"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,56",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "20:00",
+       "j": "Paris Saint-Germain–Roma",
+       "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+       "o": "1,12",
+       "comp": "Liga dos Campeões"
+      },
+      {
+       "h": "20:00",
+       "j": "Lille–Bayern Munique",
+       "m": "Mais de 1,5 golos",
+       "o": "1,16",
+       "comp": "Liga dos Campeões"
+      },
+      {
+       "h": "20:00",
+       "j": "Shakhtar Donetsk–Fenerbahce",
+       "m": "Mais de 1,5 golos",
+       "o": "1,20",
+       "comp": "Liga dos Campeões"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "2,77",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "20:00",
+       "j": "Paris Saint-Germain–Roma",
+       "m": "Dupla hipótese: Paris Saint-Germain ou empate",
+       "o": "1,12",
+       "comp": "Liga dos Campeões"
+      },
+      {
+       "h": "20:00",
+       "j": "Inter–Stuttgart",
+       "m": "Dupla hipótese: Inter ou empate",
+       "o": "1,12",
+       "comp": "Liga dos Campeões"
+      },
+      {
+       "h": "20:00",
+       "j": "Sporting–Manchester United",
+       "m": "Dupla hipótese: Sporting ou empate",
+       "o": "1,46",
+       "comp": "Liga dos Campeões"
+      },
+      {
+       "h": "20:00",
+       "j": "Shakhtar Donetsk–Fenerbahce",
+       "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
+       "o": "1,51",
+       "comp": "Liga dos Campeões"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "3,09",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "00:00",
+       "d": "QUI",
+       "j": "Boca Juniors vence o Independiente Rivadavia",
+       "m": "Resultado final",
+       "o": "1,61",
+       "comp": "Primeira Liga (Argentina)"
+      },
+      {
+       "h": "17:45",
+       "d": "QUI",
+       "j": "Ajax vence o Thun",
+       "m": "Resultado final",
+       "o": "1,15",
+       "comp": "Liga Conferência"
+      },
+      {
+       "h": "19:00",
+       "d": "SEX",
+       "j": "Groningen vence o Willem II",
+       "m": "Resultado final",
+       "o": "1,38",
+       "comp": "Eredivisie"
+      },
+      {
+       "h": "14:30",
+       "d": "SÁB",
+       "j": "Bayern Munique vence o Hamburger SV",
+       "m": "Resultado final",
+       "o": "1,21",
+       "comp": "Bundesliga"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-11-24",
    "rotulo": "Terça-feira · 24 de novembro de 2026",
@@ -224,15 +362,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,37",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Arsenal vence o Borussia Dortmund (1-1) · 0 certas",
      "legs": [
       {
        "h": "20:00",
        "j": "Arsenal vence o Borussia Dortmund",
        "m": "Resultado final",
        "o": "1,37",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "1-1"
       }
      ]
     },
@@ -240,29 +380,35 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "2,03",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Manchester City vence o Napoli (2-2) · 2 certas",
      "legs": [
       {
        "h": "20:00",
        "j": "Manchester City vence o Napoli",
        "m": "Resultado final",
        "o": "1,25",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
        "j": "Como vence o AEK Atenas",
        "m": "Resultado final",
        "o": "1,21",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "20:00",
        "j": "RB Leipzig vence o Lens",
        "m": "Resultado final",
        "o": "1,34",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     },
@@ -270,36 +416,44 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,78",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Manchester City vence o Napoli (2-2); Arsenal vence o Borussia Dortmund (1-1) · 2 certas",
      "legs": [
       {
        "h": "20:00",
        "j": "Manchester City vence o Napoli",
        "m": "Resultado final",
        "o": "1,25",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
        "j": "Arsenal vence o Borussia Dortmund",
        "m": "Resultado final",
        "o": "1,37",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "1-1"
       },
       {
        "h": "20:00",
        "j": "Como vence o AEK Atenas",
        "m": "Resultado final",
        "o": "1,21",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "1-0"
       },
       {
        "h": "20:00",
        "j": "RB Leipzig vence o Lens",
        "m": "Resultado final",
        "o": "1,34",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "3-1"
       }
      ]
     },
@@ -307,8 +461,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "2,13",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "00:00",
@@ -445,8 +599,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "1,80",
-     "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "e": "perdido",
+     "d": "Falhou: Manchester City vence o Napoli (2-2) · 0 certas, 3 por jogar",
      "legs": [
       {
        "h": "20:00",
@@ -462,7 +616,9 @@
        "j": "Manchester City vence o Napoli",
        "m": "Resultado final",
        "o": "1,23",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "17:45",
@@ -741,7 +897,9 @@
        "j": "Manchester City vence o Napoli",
        "m": "Resultado final",
        "o": "1,21",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "2-2"
       },
       {
        "h": "20:00",
@@ -8715,46 +8873,46 @@
   }
  ],
  "estatisticas": {
-  "decididos": 228,
+  "decididos": 232,
   "ganhos": 124,
-  "pernas": 428,
-  "pernas_ok": 305,
-  "dias": 62,
+  "pernas": 432,
+  "pernas_ok": 307,
+  "dias": 63,
   "odd_media": "1,39",
   "tipos": [
    {
     "ok": 49,
-    "dec": 58,
-    "pct": 84,
+    "dec": 59,
+    "pct": 83,
     "nome": "Aposta simples segura",
     "pend": 1
    },
    {
     "ok": 32,
-    "dec": 57,
-    "pct": 56,
+    "dec": 58,
+    "pct": 55,
     "nome": "Múltipla segura",
     "pend": 1
    },
    {
     "ok": 23,
-    "dec": 56,
-    "pct": 41,
+    "dec": 57,
+    "pct": 40,
     "nome": "Múltipla arriscada",
     "pend": 1
    },
    {
     "ok": 20,
-    "dec": 57,
-    "pct": 35,
+    "dec": 58,
+    "pct": 34,
     "nome": "Múltipla dos próximos dias",
     "pend": 4
    }
   ],
   "mercados": [
    {
-    "ok": 152,
-    "dec": 240,
+    "ok": 154,
+    "dec": 244,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -9487,14 +9645,14 @@
   ],
   "faixas": [
    {
-    "ok": 157,
-    "dec": 190,
-    "pct": 83,
+    "ok": 158,
+    "dec": 192,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 84,
-    "dec": 110,
+    "ok": 85,
+    "dec": 112,
     "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
@@ -9510,15 +9668,22 @@
     "ok": 0,
     "dec": 0,
     "pct": null,
-    "nome": "Terça-feira, 24 de novembro",
+    "nome": "Quarta-feira, 25 de novembro",
     "pend": 4
    },
    {
-    "ok": 1,
+    "ok": 0,
     "dec": 3,
-    "pct": 33,
-    "nome": "Segunda-feira, 23 de novembro",
+    "pct": 0,
+    "nome": "Terça-feira, 24 de novembro",
     "pend": 1
+   },
+   {
+    "ok": 1,
+    "dec": 4,
+    "pct": 25,
+    "nome": "Segunda-feira, 23 de novembro",
+    "pend": 0
    },
    {
     "ok": 2,
