@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-11-26",
+  "rotulo": "Quinta-feira · 26 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,08",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Ferencváros–Celje",
+      "m": "Dupla hipótese: Ferencváros ou empate",
+      "o": "1,08",
+      "comp": "Liga Europa"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,68",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Hearts–Monaco",
+      "m": "Dupla hipótese: Monaco ou empate",
+      "o": "1,13",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "j": "Dinamo Zagreb–Bayer Leverkusen",
+      "m": "Dupla hipótese: Bayer Leverkusen ou empate",
+      "o": "1,17",
+      "comp": "Liga Europa"
+     },
+     {
+      "h": "17:45",
+      "j": "Celta Vigo–Bournemouth",
+      "m": "Dupla hipótese: Bournemouth ou empate",
+      "o": "1,27",
+      "comp": "Liga Europa"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,44",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "17:45",
+      "j": "Egnatia vence o Lincoln Red Imps",
+      "m": "Resultado final",
+      "o": "1,49",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "j": "Monaco vence o Hearts",
+      "m": "Resultado final",
+      "o": "1,46",
+      "comp": "Liga Conferência"
+     },
+     {
+      "h": "17:45",
+      "j": "Bayer Leverkusen vence o Dinamo Zagreb",
+      "m": "Resultado final",
+      "o": "1,58",
+      "comp": "Liga Europa"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,61",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "14:30",
+      "d": "SÁB",
+      "j": "Bayern Munique vence o Hamburger SV",
+      "m": "Resultado final",
+      "o": "1,21",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "19:45",
+      "d": "SÁB",
+      "j": "Inter vence o Génova",
+      "m": "Resultado final",
+      "o": "1,27",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:00",
+      "d": "SÁB",
+      "j": "Real Madrid–Alavés",
+      "m": "Dupla hipótese: Real Madrid ou empate",
+      "o": "1,02",
+      "comp": "La Liga"
+     },
+     {
+      "h": "17:00",
+      "d": "DOM",
+      "j": "Roma–Monza",
+      "m": "Dupla hipótese: Roma ou empate",
+      "o": "1,03",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-25",
   "rotulo": "Quarta-feira · 25 de novembro de 2026",
   "boletins": [
@@ -7,15 +130,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,12",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Paris Saint-Germain–Roma (2-2)",
     "legs": [
      {
       "h": "20:00",
       "j": "Paris Saint-Germain–Roma",
       "m": "Dupla hipótese: Paris Saint-Germain ou empate",
       "o": "1,12",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "2-2"
      }
     ]
    },
@@ -23,29 +148,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,56",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 2 certas",
     "legs": [
      {
       "h": "20:00",
       "j": "Paris Saint-Germain–Roma",
       "m": "Dupla hipótese: Paris Saint-Germain ou empate",
       "o": "1,12",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "20:00",
       "j": "Lille–Bayern Munique",
       "m": "Mais de 1,5 golos",
       "o": "1,16",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "20:00",
       "j": "Shakhtar Donetsk–Fenerbahce",
       "m": "Mais de 1,5 golos",
       "o": "1,20",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "0-1"
      }
     ]
    },
@@ -53,36 +184,44 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "2,77",
-    "e": "pendente",
-    "d": "",
+    "e": "perdido",
+    "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 3 certas",
     "legs": [
      {
       "h": "20:00",
       "j": "Paris Saint-Germain–Roma",
       "m": "Dupla hipótese: Paris Saint-Germain ou empate",
       "o": "1,12",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "20:00",
       "j": "Inter–Stuttgart",
       "m": "Dupla hipótese: Inter ou empate",
       "o": "1,12",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "20:00",
       "j": "Sporting–Manchester United",
       "m": "Dupla hipótese: Sporting ou empate",
       "o": "1,46",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "ok",
+      "x": "2-2"
      },
      {
       "h": "20:00",
       "j": "Shakhtar Donetsk–Fenerbahce",
       "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
       "o": "1,51",
-      "comp": "Liga dos Campeões"
+      "comp": "Liga dos Campeões",
+      "r": "no",
+      "x": "0-1"
      }
     ]
    },
@@ -90,8 +229,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,09",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "00:00",

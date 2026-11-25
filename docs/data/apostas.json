@@ -1,7 +1,7 @@
 {
- "atualizado": "2026-11-24T23:54:45+00:00",
- "dia": "2026-11-25",
- "rotulo": "Quarta-feira · 25 de novembro de 2026",
+ "atualizado": "2026-11-25T23:25:00+00:00",
+ "dia": "2026-11-26",
+ "rotulo": "Quinta-feira · 26 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "provisorio": false,
  "aviso": "",
@@ -14,22 +14,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Vancouver Whitecaps–Real Salt Lake (2-0)"
+   "d": "Todas as pernas certas: Paris Saint-Germain–Roma (2-2)"
   },
   {
    "t": "Múltipla segura",
    "e": "perdido",
-   "d": "Falhou: Internacional–Vitória (2-5) · 2 certas"
+   "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
    "e": "perdido",
-   "d": "Falhou: Monza–Fiorentina (3-0) · 3 certas"
+   "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 3 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
-   "e": "perdido",
-   "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar"
+   "e": "nao verificado",
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -40,13 +40,13 @@
    "legs": [
     {
      "h": "20:00",
-     "j": "Paris Saint-Germain–Roma",
-     "m": "Dupla hipótese: Paris Saint-Germain ou empate",
-     "o": "1,12",
-     "comp": "Liga dos Campeões"
+     "j": "Ferencváros–Celje",
+     "m": "Dupla hipótese: Ferencváros ou empate",
+     "o": "1,08",
+     "comp": "Liga Europa"
     }
    ],
-   "total": "1,12",
+   "total": "1,08",
    "rodape": "Uma seleção"
   },
   {
@@ -55,28 +55,28 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "20:00",
-     "j": "Paris Saint-Germain–Roma",
-     "m": "Dupla hipótese: Paris Saint-Germain ou empate",
-     "o": "1,12",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Hearts–Monaco",
+     "m": "Dupla hipótese: Monaco ou empate",
+     "o": "1,13",
+     "comp": "Liga Conferência"
     },
     {
-     "h": "20:00",
-     "j": "Lille–Bayern Munique",
-     "m": "Mais de 1,5 golos",
-     "o": "1,16",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Dinamo Zagreb–Bayer Leverkusen",
+     "m": "Dupla hipótese: Bayer Leverkusen ou empate",
+     "o": "1,17",
+     "comp": "Liga Europa"
     },
     {
-     "h": "20:00",
-     "j": "Shakhtar Donetsk–Fenerbahce",
-     "m": "Mais de 1,5 golos",
-     "o": "1,20",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Celta Vigo–Bournemouth",
+     "m": "Dupla hipótese: Bournemouth ou empate",
+     "o": "1,27",
+     "comp": "Liga Europa"
     }
    ],
-   "total": "1,56",
+   "total": "1,68",
    "rodape": "3 seleções"
   },
   {
@@ -85,36 +85,29 @@
    "risco": "alto",
    "legs": [
     {
-     "h": "20:00",
-     "j": "Paris Saint-Germain–Roma",
-     "m": "Dupla hipótese: Paris Saint-Germain ou empate",
-     "o": "1,12",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Egnatia vence o Lincoln Red Imps",
+     "m": "Resultado final",
+     "o": "1,49",
+     "comp": "Liga Conferência"
     },
     {
-     "h": "20:00",
-     "j": "Inter–Stuttgart",
-     "m": "Dupla hipótese: Inter ou empate",
-     "o": "1,12",
-     "comp": "Liga dos Campeões"
-    },
-    {
-     "h": "20:00",
-     "j": "Sporting–Manchester United",
-     "m": "Dupla hipótese: Sporting ou empate",
+     "h": "17:45",
+     "j": "Monaco vence o Hearts",
+     "m": "Resultado final",
      "o": "1,46",
-     "comp": "Liga dos Campeões"
+     "comp": "Liga Conferência"
     },
     {
-     "h": "20:00",
-     "j": "Shakhtar Donetsk–Fenerbahce",
-     "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
-     "o": "1,51",
-     "comp": "Liga dos Campeões"
+     "h": "17:45",
+     "j": "Bayer Leverkusen vence o Dinamo Zagreb",
+     "m": "Resultado final",
+     "o": "1,58",
+     "comp": "Liga Europa"
     }
    ],
-   "total": "2,77",
-   "rodape": "4 seleções · falhar uma perde tudo"
+   "total": "3,44",
+   "rodape": "3 seleções · falhar uma perde tudo"
   }
  ],
  "proximos": [
@@ -124,106 +117,233 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "00:00",
-     "d": "QUI",
-     "j": "Boca Juniors vence o Independiente Rivadavia",
-     "m": "Resultado final",
-     "o": "1,61",
-     "comp": "Primeira Liga (Argentina)"
-    },
-    {
-     "h": "17:45",
-     "d": "QUI",
-     "j": "Ajax vence o Thun",
-     "m": "Resultado final",
-     "o": "1,15",
-     "comp": "Liga Conferência"
-    },
-    {
-     "h": "19:00",
-     "d": "SEX",
-     "j": "Groningen vence o Willem II",
-     "m": "Resultado final",
-     "o": "1,38",
-     "comp": "Eredivisie"
-    },
-    {
      "h": "14:30",
      "d": "SÁB",
      "j": "Bayern Munique vence o Hamburger SV",
      "m": "Resultado final",
      "o": "1,21",
      "comp": "Bundesliga"
+    },
+    {
+     "h": "19:45",
+     "d": "SÁB",
+     "j": "Inter vence o Génova",
+     "m": "Resultado final",
+     "o": "1,27",
+     "comp": "Superliga (Itália)"
+    },
+    {
+     "h": "20:00",
+     "d": "SÁB",
+     "j": "Real Madrid–Alavés",
+     "m": "Dupla hipótese: Real Madrid ou empate",
+     "o": "1,02",
+     "comp": "La Liga"
+    },
+    {
+     "h": "17:00",
+     "d": "DOM",
+     "j": "Roma–Monza",
+     "m": "Dupla hipótese: Roma ou empate",
+     "o": "1,03",
+     "comp": "Superliga (Itália)"
     }
    ],
-   "total": "3,09",
-   "rodape": "4 seleções · quinta, sexta e sábado"
+   "total": "1,61",
+   "rodape": "4 seleções · sábado e domingo"
   }
  ],
  "amanha": [
   {
-   "h": "20:00",
-   "d": "QUI",
-   "j": "Ferencváros vence o Celje",
+   "h": "19:00",
+   "d": "SEX",
+   "j": "Groningen vence o Willem II",
    "m": "Resultado final",
-   "o": "1,34",
-   "comp": "Liga Europa",
-   "n": "Ferencváros venceu 14 dos últimos 18 jogos em casa nas últimas 2 épocas (6 vitórias seguidas); Celje só venceu 8 de 17 jogos fora, sofrendo 1,5 golos por jogo"
-  },
-  {
-   "h": "17:45",
-   "d": "QUI",
-   "j": "Egnatia vence o Lincoln Red Imps",
-   "m": "Resultado final",
-   "o": "1,52",
-   "comp": "Liga Conferência",
-   "n": "Egnatia não perdeu nenhum dos últimos 7 jogos em casa (4V-3E); Lincoln Red Imps perdeu 8 de 10 jogos fora, sofrendo 3,1 golos por jogo em média"
+   "o": "1,35",
+   "comp": "Eredivisie",
+   "n": "Groningen tem 15 vitórias em 35 jogos em casa nas últimas 2 épocas (forma recente VDEDDD); Willem II só venceu 1 de 18 jogos fora, sofrendo 2,6 golos por jogo em média"
   },
   {
    "h": "20:00",
-   "d": "QUI",
-   "j": "Juventus vence o Omonia",
+   "d": "SEX",
+   "j": "Levante vence o Racing Santander",
    "m": "Resultado final",
-   "o": "1,16",
-   "comp": "Liga Europa",
-   "n": "Juventus venceu 27 de 46 jogos em casa nas últimas 2 épocas, sofrendo só 0,9 golos por jogo; Omonia só venceu 4 de 13 jogos fora na Europa"
+   "o": "2,02",
+   "comp": "La Liga",
+   "n": "Racing Santander venceu só 1 de 6 jogos fora, sofrendo 3,2 golos por jogo em média; Levante é mais sólido em casa (1,6 golos sofridos por jogo)"
+  },
+  {
+   "h": "19:45",
+   "d": "SEX",
+   "j": "Bolonha vence o Venezia",
+   "m": "Resultado final",
+   "o": "2,08",
+   "comp": "Superliga (Itália)",
+   "n": "Venezia só venceu 5 de 20 jogos em casa nas últimas 2 épocas; Bolonha está em boa forma fora (17V 9E 11D) e venceu os 2 confrontos diretos recentes"
   }
  ],
  "fora": [
   [
-   "Sabah FK vence o Barcelona (1,06)",
-   "modelo dá 77% quando a odd implica 94%; só 11 jogos recentes nos dados do Sabah FK"
+   "Marselha vence o Levski Sófia (1,29)",
+   "modelo dá só 50% quando a odd implica 77%"
   ],
   [
-   "Atlético Madrid vence o Viking FK (1,09)",
-   "modelo dá só 69% quando a odd implica 92%; dados europeus limitados para o Viking FK"
+   "Union Saint-Gilloise vence o Lech Poznan (1,29)",
+   "modelo dá 62% quando a odd implica 77%"
   ],
   [
-   "Club Brugge–Liverpool, Liverpool a vencer (1,60)",
-   "modelo dá só 41% quando a odd implica 63%; Liverpool com forma instável fora (24V-8E-17D nas últimas 2 épocas)"
+   "Besiktas vence o Hapoel Beer Sheva (1,21)",
+   "modelo dá 63% quando a odd implica 83%; só 6 jogos recentes do Hapoel Beer Sheva fora"
   ],
   [
-   "Real Madrid vence o Alavés (1,13)",
-   "modelo dá 72% quando a odd implica 88%; valor suspeito, preferível não seguir"
+   "Boca Juniors vence o Independiente Rivadavia (1,35)",
+   "modelo dá 57% quando a odd implica 74%"
   ],
   [
-   "Paris Saint-Germain vence o Lorient (1,18)",
-   "modelo dá 68% quando a odd implica 85%"
+   "Salzburgo vence o Ararat-Armenia (1,13)",
+   "modelo dá 69% quando a odd implica 88%; só 7 jogos recentes do Ararat-Armenia fora"
   ],
   [
-   "Marseille vence o Levski Sófia (1,37)",
-   "modelo dá só 51% quando a odd implica 73%"
+   "Brighton vence o Universitatea Craiova (1,10)",
+   "modelo dá 74% quando a odd implica 91%"
   ],
   [
-   "Salzburgo vence o Ararat-Armenia (1,16)",
-   "modelo dá 69% quando a odd implica 86%"
+   "Real Madrid vence o Alavés (1,11)",
+   "modelo dá 72% quando a odd implica 90%; valor suspeito, preferível a dupla hipótese"
+  ],
+  [
+   "Getafe vence o Iberia 1999 (1,36)",
+   "modelo dá só 57% quando a odd implica 74%; só 5 jogos recentes do Iberia 1999 em casa"
   ],
   [
    "Cobertura da Betclic",
-   "odds 1X2 lidas em betclic.com (betclic.pt deu 403); dupla hipótese, total de golos e ambas marcam confirmados por jogo para os candidatos da Liga dos Campeões de hoje; Liga Portugal Betclic, Premier League, Championship, La Liga, Serie A, Bundesliga, Ligue 1, Eredivisie e MLS não têm jogos adicionais relevantes antes de sexta/sábado"
+   "odds 1X2 lidas em betclic.pt (sem 403 desta vez); resultado duplo, total de golos e ambas marcam confirmados por jogo para os candidatos da Liga Europa e Liga Conferência de hoje; Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Liga Portugal Betclic e Taça de Portugal não têm jogos antes de sexta-feira; Liga MX e Zalgiris Kaunas/Riga FC ficaram de fora por não constarem nas competições autorizadas ou não terem dados"
   ]
  ],
  "historico": [
+  {
+   "dia": "2026-11-26",
+   "rotulo": "Quinta-feira · 26 de novembro de 2026",
+   "boletins": [
+    {
+     "t": "Aposta simples segura",
+     "c": "t1",
+     "total": "1,08",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "20:00",
+       "j": "Ferencváros–Celje",
+       "m": "Dupla hipótese: Ferencváros ou empate",
+       "o": "1,08",
+       "comp": "Liga Europa"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla segura",
+     "c": "t2",
+     "total": "1,68",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:45",
+       "j": "Hearts–Monaco",
+       "m": "Dupla hipótese: Monaco ou empate",
+       "o": "1,13",
+       "comp": "Liga Conferência"
+      },
+      {
+       "h": "17:45",
+       "j": "Dinamo Zagreb–Bayer Leverkusen",
+       "m": "Dupla hipótese: Bayer Leverkusen ou empate",
+       "o": "1,17",
+       "comp": "Liga Europa"
+      },
+      {
+       "h": "17:45",
+       "j": "Celta Vigo–Bournemouth",
+       "m": "Dupla hipótese: Bournemouth ou empate",
+       "o": "1,27",
+       "comp": "Liga Europa"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla arriscada",
+     "c": "t3",
+     "total": "3,44",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "17:45",
+       "j": "Egnatia vence o Lincoln Red Imps",
+       "m": "Resultado final",
+       "o": "1,49",
+       "comp": "Liga Conferência"
+      },
+      {
+       "h": "17:45",
+       "j": "Monaco vence o Hearts",
+       "m": "Resultado final",
+       "o": "1,46",
+       "comp": "Liga Conferência"
+      },
+      {
+       "h": "17:45",
+       "j": "Bayer Leverkusen vence o Dinamo Zagreb",
+       "m": "Resultado final",
+       "o": "1,58",
+       "comp": "Liga Europa"
+      }
+     ]
+    },
+    {
+     "t": "Múltipla dos próximos dias",
+     "c": "t4",
+     "total": "1,61",
+     "e": "pendente",
+     "d": "",
+     "legs": [
+      {
+       "h": "14:30",
+       "d": "SÁB",
+       "j": "Bayern Munique vence o Hamburger SV",
+       "m": "Resultado final",
+       "o": "1,21",
+       "comp": "Bundesliga"
+      },
+      {
+       "h": "19:45",
+       "d": "SÁB",
+       "j": "Inter vence o Génova",
+       "m": "Resultado final",
+       "o": "1,27",
+       "comp": "Superliga (Itália)"
+      },
+      {
+       "h": "20:00",
+       "d": "SÁB",
+       "j": "Real Madrid–Alavés",
+       "m": "Dupla hipótese: Real Madrid ou empate",
+       "o": "1,02",
+       "comp": "La Liga"
+      },
+      {
+       "h": "17:00",
+       "d": "DOM",
+       "j": "Roma–Monza",
+       "m": "Dupla hipótese: Roma ou empate",
+       "o": "1,03",
+       "comp": "Superliga (Itália)"
+      }
+     ]
+    }
+   ]
+  },
   {
    "dia": "2026-11-25",
    "rotulo": "Quarta-feira · 25 de novembro de 2026",
@@ -232,15 +352,17 @@
      "t": "Aposta simples segura",
      "c": "t1",
      "total": "1,12",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Paris Saint-Germain–Roma (2-2)",
      "legs": [
       {
        "h": "20:00",
        "j": "Paris Saint-Germain–Roma",
        "m": "Dupla hipótese: Paris Saint-Germain ou empate",
        "o": "1,12",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "2-2"
       }
      ]
     },
@@ -248,29 +370,35 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,56",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 2 certas",
      "legs": [
       {
        "h": "20:00",
        "j": "Paris Saint-Germain–Roma",
        "m": "Dupla hipótese: Paris Saint-Germain ou empate",
        "o": "1,12",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "2-2"
       },
       {
        "h": "20:00",
        "j": "Lille–Bayern Munique",
        "m": "Mais de 1,5 golos",
        "o": "1,16",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "20:00",
        "j": "Shakhtar Donetsk–Fenerbahce",
        "m": "Mais de 1,5 golos",
        "o": "1,20",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "0-1"
       }
      ]
     },
@@ -278,36 +406,44 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "2,77",
-     "e": "pendente",
-     "d": "",
+     "e": "perdido",
+     "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 3 certas",
      "legs": [
       {
        "h": "20:00",
        "j": "Paris Saint-Germain–Roma",
        "m": "Dupla hipótese: Paris Saint-Germain ou empate",
        "o": "1,12",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "2-2"
       },
       {
        "h": "20:00",
        "j": "Inter–Stuttgart",
        "m": "Dupla hipótese: Inter ou empate",
        "o": "1,12",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "20:00",
        "j": "Sporting–Manchester United",
        "m": "Dupla hipótese: Sporting ou empate",
        "o": "1,46",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "ok",
+       "x": "2-2"
       },
       {
        "h": "20:00",
        "j": "Shakhtar Donetsk–Fenerbahce",
        "m": "Dupla hipótese: Shakhtar Donetsk ou empate",
        "o": "1,51",
-       "comp": "Liga dos Campeões"
+       "comp": "Liga dos Campeões",
+       "r": "no",
+       "x": "0-1"
       }
      ]
     },
@@ -315,8 +451,8 @@
      "t": "Múltipla dos próximos dias",
      "c": "t4",
      "total": "3,09",
-     "e": "pendente",
-     "d": "",
+     "e": "nao verificado",
+     "d": "Ainda sem resultados dos jogos",
      "legs": [
       {
        "h": "00:00",
@@ -8883,30 +9019,30 @@
   }
  ],
  "estatisticas": {
-  "decididos": 234,
-  "ganhos": 126,
-  "pernas": 437,
-  "pernas_ok": 311,
-  "dias": 63,
-  "odd_media": "1,39",
+  "decididos": 237,
+  "ganhos": 127,
+  "pernas": 443,
+  "pernas_ok": 315,
+  "dias": 64,
+  "odd_media": "1,38",
   "tipos": [
    {
-    "ok": 50,
-    "dec": 59,
+    "ok": 51,
+    "dec": 60,
     "pct": 85,
     "nome": "Aposta simples segura",
     "pend": 1
    },
    {
     "ok": 32,
-    "dec": 58,
-    "pct": 55,
+    "dec": 59,
+    "pct": 54,
     "nome": "Múltipla segura",
     "pend": 1
    },
    {
     "ok": 23,
-    "dec": 57,
+    "dec": 58,
     "pct": 40,
     "nome": "Múltipla arriscada",
     "pend": 1
@@ -8916,7 +9052,7 @@
     "dec": 60,
     "pct": 35,
     "nome": "Múltipla dos próximos dias",
-    "pend": 2
+    "pend": 3
    }
   ],
   "mercados": [
@@ -8927,9 +9063,9 @@
     "nome": "Resultado final"
    },
    {
-    "ok": 24,
-    "dec": 31,
-    "pct": 77,
+    "ok": 25,
+    "dec": 33,
+    "pct": 76,
     "nome": "Mais de 1,5 golos"
    },
    {
@@ -8945,10 +9081,16 @@
     "nome": "Dupla hipótese: Juventus ou empate"
    },
    {
-    "ok": 3,
-    "dec": 3,
+    "ok": 4,
+    "dec": 4,
     "pct": 100,
     "nome": "Dupla hipótese: Inter ou empate"
+   },
+   {
+    "ok": 2,
+    "dec": 3,
+    "pct": 67,
+    "nome": "Dupla hipótese: Sporting ou empate"
    },
    {
     "ok": 3,
@@ -8973,6 +9115,12 @@
     "dec": 3,
     "pct": 100,
     "nome": "Dupla hipótese: Benfica ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 2,
+    "pct": 50,
+    "nome": "Dupla hipótese: Shakhtar Donetsk ou empate"
    },
    {
     "ok": 2,
@@ -9065,16 +9213,16 @@
     "nome": "Dupla hipótese: Lazio ou empate"
    },
    {
-    "ok": 1,
-    "dec": 2,
-    "pct": 50,
-    "nome": "Dupla hipótese: Sporting ou empate"
-   },
-   {
     "ok": 2,
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Paris Saint-Germain ou empate"
    },
    {
     "ok": 1,
@@ -9650,20 +9798,14 @@
     "ok": 1,
     "dec": 1,
     "pct": 100,
-    "nome": "Dupla hipótese: Shakhtar Donetsk ou empate"
-   },
-   {
-    "ok": 1,
-    "dec": 1,
-    "pct": 100,
     "nome": "Dupla hipótese: Milan ou empate"
    }
   ],
   "faixas": [
    {
-    "ok": 161,
-    "dec": 195,
-    "pct": 83,
+    "ok": 164,
+    "dec": 199,
+    "pct": 82,
     "nome": "Odd até 1,25"
    },
    {
@@ -9673,8 +9815,8 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 64,
-    "dec": 128,
+    "ok": 65,
+    "dec": 130,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }
@@ -9684,8 +9826,15 @@
     "ok": 0,
     "dec": 0,
     "pct": null,
-    "nome": "Quarta-feira, 25 de novembro",
+    "nome": "Quinta-feira, 26 de novembro",
     "pend": 4
+   },
+   {
+    "ok": 1,
+    "dec": 3,
+    "pct": 33,
+    "nome": "Quarta-feira, 25 de novembro",
+    "pend": 1
    },
    {
     "ok": 1,
