@@ -5,22 +5,22 @@
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Ferencváros–Celje (0-0)"
+   "d": "Todas as pernas certas: Paris Saint-Germain–Roma (2-2)"
   },
   {
    "t": "Múltipla segura",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Hearts–Monaco (2-3); Dinamo Zagreb–Bayer Leverkusen (0-2); Celta Vigo–Bournemouth (1-2)"
+   "e": "perdido",
+   "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 2 certas"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "ganho",
-   "d": "Todas as pernas certas: Egnatia vence o Lincoln Red Imps (2-1); Monaco vence o Hearts (3-2); Bayer Leverkusen vence o Dinamo Zagreb (2-0)"
+   "e": "perdido",
+   "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 3 certas"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "2 de 4 pernas certas até agora"
   }
  ],
  "hoje": [

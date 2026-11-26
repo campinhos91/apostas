@@ -131,7 +131,7 @@
     "c": "t1",
     "total": "1,08",
     "e": "ganho",
-    "d": "Todas as pernas certas: Ferencváros–Celje (0-0)",
+    "d": "Todas as pernas certas: Paris Saint-Germain–Roma (2-2)",
     "legs": [
      {
       "h": "20:00",
@@ -221,7 +221,7 @@
     "c": "t4",
     "total": "1,61",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "14:30",
@@ -661,7 +661,7 @@
     "c": "t4",
     "total": "1,80",
     "e": "perdido",
-    "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar",
+    "d": "Falhou: Manchester City vence o Napoli (2-2) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "20:00",
@@ -689,7 +689,9 @@
       "j": "Besiktas–Hapoel Beer Sheva",
       "m": "Dupla hipótese: Besiktas ou empate",
       "o": "1,04",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "19:00",
