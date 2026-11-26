@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T10:55:28+00:00",
+ "atualizado": "2026-11-26T19:55:29+00:00",
  "dia": "2026-11-26",
  "rotulo": "Quinta-feira · 26 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -29,7 +29,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "1 de 4 pernas certas até agora"
+   "d": "2 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -245,29 +245,35 @@
      "t": "Múltipla segura",
      "c": "t2",
      "total": "1,68",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Hearts–Monaco (2-3); Dinamo Zagreb–Bayer Leverkusen (0-2); Celta Vigo–Bournemouth (1-2)",
      "legs": [
       {
        "h": "17:45",
        "j": "Hearts–Monaco",
        "m": "Dupla hipótese: Monaco ou empate",
        "o": "1,13",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "2-3"
       },
       {
        "h": "17:45",
        "j": "Dinamo Zagreb–Bayer Leverkusen",
        "m": "Dupla hipótese: Bayer Leverkusen ou empate",
        "o": "1,17",
-       "comp": "Liga Europa"
+       "comp": "Liga Europa",
+       "r": "ok",
+       "x": "0-2"
       },
       {
        "h": "17:45",
        "j": "Celta Vigo–Bournemouth",
        "m": "Dupla hipótese: Bournemouth ou empate",
        "o": "1,27",
-       "comp": "Liga Europa"
+       "comp": "Liga Europa",
+       "r": "ok",
+       "x": "1-2"
       }
      ]
     },
@@ -275,29 +281,35 @@
      "t": "Múltipla arriscada",
      "c": "t3",
      "total": "3,44",
-     "e": "pendente",
-     "d": "",
+     "e": "ganho",
+     "d": "Todas as pernas certas: Egnatia vence o Lincoln Red Imps (2-1); Monaco vence o Hearts (3-2); Bayer Leverkusen vence o Dinamo Zagreb (2-0)",
      "legs": [
       {
        "h": "17:45",
        "j": "Egnatia vence o Lincoln Red Imps",
        "m": "Resultado final",
        "o": "1,49",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "2-1"
       },
       {
        "h": "17:45",
        "j": "Monaco vence o Hearts",
        "m": "Resultado final",
        "o": "1,46",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "3-2"
       },
       {
        "h": "17:45",
        "j": "Bayer Leverkusen vence o Dinamo Zagreb",
        "m": "Resultado final",
        "o": "1,58",
-       "comp": "Liga Europa"
+       "comp": "Liga Europa",
+       "r": "ok",
+       "x": "2-0"
       }
      ]
     },
@@ -452,7 +464,7 @@
      "c": "t4",
      "total": "3,09",
      "e": "nao verificado",
-     "d": "1 de 4 pernas certas até agora",
+     "d": "2 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "00:00",
@@ -470,7 +482,9 @@
        "j": "Ajax vence o Thun",
        "m": "Resultado final",
        "o": "1,15",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "4-0"
       },
       {
        "h": "19:00",
@@ -618,7 +632,9 @@
        "j": "Ajax vence o Thun",
        "m": "Resultado final",
        "o": "1,25",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "4-0"
       },
       {
        "h": "17:45",
@@ -626,7 +642,9 @@
        "j": "Brighton vence o Universitatea Craiova",
        "m": "Resultado final",
        "o": "1,12",
-       "comp": "Liga Conferência"
+       "comp": "Liga Conferência",
+       "r": "ok",
+       "x": "4-0"
       }
      ]
     }
@@ -9023,10 +9041,10 @@
   }
  ],
  "estatisticas": {
-  "decididos": 237,
-  "ganhos": 127,
-  "pernas": 444,
-  "pernas_ok": 316,
+  "decididos": 239,
+  "ganhos": 129,
+  "pernas": 452,
+  "pernas_ok": 324,
   "dias": 64,
   "odd_media": "1,38",
   "tipos": [
@@ -9038,18 +9056,18 @@
     "pend": 1
    },
    {
-    "ok": 32,
-    "dec": 59,
-    "pct": 54,
+    "ok": 33,
+    "dec": 60,
+    "pct": 55,
     "nome": "Múltipla segura",
-    "pend": 1
+    "pend": 0
    },
    {
-    "ok": 23,
-    "dec": 58,
-    "pct": 40,
+    "ok": 24,
+    "dec": 59,
+    "pct": 41,
     "nome": "Múltipla arriscada",
-    "pend": 1
+    "pend": 0
    },
    {
     "ok": 21,
@@ -9061,9 +9079,9 @@
   ],
   "mercados": [
    {
-    "ok": 158,
-    "dec": 249,
-    "pct": 63,
+    "ok": 163,
+    "dec": 254,
+    "pct": 64,
     "nome": "Resultado final"
    },
    {
@@ -9089,6 +9107,12 @@
     "dec": 4,
     "pct": 100,
     "nome": "Dupla hipótese: Inter ou empate"
+   },
+   {
+    "ok": 3,
+    "dec": 3,
+    "pct": 100,
+    "nome": "Dupla hipótese: Bournemouth ou empate"
    },
    {
     "ok": 2,
@@ -9175,12 +9199,6 @@
     "nome": "Dupla hipótese: Mirassol ou empate"
    },
    {
-    "ok": 2,
-    "dec": 2,
-    "pct": 100,
-    "nome": "Dupla hipótese: Bournemouth ou empate"
-   },
-   {
     "ok": 1,
     "dec": 2,
     "pct": 50,
@@ -9221,6 +9239,18 @@
     "dec": 2,
     "pct": 100,
     "nome": "Dupla hipótese: Roma ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Monaco ou empate"
+   },
+   {
+    "ok": 1,
+    "dec": 1,
+    "pct": 100,
+    "nome": "Dupla hipótese: Bayer Leverkusen ou empate"
    },
    {
     "ok": 1,
@@ -9807,31 +9837,31 @@
   ],
   "faixas": [
    {
-    "ok": 164,
-    "dec": 199,
-    "pct": 82,
+    "ok": 168,
+    "dec": 203,
+    "pct": 83,
     "nome": "Odd até 1,25"
    },
    {
-    "ok": 86,
-    "dec": 114,
-    "pct": 75,
+    "ok": 87,
+    "dec": 115,
+    "pct": 76,
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 66,
-    "dec": 131,
-    "pct": 50,
+    "ok": 69,
+    "dec": 134,
+    "pct": 51,
     "nome": "Odd acima de 1,45"
    }
   ],
   "por_dia": [
    {
-    "ok": 0,
-    "dec": 0,
-    "pct": null,
+    "ok": 2,
+    "dec": 2,
+    "pct": 100,
     "nome": "Quinta-feira, 26 de novembro",
-    "pend": 4
+    "pend": 2
    },
    {
     "ok": 1,

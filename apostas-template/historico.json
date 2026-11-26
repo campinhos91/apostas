@@ -23,29 +23,35 @@
     "t": "Múltipla segura",
     "c": "t2",
     "total": "1,68",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Hearts–Monaco (2-3); Dinamo Zagreb–Bayer Leverkusen (0-2); Celta Vigo–Bournemouth (1-2)",
     "legs": [
      {
       "h": "17:45",
       "j": "Hearts–Monaco",
       "m": "Dupla hipótese: Monaco ou empate",
       "o": "1,13",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "ok",
+      "x": "2-3"
      },
      {
       "h": "17:45",
       "j": "Dinamo Zagreb–Bayer Leverkusen",
       "m": "Dupla hipótese: Bayer Leverkusen ou empate",
       "o": "1,17",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "ok",
+      "x": "0-2"
      },
      {
       "h": "17:45",
       "j": "Celta Vigo–Bournemouth",
       "m": "Dupla hipótese: Bournemouth ou empate",
       "o": "1,27",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "ok",
+      "x": "1-2"
      }
     ]
    },
@@ -53,29 +59,35 @@
     "t": "Múltipla arriscada",
     "c": "t3",
     "total": "3,44",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Egnatia vence o Lincoln Red Imps (2-1); Monaco vence o Hearts (3-2); Bayer Leverkusen vence o Dinamo Zagreb (2-0)",
     "legs": [
      {
       "h": "17:45",
       "j": "Egnatia vence o Lincoln Red Imps",
       "m": "Resultado final",
       "o": "1,49",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "ok",
+      "x": "2-1"
      },
      {
       "h": "17:45",
       "j": "Monaco vence o Hearts",
       "m": "Resultado final",
       "o": "1,46",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "ok",
+      "x": "3-2"
      },
      {
       "h": "17:45",
       "j": "Bayer Leverkusen vence o Dinamo Zagreb",
       "m": "Resultado final",
       "o": "1,58",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "ok",
+      "x": "2-0"
      }
     ]
    },
@@ -230,7 +242,7 @@
     "c": "t4",
     "total": "3,09",
     "e": "nao verificado",
-    "d": "1 de 4 pernas certas até agora",
+    "d": "2 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "00:00",
@@ -248,7 +260,9 @@
       "j": "Ajax vence o Thun",
       "m": "Resultado final",
       "o": "1,15",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "19:00",
@@ -396,7 +410,9 @@
       "j": "Ajax vence o Thun",
       "m": "Resultado final",
       "o": "1,25",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "ok",
+      "x": "4-0"
      },
      {
       "h": "17:45",
@@ -404,7 +420,9 @@
       "j": "Brighton vence o Universitatea Craiova",
       "m": "Resultado final",
       "o": "1,12",
-      "comp": "Liga Conferência"
+      "comp": "Liga Conferência",
+      "r": "ok",
+      "x": "4-0"
      }
     ]
    }
