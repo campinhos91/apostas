@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T23:25:00+00:00",
+ "atualizado": "2026-11-26T10:55:28+00:00",
  "dia": "2026-11-26",
  "rotulo": "Quinta-feira · 26 de novembro de 2026",
  "titulo": "Apostas de hoje",
@@ -29,7 +29,7 @@
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "Ainda sem resultados dos jogos"
+   "d": "1 de 4 pernas certas até agora"
   }
  ],
  "hoje": [
@@ -452,7 +452,7 @@
      "c": "t4",
      "total": "3,09",
      "e": "nao verificado",
-     "d": "Ainda sem resultados dos jogos",
+     "d": "1 de 4 pernas certas até agora",
      "legs": [
       {
        "h": "00:00",
@@ -460,7 +460,9 @@
        "j": "Boca Juniors vence o Independiente Rivadavia",
        "m": "Resultado final",
        "o": "1,61",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "17:45",
@@ -598,7 +600,7 @@
      "c": "t4",
      "total": "2,13",
      "e": "perdido",
-     "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar",
+     "d": "1 de 3 pernas certas até agora",
      "legs": [
       {
        "h": "00:00",
@@ -606,7 +608,9 @@
        "j": "Boca Juniors vence o Independiente Rivadavia",
        "m": "Resultado final",
        "o": "1,52",
-       "comp": "Primeira Liga (Argentina)"
+       "comp": "Primeira Liga (Argentina)",
+       "r": "ok",
+       "x": "2-0"
       },
       {
        "h": "17:45",
@@ -9021,8 +9025,8 @@
  "estatisticas": {
   "decididos": 237,
   "ganhos": 127,
-  "pernas": 443,
-  "pernas_ok": 315,
+  "pernas": 444,
+  "pernas_ok": 316,
   "dias": 64,
   "odd_media": "1,38",
   "tipos": [
@@ -9057,8 +9061,8 @@
   ],
   "mercados": [
    {
-    "ok": 157,
-    "dec": 248,
+    "ok": 158,
+    "dec": 249,
     "pct": 63,
     "nome": "Resultado final"
    },
@@ -9815,8 +9819,8 @@
     "nome": "Odd de 1,26 a 1,45"
    },
    {
-    "ok": 65,
-    "dec": 130,
+    "ok": 66,
+    "dec": 131,
     "pct": 50,
     "nome": "Odd acima de 1,45"
    }

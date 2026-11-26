@@ -230,7 +230,7 @@
     "c": "t4",
     "total": "3,09",
     "e": "nao verificado",
-    "d": "Ainda sem resultados dos jogos",
+    "d": "1 de 4 pernas certas até agora",
     "legs": [
      {
       "h": "00:00",
@@ -238,7 +238,9 @@
       "j": "Boca Juniors vence o Independiente Rivadavia",
       "m": "Resultado final",
       "o": "1,61",
-      "comp": "Primeira Liga (Argentina)"
+      "comp": "Primeira Liga (Argentina)",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "17:45",
@@ -376,7 +378,7 @@
     "c": "t4",
     "total": "2,13",
     "e": "perdido",
-    "d": "Falhou: Manchester City vence o Napoli (2-2) · 1 certa, 2 por jogar",
+    "d": "1 de 3 pernas certas até agora",
     "legs": [
      {
       "h": "00:00",
@@ -384,7 +386,9 @@
       "j": "Boca Juniors vence o Independiente Rivadavia",
       "m": "Resultado final",
       "o": "1,52",
-      "comp": "Primeira Liga (Argentina)"
+      "comp": "Primeira Liga (Argentina)",
+      "r": "ok",
+      "x": "2-0"
      },
      {
       "h": "17:45",
