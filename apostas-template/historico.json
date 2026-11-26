@@ -1,5 +1,128 @@
 [
  {
+  "dia": "2026-11-27",
+  "rotulo": "Sexta-feira · 27 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,30",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Levante–Racing Santander",
+      "m": "Dupla hipótese: Levante ou empate",
+      "o": "1,30",
+      "comp": "La Liga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,72",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Groningen–Willem II",
+      "m": "Dupla hipótese: Groningen ou empate",
+      "o": "1,10",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "19:30",
+      "j": "Werder Bremen–Borussia Monchengladbach",
+      "m": "Dupla hipótese: Werder Bremen ou empate",
+      "o": "1,20",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "19:45",
+      "j": "Venezia–Bologna",
+      "m": "Dupla hipótese: Bologna ou empate",
+      "o": "1,30",
+      "comp": "Superliga (Itália)"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,42",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Groningen vence o Willem II",
+      "m": "Resultado final",
+      "o": "1,37",
+      "comp": "Eredivisie"
+     },
+     {
+      "h": "20:00",
+      "j": "Southampton vence o Middlesbrough",
+      "m": "Resultado final",
+      "o": "2,08",
+      "comp": "Championship"
+     },
+     {
+      "h": "19:30",
+      "j": "Werder Bremen–Borussia Monchengladbach",
+      "m": "Dupla hipótese: Werder Bremen ou empate",
+      "o": "1,20",
+      "comp": "Bundesliga"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "1,43",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "20:00",
+      "d": "SÁB",
+      "j": "Real Madrid–Alavés",
+      "m": "Dupla hipótese: Real Madrid ou empate",
+      "o": "1,02",
+      "comp": "La Liga"
+     },
+     {
+      "h": "17:00",
+      "d": "DOM",
+      "j": "Roma–Monza",
+      "m": "Dupla hipótese: Roma ou empate",
+      "o": "1,04",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "16:30",
+      "d": "DOM",
+      "j": "Arsenal–Manchester City",
+      "m": "Dupla hipótese: Arsenal ou empate",
+      "o": "1,24",
+      "comp": "Premier League"
+     },
+     {
+      "h": "20:15",
+      "d": "SEG",
+      "j": "Casa Pia–Braga",
+      "m": "Dupla hipótese: Braga ou empate",
+      "o": "1,09",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   }
+  ]
+ },
+ {
   "dia": "2026-11-26",
   "rotulo": "Quinta-feira · 26 de novembro de 2026",
   "boletins": [
@@ -7,15 +130,17 @@
     "t": "Aposta simples segura",
     "c": "t1",
     "total": "1,08",
-    "e": "pendente",
-    "d": "",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Ferencváros–Celje (0-0)",
     "legs": [
      {
       "h": "20:00",
       "j": "Ferencváros–Celje",
       "m": "Dupla hipótese: Ferencváros ou empate",
       "o": "1,08",
-      "comp": "Liga Europa"
+      "comp": "Liga Europa",
+      "r": "ok",
+      "x": "0-0"
      }
     ]
    },
@@ -95,8 +220,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,61",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "14:30",

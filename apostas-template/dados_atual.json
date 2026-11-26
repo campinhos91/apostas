@@ -1,26 +1,26 @@
 {
- "data": "Quinta-feira · 26 de novembro de 2026",
+ "data": "Sexta-feira · 27 de novembro de 2026",
  "titulo": "Apostas de hoje",
  "ontem": [
   {
    "t": "Aposta simples segura",
    "e": "ganho",
-   "d": "Todas as pernas certas: Paris Saint-Germain–Roma (2-2)"
+   "d": "Todas as pernas certas: Ferencváros–Celje (0-0)"
   },
   {
    "t": "Múltipla segura",
-   "e": "perdido",
-   "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 2 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Hearts–Monaco (2-3); Dinamo Zagreb–Bayer Leverkusen (0-2); Celta Vigo–Bournemouth (1-2)"
   },
   {
    "t": "Múltipla arriscada",
-   "e": "perdido",
-   "d": "Falhou: Shakhtar Donetsk–Fenerbahce (0-1) · 3 certas"
+   "e": "ganho",
+   "d": "Todas as pernas certas: Egnatia vence o Lincoln Red Imps (2-1); Monaco vence o Hearts (3-2); Bayer Leverkusen vence o Dinamo Zagreb (2-0)"
   },
   {
    "t": "Múltipla dos próximos dias",
    "e": "nao verificado",
-   "d": "2 de 4 pernas certas até agora"
+   "d": "Ainda sem resultados dos jogos"
   }
  ],
  "hoje": [
@@ -31,10 +31,10 @@
    "legs": [
     {
      "h": "20:00",
-     "j": "Ferencváros–Celje",
-     "m": "Dupla hipótese: Ferencváros ou empate",
-     "o": "1,08",
-     "comp": "Liga Europa"
+     "j": "Levante–Racing Santander",
+     "m": "Dupla hipótese: Levante ou empate",
+     "o": "1,30",
+     "comp": "La Liga"
     }
    ]
   },
@@ -44,25 +44,25 @@
    "risco": "médio",
    "legs": [
     {
-     "h": "17:45",
-     "j": "Hearts–Monaco",
-     "m": "Dupla hipótese: Monaco ou empate",
-     "o": "1,13",
-     "comp": "Liga Conferência"
+     "h": "19:00",
+     "j": "Groningen–Willem II",
+     "m": "Dupla hipótese: Groningen ou empate",
+     "o": "1,10",
+     "comp": "Eredivisie"
     },
     {
-     "h": "17:45",
-     "j": "Dinamo Zagreb–Bayer Leverkusen",
-     "m": "Dupla hipótese: Bayer Leverkusen ou empate",
-     "o": "1,17",
-     "comp": "Liga Europa"
+     "h": "19:30",
+     "j": "Werder Bremen–Borussia Monchengladbach",
+     "m": "Dupla hipótese: Werder Bremen ou empate",
+     "o": "1,20",
+     "comp": "Bundesliga"
     },
     {
-     "h": "17:45",
-     "j": "Celta Vigo–Bournemouth",
-     "m": "Dupla hipótese: Bournemouth ou empate",
-     "o": "1,27",
-     "comp": "Liga Europa"
+     "h": "19:45",
+     "j": "Venezia–Bologna",
+     "m": "Dupla hipótese: Bologna ou empate",
+     "o": "1,30",
+     "comp": "Superliga (Itália)"
     }
    ]
   },
@@ -73,25 +73,25 @@
    "extra": "falhar uma perde tudo",
    "legs": [
     {
-     "h": "17:45",
-     "j": "Egnatia vence o Lincoln Red Imps",
+     "h": "19:00",
+     "j": "Groningen vence o Willem II",
      "m": "Resultado final",
-     "o": "1,49",
-     "comp": "Liga Conferência"
+     "o": "1,37",
+     "comp": "Eredivisie"
     },
     {
-     "h": "17:45",
-     "j": "Monaco vence o Hearts",
+     "h": "20:00",
+     "j": "Southampton vence o Middlesbrough",
      "m": "Resultado final",
-     "o": "1,46",
-     "comp": "Liga Conferência"
+     "o": "2,08",
+     "comp": "Championship"
     },
     {
-     "h": "17:45",
-     "j": "Bayer Leverkusen vence o Dinamo Zagreb",
-     "m": "Resultado final",
-     "o": "1,58",
-     "comp": "Liga Europa"
+     "h": "19:30",
+     "j": "Werder Bremen–Borussia Monchengladbach",
+     "m": "Dupla hipótese: Werder Bremen ou empate",
+     "o": "1,20",
+     "comp": "Bundesliga"
     }
    ]
   }
@@ -102,22 +102,6 @@
    "t": "Múltipla dos próximos dias",
    "risco": "médio",
    "legs": [
-    {
-     "h": "14:30",
-     "d": "SÁB",
-     "j": "Bayern Munique vence o Hamburger SV",
-     "m": "Resultado final",
-     "o": "1,21",
-     "comp": "Bundesliga"
-    },
-    {
-     "h": "19:45",
-     "d": "SÁB",
-     "j": "Inter vence o Génova",
-     "m": "Resultado final",
-     "o": "1,27",
-     "comp": "Superliga (Itália)"
-    },
     {
      "h": "20:00",
      "d": "SÁB",
@@ -131,77 +115,90 @@
      "d": "DOM",
      "j": "Roma–Monza",
      "m": "Dupla hipótese: Roma ou empate",
-     "o": "1,03",
+     "o": "1,04",
      "comp": "Superliga (Itália)"
+    },
+    {
+     "h": "16:30",
+     "d": "DOM",
+     "j": "Arsenal–Manchester City",
+     "m": "Dupla hipótese: Arsenal ou empate",
+     "o": "1,24",
+     "comp": "Premier League"
+    },
+    {
+     "h": "20:15",
+     "d": "SEG",
+     "j": "Casa Pia–Braga",
+     "m": "Dupla hipótese: Braga ou empate",
+     "o": "1,09",
+     "comp": "Liga Portugal Betclic"
     }
    ]
   }
  ],
  "amanha": [
   {
-   "h": "19:00",
-   "d": "SEX",
-   "j": "Groningen vence o Willem II",
+   "h": "14:30",
+   "d": "SÁB",
+   "j": "Hamburger SV vence o Bayern Munique",
+   "m": "Dupla hipótese: Bayern Munique ou empate",
+   "o": "1,06",
+   "comp": "Bundesliga",
+   "n": "Bayern Munique só perdeu 1 de 33 jogos fora nas últimas 2 épocas, marcando 2,6 golos por jogo; Hamburger SV não venceu nenhum dos 2 confrontos diretos recentes"
+  },
+  {
+   "h": "15:00",
+   "d": "SÁB",
+   "j": "Rangers vence o Falkirk",
+   "m": "Dupla hipótese: Rangers ou empate",
+   "o": "1,04",
+   "comp": "Primeira Liga (Escócia)",
+   "n": "Rangers só perdeu 7 de 37 jogos em casa nas últimas 2 épocas e venceu 3 dos 5 confrontos diretos recentes sem nenhuma derrota"
+  },
+  {
+   "h": "17:45",
+   "d": "SÁB",
+   "j": "PSV Eindhoven vence o Go Ahead Eagles",
    "m": "Resultado final",
-   "o": "1,35",
+   "o": "1,21",
    "comp": "Eredivisie",
-   "n": "Groningen tem 15 vitórias em 35 jogos em casa nas últimas 2 épocas (forma recente VDEDDD); Willem II só venceu 1 de 18 jogos fora, sofrendo 2,6 golos por jogo em média"
+   "n": "PSV venceu 24 dos 34 jogos em casa nas últimas 2 épocas (3,3 golos marcados por jogo) e ganhou 7 dos 8 confrontos diretos recentes; Go Ahead Eagles só venceu 5 de 35 jogos fora"
   },
   {
-   "h": "20:00",
-   "d": "SEX",
-   "j": "Levante vence o Racing Santander",
+   "h": "20:30",
+   "d": "SÁB",
+   "j": "Vitória Guimarães vence o Estrela",
    "m": "Resultado final",
-   "o": "2,02",
-   "comp": "La Liga",
-   "n": "Racing Santander venceu só 1 de 6 jogos fora, sofrendo 3,2 golos por jogo em média; Levante é mais sólido em casa (1,6 golos sofridos por jogo)"
-  },
-  {
-   "h": "19:45",
-   "d": "SEX",
-   "j": "Bolonha vence o Venezia",
-   "m": "Resultado final",
-   "o": "2,08",
-   "comp": "Superliga (Itália)",
-   "n": "Venezia só venceu 5 de 20 jogos em casa nas últimas 2 épocas; Bolonha está em boa forma fora (17V 9E 11D) e venceu os 2 confrontos diretos recentes"
+   "o": "1,65",
+   "comp": "Liga Portugal Betclic",
+   "n": "Vitória Guimarães venceu 5 dos 6 confrontos diretos recentes; Estrela só venceu 5 de 34 jogos fora nas últimas 2 épocas, sofrendo 1,7 golos por jogo em média"
   }
  ],
  "fora": [
   [
-   "Marselha vence o Levski Sófia (1,29)",
-   "modelo dá só 50% quando a odd implica 77%"
+   "Maritimo vence o Nacional (2,05)",
+   "só 10 jogos recentes do Maritimo nos dados (recém-promovido); estimativa pouco fiável"
   ],
   [
-   "Union Saint-Gilloise vence o Lech Poznan (1,29)",
-   "modelo dá 62% quando a odd implica 77%"
+   "Brest vence o Paris FC (odd de Brest ou empate 1,28)",
+   "modelo dá 37% de vitória do Brest quando a dupla hipótese implica 78%; confronto direto desfavorável (0V 2D)"
   ],
   [
-   "Besiktas vence o Hapoel Beer Sheva (1,21)",
-   "modelo dá 63% quando a odd implica 83%; só 6 jogos recentes do Hapoel Beer Sheva fora"
+   "Nottingham Forest vence o Chelsea",
+   "jogo muito equilibrado no modelo (38% / 27% / 35%), sem seleção de confiança"
   ],
   [
-   "Boca Juniors vence o Independiente Rivadavia (1,35)",
-   "modelo dá 57% quando a odd implica 74%"
+   "Inter vence o Génova (1,29)",
+   "modelo dá 67% quando a odd implica 77%; preferível dupla hipótese, já coberta por outras seleções"
   ],
   [
-   "Salzburgo vence o Ararat-Armenia (1,13)",
-   "modelo dá 69% quando a odd implica 88%; só 7 jogos recentes do Ararat-Armenia fora"
-  ],
-  [
-   "Brighton vence o Universitatea Craiova (1,10)",
-   "modelo dá 74% quando a odd implica 91%"
-  ],
-  [
-   "Real Madrid vence o Alavés (1,11)",
-   "modelo dá 72% quando a odd implica 90%; valor suspeito, preferível a dupla hipótese"
-  ],
-  [
-   "Getafe vence o Iberia 1999 (1,36)",
-   "modelo dá só 57% quando a odd implica 74%; só 5 jogos recentes do Iberia 1999 em casa"
+   "Paris Saint-Germain vence o Lorient",
+   "jogo não encontrado no Flashscore para confirmar dia e hora; ficou de fora por segurança"
   ],
   [
    "Cobertura da Betclic",
-   "odds 1X2 lidas em betclic.pt (sem 403 desta vez); resultado duplo, total de golos e ambas marcam confirmados por jogo para os candidatos da Liga Europa e Liga Conferência de hoje; Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Liga Portugal Betclic e Taça de Portugal não têm jogos antes de sexta-feira; Liga MX e Zalgiris Kaunas/Riga FC ficaram de fora por não constarem nas competições autorizadas ou não terem dados"
+   "odds 1X2 lidas em betclic.com (betclic.pt deu 403); dupla hipótese, total de golos e ambas marcam confirmados por jogo para os candidatos de hoje e da múltipla dos próximos dias; Liga dos Campeões, Liga Europa e Liga Conferência sem jogos antes de 8/12 (pausa); MLS, Brasileirão, Argentina e Liga Escocesa consultados só para a previsão de amanhã; Taça de Portugal, ligas secundárias e africanas/asiáticas não foram verificadas"
   ]
  ]
 }
