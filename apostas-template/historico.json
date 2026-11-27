@@ -1,50 +1,50 @@
 [
  {
-  "dia": "2026-11-27",
-  "rotulo": "Sexta-feira · 27 de novembro de 2026",
+  "dia": "2026-11-28",
+  "rotulo": "Sábado · 28 de novembro de 2026",
   "boletins": [
    {
     "t": "Aposta simples segura",
     "c": "t1",
-    "total": "1,30",
+    "total": "1,25",
     "e": "pendente",
     "d": "",
     "legs": [
      {
-      "h": "20:00",
-      "j": "Levante–Racing Santander",
-      "m": "Dupla hipótese: Levante ou empate",
-      "o": "1,30",
-      "comp": "La Liga"
+      "h": "14:30",
+      "j": "Bayern Munique vence o Hamburger SV",
+      "m": "Resultado final",
+      "o": "1,25",
+      "comp": "Bundesliga"
      }
     ]
    },
    {
     "t": "Múltipla segura",
     "c": "t2",
-    "total": "1,72",
+    "total": "2,50",
     "e": "pendente",
     "d": "",
     "legs": [
      {
-      "h": "19:00",
-      "j": "Groningen–Willem II",
-      "m": "Dupla hipótese: Groningen ou empate",
-      "o": "1,10",
+      "h": "15:30",
+      "j": "Arouca vence o Rio Ave",
+      "m": "Resultado final",
+      "o": "1,67",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "17:45",
+      "j": "PSV Eindhoven vence o Go Ahead Eagles",
+      "m": "Resultado final",
+      "o": "1,19",
       "comp": "Eredivisie"
      },
      {
-      "h": "19:30",
-      "j": "Werder Bremen–Borussia Monchengladbach",
-      "m": "Dupla hipótese: Werder Bremen ou empate",
-      "o": "1,20",
-      "comp": "Bundesliga"
-     },
-     {
       "h": "19:45",
-      "j": "Venezia–Bologna",
-      "m": "Dupla hipótese: Bologna ou empate",
-      "o": "1,30",
+      "j": "Inter vence o Génova",
+      "m": "Resultado final",
+      "o": "1,26",
       "comp": "Superliga (Itália)"
      }
     ]
@@ -52,30 +52,167 @@
    {
     "t": "Múltipla arriscada",
     "c": "t3",
-    "total": "3,42",
+    "total": "3,36",
     "e": "pendente",
     "d": "",
     "legs": [
      {
-      "h": "19:00",
-      "j": "Groningen vence o Willem II",
+      "h": "15:00",
+      "j": "Dundee United vence o St Johnstone",
       "m": "Resultado final",
-      "o": "1,37",
-      "comp": "Eredivisie"
+      "o": "1,60",
+      "comp": "Primeira Liga (Escócia)"
      },
      {
-      "h": "20:00",
-      "j": "Southampton vence o Middlesbrough",
+      "h": "17:30",
+      "j": "Estugarda–Eintracht Frankfurt",
+      "m": "Dupla hipótese: Estugarda ou empate",
+      "o": "1,25",
+      "comp": "Bundesliga"
+     },
+     {
+      "h": "20:30",
+      "j": "Vitória SC vence o Estrela Amadora",
       "m": "Resultado final",
-      "o": "2,08",
-      "comp": "Championship"
+      "o": "1,68",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla dos próximos dias",
+    "c": "t4",
+    "total": "2,37",
+    "e": "pendente",
+    "d": "",
+    "legs": [
+     {
+      "h": "12:00",
+      "d": "DOM",
+      "j": "Everton–Liverpool",
+      "m": "Dupla hipótese: Liverpool ou empate",
+      "o": "1,19",
+      "comp": "Premier League"
+     },
+     {
+      "h": "17:00",
+      "d": "DOM",
+      "j": "Roma vence o Monza",
+      "m": "Resultado final",
+      "o": "1,16",
+      "comp": "Superliga (Itália)"
+     },
+     {
+      "h": "20:15",
+      "d": "SEG",
+      "j": "Benfica vence o Famalicão",
+      "m": "Resultado final",
+      "o": "1,17",
+      "comp": "Liga Portugal Betclic"
+     },
+     {
+      "h": "20:15",
+      "d": "SEG",
+      "j": "Braga vence o Casa Pia",
+      "m": "Resultado final",
+      "o": "1,47",
+      "comp": "Liga Portugal Betclic"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "dia": "2026-11-27",
+  "rotulo": "Sexta-feira · 27 de novembro de 2026",
+  "boletins": [
+   {
+    "t": "Aposta simples segura",
+    "c": "t1",
+    "total": "1,30",
+    "e": "perdido",
+    "d": "Falhou: Levante–Racing Santander (1-3) · 0 certas",
+    "legs": [
+     {
+      "h": "20:00",
+      "j": "Levante–Racing Santander",
+      "m": "Dupla hipótese: Levante ou empate",
+      "o": "1,30",
+      "comp": "La Liga",
+      "r": "no",
+      "x": "1-3"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla segura",
+    "c": "t2",
+    "total": "1,72",
+    "e": "ganho",
+    "d": "Todas as pernas certas: Groningen–Willem II (1-1); Werder Bremen–Borussia Monchengladbach (3-3); Venezia–Bologna (0-0)",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Groningen–Willem II",
+      "m": "Dupla hipótese: Groningen ou empate",
+      "o": "1,10",
+      "comp": "Eredivisie",
+      "r": "ok",
+      "x": "1-1"
      },
      {
       "h": "19:30",
       "j": "Werder Bremen–Borussia Monchengladbach",
       "m": "Dupla hipótese: Werder Bremen ou empate",
       "o": "1,20",
-      "comp": "Bundesliga"
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "3-3"
+     },
+     {
+      "h": "19:45",
+      "j": "Venezia–Bologna",
+      "m": "Dupla hipótese: Bologna ou empate",
+      "o": "1,30",
+      "comp": "Superliga (Itália)",
+      "r": "ok",
+      "x": "0-0"
+     }
+    ]
+   },
+   {
+    "t": "Múltipla arriscada",
+    "c": "t3",
+    "total": "3,42",
+    "e": "perdido",
+    "d": "Falhou: Groningen vence o Willem II (1-1) · 2 certas",
+    "legs": [
+     {
+      "h": "19:00",
+      "j": "Groningen vence o Willem II",
+      "m": "Resultado final",
+      "o": "1,37",
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "1-1"
+     },
+     {
+      "h": "20:00",
+      "j": "Southampton vence o Middlesbrough",
+      "m": "Resultado final",
+      "o": "2,08",
+      "comp": "Championship",
+      "r": "ok",
+      "x": "2-0"
+     },
+     {
+      "h": "19:30",
+      "j": "Werder Bremen–Borussia Monchengladbach",
+      "m": "Dupla hipótese: Werder Bremen ou empate",
+      "o": "1,20",
+      "comp": "Bundesliga",
+      "r": "ok",
+      "x": "3-3"
      }
     ]
    },
@@ -83,8 +220,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "1,43",
-    "e": "pendente",
-    "d": "",
+    "e": "nao verificado",
+    "d": "Ainda sem resultados dos jogos",
     "legs": [
      {
       "h": "20:00",
@@ -366,8 +503,8 @@
     "t": "Múltipla dos próximos dias",
     "c": "t4",
     "total": "3,09",
-    "e": "nao verificado",
-    "d": "2 de 4 pernas certas até agora",
+    "e": "perdido",
+    "d": "Falhou: Groningen vence o Willem II (1-1) · 2 certas, 1 por jogar",
     "legs": [
      {
       "h": "00:00",
@@ -395,7 +532,9 @@
       "j": "Groningen vence o Willem II",
       "m": "Resultado final",
       "o": "1,38",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "1-1"
      },
      {
       "h": "14:30",
@@ -661,7 +800,7 @@
     "c": "t4",
     "total": "1,80",
     "e": "perdido",
-    "d": "Falhou: Manchester City vence o Napoli (2-2) · 2 certas, 1 por jogar",
+    "d": "Falhou: Manchester City vence o Napoli (2-2); Groningen vence o Willem II (1-1) · 2 certas",
     "legs": [
      {
       "h": "20:00",
@@ -699,7 +838,9 @@
       "j": "Groningen vence o Willem II",
       "m": "Resultado final",
       "o": "1,34",
-      "comp": "Eredivisie"
+      "comp": "Eredivisie",
+      "r": "no",
+      "x": "1-1"
      }
     ]
    }
